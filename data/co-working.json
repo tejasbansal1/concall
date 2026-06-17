@@ -1,0 +1,163 @@
+{
+  "sector": {
+    "name": "Co-Working",
+    "description": "Flex workspace operators targeting enterprise & GCC clients across India",
+    "accent": "#7C3AED",
+    "accentLight": "#EDE9FE"
+  },
+  "companies": [
+    "AWFIS Space Solutions Ltd",
+    "EFC (I) Ltd",
+    "Indiqube Spaces Ltd",
+    "Smartworks Coworking Spaces Ltd",
+    "Wework India Management Ltd"
+  ],
+  "concall": {
+    "AWFIS Space Solutions Ltd": {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (Q4)",  "value": "₹410 Cr", "change": "+20.7% YoY",    "positive": 1  },
+        { "label": "EBITDA (Q4)",   "value": "₹152 Cr", "change": "+31% YoY",       "positive": 1  },
+        { "label": "PAT (Q4)",      "value": "₹23 Cr",  "change": "+106% YoY",      "positive": 1  },
+        { "label": "EBITDA Margin", "value": "36.8%",   "change": "FY26 Full Year", "positive": 0  }
+      ],
+      "fyPerformance": [
+        "FY26 Revenue: ₹1,493 Cr (+24% YoY); PAT: ₹71 Cr (+66% YoY)",
+        "Added 41 centers & 30,000 seats in FY26 — total 266 centers across 18 cities",
+        "Operating EBITDA: ₹550 Cr (+37%); EBITDA margin 36.8% — highest ever"
+      ],
+      "guidance": [
+        { "metric": "Revenue Growth (FY27E)", "value": "25–27%"          },
+        { "metric": "Target Occupancy",       "value": "~84% (from ~76%)"},
+        { "metric": "New Seat Additions",     "value": "20,000–25,000"   },
+        { "metric": "Area Addition (FY27)",   "value": "~1.25 mn sq ft"  },
+        { "metric": "CapEx (FY27E)",          "value": "~₹208 Cr"        }
+      ],
+      "highlights": [
+        "Deliberate shift to Grade A/A+ buildings only — quality over quantity in seat additions",
+        "Partial Managed Office format (40–60% anchor pre-commitment) gaining traction as new model",
+        "GCC and domestic enterprise demand driving occupancy recovery toward 84% target",
+        "New CFO Sumit Rochlani appointed Feb 2026; deep Awfis institutional continuity assured"
+      ],
+      "quote": "\"As we enter FY27, the business is in its strongest position yet. Healthy occupancy, expanding margins, industry-leading returns on capital, and a quality pipeline already committed. We enter FY27 with clarity of strategy, depth of execution, and full confidence in what lies ahead.\"",
+      "quotePerson": "Amit Ramani, MD & Chairman"
+    },
+
+    "EFC (I) Ltd": {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (Q4)",  "value": "₹293 Cr", "change": "+39% YoY",    "positive": 1  },
+        { "label": "EBITDA (Q4)",   "value": "₹144 Cr", "change": "+31% YoY",    "positive": 1  },
+        { "label": "PAT (Q4)",      "value": "₹69 Cr",  "change": "+44% YoY",    "positive": 1  },
+        { "label": "EBITDA Margin", "value": "49.0%",   "change": "−400 bps YoY","positive": -1 }
+      ],
+      "fyPerformance": [
+        "FY26 Revenue: ₹1,037 Cr (+58% YoY) — crossed ₹1,000 Cr milestone",
+        "FY26 PAT: ₹235 Cr (+67% YoY); net margin expanded to 22.6% (+120 bps)",
+        "117 centers, 78,782 seats, 25 cities; occupancy sustained above 90%"
+      ],
+      "guidance": [
+        { "metric": "New Seat Additions (FY27)", "value": "18,000–20,000 seats" },
+        { "metric": "Design & Build Growth",     "value": "~40% YoY"            },
+        { "metric": "Furniture Vertical Growth", "value": ">50% YoY"            },
+        { "metric": "Revenue per Seat",          "value": "₹7,250–7,500/month"  }
+      ],
+      "highlights": [
+        "~70% of leasing revenue from large enterprise clients — long lock-in, stable anchor base",
+        "Furniture vertical surged +177% YoY in Q4FY26 — emerging as a high-margin contributor",
+        "ROCE: 33%; asset-backed borrowings at 7.5–7.75% — tight balance sheet discipline",
+        "MD on AI: 'AI will generate employment, not reduce it' — structurally bullish on office demand"
+      ],
+      "quote": "\"Our Q4 FY26 performance reflects steady execution and the growing acceptance of our integrated workspace ecosystem. With strong and consistent growth across the board, we remain confident about sustaining growth momentum. The leasing business continues to remain strong.\"",
+      "quotePerson": "Umesh Kumar Sahay, CMD"
+    },
+
+    "Indiqube Spaces Ltd": {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": null,
+      "fyPerformance": [
+        "FY26 Revenue: ₹1,530 Cr (+44% YoY)",
+        "FY26 Net Loss: ₹106 Cr (narrowed 24% from ₹140 Cr in FY25)",
+        "17 cities, 9.55 mn sq ft managed; GCCs constitute >40% of portfolio"
+      ],
+      "guidance": null,
+      "outlook": "Management highlighted sustained GCC demand as the primary growth engine for FY27. Three major GCC deals were closed in Q4FY26 — ₹52 Cr (Japanese e-commerce GCC, Bengaluru, 5-year), ₹75 Cr (healthcare-tech GCC), and ₹54 Cr (GCC client, Pune) — demonstrating strong enterprise pipeline visibility. Management framed India's flex market crossing 100 mn sq ft as a structural inflection point, positioning Indiqube as the preferred managed workspace partner for international GCCs entering India. No formal numeric FY27 guidance was provided; the focus is on driving occupancy to profitability thresholds rather than aggressive seat expansion. Analyst consensus pegs FY27 revenue growth at ~27%.",
+      "highlights": [
+        "GCCs >40% of portfolio; positioned as the preferred GCC-entry partner for global enterprises",
+        "Q4 deal wins: ₹52 Cr + ₹75 Cr + ₹54 Cr across 3 major GCC clients — deal momentum intact",
+        "Promoters bought 1.14 lakh shares voluntarily in Q4FY26 — a clear insider confidence signal",
+        "Path to profitability in FY27 is the key catalyst to watch; losses narrowing sharply YoY"
+      ],
+      "quote": "\"As India's flex office market crosses 100 million sq ft, Indiqube is positioned as the preferred partner for international companies establishing GCC operations in India.\"",
+      "quotePerson": "Management Commentary, Q4FY26 Concall (May 21, 2026)"
+    },
+
+    "Smartworks Coworking Spaces Ltd": {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (Q4)",        "value": "₹520 Cr", "change": "+45% YoY",             "positive": 1 },
+        { "label": "PAT (Q4)",            "value": "₹17 Cr",  "change": "vs. −₹8 Cr (Q4FY25)", "positive": 1 },
+        { "label": "Norm. EBITDA (FY26)", "value": "₹314 Cr", "change": "+75% YoY",             "positive": 1 },
+        { "label": "Norm. Margin (FY26)", "value": "17.5%",   "change": "+440 bps YoY",         "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 Revenue: ₹1,796 Cr (+31% YoY); Normalised PAT: ₹97 Cr (+453% YoY)",
+        "First listed flex platform to cross 10 msf operational; 16.1 msf total (incl. LOIs)",
+        "ROCE: 16% (doubled from 7.3% in FY25); Net debt: −₹56 Cr (first net-cash positive)"
+      ],
+      "guidance": null,
+      "outlook": "Management is confident in a compounding flywheel — occupancy, premiumisation, and operating leverage reinforcing cash generation and capital returns quarter after quarter. No explicit FY27 revenue guidance was issued, but 100% supply visibility for FY27 and 75% for FY28 signal strong structural confidence. The focus remains on deepening enterprise relationships in the 1,000+ seat cohort (now 37% of revenue, avg. tenure >48 months), and converting the fixed-lease cost structure into operating leverage as occupancy scales from 82% toward maturity. GCC revenue, crossing 15% of rental revenue, is the key diversification from IT/ITeS concentration. SmartVantage product expected to materially contribute to FY27 bottom line.",
+      "highlights": [
+        "100% FY27 supply visibility; 75% FY28 already secured — strong committed pipeline",
+        "Gross debt declined >50% since IPO (Jul 2025); borrowing cost fell 180 bps to below 9%",
+        "1,000+ seat cohort: 29% → 37% of revenue; avg. tenure >48 months — powerful retention moat",
+        "GCC revenue crossing 15% — key diversification away from IT/ITeS client concentration",
+        "Occupancy at 82% (dipped 70 bps on 0.9 msf new capacity in Q4); ramp-up ongoing in FY27"
+      ],
+      "quote": "\"We are evolving beyond traditional coworking into a corporate infrastructure provider. Occupancy, premiumisation, and operating leverage continue to reinforce each other quarter after quarter.\"",
+      "quotePerson": "Management Commentary, Q4FY26 Concall (Apr 30, 2026)"
+    },
+
+    "Wework India Management Ltd": {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (Q4)",       "value": "₹710 Cr", "change": "+28.6% YoY",  "positive": 1 },
+        { "label": "EBITDA (Q4)",        "value": "₹165 Cr", "change": "+42.8% YoY",  "positive": 1 },
+        { "label": "PAT (Q4)",           "value": "₹80 Cr",  "change": "+141.9% YoY", "positive": 1 },
+        { "label": "EBITDA Margin (Q4)", "value": "23.2%",   "change": "+231 bps YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 FCF: ₹586 Cr (+44.3% YoY); ROCE Q4FY26: 45.1% | FY26: 28.3% (+317 bps)",
+        "Net debt: −₹12 Cr (first-ever net-cash positive); credit rating upgraded A− → A+",
+        "76 centers, 8.6 msf operational; 11.6 msf committed (+39% YoY); 86.9% occupancy"
+      ],
+      "guidance": null,
+      "outlook": "Management tone was emphatically bullish. Karan Virwani positioned WeWork India as 'no longer just a workspace operator' — pivoting to an enterprise infrastructure platform narrative. No explicit FY27 revenue guidance was provided. The compounding flywheel thesis was central: occupancy → premiumisation → operating leverage → cash generation → reinvestment. The 11.6 msf committed footprint (+39% YoY) and 700,000+ sq ft of new expansion underway in Bengaluru, Hyderabad, and Chennai indicate sustained double-digit revenue growth ahead. Mature center occupancy at 88.9% signals near-saturation — strong premium pricing power in core assets. Key deal: ₹475 Cr managed office contract with TMUS India signed in Q4.",
+      "highlights": [
+        "First-ever net-cash positive balance sheet (−₹12 Cr net debt) — structural deleveraging complete",
+        "Credit upgrade A− → A+; cost of borrowing fell 225 bps to 8.5% — balance sheet strength",
+        "Q4FY26 ROCE: 45.1% — best-in-class capital efficiency among listed flex workspace operators",
+        "~48,000 new desks sold in FY26 (record high); >50% from existing member expansions",
+        "86.9% portfolio occupancy (mature centers at 88.9%) — near-saturation, pricing power",
+        "₹475 Cr managed office deal with TMUS India signed in Q4 — large enterprise momentum"
+      ],
+      "quote": "\"FY26 was a defining year. We doubled PAT, turned net-debt negative for the first time, and continued expanding with pricing discipline. The compounding flywheel is increasingly visible — and WeWork India is no longer just a workspace operator.\"",
+      "quotePerson": "Karan Virwani, MD & CEO"
+    }
+  }
+}

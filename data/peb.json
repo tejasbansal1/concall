@@ -1,0 +1,43 @@
+{
+  "sector": {
+    "name": "PEB",
+    "description": "Pre-Engineered Building manufacturers serving industrial & infra sectors",
+    "accent": "#D97706",
+    "accentLight": "#FEF3C7"
+  },
+  "companies": [
+    "EPack Prefab Technologies Ltd",
+    "Interarch Building Solutions Ltd",
+    "M & B Engineering Ltd",
+    "Pennar Industries Ltd"
+  ],
+  "concall": {
+    "_template": {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (Q4)",  "value": "₹X Cr", "change": "+X% YoY", "positive": 1 },
+        { "label": "EBITDA (Q4)",   "value": "₹X Cr", "change": "+X% YoY", "positive": 1 },
+        { "label": "PAT (Q4)",      "value": "₹X Cr", "change": "+X% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "X%",    "change": "+X bps",   "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 Revenue: ₹X Cr (+X% YoY)",
+        "FY26 PAT: ₹X Cr (+X% YoY)",
+        "Order book: ₹X Cr"
+      ],
+      "guidance": [
+        { "metric": "Revenue Growth (FY27E)", "value": "X–X%" },
+        { "metric": "EBITDA Margin (FY27E)",  "value": "X%"   }
+      ],
+      "highlights": [
+        "Key highlight 1",
+        "Key highlight 2"
+      ],
+      "quote": "\"Management quote here.\"",
+      "quotePerson": "Name, Designation"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "sector": {
+    "name": "MFI",
+    "description": "Microfinance institutions serving low-income borrowers across rural India",
+    "accent": "#059669",
+    "accentLight": "#ECFDF5"
+  },
+  "companies": [
+    "Arman Financial Services Ltd",
+    "CreditAccess Grameen Ltd",
+    "Fusion Finance Ltd",
+    "Muthoot Microfin Ltd",
+    "Satin Creditcare Network Ltd",
+    "Spandana Sphoorty Financial Ltd"
+  ],
+  "concall": {}
+}

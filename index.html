@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Concall Research · Equity Insights Elite</title>
+  <meta name="description" content="Q4FY26 concall guidance tracker across Indian equity sectors — Co-Working, PEB, Gold Finance, MFI, Real Estate">
+  <meta property="og:title" content="Concall Research · Equity Insights Elite">
+  <meta property="og:description" content="Sector-wise concall guidance tracker for Indian equities">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://concall.equityinsightselite.com">
+  <link rel="canonical" href="https://concall.equityinsightselite.com">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230F172A'/><text y='23' x='5' font-size='16' fill='%23F8FAFC' font-family='system-ui' font-weight='700'>EI</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: #F1F5F9;
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color: #0F172A;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+    #root { min-height: 100vh; display: flex; flex-direction: column; }
+    button { font-family: inherit; cursor: pointer; }
+
+    /* ── Layout grids ─────────────────────────────── */
+    .sector-grid  { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+    .company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; }
+    .metrics-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 12px; }
+
+    @media (max-width: 680px) {
+      .metrics-grid  { grid-template-columns: repeat(2, 1fr); }
+      .sector-grid   { grid-template-columns: 1fr; }
+      .company-grid  { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 380px) {
+      .company-grid  { grid-template-columns: 1fr; }
+    }
+
+    /* ── Card hover ───────────────────────────────── */
+    .hov { transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease; cursor: pointer; }
+    .hov:hover { transform: translateY(-3px); }
+
+    /* ── Scrollbar ────────────────────────────────── */
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-track { background: #F1F5F9; }
+    ::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94A3B8; }
+
+    /* ── Loading spinner ──────────────────────────── */
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spinner {
+      width: 36px; height: 36px; border-radius: 50%;
+      border: 3px solid #E2E8F0; border-top-color: #7C3AED;
+      animation: spin 0.8s linear infinite;
+    }
+  </style>
+</head>
+<body>
+<div id="root"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js" crossorigin></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js" crossorigin></script>
+<script>
+'use strict';
+const { useState, useEffect } = React;
+const h = React.createElement;
+
+/* ── Design tokens ───────────────────────────────── */
+const BG='#F1F5F9', SRF='#FFFFFF', BRD='#E2E8F0', TX='#0F172A', S2='#475569', MU='#94A3B8';
+
+/* ── Helpers ─────────────────────────────────────── */
+const sn  = n => n.replace(/ Ltd$/,'').replace(/ Limited$/,'').replace(/ Private Limited$/,'');
+const pct = m => m.positive === 1 ? '#059669' : m.positive === -1 ? '#EF4444' : MU;
+const gs  = (sectors, id) => sectors.find(s => s.id === id);
+
+/* ── Data files to load (order = display order) ─── */
+const DATA_FILES = [
+  'co-working',
+  'peb',
+  'gold-finance',
+  'mfi',
+  'real-estate'
+];
+
+/* ── App ─────────────────────────────────────────── */
+function App() {
+  const [sectors,  setSectors]  = useState(null);   // null = loading
+  const [concall,  setConcall]  = useState({});
+  const [loadErr,  setLoadErr]  = useState(null);
+  const [view,     setView]     = useState('s');
+  const [sid,      setSid]      = useState(null);
+  const [co,       setCo]       = useState(null);
+
+  /* ── Fetch all sector JSON files on mount ── */
+  useEffect(() => {
+    Promise.all(
+      DATA_FILES.map(f =>
+        fetch('./data/' + f + '.json')
+          .then(r => { if (!r.ok) throw new Error(f + '.json returned ' + r.status); return r.json(); })
+          .catch(e => { console.warn('Could not load', f, e.message); return null; })
+      )
+    ).then(results => {
+      const loaded = [];
+      const cc     = {};
+      DATA_FILES.forEach((f, i) => {
+        const d = results[i];
+        if (!d || !d.sector) return;
+        const entries = d.concall || {};
+        // Strip _template key — it's a placeholder for the editor, not real data
+        delete entries['_template'];
+        loaded.push({
+          id:  f,
+          nm:  d.sector.name,
+          desc: d.sector.description,
+          ac:  d.sector.accent,
+          al:  d.sector.accentLight,
+          cos: d.companies || [],
+          d:   Object.keys(entries).length > 0
+        });
+        Object.assign(cc, entries);
+      });
+      setSectors(loaded);
+      setConcall(cc);
+    }).catch(e => setLoadErr(e.message));
+  }, []);
+
+  /* ── Page title sync ── */
+  useEffect(() => {
+    if (!sectors) return;
+    const sec = sid ? gs(sectors, sid) : null;
+    document.title =
+      view === 's' ? 'Concall Research · Equity Insights Elite'
+      : view === 'c' ? sec.nm + ' · Concall Research'
+      : sn(co).split(' ').slice(0,3).join(' ') + ' · Q4FY26';
+  }, [view, sid, co, sectors]);
+
+  /* ── Navigation ── */
+  const goS = ()  => { setView('s'); setSid(null); setCo(null); };
+  const goC = id  => { setSid(id);  setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goD = nm  => { setCo(nm);   setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
+
+  /* ── Loading / Error screens ── */
+  if (loadErr) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
+    h('div', { style:{ fontSize:32 } }, '⚠️'),
+    h('div', { style:{ fontSize:15, fontWeight:600, color:TX } }, 'Failed to load data'),
+    h('p',   { style:{ fontSize:13, color:S2, maxWidth:400, textAlign:'center' } }, loadErr),
+    h('p',   { style:{ fontSize:12, color:MU, maxWidth:400, textAlign:'center' } }, 'Make sure the site is served via HTTP, not opened as a local file. Run: python -m http.server 8000')
+  );
+
+  if (!sectors) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
+    h('div', { className:'spinner' }),
+    h('div', { style:{ fontSize:13, color:MU } }, 'Loading research data…')
+  );
+
+  const sec = sid ? gs(sectors, sid) : null;
+  const totalCos = sectors.reduce((a, s) => a + s.cos.length, 0);
+
+  return h('div', { style:{ display:'flex', flexDirection:'column', minHeight:'100vh' } },
+
+    /* ── Navbar ────────────────────────────────── */
+    h('nav', { style:{ background:SRF, borderBottom:`1px solid ${BRD}`, position:'sticky', top:0, zIndex:50 } },
+      h('div', { style:{ maxWidth:1100, margin:'0 auto', padding:'0 20px', height:54, display:'flex', alignItems:'center', justifyContent:'space-between' } },
+        h('div', { style:{ display:'flex', alignItems:'center', gap:10 } },
+          h('div', { style:{ width:30, height:30, borderRadius:8, background:TX, display:'flex', alignItems:'center', justifyContent:'center', cursor:'pointer', flexShrink:0 }, onClick:goS },
+            h('span', { style:{ color:'#F8FAFC', fontSize:11, fontWeight:700, fontFamily:"'Space Grotesk',sans-serif", letterSpacing:'-0.3px' } }, 'EI')
+          ),
+          h('span', { style:{ fontFamily:"'Space Grotesk',sans-serif", fontWeight:700, fontSize:14, color:TX, cursor:'pointer' }, onClick:goS }, 'Concall Research'),
+          view !== 's' && h('div', { style:{ display:'flex', alignItems:'center', gap:4, fontSize:12, marginLeft:4 } },
+            h('span', { style:{ color:MU } }, '›'),
+            h('span', { style:{ color:sec?.ac, cursor:'pointer', fontWeight:600 }, onClick:()=>goC(sid) }, sec?.nm),
+            view === 'd' && h(React.Fragment, null,
+              h('span', { style:{ color:MU } }, ' › '),
+              h('span', { style:{ color:S2, fontWeight:500, maxWidth:180, overflow:'hidden', textOverflow:'ellipsis', whiteSpace:'nowrap' } },
+                sn(co).split(' ').slice(0,3).join(' ')
+              )
+            )
+          )
+        ),
+        h('div', { style:{ display:'flex', alignItems:'center', gap:12 } },
+          view !== 's' && h('button', {
+            style:{ background:'none', border:`1px solid ${BRD}`, borderRadius:7, padding:'5px 14px', fontSize:12, color:S2 },
+            onClick: view === 'd' ? ()=>goC(sid) : goS
+          }, '← Back'),
+          h('a', { href:'https://equityinsightselite.com', style:{ fontSize:11, color:MU, textDecoration:'none' } }, 'equityinsightselite.com')
+        )
+      )
+    ),
+
+    /* ── Main ──────────────────────────────────── */
+    h('main', { style:{ flex:1, maxWidth:1100, margin:'0 auto', width:'100%', padding:'28px 20px 60px' } },
+      view === 's' && h(SView, { sectors, totalCos, onSel:goC }),
+      view === 'c' && sec && h(CView, { sec, concall, onSel:goD }),
+      view === 'd' && co && sec && h(DView, { co, sec, concall })
+    ),
+
+    /* ── Footer ────────────────────────────────── */
+    h('footer', { style:{ background:SRF, borderTop:`1px solid ${BRD}`, padding:'14px 20px', textAlign:'center' } },
+      h('span', { style:{ fontSize:11, color:MU } },
+        'Equity Insights Elite · Concall Research · ' + totalCos + ' companies · ' + sectors.length + ' sectors · Q4FY26 data as of May 2026'
+      )
+    )
+  );
+}
+
+/* ── Sectors Page ─────────────────────────────────── */
+function SView({ sectors, totalCos, onSel }) {
+  return h('div', null,
+    h('div', { style:{ marginBottom:26 } },
+      h('h1', { style:{ fontSize:23, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif", margin:'0 0 6px' } }, 'Sector Coverage'),
+      h('p',  { style:{ fontSize:13, color:S2, margin:0 } }, totalCos + ' companies · ' + sectors.length + ' sectors · Q4FY26 concall tracker')
+    ),
+    h('div', { className:'sector-grid' },
+      ...sectors.map(s => h(SCard, { key:s.id, s, onClick:()=>onSel(s.id) }))
+    )
+  );
+}
+
+function SCard({ s, onClick }) {
+  const [hov, setHov] = useState(false);
+  return h('div', {
+    className:'hov',
+    style:{ background:SRF, border:`1px solid ${hov?s.ac:BRD}`, borderRadius:14, padding:22, overflow:'hidden', position:'relative', boxShadow:hov?`0 8px 28px ${s.ac}1A`:'0 1px 4px rgba(0,0,0,0.05)' },
+    onClick, onMouseEnter:()=>setHov(true), onMouseLeave:()=>setHov(false)
+  },
+    h('div', { style:{ position:'absolute', top:0, left:0, right:0, height:4, background:s.ac } }),
+    h('div', { style:{ marginTop:8 } },
+      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'flex-start', marginBottom:10 } },
+        h('div', null,
+          h('h2', { style:{ fontSize:15, fontWeight:700, color:TX, margin:'0 0 5px', fontFamily:"'Space Grotesk',sans-serif" } }, s.nm),
+          h('span', { style:{ fontSize:10, fontWeight:700, color:s.ac, background:s.al, padding:'2px 8px', borderRadius:10 } }, s.cos.length + ' companies')
+        ),
+        s.d && h('span', { style:{ fontSize:10, color:'#059669', background:'#ECFDF5', padding:'2px 7px', borderRadius:10, fontWeight:700 } }, 'Q4FY26 ✓')
+      ),
+      h('p', { style:{ fontSize:12, color:S2, lineHeight:1.6, margin:'0 0 14px' } }, s.desc),
+      h('div', { style:{ display:'flex', gap:4, flexWrap:'wrap', marginBottom:16 } },
+        ...s.cos.slice(0,4).map((c,i) =>
+          h('span', { key:i, style:{ fontSize:10, color:MU, background:'#F8FAFC', borderRadius:5, padding:'2px 7px', border:`1px solid ${BRD}` } }, sn(c).split(' ')[0])
+        ),
+        s.cos.length > 4 && h('span', { key:'m', style:{ fontSize:10, color:MU } }, '+' + (s.cos.length-4))
+      ),
+      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'center' } },
+        h('span', { style:{ fontSize:11, color:s.d?'#059669':MU, fontWeight:s.d?600:400 } }, s.d ? 'Research data available' : 'Coming soon'),
+        h('span', { style:{ fontSize:16, color:s.ac, fontWeight:700 } }, hov?'→':'›')
+      )
+    )
+  );
+}
+
+/* ── Companies Page ───────────────────────────────── */
+function CView({ sec, concall, onSel }) {
+  const [search, setSearch] = useState('');
+  const filtered = search
+    ? sec.cos.filter(c => c.toLowerCase().includes(search.toLowerCase()))
+    : sec.cos;
+
+  return h('div', null,
+    h('div', { style:{ display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:12, marginBottom:18 } },
+      h('div', { style:{ display:'flex', alignItems:'center', gap:10 } },
+        h('div', { style:{ width:12, height:12, borderRadius:'50%', background:sec.ac } }),
+        h('h1', { style:{ fontSize:20, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif" } }, sec.nm),
+        h('span', { style:{ fontSize:13, color:MU } }, '· ' + sec.cos.length + ' companies')
+      ),
+      h('div', { style:{ position:'relative' } },
+        h('input', {
+          value:search, onChange:e=>setSearch(e.target.value), placeholder:'Search…',
+          style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:7, padding:'6px 12px 6px 30px', fontSize:12, color:TX, width:180, outline:'none' }
+        }),
+        h('span', { style:{ position:'absolute', left:10, top:'50%', transform:'translateY(-50%)', color:MU, fontSize:12, pointerEvents:'none' } }, '⌕')
+      )
+    ),
+    filtered.length === 0
+      ? h('p', { style:{ color:MU, fontSize:13 } }, 'No companies match "' + search + '"')
+      : h('div', { className:'company-grid' },
+          ...filtered.map(c => h(CCard, { key:c, c, sec, hasData:!!concall[c], onClick:()=>onSel(c) }))
+        )
+  );
+}
+
+function CCard({ c, sec, hasData, onClick }) {
+  const [hov, setHov] = useState(false);
+  return h('div', {
+    className:'hov',
+    style:{ background:SRF, border:`1px solid ${hov?sec.ac:BRD}`, borderRadius:10, padding:'14px 16px', borderLeft:`3px solid ${sec.ac}`, boxShadow:hov?`0 4px 14px ${sec.ac}18`:'0 1px 3px rgba(0,0,0,0.04)' },
+    onClick, onMouseEnter:()=>setHov(true), onMouseLeave:()=>setHov(false)
+  },
+    h('div', { style:{ fontSize:12, fontWeight:600, color:TX, marginBottom:8, lineHeight:1.4 } }, sn(c)),
+    h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'center' } },
+      hasData
+        ? h('span', { style:{ fontSize:10, color:sec.ac, fontWeight:700, background:sec.al, padding:'2px 6px', borderRadius:4 } }, 'Q4FY26 ✓')
+        : h('span', { style:{ fontSize:10, color:MU } }, 'No data yet'),
+      h('span', { style:{ color:sec.ac, fontWeight:700, fontSize:14 } }, hov?'→':'›')
+    )
+  );
+}
+
+/* ── Detail Page ──────────────────────────────────── */
+function DView({ co, sec, concall }) {
+  const d = concall[co];
+
+  if (!d) return h('div', { style:{ textAlign:'center', padding:'60px 0' } },
+    h('div', { style:{ fontSize:36, marginBottom:12 } }, '🔬'),
+    h('div', { style:{ fontSize:15, fontWeight:600, color:TX, marginBottom:6 } }, 'Research in Progress'),
+    h('p',   { style:{ fontSize:13, color:S2 } }, 'Q4FY26 concall data for ' + sn(co) + ' has not been added yet.')
+  );
+
+  const tBg = {
+    background: d.toneColor === '#059669' ? '#ECFDF5' : d.toneColor === '#D97706' ? '#FEF3C7' : '#EFF6FF',
+    color: d.toneColor
+  };
+
+  return h('div', null,
+
+    /* Header */
+    h('div', { style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:14, padding:'20px 24px', marginBottom:12, borderTop:`3px solid ${sec.ac}` } },
+      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'flex-start', flexWrap:'wrap', gap:12 } },
+        h('div', null,
+          h('div', { style:{ display:'flex', gap:6, marginBottom:8 } },
+            h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, background:sec.al, padding:'3px 8px', borderRadius:5, textTransform:'uppercase', letterSpacing:'0.6px' } }, sec.nm),
+            h('span', { style:{ fontSize:10, color:MU, border:`1px solid ${BRD}`, padding:'2px 7px', borderRadius:5 } }, d.quarter || 'Q4FY26')
+          ),
+          h('h1', { style:{ fontSize:20, fontWeight:700, color:TX, margin:'0 0 3px', fontFamily:"'Space Grotesk',sans-serif" } }, sn(co)),
+          h('div', { style:{ fontSize:11, color:MU } }, 'NSE / BSE Listed · Indian Equity · Data as of May 2026')
+        ),
+        d.tone && h('span', { style:{ ...tBg, fontSize:11, fontWeight:700, padding:'5px 14px', borderRadius:20 } }, '● ' + d.tone)
+      )
+    ),
+
+    /* Q4 Metrics */
+    d.metrics && d.metrics.length > 0 && h('div', { className:'metrics-grid' },
+      ...d.metrics.map((m,i) => h('div', { key:i, style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:10, padding:'13px 15px' } },
+        h('div', { style:{ fontSize:9,  color:MU, textTransform:'uppercase', letterSpacing:'0.7px', marginBottom:5 } }, m.label),
+        h('div', { style:{ fontSize:17, fontWeight:700, color:TX, marginBottom:3, fontFamily:"'Space Grotesk',sans-serif" } }, m.value),
+        h('div', { style:{ fontSize:10, color:pct(m) } }, m.change)
+      ))
+    ),
+
+    /* FY Annual Performance */
+    d.fyPerformance && d.fyPerformance.length > 0 && h('div', { style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
+      h('div', { style:{ fontSize:10, fontWeight:700, color:MU, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:10 } }, 'Full Year Performance'),
+      h('div', { style:{ display:'flex', flexDirection:'column', gap:6 } },
+        ...d.fyPerformance.map((item,i) => h('div', { key:i, style:{ display:'flex', gap:8, fontSize:12, color:S2, lineHeight:1.55 } },
+          h('span', { style:{ color:sec.ac, flexShrink:0 } }, '+'),
+          item
+        ))
+      )
+    ),
+
+    /* Numeric Guidance */
+    d.hasNumericGuidance && d.guidance && d.guidance.length > 0 && h('div', { style:{ background:`${sec.ac}07`, border:`1px solid ${sec.ac}28`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
+      h('div', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:12 } }, 'FY27 Numeric Guidance'),
+      h('table', { style:{ width:'100%', borderCollapse:'collapse' } },
+        h('tbody', null,
+          ...d.guidance.map((g,i) => h('tr', { key:i },
+            h('td', { style:{ padding:'9px 0', fontSize:12, color:S2, borderBottom:i<d.guidance.length-1?`1px solid ${BRD}`:'none', paddingRight:20 } }, g.metric),
+            h('td', { style:{ padding:'9px 0', fontSize:13, fontWeight:700, color:TX, borderBottom:i<d.guidance.length-1?`1px solid ${BRD}`:'none', textAlign:'right' } }, g.value)
+          ))
+        )
+      )
+    ),
+
+    /* Management Outlook (when no numeric guidance) */
+    !d.hasNumericGuidance && d.outlook && h('div', { style:{ background:`${sec.ac}05`, border:`1px solid ${sec.ac}22`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
+      h('div', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:10 } }, 'Management Tone & Outlook'),
+      h('p', { style:{ fontSize:12, color:S2, margin:0, lineHeight:1.8 } }, d.outlook)
+    ),
+
+    /* Highlights */
+    d.highlights && d.highlights.length > 0 && h('div', { style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
+      h('div', { style:{ fontSize:10, fontWeight:700, color:MU, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:12 } }, 'Key Highlights'),
+      h('div', { style:{ display:'flex', flexDirection:'column', gap:9 } },
+        ...d.highlights.map((hl,i) => h('div', { key:i, style:{ display:'flex', gap:10, alignItems:'flex-start' } },
+          h('div', { style:{ width:6, height:6, borderRadius:'50%', background:sec.ac, marginTop:4, flexShrink:0 } }),
+          h('span', { style:{ fontSize:12, color:S2, lineHeight:1.6 } }, hl)
+        ))
+      )
+    ),
+
+    /* MD Quote */
+    d.quote && h('div', { style:{ borderLeft:`3px solid ${sec.ac}`, padding:'14px 18px', background:`${sec.ac}04`, borderRadius:'0 10px 10px 0' } },
+      h('p',   { style:{ fontSize:12, fontStyle:'italic', color:TX, margin:'0 0 8px', lineHeight:1.7 } }, d.quote),
+      d.quotePerson && h('div', { style:{ fontSize:11, fontWeight:700, color:sec.ac } }, '— ' + d.quotePerson)
+    )
+  );
+}
+
+/* ── Mount ───────────────────────────────────────── */
+ReactDOM.render(h(App), document.getElementById('root'));
+</script>
+</body>
+</html>

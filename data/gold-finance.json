@@ -1,0 +1,16 @@
+{
+  "sector": {
+    "name": "Gold Finance",
+    "description": "NBFCs providing gold-secured loans across India's tier-2 & tier-3 cities",
+    "accent": "#B45309",
+    "accentLight": "#FFFBEB"
+  },
+  "companies": [
+    "Capri Global Capital Ltd",
+    "Fedbank Financial Services Ltd",
+    "IIFL Finance Ltd",
+    "Manappuram Finance Ltd",
+    "Muthoot Finance Ltd"
+  ],
+  "concall": {}
+}

@@ -1,0 +1,36 @@
+{
+  "sector": {
+    "name": "Real Estate",
+    "description": "Residential & commercial developers across India's major property markets",
+    "accent": "#1D4ED8",
+    "accentLight": "#EFF6FF"
+  },
+  "companies": [
+    "Aditya Birla Real Estate Ltd",
+    "Ajmera Realty & Infra India Ltd",
+    "Anant Raj Ltd",
+    "Arkade Developers Ltd",
+    "Arvind SmartSpaces Ltd",
+    "Ashiana Housing Ltd",
+    "Brigade Enterprises Ltd",
+    "DLF Ltd",
+    "Embassy Developments Ltd",
+    "Ganesh Housing Ltd",
+    "Godrej Properties Ltd",
+    "Kalpataru Ltd",
+    "Keystone Realtors Ltd",
+    "Kolte Patil Developers Ltd",
+    "Lodha Developers Ltd",
+    "Mahindra Lifespace Developers Ltd",
+    "Max Estates Ltd",
+    "Phoenix Mills Ltd",
+    "Prestige Estates Projects Ltd",
+    "Puravankara Ltd",
+    "SignatureGlobal India Ltd",
+    "Sobha Ltd",
+    "Sunteck Realty Ltd",
+    "Suraj Estate Developers Ltd",
+    "TARC Ltd"
+  ],
+  "concall": {}
+}

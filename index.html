@@ -10,7 +10,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://concall.equityinsightselite.com">
   <link rel="canonical" href="https://concall.equityinsightselite.com">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230F172A'/><text y='23' x='5' font-size='16' fill='%23F8FAFC' font-family='system-ui' font-weight='700'>EI</text></svg>">
+  <link rel="icon" type="image/png" href="logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
@@ -44,6 +44,12 @@
     /* ── Card hover ───────────────────────────────── */
     .hov { transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease; cursor: pointer; }
     .hov:hover { transform: translateY(-3px); }
+
+    /* ── Mobile nav ──────────────────────────────── */
+    @media (max-width: 600px) {
+      .nav-brand-text { display: none; }
+      .nav-ext-link   { display: none; }
+    }
 
     /* ── Scrollbar ────────────────────────────────── */
     ::-webkit-scrollbar { width: 5px; height: 5px; }
@@ -96,6 +102,28 @@ function App() {
   const [sid,      setSid]      = useState(null);
   const [co,       setCo]       = useState(null);
 
+  /* ── Sync state from history on back/forward ── */
+  useEffect(() => {
+    const onPop = e => {
+      const st = e.state;
+      // No state or we hit the guard buffer — stay on sectors and repush so
+      // pressing back again doesn't leave the app.
+      if (!st || st._guard) {
+        setView('s'); setSid(null); setCo(null);
+        history.pushState({ view:'s', sid:null, co:null }, '');
+        return;
+      }
+      setView(st.view); setSid(st.sid || null); setCo(st.co || null);
+      window.scrollTo({ top:0, behavior:'smooth' });
+    };
+    window.addEventListener('popstate', onPop);
+    // Guard entry first, then the real sectors entry on top.
+    // If the user presses back past sectors they hit the guard and stay.
+    history.replaceState({ view:'s', sid:null, co:null, _guard:true }, '');
+    history.pushState({ view:'s', sid:null, co:null }, '');
+    return () => window.removeEventListener('popstate', onPop);
+  }, []);
+
   /* ── Fetch all sector JSON files on mount ── */
   useEffect(() => {
     Promise.all(
@@ -140,9 +168,9 @@ function App() {
   }, [view, sid, co, sectors]);
 
   /* ── Navigation ── */
-  const goS = ()  => { setView('s'); setSid(null); setCo(null); };
-  const goC = id  => { setSid(id);  setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
-  const goD = nm  => { setCo(nm);   setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goS = ()  => { history.pushState({ view:'s', sid:null, co:null }, ''); setView('s'); setSid(null); setCo(null); };
+  const goC = id  => { history.pushState({ view:'c', sid:id,   co:null }, ''); setSid(id); setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goD = nm  => { history.pushState({ view:'d', sid,      co:nm  }, ''); setCo(nm);  setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
 
   /* ── Loading / Error screens ── */
   if (loadErr) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
@@ -166,10 +194,8 @@ function App() {
     h('nav', { style:{ background:SRF, borderBottom:`1px solid ${BRD}`, position:'sticky', top:0, zIndex:50 } },
       h('div', { style:{ maxWidth:1100, margin:'0 auto', padding:'0 20px', height:54, display:'flex', alignItems:'center', justifyContent:'space-between' } },
         h('div', { style:{ display:'flex', alignItems:'center', gap:10 } },
-          h('div', { style:{ width:30, height:30, borderRadius:8, background:TX, display:'flex', alignItems:'center', justifyContent:'center', cursor:'pointer', flexShrink:0 }, onClick:goS },
-            h('span', { style:{ color:'#F8FAFC', fontSize:11, fontWeight:700, fontFamily:"'Space Grotesk',sans-serif", letterSpacing:'-0.3px' } }, 'EI')
-          ),
-          h('span', { style:{ fontFamily:"'Space Grotesk',sans-serif", fontWeight:700, fontSize:14, color:TX, cursor:'pointer' }, onClick:goS }, 'Concall Research'),
+          h('img', { src:'logo.png', alt:'Equity Insights Elite', style:{ width:30, height:30, borderRadius:8, objectFit:'cover', cursor:'pointer', flexShrink:0 }, onClick:goS }),
+          h('span', { className:'nav-brand-text', style:{ fontFamily:"'Space Grotesk',sans-serif", fontWeight:700, fontSize:14, color:TX, cursor:'pointer' }, onClick:goS }, 'Concall Research'),
           view !== 's' && h('div', { style:{ display:'flex', alignItems:'center', gap:4, fontSize:12, marginLeft:4 } },
             h('span', { style:{ color:MU } }, '›'),
             h('span', { style:{ color:sec?.ac, cursor:'pointer', fontWeight:600 }, onClick:()=>goC(sid) }, sec?.nm),
@@ -186,7 +212,7 @@ function App() {
             style:{ background:'none', border:`1px solid ${BRD}`, borderRadius:7, padding:'5px 14px', fontSize:12, color:S2 },
             onClick: view === 'd' ? ()=>goC(sid) : goS
           }, '← Back'),
-          h('a', { href:'https://equityinsightselite.com', style:{ fontSize:11, color:MU, textDecoration:'none' } }, 'equityinsightselite.com')
+          h('a', { className:'nav-ext-link', href:'https://equityinsightselite.com', style:{ fontSize:11, color:MU, textDecoration:'none' } }, 'equityinsightselite.com')
         )
       )
     ),

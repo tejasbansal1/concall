@@ -1,43 +1,202 @@
 {
   "sector": {
     "name": "PEB",
-    "description": "Pre-Engineered Building manufacturers serving industrial & infra sectors",
+    "description": "PEB and prefab players serving industrial and infrastructure capex",
     "accent": "#D97706",
     "accentLight": "#FEF3C7"
   },
   "companies": [
-    "EPack Prefab Technologies Ltd",
     "Interarch Building Solutions Ltd",
-    "M&B Engineering Ltd",
-    "Pennar Industries Ltd"
+    "EPACK Prefab Technologies Ltd",
+    "M&B Engineering Ltd"
   ],
   "concall": {
-    "_template": {
-      "quarter": "Q4FY26",
+    "Interarch Building Solutions Ltd": {
+      "quarter": "FY26",
       "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
       "metrics": [
-        { "label": "Revenue (Q4)",  "value": "₹X Cr", "change": "+X% YoY", "positive": 1 },
-        { "label": "EBITDA (Q4)",   "value": "₹X Cr", "change": "+X% YoY", "positive": 1 },
-        { "label": "PAT (Q4)",      "value": "₹X Cr", "change": "+X% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "X%",    "change": "+X bps",   "positive": 1 }
+        {
+          "label": "Revenue (FY26)",
+          "value": "₹1,898 Cr",
+          "change": "+31% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA (FY26)",
+          "value": "₹176 Cr",
+          "change": "+29% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹135 Cr",
+          "change": "+25% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹1,703 Cr",
+          "change": "As of Apr 2026",
+          "positive": 1
+        }
       ],
       "fyPerformance": [
-        "FY26 Revenue: ₹X Cr (+X% YoY)",
-        "FY26 PAT: ₹X Cr (+X% YoY)",
-        "Order book: ₹X Cr"
+        "FY26 Revenue: ₹1,898 Cr (+31% YoY); EBITDA: ₹176 Cr (+29% YoY); PAT: ₹135 Cr (+25% YoY)",
+        "Order book stood at ₹1,703 Cr as of April 2026",
+        "Export orders worth over ₹40 Cr were received in FY26",
+        "Spent ₹127 Cr in capex to expand capacities in Andhra Pradesh, Kiccha and Gujarat"
       ],
       "guidance": [
-        { "metric": "Revenue Growth (FY27E)", "value": "X–X%" },
-        { "metric": "EBITDA Margin (FY27E)",  "value": "X%"   }
+        {
+          "metric": "Revenue Target (FY27)",
+          "value": "₹2,200 Cr"
+        },
+        {
+          "metric": "Revenue Target (FY28)",
+          "value": "₹2,500 Cr"
+        },
+        {
+          "metric": "Total Revenue Potential",
+          "value": "₹3,500 Cr after all capacities come live"
+        },
+        {
+          "metric": "Andhra Pradesh & Gujarat Commissioning",
+          "value": "Q2FY27"
+        }
       ],
       "highlights": [
-        "Key highlight 1",
-        "Key highlight 2"
+        "Andhra Pradesh expansion is focused on heavy steel structures",
+        "Gujarat PEB plant is located in a major industrial cluster and targets sectors like EVs and semiconductors",
+        "Company secured export certifications for Canada and USA",
+        "MoU signed with ER Steel for structural steel and PEB business across Canada and North America",
+        "Sector tailwinds remain strong from industrial capex, warehousing, logistics, renewable energy, data centres, semiconductors and large manufacturing projects"
+      ]
+    },
+    "EPACK Prefab Technologies Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "Revenue (FY26)",
+          "value": "₹1,525 Cr",
+          "change": "+35% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA (FY26)",
+          "value": "₹160 Cr",
+          "change": "+36% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹93 Cr",
+          "change": "+56% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹1,113 Cr",
+          "change": "As of Mar 2026",
+          "positive": 1
+        }
       ],
-      "quote": "\"Management quote here.\"",
-      "quotePerson": "Name, Designation"
+      "fyPerformance": [
+        "FY26 Revenue: ₹1,525 Cr (+35% YoY); EBITDA: ₹160 Cr (+36% YoY); PAT: ₹93 Cr (+56% YoY)",
+        "Prefab business grew around 45% YoY in FY26",
+        "Capacity utilisation improved through the year and reached 83% in Q4FY26",
+        "Operating cash flow stood at ₹136 Cr, around 85% of EBITDA; net cash stood at ₹201 Cr"
+      ],
+      "guidance": [
+        {
+          "metric": "Revenue Guidance (FY27)",
+          "value": "Surpass ₹1,900 Cr"
+        },
+        {
+          "metric": "Prefab Division Growth",
+          "value": "~30%"
+        },
+        {
+          "metric": "EBITDA Margin Guidance",
+          "value": "10.5%"
+        },
+        {
+          "metric": "Order Book",
+          "value": "₹1,113 Cr as of Mar 2026"
+        }
+      ],
+      "highlights": [
+        "Management believes 30% growth is achievable in the prefab division based on order book, pipeline and capacity additions",
+        "Order book and pipeline provide strong FY27 visibility",
+        "Higher capacity utilisation through FY26 indicates operating leverage potential",
+        "Healthy operating cash conversion and net cash position support the next phase of growth",
+        "Structural shift from conventional construction to faster, factory-made and execution-efficient solutions remains a key demand driver"
+      ]
+    },
+    "M&B Engineering Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "Revenue (FY26)",
+          "value": "₹1,260 Cr",
+          "change": "+27% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹93 Cr",
+          "change": "+20% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹1,083 Cr",
+          "change": "+35% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Order Inflow",
+          "value": "₹1,539 Cr",
+          "change": "+28% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 Revenue: ₹1,260 Cr (+27% YoY); PAT: ₹93 Cr (+20% YoY)",
+        "Unexecuted order book stood at ₹1,083 Cr, growing 35% YoY",
+        "FY26 order inflow stood at ₹1,539 Cr (+28% YoY)",
+        "Phenix division FY26 revenue stood at ₹985 Cr (+29% YoY); Proflex division revenue stood at ₹275 Cr (+23% YoY)"
+      ],
+      "guidance": [
+        {
+          "metric": "FY27 Growth Guidance",
+          "value": "23-25%"
+        },
+        {
+          "metric": "FY27 Capex",
+          "value": "~₹100 Cr"
+        },
+        {
+          "metric": "Sanand Capacity Addition",
+          "value": "~20,000 MT; commissioning expected Q2FY27"
+        },
+        {
+          "metric": "FY27 Export Revenue Target",
+          "value": "₹275-300 Cr vs ₹165 Cr in FY26"
+        },
+        {
+          "metric": "Export EBITDA Margin",
+          "value": "16-17% vs domestic margins of ~10-11%"
+        }
+      ],
+      "highlights": [
+        "Management has not given specific margin guidance due to uncertainty in steel prices, freight, FX and geopolitical conditions",
+        "FY26 capex was ₹33 Cr, while FY27 capex is expected around ₹100 Cr",
+        "Company is adding around 20,000 MT capacity at Sanand, expected to be commissioned in Q2FY27",
+        "Export revenue is targeted to rise sharply to ₹275-300 Cr in FY27 from ₹165 Cr in FY26",
+        "Margin pressure in Q4 was due to FX loss, input cost inflation and freight costs"
+      ]
     }
   }
 }

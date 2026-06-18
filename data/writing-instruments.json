@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Writing Instruments",
-    "description": "Stationery and writing instruments manufacturers with domestic and export presence",
+    "description": "Stationery and consumerware brands expanding categories",
     "accent": "#DB2777",
     "accentLight": "#FDF2F8"
   },
@@ -12,6 +12,146 @@
     "Linc Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Linc Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": false,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹543 Cr", "change": "Broadly stable YoY", "positive": 0 },
+        { "label": "Op. EBITDA", "value": "₹59 Cr", "change": "11% margin", "positive": 0 },
+        { "label": "PAT (FY26)", "value": "₹33 Cr", "change": "6% margin", "positive": 0 },
+        { "label": "Net Cash", "value": "₹7 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹543 Cr, broadly stable YoY",
+        "Operating EBITDA stood at ₹59 Cr, with operating EBITDA margin of 11%",
+        "PAT stood at ₹33 Cr, with PAT margin of 6%",
+        "Q4FY26 revenue stood at ₹138 Cr, down 11% YoY",
+        "Q4FY26 operating EBITDA stood at ₹18 Cr, with 13% margin; Q4FY26 PAT stood at ₹10 Cr"
+      ],
+      "outlook": "Q4FY26 was weak due to moderation in corporate / institutional sales and export pressure. Management expects Q1FY27 to reflect similar trends, but triggers are visible from distribution restructuring, premium product focus, West Bengal facility, exports recovery and subsidiary scale-up.",
+      "highlights": [
+        "Corporate gifting orders are large and lumpy, so they do not follow a predictable annual pattern",
+        "Export revenue was impacted by geopolitical issues in certain international markets",
+        "Mitsubishi Pencil JV operations remain stable and recently launched products received encouraging response",
+        "Morris subsidiary traction is linked to the upcoming West Bengal facility, expected to become operational by Q3FY27",
+        "Distribution strategy has been changed by splitting the sales team into mass distribution and premium brand verticals",
+        "Company added around 125 frontline salespeople on a base of around 350"
+      ],
+      "quote": "\"Linc is not outperforming the sector currently on growth, but triggers are visible from distribution restructuring, premium product focus, West Bengal plant, exports recovery and subsidiary scale-up.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "DOMS Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹2,326 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "EBITDA (FY26)", "value": "₹403 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹240 Cr", "change": "+12% YoY", "positive": 1 },
+        { "label": "Capex (FY26)", "value": "₹292 Cr", "change": "Capacity-led growth", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹2,326 Cr (+22% YoY), ahead of guidance",
+        "EBITDA stood at ₹403 Cr (+16% YoY), with EBITDA margin of 17%",
+        "PAT stood at ₹240 Cr (+12% YoY), with PAT margin of 10%",
+        "Q4FY26 revenue stood at ₹604 Cr (+19% YoY); Q4FY26 EBITDA stood at ₹101 Cr (+14% YoY)",
+        "Q4FY26 PAT stood at ₹58 Cr (+14% YoY), with PAT margin of 10%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth Guidance", "value": "17-20%" },
+        { "metric": "FY27 Capex Plan", "value": "₹250-275 Cr" },
+        { "metric": "45-acre Facility Start", "value": "End of Q2FY27" },
+        { "metric": "45-acre Project Capex Potential", "value": "₹850-1,000 Cr over full development" },
+        { "metric": "Long-Term Uniclan Growth", "value": "~20% revenue growth" }
+      ],
+      "highlights": [
+        "Growth was driven by new product launches, domestic demand, exports and capacity additions",
+        "New launches included pencil boxes, school bags, pens, mechanical pencils, stamp pads, scholastic stationery, art, hobby and craft, kits and paper stationery",
+        "Q4FY26 growth was led by office supplies, hobby and craft and back-to-school categories",
+        "Core stationery grew around 19% in Q4FY26, driven by underlying back-to-school demand",
+        "Raw material cost increased around 15-17%, while pricing actions so far are around 4-5%",
+        "DOMS sees around 3-3.5 lakh stationery outlets in India, with around 2.25 lakh directly serviceable"
+      ],
+      "quote": "\"DOMS is outperforming the sector on revenue growth, product innovation, brand strength, distribution reach, domestic demand and capacity-led growth visibility.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Flair Writing Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹1,250 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "EBITDA (FY26)", "value": "₹225 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹141 Cr", "change": "+19% YoY", "positive": 1 },
+        { "label": "Gross Margin", "value": "51%", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹1,250 Cr (+16% YoY), achieving the 15% growth guidance",
+        "Gross profit stood at ₹638 Cr (+16% YoY), with gross margin of 51%",
+        "EBITDA stood at ₹225 Cr (+22% YoY), with EBITDA margin of 18%",
+        "PAT stood at ₹141 Cr (+19% YoY), with PAT margin of 11%",
+        "Q4FY26 revenue stood at ₹323 Cr (+8% YoY); Q4FY26 PAT stood at ₹37 Cr (+18% YoY)"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth Guidance", "value": "15%" },
+        { "metric": "Pens Growth Expectation", "value": "~5%" },
+        { "metric": "Creative Growth Expectation", "value": "~50%" },
+        { "metric": "Steel Bottles Growth Expectation", "value": "~40%" },
+        { "metric": "Valsad Ramp-Up", "value": "Start Q1FY27; ramp by Q3FY27" }
+      ],
+      "highlights": [
+        "FY26 was a defining year as the company moved from being largely pen-centric to a more diversified business",
+        "Creative and Steel Bottles / Houseware now contribute 31% of overall revenue",
+        "Own brand sales contributed 91% of FY26 revenue vs 87% in FY25 and 80% in FY23",
+        "Domestic OEM business has been fully phased out with legacy OEM relationships reduced to zero",
+        "Creative segment revenue stood at ₹298 Cr in FY26, up 74%; Q4FY26 Creative revenue grew 80%",
+        "Steel Bottles and Houseware revenue stood at ₹85 Cr in FY26, up 95%"
+      ],
+      "quote": "\"Flair is outperforming the sector on PAT growth, margin expansion, own brand mix, Creative growth and Steel Bottles / Houseware scale-up.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Cello World Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹2,324 Cr", "change": "+9% YoY", "positive": 1 },
+        { "label": "EBITDA (FY26)", "value": "₹526 Cr", "change": "23% margin", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹332 Cr", "change": "14% margin", "positive": 1 },
+        { "label": "D/E", "value": "0.01x", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹2,324 Cr (+9% YoY)",
+        "EBITDA stood at ₹526 Cr, with EBITDA margin of 23%",
+        "PAT stood at ₹332 Cr, with PAT margin of 14%",
+        "Q4FY26 revenue stood at ₹654 Cr (+11% YoY); Q4FY26 EBITDA stood at ₹137 Cr with 21% margin",
+        "Q4FY26 PAT stood at ₹90 Cr, with PAT margin of 14%; cash flow from operations stood at ₹255 Cr"
+      ],
+      "guidance": [
+        { "metric": "FY27 Growth Expectation", "value": "10-12%" },
+        { "metric": "FY27 Writing Instruments Target", "value": "₹500 Cr+ revenue" },
+        { "metric": "FY27 Capex", "value": "~₹100 Cr" },
+        { "metric": "Steel Bottle Capacity Potential", "value": "~₹300 Cr peak revenue" },
+        { "metric": "Consumerware EBITDA Margin Upside", "value": "2.5-3%" }
+      ],
+      "highlights": [
+        "FY26 was a year of temporary consolidation due to multiple headwinds and softer demand in H2FY26",
+        "Growth was led by writing instruments, Opalware, glassware and selected consumerware products",
+        "Q4FY26 writing instruments revenue stood at ₹128 Cr, up 64%",
+        "E-commerce and quick-commerce together now contribute nearly 17% of overall revenue",
+        "Two additional steel bottle manufacturing lines were operationalized in Q4FY26 and four more were commissioned in Q1FY27",
+        "Glassware utilisation remains around 60%, impacted by dumping of imported glass products from China"
+      ],
+      "quote": "\"Cello is not outperforming the sector on FY26 growth, but it can improve if steel bottle ramp-up, writing instruments scale-up, glassware profitability and digital channel growth play out.\"",
+      "quotePerson": "Management Commentary"
+    }
   }
 }

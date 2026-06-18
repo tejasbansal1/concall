@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Value Retail",
-    "description": "Value-format apparel and general merchandise chains targeting price-conscious consumers across India",
+    "description": "Value fashion retailers scaling stores in smaller cities",
     "accent": "#F97316",
     "accentLight": "#FFF7ED"
   },
@@ -11,6 +11,109 @@
     "Vishal Mega Mart Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Vishal Mega Mart Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹12,906 Cr", "change": "+20% YoY", "positive": 1 },
+        { "label": "SSSG (FY26)", "value": "11%", "change": "Full Year", "positive": 1 },
+        { "label": "Op. EBITDA (FY26)", "value": "₹1,321 Cr", "change": "+28% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹839 Cr", "change": "+33% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹12,906 Cr (+20% YoY), with SSSG of 11%",
+        "FY26 operating EBITDA stood at ₹1,321 Cr (+28% YoY), with adjusted EBITDA margin of 10.2% vs 9.6% last year",
+        "FY26 PAT stood at ₹839 Cr (+33% YoY), with PAT margin of 6.5% vs 5.9% last year",
+        "Q4FY26 revenue stood at ₹3,114 Cr (+22% YoY), with SSSG of 13%",
+        "Q4FY26 operating EBITDA stood at ₹275 Cr (+32% YoY); Q4FY26 PAT stood at ₹168 Cr (+46% YoY)"
+      ],
+      "outlook": "Management remains positive on FY27 but is closely monitoring macro and geopolitical developments. No hard FY27 revenue or PAT guidance was disclosed. The focus remains on store expansion, private brand strength, customer affordability, and quick commerce reach, with management highlighting consumption support from income tax rationalisation and GST rate reduction.",
+      "highlights": [
+        "Company opened 25 stores in Q4FY26 and 105 stores in FY26",
+        "Total store count stood at 795 stores across 535 cities as of March 2026",
+        "In FY26, company added 77 new cities and trading area stood at 1.34 Cr sq ft",
+        "47 out of 105 new stores were opened in South India across Kerala, Andhra Pradesh and Karnataka",
+        "Private brands contributed 74% of FY26 revenue, up 100 bps YoY",
+        "Quick commerce operations expanded to 745 stores across 505 cities, with registered users growing to 1.3 Cr"
+      ],
+      "quote": "\"Vishal is outperforming the sector on SSSG, PAT growth, private brand scale, store network depth and quick commerce reach.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "V2 Retail Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹3,067 Cr", "change": "+63% YoY", "positive": 1 },
+        { "label": "EBITDA (FY26)", "value": "₹455 Cr", "change": "+77% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹162 Cr", "change": "+125% YoY", "positive": 1 },
+        { "label": "Volume Growth", "value": "47%", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹3,067 Cr (+63% YoY), with SSSG of 9%",
+        "FY26 EBITDA stood at ₹455 Cr (+77% YoY), with EBITDA margin of 14.9% vs 13.7% last year",
+        "FY26 PAT stood at ₹162 Cr (+125% YoY); ROE improved to 26% vs 23% last year and 11% in FY24",
+        "Q4FY26 revenue stood at ₹797 Cr (+60% YoY); Q4FY26 EBITDA stood at ₹109 Cr (+89% YoY)",
+        "Q4FY26 PAT stood at ₹17.5 Cr vs ₹6.4 Cr last year; Q4FY26 SSSG stood at 8% and volume growth at 53%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Store Opening Target", "value": "170-200 stores" },
+        { "metric": "Revenue Growth Guidance", "value": "At least 50% over next 2 years" },
+        { "metric": "Gross Margin Expectation", "value": "28-30%" },
+        { "metric": "Inventory Target", "value": "90-100 days" },
+        { "metric": "Long-Term Store Vision", "value": "2,500 V2 stores" }
+      ],
+      "highlights": [
+        "Management said Q4FY26 reflected continued momentum and disciplined execution",
+        "V2 has delivered 60%+ growth for two consecutive years",
+        "Growth was driven by analytics-led merchandising, supply chain responsiveness, operating discipline and strong value-fashion positioning",
+        "FY26 store addition stood at 136 net stores; total store count stood at 325 stores as of March 2026",
+        "Retail area stood at around 3.5 mn sq ft, and management indicated current footprint has crossed 350 stores nationwide",
+        "Full price sales contribution stood at 90% in FY26 and 89% in Q4FY26"
+      ],
+      "quote": "\"V2 is outperforming the sector on revenue growth, PAT growth, volume growth, ROE improvement and store expansion pace.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "V-Mart Retail Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Sales Growth (Q4)", "value": "24%", "change": "Total sales", "positive": 1 },
+        { "label": "LTL Growth (Q4)", "value": "12%", "change": "Same-store lens", "positive": 1 },
+        { "label": "EBITDA (Q4)", "value": "₹106 Cr", "change": "+56% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹124 Cr", "change": "6x YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4FY26 total sales growth stood at 24%, with LTL growth of 12%",
+        "Q4FY26 EBITDA stood at ₹106 Cr (+56% YoY), with EBITDA margin of 10.9%, up 220 bps YoY",
+        "Q4FY26 adjusted PAT stood at ₹10 Cr",
+        "FY26 PAT stood at ₹124 Cr, up 6x YoY, with PAT margin of 3.3%",
+        "FY26 free cash flow stood at ₹33 Cr vs negative ₹33 Cr last year; no long-term debt on books"
+      ],
+      "guidance": [
+        { "metric": "FY27 Area Addition Guidance", "value": "13-15% net of 1-2% closures" },
+        { "metric": "FY27 Capex", "value": "₹170-180 Cr" },
+        { "metric": "Capex per Store", "value": "₹1.3-1.4 Cr" },
+        { "metric": "Medium-Term ROCE Target", "value": "15-18%" },
+        { "metric": "Longer-Term ROCE Aspiration", "value": ">20%" }
+      ],
+      "highlights": [
+        "Management said the consumption environment looks healthy, especially in Tier 2 and Tier 3 markets",
+        "Store additions stood at 29 stores in Q4FY26 and 92 stores in FY26, with 12 closures in FY26",
+        "Unlimited South delivered 28% revenue growth and 63% EBITDA growth",
+        "LimeRoad losses reduced by around 70% YoY and the marketplace is profitable at CM3 level in high single digits",
+        "Inventory days improved by 3 days on a 5-quarter rolling basis and inventory per store reduced by 13% YoY",
+        "Repeat customers contribute around 72% of sales"
+      ],
+      "quote": "\"V-Mart is outperforming the sector on turnaround, PAT recovery, LTL growth, Unlimited improvement, LimeRoad loss reduction and cash flow improvement.\"",
+      "quotePerson": "Management Commentary"
+    }
   }
 }

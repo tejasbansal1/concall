@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Affordable Housing",
-    "description": "NBFCs and HFCs providing home loans to underserved segments across Tier-2 and Tier-3 India",
+    "description": "Housing financiers serving underpenetrated affordable home loan markets",
     "accent": "#0EA5E9",
     "accentLight": "#E0F2FE"
   },
@@ -13,6 +13,332 @@
     "India Shelter Finance Corporation Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Aadhar Housing Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "AUM (FY26)",
+          "value": "₹30,571 Cr",
+          "change": "+20% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Disbursement (FY26)",
+          "value": "₹9,556 Cr",
+          "change": "+17% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹1,096 Cr",
+          "change": "+20% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (Q4FY26)",
+          "value": "₹311 Cr",
+          "change": "+27% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 AUM stood at ₹30,571 Cr (+20% YoY); disbursement stood at ₹9,556 Cr (+17% YoY)",
+        "FY26 PAT stood at ₹1,096 Cr (+20% YoY)",
+        "FY26 ROA stood at 4.4% and ROE stood at 15.9%, excluding labour law impact",
+        "Q4FY26 disbursement stood at ₹3,087 Cr (+20% YoY); Q4FY26 PAT stood at ₹311 Cr (+27% YoY)"
+      ],
+      "guidance": [
+        {
+          "metric": "AUM Growth Guidance",
+          "value": "20%"
+        },
+        {
+          "metric": "PAT Growth Guidance",
+          "value": "20%"
+        },
+        {
+          "metric": "FY29 AUM Target",
+          "value": "₹50,000 Cr"
+        },
+        {
+          "metric": "Cost-to-Income Improvement Target",
+          "value": "Additional 50 bps"
+        },
+        {
+          "metric": "Medium-Term Product Mix",
+          "value": "70% home loans / 30% LAP"
+        }
+      ],
+      "highlights": [
+        "Branch network stood at 626 branches across 22 states and UTs",
+        "Home loans form 73% of AUM, while LAP loans form 27%",
+        "Salaried borrowers form 55% of AUM and self-employed borrowers form 45%",
+        "Productivity and efficiency improvement are expected to drive another 50 bps improvement in cost-to-income",
+        "Company continues to focus on low-ticket affordable housing and underpenetrated geographies"
+      ]
+    },
+    "AAVAS Financiers Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "AUM (FY26)",
+          "value": "₹23,450 Cr",
+          "change": "+15% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Disbursement (FY26)",
+          "value": "₹6,780 Cr",
+          "change": "+11% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Disbursement (Q4)",
+          "value": "₹2,350 Cr",
+          "change": "+16% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (Q4FY26)",
+          "value": "₹182 Cr",
+          "change": "+18% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 AUM stood at ₹23,450 Cr (+15% YoY); disbursement stood at ₹6,780 Cr (+11% YoY)",
+        "Q4FY26 disbursement stood at ₹2,350 Cr (+16% YoY)",
+        "Q4FY26 PAT stood at ₹182 Cr (+18% YoY)",
+        "Q4FY26 ROA improved 13 bps QoQ to 3.5%, while ROE improved 38 bps QoQ to 14.7%"
+      ],
+      "guidance": [
+        {
+          "metric": "Long-Term AUM Growth Goal",
+          "value": "Consistently 20%+"
+        },
+        {
+          "metric": "Sustainable Credit Cost",
+          "value": "Below 25 bps"
+        },
+        {
+          "metric": "Long-Term ROE Target",
+          "value": "Move towards high-teens"
+        },
+        {
+          "metric": "Medium-Term OpEx / AUM Target",
+          "value": "Below 3%"
+        },
+        {
+          "metric": "Longer-Term OpEx / AUM Target",
+          "value": "~2.75%"
+        }
+      ],
+      "highlights": [
+        "Asset quality remains near historical best levels",
+        "Branch network stood at 435 branches across 15 states",
+        "CVC Capital Partners became the new promoter",
+        "Rating outlook was upgraded to positive by both ICRA and CARE",
+        "Management's long-term goal remains to consistently deliver 20%+ AUM growth"
+      ]
+    },
+    "Aptus Value Housing Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "AUM (FY26)",
+          "value": "₹13,107 Cr",
+          "change": "+21% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Disbursement (FY26)",
+          "value": "₹4,009 Cr",
+          "change": "+11% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹943 Cr",
+          "change": "+26% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (Q4FY26)",
+          "value": "₹261 Cr",
+          "change": "+26% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 AUM stood at ₹13,107 Cr (+21% YoY); disbursement stood at ₹4,009 Cr (+11% YoY)",
+        "FY26 PAT stood at ₹943 Cr (+26% YoY)",
+        "Q4FY26 disbursement stood at ₹1,242 Cr (+17% YoY and +21% QoQ)",
+        "Q4FY26 PAT stood at ₹261 Cr (+26% YoY), translating into ROA of 8.2% and ROE of 21.2%"
+      ],
+      "guidance": [
+        {
+          "metric": "AUM Growth Target",
+          "value": "22-24%"
+        },
+        {
+          "metric": "ROE Target",
+          "value": "20%+"
+        },
+        {
+          "metric": "FY27 Branch Additions",
+          "value": "~60 branches"
+        },
+        {
+          "metric": "Credit Cost Expectation",
+          "value": "~0.5%"
+        },
+        {
+          "metric": "Opex / AUM Guided Range",
+          "value": "2.6-2.8%"
+        }
+      ],
+      "highlights": [
+        "Company has discontinued sanctions below ₹7 lakh to improve customer quality, which also impacted growth in FY26",
+        "Branch network stood at 339 branches after adding 39 branches in FY26",
+        "Maharashtra and Odisha are showing encouraging early traction",
+        "Collection efficiency improved to 100.5% vs 99.1% QoQ, helping 30+ DPD improve to 6.21% vs 6.48% QoQ",
+        "Higher ticket size strategy is driven by inflation and better borrower quality, with management aiming to increase ATS by around ₹1 lakh every year"
+      ]
+    },
+    "Home First Finance Company Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "AUM (FY26)",
+          "value": "₹15,878 Cr",
+          "change": "+25% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Disbursement (FY26)",
+          "value": "₹5,424 Cr",
+          "change": "+13% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹540 Cr",
+          "change": "+41% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (Q4FY26)",
+          "value": "₹149 Cr",
+          "change": "+43% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 AUM stood at ₹15,878 Cr (+25% YoY); disbursement stood at ₹5,424 Cr (+13% YoY)",
+        "FY26 PAT stood at ₹540 Cr (+41% YoY)",
+        "Q4FY26 PAT stood at ₹149 Cr (+43% YoY)",
+        "Q4FY26 disbursement stood at ₹1,572 Cr (+24% YoY and +19% QoQ)",
+        "FY26 ROE stood at 15.7%; adjusted for QIP, ROE stood at 16.8%"
+      ],
+      "guidance": [
+        {
+          "metric": "FY27 AUM Growth Expectation",
+          "value": "25%"
+        },
+        {
+          "metric": "FY27 Credit Cost Guidance",
+          "value": "30-40 bps"
+        },
+        {
+          "metric": "OpEx / AUM Expectation",
+          "value": "2.6-2.7%"
+        },
+        {
+          "metric": "Annual Branch Additions",
+          "value": "~30-40 branches"
+        },
+        {
+          "metric": "LAP Mix Expectation",
+          "value": "~15-20%"
+        }
+      ],
+      "highlights": [
+        "Credit cost stood at 40 bps for FY26",
+        "Asset quality improved meaningfully in Q4, with 1+ DPD at 4.7%, down 60 bps QoQ",
+        "Gross Stage 3 improved to 1.8%, down 20 bps QoQ",
+        "Branch network stood at 171 branches and 373 touch points",
+        "AUM per branch, disbursement per branch and AUM per employee are expected to gradually improve with scale and technology"
+      ]
+    },
+    "India Shelter Finance Corporation Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "metrics": [
+        {
+          "label": "Gross AUM (FY26)",
+          "value": "₹11,044 Cr",
+          "change": "+29% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Disbursement (FY26)",
+          "value": "₹3,834 Cr",
+          "change": "+14% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (FY26)",
+          "value": "₹503 Cr",
+          "change": "+33% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT (Q4FY26)",
+          "value": "₹138 Cr",
+          "change": "+27% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 gross AUM stood at ₹11,044 Cr (+29% YoY); disbursement stood at ₹3,834 Cr (+14% YoY)",
+        "FY26 PAT stood at ₹503 Cr (+33% YoY)",
+        "Q4FY26 disbursements crossed ₹1,000 Cr for the first time",
+        "Q4FY26 PAT stood at ₹138 Cr (+27% YoY)",
+        "Credit cost stood at 0.5% for FY26, in line with guidance of 40-50 bps"
+      ],
+      "guidance": [
+        {
+          "metric": "Loan Growth Target",
+          "value": "25-30% over next 3 years"
+        },
+        {
+          "metric": "Long-Term AUM Target",
+          "value": "₹30,000 Cr by 2030"
+        },
+        {
+          "metric": "FY27 Branch Additions",
+          "value": "40-45 branches"
+        },
+        {
+          "metric": "FY30 Branch Network Target",
+          "value": "~500 branches"
+        },
+        {
+          "metric": "FY27 Disbursement Growth",
+          "value": "Above 20%"
+        }
+      ],
+      "highlights": [
+        "Asset quality improved sharply with 30+ DPD down 100 bps QoQ to 4%",
+        "Gross Stage 3 improved by 29 bps QoQ to 1.2%",
+        "Management expects FY27 disbursement growth to remain above 20%, with scope to accelerate once macro environment improves",
+        "Home loan and LAP disbursement mix remains around 56-57% home loans and balance LAP, with no major change expected in FY27",
+        "Affordable housing finance remains one of the stronger lending pockets, supported by end-user demand and underpenetrated markets"
+      ]
+    }
   }
 }

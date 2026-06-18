@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Jewelry Retail",
-    "description": "Organised jewellery retail chains spanning studded, gold, and lifestyle jewellery across India",
+    "description": "Organised jewellery retailers scaling stores and brands",
     "accent": "#B45309",
     "accentLight": "#FEF3C7"
   },
@@ -13,6 +13,188 @@
     "Titan Company Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Titan Company Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total Income (Q4)", "value": "₹20,300 Cr", "change": "+46% YoY", "positive": 1 },
+        { "label": "PAT (Q4FY26)", "value": "₹1,179 Cr", "change": "+35% YoY", "positive": 1 },
+        { "label": "Jewellery Portfolio", "value": "₹18,195 Cr", "change": "+50% YoY", "positive": 1 },
+        { "label": "Jewellery EBIT", "value": "₹1,820 Cr", "change": "10% margin", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 total income crossed ₹75,000 Cr",
+        "Q4FY26 consolidated total income stood at ₹20,300 Cr (+46% YoY); Q4FY26 PAT stood at ₹1,179 Cr (+35% YoY)",
+        "Q4FY26 jewellery portfolio stood at ₹18,195 Cr (+50% YoY), excluding bullion and digi-gold sales",
+        "India jewellery income stood at ₹17,114 Cr (+46% YoY); Tanishq, Mia and Zoya income stood at ₹16,047 Cr (+48% YoY)",
+        "CaratLane income stood at ₹1,066 Cr (+22% YoY), with EBIT of ₹89 Cr and 8% EBIT margin"
+      ],
+      "guidance": [
+        { "metric": "Medium-Term Jewellery Growth Aspiration", "value": "15-20% over 3-5 years" },
+        { "metric": "beYon Rollout Milestone", "value": "10-12 stores across 2-3 cities before national rollout" },
+        { "metric": "Q1FY27 Gold Supply", "value": "Covered" },
+        { "metric": "Near-Term EBIT View", "value": "May grow slightly below revenue due to mix impact" }
+      ],
+      "highlights": [
+        "Management called Q4FY26 one of the strongest quarters in Titan's history",
+        "Gold and studded portfolios both grew 35% YoY in India, while buyer growth recovered to high single digits",
+        "Management said consumers have started accepting gold at higher levels",
+        "Titan completed 67% acquisition of Damas Jewellery during Q4FY26; Damas added 123 stores to the international network",
+        "Titan added 27 net jewellery stores in India during Q4FY26, including 8 Tanishq, 14 Mia and 5 CaratLane stores",
+        "Affordability levers include old gold exchange, 18-carat gold, 14-carat studded jewellery, grammage purchase plan and lightweight jewellery"
+      ],
+      "quote": "\"Titan continues to outperform the sector on scale, brand strength, buyer growth recovery, store expansion, international optionality and category innovation.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Kalyan Jewellers India Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹35,740 Cr", "change": "+43% YoY", "positive": 1 },
+        { "label": "PBT (FY26)", "value": "₹1,802 Cr", "change": "+88% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹1,350 Cr", "change": "+89% YoY", "positive": 1 },
+        { "label": "PAT (Q4FY26)", "value": "₹410 Cr", "change": "+118% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue stood at ₹35,740 Cr (+43% YoY); consolidated PBT stood at ₹1,802 Cr (+88% YoY)",
+        "FY26 consolidated PAT stood at ₹1,350 Cr (+89% YoY)",
+        "Q4FY26 consolidated revenue stood at ₹10,275 Cr (+66% YoY); Q4FY26 consolidated PAT stood at ₹410 Cr (+118% YoY)",
+        "Q4FY26 India revenue stood at ₹8,990 Cr vs ₹5,350 Cr last year; India PAT stood at ₹366 Cr (+97% YoY)",
+        "Candere Q4FY26 revenue stood at ₹131 Cr vs ₹28 Cr last year, and reported profit of ₹3 Cr vs loss of ₹12 Cr last year"
+      ],
+      "guidance": [
+        { "metric": "FY27 Store Opening Plan", "value": "150 showrooms" },
+        { "metric": "FY27 Candere Store Additions", "value": "50-55 stores" },
+        { "metric": "Dividend Payout", "value": "~₹257 Cr, around 20% of FY26 PAT" },
+        { "metric": "South India Additions", "value": "13-15 stores; larger expansion outside South" }
+      ],
+      "highlights": [
+        "Management called Q4FY26 a fantastic quarter and said momentum from Q3 continued strongly into Q4",
+        "Kalyan launched 129 showrooms across Kalyan and Candere formats in FY26",
+        "India non-GML debt reduced by around ₹360 Cr during the year and from ₹1,300 Cr to ₹300 Cr over the last 3 years",
+        "Candere grew revenue by 160% in FY26, supported by strong SSSG and aggressive network expansion",
+        "Candere turned PAT positive from H2FY26 and has a studded ratio of more than 70%",
+        "FOCO and hybrid store models continue to support faster expansion and better capital efficiency"
+      ],
+      "quote": "\"Kalyan continues to outperform the sector on revenue growth, PAT growth, store expansion, Candere turnaround and debt reduction.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "P N Gadgil Jewellers Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹10,739 Cr", "change": "+40% YoY", "positive": 1 },
+        { "label": "EBITDA (FY26)", "value": "₹704 Cr", "change": "+90% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹410 Cr", "change": "+88% YoY", "positive": 1 },
+        { "label": "Revenue (Q4)", "value": "₹3,544 Cr", "change": "+123% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue stood at ₹10,739 Cr (+40% YoY); gross profit stood at ₹1,302 Cr (+83% YoY)",
+        "FY26 EBITDA stood at ₹704 Cr (+90% YoY), with EBITDA margin of 6.6% (+180 bps YoY)",
+        "FY26 PAT stood at ₹410 Cr (+88% YoY), with PAT margin of 3.8% (+100 bps YoY)",
+        "Retail revenue stood at ₹8,131 Cr (+51% YoY); e-commerce revenue stood at ₹529 Cr (+105% YoY); franchise revenue stood at ₹1,292 Cr (+83% YoY)",
+        "Q4FY26 consolidated revenue stood at ₹3,544 Cr (+123% YoY); Q4FY26 SSSG stood at 86% YoY"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Guidance", "value": "₹13,500 Cr" },
+        { "metric": "FY27 EBITDA Margin Guidance", "value": "7-7.5%" },
+        { "metric": "FY27 PAT Margin Guidance", "value": "4%" },
+        { "metric": "FY27 Store Opening Plan", "value": "~25 stores" },
+        { "metric": "FY27 Hedging Target", "value": "75-80%" }
+      ],
+      "highlights": [
+        "FY26 was a defining year as PNG crossed ₹10,000 Cr revenue for the first time",
+        "Q4FY26 was supported by wedding demand, festive demand and event-led sales",
+        "Total store count stood at 78 stores across 36 cities after adding 25 stores during FY26",
+        "FY26 average revenue per store stood at ₹137.7 Cr; revenue per sq ft stood at ₹4.51 lakh",
+        "Q4FY26 margins were impacted by higher gold bars and coins mix, which rose to 40% of sales",
+        "Old gold exchange is currently around 40% of business and management expects it to move towards 50%+"
+      ],
+      "quote": "\"PNG is outperforming the sector on revenue growth, PAT growth, SSSG, store expansion and profitability improvement.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Senco Gold Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹8,430 Cr", "change": "+33% YoY", "positive": 1 },
+        { "label": "Revenue (Q4)", "value": "₹1,997 Cr", "change": "+45% YoY", "positive": 1 },
+        { "label": "EBITDA (Q4)", "value": "₹274 Cr", "change": "+116% YoY", "positive": 1 },
+        { "label": "PAT (Q4FY26)", "value": "₹157 Cr", "change": "+151% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹8,430 Cr (+33% YoY)",
+        "Q4FY26 revenue stood at ₹1,997 Cr (+45% YoY); Q4FY26 EBITDA stood at ₹274 Cr (+116% YoY)",
+        "Q4FY26 PAT stood at ₹157 Cr (+151% YoY)",
+        "FY26 top line CAGR over 5 years stood at 24%",
+        "Old gold exchange stood at 44% of FY26 revenue and around 50% of Q4FY26 revenue",
+        "Diamond volume grew 9% YoY and diamond value grew 32% YoY"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth Guidance", "value": "18-20%" },
+        { "metric": "FY27 EBITDA Margin Guidance", "value": "~7.5%" },
+        { "metric": "FY27 PAT Margin Guidance", "value": "4-4.5%" },
+        { "metric": "FY27 Store Opening Target", "value": "18-20 stores" },
+        { "metric": "Hedging Ratio", "value": "40-50%" }
+      ],
+      "highlights": [
+        "FY26 was a record-breaking year for Senco from a revenue perspective",
+        "Growth was driven by higher gold prices, customer trust, new store openings and affordable design innovation",
+        "Senco is focusing on 9-carat and 14-carat jewellery in both gold and diamonds",
+        "Lower caratage jewellery, including 9-carat, 14-carat and 18-carat, forms around 13-15% of sales",
+        "Company created more than 1.5 lakh lightweight designs during the year",
+        "Expansion focus remains East India, Bengal, North India and Central India, with more franchise-led growth"
+      ],
+      "quote": "\"Senco is outperforming the sector on Q4 PAT growth, old gold exchange scale-up, diamond value growth and lower-caratage affordability products.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "D.P. Abhushan Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue (FY26)", "value": "₹4,070 Cr", "change": "+23% YoY", "positive": 1 },
+        { "label": "EBITDA (FY26)", "value": "₹310 Cr", "change": "+77% YoY", "positive": 1 },
+        { "label": "PAT (FY26)", "value": "₹212 Cr", "change": "+88% YoY", "positive": 1 },
+        { "label": "PAT (Q4FY26)", "value": "₹51 Cr", "change": "+101% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹4,070 Cr (+23% YoY); FY26 EBITDA stood at ₹310 Cr (+77% YoY)",
+        "FY26 EBITDA margin stood at 7.6%, up 234 bps YoY",
+        "FY26 PAT stood at ₹212 Cr (+88% YoY), with PAT margin of 5.2%, up 180 bps YoY",
+        "Q4FY26 revenue stood at ₹1,339 Cr (+87% YoY); Q4FY26 EBITDA stood at ₹73 Cr (+72% YoY)",
+        "Q4FY26 PAT stood at ₹51 Cr (+101% YoY); Q4FY26 SSG stood around 20%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Guidance", "value": "~₹4,800 Cr" },
+        { "metric": "FY28 Revenue Guidance", "value": "~₹5,500 Cr" },
+        { "metric": "FY27 EBITDA Margin Guidance", "value": "6-6.5%" },
+        { "metric": "Gross Margin Expectation", "value": "10-11%" },
+        { "metric": "Annual Store Opening Plan", "value": "4-5 stores" }
+      ],
+      "highlights": [
+        "Management highlighted that the jewellery industry is moving towards organised, transparent and trusted players",
+        "FY26 growth was mainly value-led, while volume declined around 20% because of high gold prices",
+        "Store network stood at 12 showrooms with total retail store area around 53,650 sq ft",
+        "Average revenue per sq ft stood around ₹7.6 lakh and average revenue per store stood around ₹339 Cr",
+        "Wedding jewellery contributed around 60% of product mix, while festival and lightweight jewellery contributed around 25%",
+        "Company launched DP Swarn Plus, a structured gold accumulation scheme that creates forward-booked demand and customer lock-in"
+      ],
+      "quote": "\"D P Abhushan is outperforming the sector on PAT growth, EBITDA margin expansion and regional execution, but volume decline and inventory-led cash flow remain key monitorables.\"",
+      "quotePerson": "Management Commentary"
+    }
   }
 }

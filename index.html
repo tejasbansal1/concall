@@ -29,7 +29,7 @@
 
     /* ── Layout grids ─────────────────────────────── */
     .sector-grid  { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
-    .company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; }
+    .company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
     .metrics-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 12px; }
 
     @media (max-width: 680px) {
@@ -90,7 +90,6 @@ const DATA_FILES = [
   'peb',
   'gold-finance',
   'mfi',
-  'real-estate',
   'affordable-housing',
   'value-retail',
   'jewelry-retail',
@@ -101,9 +100,10 @@ const DATA_FILES = [
   'ems',
   'capital-markets',
   'hotels',
-  'writing-instruments',
   'nbfc',
-  'sfb'
+  'sfb',
+  'writing-instruments',
+  'real-estate',
 ];
 
 /* ── App ─────────────────────────────────────────── */
@@ -207,7 +207,9 @@ function App() {
     h('nav', { style:{ background:SRF, borderBottom:`1px solid ${BRD}`, position:'sticky', top:0, zIndex:50 } },
       h('div', { style:{ maxWidth:1100, margin:'0 auto', padding:'0 20px', height:54, display:'flex', alignItems:'center', justifyContent:'space-between' } },
         h('div', { style:{ display:'flex', alignItems:'center', gap:10 } },
-          h('img', { src:'logo.png', alt:'Equity Insights Elite', style:{ width:30, height:30, borderRadius:8, objectFit:'cover', cursor:'pointer', flexShrink:0 }, onClick:goS }),
+          h('a', { href:'https://equityinsightselite.com', target:'_blank', rel:'noopener noreferrer', style:{ flexShrink:0, lineHeight:0 } },
+            h('img', { src:'logo.png', alt:'Equity Insights Elite', style:{ width:30, height:30, borderRadius:8, objectFit:'cover', cursor:'pointer', display:'block' } })
+          ),
           h('span', { className:'nav-brand-text', style:{ fontFamily:"'Space Grotesk',sans-serif", fontWeight:700, fontSize:14, color:TX, cursor:'pointer' }, onClick:goS }, 'Concall Research'),
           view !== 's' && h('div', { style:{ display:'flex', alignItems:'center', gap:4, fontSize:12, marginLeft:4 } },
             h('span', { style:{ color:MU } }, '›'),
@@ -240,7 +242,8 @@ function App() {
     /* ── Footer ────────────────────────────────── */
     h('footer', { style:{ background:SRF, borderTop:`1px solid ${BRD}`, padding:'14px 20px', textAlign:'center' } },
       h('span', { style:{ fontSize:11, color:MU } },
-        'Equity Insights Elite · Concall Research · ' + totalCos + ' companies · ' + sectors.length + ' sectors · Q4FY26 data as of May 2026'
+h('a', { href:'https://equityinsightselite.com', target:'_blank', rel:'noopener noreferrer', style:{ color:MU, textDecoration:'none' } }, 'Equity Insights Elite'),
+        ' · Concall Research · ' + totalCos + ' companies · ' + sectors.length + ' sectors · Q4FY26 data as of May 2026'
       )
     )
   );
@@ -262,29 +265,65 @@ function SView({ sectors, totalCos, onSel }) {
 function SCard({ s, onClick }) {
   const [hov, setHov] = useState(false);
   return h('div', {
-    className:'hov',
-    style:{ background:SRF, border:`1px solid ${hov?s.ac:BRD}`, borderRadius:14, padding:22, overflow:'hidden', position:'relative', boxShadow:hov?`0 8px 28px ${s.ac}1A`:'0 1px 4px rgba(0,0,0,0.05)' },
+    style:{
+      background: SRF,
+      border: `1.5px solid ${hov ? s.ac : BRD}`,
+      borderRadius: 18,
+      overflow: 'hidden',
+      cursor: 'pointer',
+      boxShadow: hov ? `0 20px 48px ${s.ac}30` : '0 2px 10px rgba(0,0,0,0.06)',
+      transform: hov ? 'translateY(-5px)' : 'translateY(0)',
+      transition: 'all 0.22s ease',
+    },
     onClick, onMouseEnter:()=>setHov(true), onMouseLeave:()=>setHov(false)
   },
-    h('div', { style:{ position:'absolute', top:0, left:0, right:0, height:4, background:s.ac } }),
-    h('div', { style:{ marginTop:8 } },
-      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'flex-start', marginBottom:10 } },
+    /* Gradient header */
+    h('div', { style:{
+      background: `linear-gradient(140deg, ${s.ac}20 0%, ${s.ac}08 100%)`,
+      padding: '20px 22px 16px',
+      borderBottom: `1px solid ${s.ac}20`,
+    }},
+      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'flex-start' }},
         h('div', null,
-          h('h2', { style:{ fontSize:15, fontWeight:700, color:TX, margin:'0 0 5px', fontFamily:"'Space Grotesk',sans-serif" } }, s.nm),
-          h('span', { style:{ fontSize:10, fontWeight:700, color:s.ac, background:s.al, padding:'2px 8px', borderRadius:10 } }, s.cos.length + ' companies')
+          h('div', { style:{ display:'flex', alignItems:'center', gap:7, marginBottom:8 }},
+            h('div', { style:{ width:8, height:8, borderRadius:'50%', background:s.ac, flexShrink:0 }}),
+            h('span', { style:{ fontSize:10, fontWeight:700, color:s.ac, textTransform:'uppercase', letterSpacing:'0.9px' }}, s.nm)
+          ),
+          h('div', { style:{ fontSize:30, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif", lineHeight:1 }}, s.cos.length),
+          h('div', { style:{ fontSize:11, color:S2, marginTop:4 }}, 'companies tracked')
         ),
-        s.d && h('span', { style:{ fontSize:10, color:'#059669', background:'#ECFDF5', padding:'2px 7px', borderRadius:10, fontWeight:700 } }, 'Q4FY26 ✓')
-      ),
-      h('p', { style:{ fontSize:12, color:S2, lineHeight:1.6, margin:'0 0 14px' } }, s.desc),
-      h('div', { style:{ display:'flex', gap:4, flexWrap:'wrap', marginBottom:16 } },
+        s.d && h('div', { style:{
+          background:'#059669', color:'#fff',
+          fontSize:9, fontWeight:700, padding:'4px 10px', borderRadius:20, letterSpacing:'0.5px', marginTop:2
+        }}, 'Q4FY26 ✓')
+      )
+    ),
+    /* Body */
+    h('div', { style:{ padding:'16px 22px 20px' }},
+      h('p', { style:{ fontSize:12, color:S2, lineHeight:1.7, margin:'0 0 14px' }}, s.desc),
+      h('div', { style:{ display:'flex', gap:5, flexWrap:'wrap', marginBottom:18 }},
         ...s.cos.slice(0,4).map((c,i) =>
-          h('span', { key:i, style:{ fontSize:10, color:MU, background:'#F8FAFC', borderRadius:5, padding:'2px 7px', border:`1px solid ${BRD}` } }, sn(c).split(' ')[0])
+          h('span', { key:i, style:{
+            fontSize:10, color:s.ac, background:s.al,
+            borderRadius:6, padding:'3px 10px', fontWeight:600
+          }}, sn(c).split(' ')[0])
         ),
-        s.cos.length > 4 && h('span', { key:'m', style:{ fontSize:10, color:MU } }, '+' + (s.cos.length-4))
+        s.cos.length > 4 && h('span', { key:'m', style:{ fontSize:10, color:MU, alignSelf:'center' }}, '+' + (s.cos.length-4) + ' more')
       ),
-      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'center' } },
-        h('span', { style:{ fontSize:11, color:s.d?'#059669':MU, fontWeight:s.d?600:400 } }, s.d ? 'Research data available' : 'Coming soon'),
-        h('span', { style:{ fontSize:16, color:s.ac, fontWeight:700 } }, hov?'→':'›')
+      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'center' }},
+        h('span', { style:{ fontSize:11, color:s.d?'#059669':MU, fontWeight:s.d?600:400 }},
+          s.d ? '● Research available' : '○ Coming soon'
+        ),
+        h('div', { style:{
+          width:32, height:32, borderRadius:'50%',
+          background: hov ? s.ac : s.al,
+          display:'flex', alignItems:'center', justifyContent:'center',
+          transition:'all 0.22s ease', flexShrink:0
+        }},
+          h('svg', { width:14, height:14, viewBox:'0 0 24 24', fill:'none', stroke: hov ? '#fff' : s.ac, strokeWidth:2.5, strokeLinecap:'round', strokeLinejoin:'round' },
+            h('path', { d:'M5 12h14M12 5l7 7-7 7' })
+          )
+        )
       )
     )
   );
@@ -323,16 +362,45 @@ function CView({ sec, concall, onSel }) {
 function CCard({ c, sec, hasData, onClick }) {
   const [hov, setHov] = useState(false);
   return h('div', {
-    className:'hov',
-    style:{ background:SRF, border:`1px solid ${hov?sec.ac:BRD}`, borderRadius:10, padding:'14px 16px', borderLeft:`3px solid ${sec.ac}`, boxShadow:hov?`0 4px 14px ${sec.ac}18`:'0 1px 3px rgba(0,0,0,0.04)' },
+    style:{
+      background: SRF,
+      border: `1.5px solid ${hov ? sec.ac : BRD}`,
+      borderRadius: 14,
+      overflow: 'hidden',
+      cursor: 'pointer',
+      boxShadow: hov ? `0 12px 32px ${sec.ac}28` : '0 2px 8px rgba(0,0,0,0.05)',
+      transform: hov ? 'translateY(-4px)' : 'translateY(0)',
+      transition: 'all 0.2s ease',
+    },
     onClick, onMouseEnter:()=>setHov(true), onMouseLeave:()=>setHov(false)
   },
-    h('div', { style:{ fontSize:12, fontWeight:600, color:TX, marginBottom:8, lineHeight:1.4 } }, sn(c)),
-    h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'center' } },
+    /* Gradient header */
+    h('div', { style:{
+      background: `linear-gradient(140deg, ${sec.ac}1A 0%, ${sec.ac}08 100%)`,
+      padding: '14px 16px 12px',
+      borderBottom: `1px solid ${sec.ac}1A`,
+    }},
+      h('div', { style:{ display:'flex', alignItems:'center', gap:6, marginBottom:6 }},
+        h('div', { style:{ width:6, height:6, borderRadius:'50%', background: sec.ac, flexShrink:0 }}),
+        h('span', { style:{ fontSize:9, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.8px' }}, sec.nm)
+      ),
+      h('div', { style:{ fontSize:13, fontWeight:700, color:TX, lineHeight:1.4 }}, sn(c))
+    ),
+    /* Footer */
+    h('div', { style:{ padding:'10px 16px', display:'flex', justifyContent:'space-between', alignItems:'center' }},
       hasData
-        ? h('span', { style:{ fontSize:10, color:sec.ac, fontWeight:700, background:sec.al, padding:'2px 6px', borderRadius:4 } }, 'Q4FY26 ✓')
-        : h('span', { style:{ fontSize:10, color:MU } }, 'No data yet'),
-      h('span', { style:{ color:sec.ac, fontWeight:700, fontSize:14 } }, hov?'→':'›')
+        ? h('div', { style:{ background:'#059669', color:'#fff', fontSize:9, fontWeight:700, padding:'3px 8px', borderRadius:20, letterSpacing:'0.4px' }}, 'Q4FY26 ✓')
+        : h('span', { style:{ fontSize:10, color:MU }}, '○ No data yet'),
+      h('div', { style:{
+        width:26, height:26, borderRadius:'50%',
+        background: hov ? sec.ac : sec.al,
+        display:'flex', alignItems:'center', justifyContent:'center',
+        transition:'all 0.2s ease', flexShrink:0
+      }},
+        h('svg', { width:12, height:12, viewBox:'0 0 24 24', fill:'none', stroke: hov ? '#fff' : sec.ac, strokeWidth:2.5, strokeLinecap:'round', strokeLinejoin:'round' },
+          h('path', { d:'M5 12h14M12 5l7 7-7 7' })
+        )
+      )
     )
   );
 }
@@ -341,89 +409,110 @@ function CCard({ c, sec, hasData, onClick }) {
 function DView({ co, sec, concall }) {
   const d = concall[co];
 
-  if (!d) return h('div', { style:{ textAlign:'center', padding:'60px 0' } },
-    h('div', { style:{ fontSize:36, marginBottom:12 } }, '🔬'),
-    h('div', { style:{ fontSize:15, fontWeight:600, color:TX, marginBottom:6 } }, 'Research in Progress'),
-    h('p',   { style:{ fontSize:13, color:S2 } }, 'Q4FY26 concall data for ' + sn(co) + ' has not been added yet.')
+  if (!d) return h('div', { style:{ textAlign:'center', padding:'80px 0' } },
+    h('div', { style:{ width:64, height:64, borderRadius:18, background:sec.al, display:'flex', alignItems:'center', justifyContent:'center', margin:'0 auto 16px' } },
+      h('span', { style:{ fontSize:28 } }, '🔬')
+    ),
+    h('div', { style:{ fontSize:16, fontWeight:700, color:TX, marginBottom:8, fontFamily:"'Space Grotesk',sans-serif" } }, 'Research in Progress'),
+    h('p', { style:{ fontSize:13, color:S2, maxWidth:300, margin:'0 auto' } }, 'Q4FY26 concall data for ' + sn(co) + ' hasn\'t been added yet.')
   );
 
-  const tBg = {
-    background: d.toneColor === '#059669' ? '#ECFDF5' : d.toneColor === '#D97706' ? '#FEF3C7' : '#EFF6FF',
-    color: d.toneColor
-  };
+  return h('div', { style:{ display:'flex', flexDirection:'column', gap:12 } },
 
-  return h('div', null,
-
-    /* Header */
-    h('div', { style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:14, padding:'20px 24px', marginBottom:12, borderTop:`3px solid ${sec.ac}` } },
-      h('div', { style:{ display:'flex', justifyContent:'space-between', alignItems:'flex-start', flexWrap:'wrap', gap:12 } },
-        h('div', null,
-          h('div', { style:{ display:'flex', gap:6, marginBottom:8 } },
-            h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, background:sec.al, padding:'3px 8px', borderRadius:5, textTransform:'uppercase', letterSpacing:'0.6px' } }, sec.nm),
-            h('span', { style:{ fontSize:10, color:MU, border:`1px solid ${BRD}`, padding:'2px 7px', borderRadius:5 } }, d.quarter || 'Q4FY26')
-          ),
-          h('h1', { style:{ fontSize:20, fontWeight:700, color:TX, margin:'0 0 3px', fontFamily:"'Space Grotesk',sans-serif" } }, sn(co)),
-          h('div', { style:{ fontSize:11, color:MU } }, 'NSE / BSE Listed · Indian Equity · Data as of May 2026')
-        ),
-        d.tone && h('span', { style:{ ...tBg, fontSize:11, fontWeight:700, padding:'5px 14px', borderRadius:20 } }, '● ' + d.tone)
-      )
+    /* ── Hero Header ── */
+    h('div', { style:{
+      background:`linear-gradient(140deg, ${sec.ac}1C 0%, ${sec.ac}08 100%)`,
+      border:`1.5px solid ${sec.ac}28`, borderRadius:18,
+      padding:'24px 24px 20px', position:'relative', overflow:'hidden'
+    }},
+      h('div', { style:{ position:'absolute', right:-24, top:-24, width:130, height:130, borderRadius:'50%', background:`${sec.ac}0E`, pointerEvents:'none' } }),
+      h('div', { style:{ display:'flex', gap:8, marginBottom:14 } },
+        h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, background:sec.al, padding:'4px 11px', borderRadius:20, textTransform:'uppercase', letterSpacing:'0.6px' } }, sec.nm),
+        h('span', { style:{ fontSize:10, color:MU, background:SRF, border:`1px solid ${BRD}`, padding:'3px 10px', borderRadius:20 } }, d.quarter || 'Q4FY26')
+      ),
+      h('h1', { style:{ fontSize:22, fontWeight:700, color:TX, margin:'0 0 6px', fontFamily:"'Space Grotesk',sans-serif", lineHeight:1.2 } }, sn(co)),
+      h('div', { style:{ fontSize:11, color:S2 } }, 'NSE / BSE Listed · Indian Equity · Data as of May 2026')
     ),
 
-    /* Q4 Metrics */
+    /* ── Metrics ── */
     d.metrics && d.metrics.length > 0 && h('div', { className:'metrics-grid' },
-      ...d.metrics.map((m,i) => h('div', { key:i, style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:10, padding:'13px 15px' } },
-        h('div', { style:{ fontSize:9,  color:MU, textTransform:'uppercase', letterSpacing:'0.7px', marginBottom:5 } }, m.label),
-        h('div', { style:{ fontSize:17, fontWeight:700, color:TX, marginBottom:3, fontFamily:"'Space Grotesk',sans-serif" } }, m.value),
-        h('div', { style:{ fontSize:10, color:pct(m) } }, m.change)
-      ))
+      ...d.metrics.map((m,i) => {
+        const col = pct(m);
+        const bg  = col === '#059669' ? '#ECFDF5' : col === '#EF4444' ? '#FEF2F2' : '#F8FAFC';
+        return h('div', { key:i, style:{
+          background:SRF, border:`1.5px solid ${BRD}`,
+          borderLeft:`4px solid ${col}`,
+          borderRadius:12, padding:'14px 16px'
+        }},
+          h('div', { style:{ fontSize:9, color:MU, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:6 } }, m.label),
+          h('div', { style:{ fontSize:18, fontWeight:700, color:TX, marginBottom:6, fontFamily:"'Space Grotesk',sans-serif" } }, m.value),
+          h('div', { style:{ display:'inline-flex', fontSize:10, fontWeight:600, color:col, background:bg, padding:'2px 8px', borderRadius:10 } }, m.change)
+        );
+      })
     ),
 
-    /* FY Annual Performance */
-    d.fyPerformance && d.fyPerformance.length > 0 && h('div', { style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
-      h('div', { style:{ fontSize:10, fontWeight:700, color:MU, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:10 } }, 'Full Year Performance'),
-      h('div', { style:{ display:'flex', flexDirection:'column', gap:6 } },
-        ...d.fyPerformance.map((item,i) => h('div', { key:i, style:{ display:'flex', gap:8, fontSize:12, color:S2, lineHeight:1.55 } },
-          h('span', { style:{ color:sec.ac, flexShrink:0 } }, '+'),
-          item
+    /* ── FY Performance ── */
+    d.fyPerformance && d.fyPerformance.length > 0 && h('div', { style:{ background:SRF, border:`1.5px solid ${BRD}`, borderRadius:14, overflow:'hidden' } },
+      h('div', { style:{ padding:'13px 20px', background:`${sec.ac}09`, borderBottom:`1px solid ${sec.ac}1C` } },
+        h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.9px' } }, 'Full Year Performance')
+      ),
+      h('div', null,
+        ...d.fyPerformance.map((item,i) => h('div', { key:i, style:{
+          display:'flex', gap:12, alignItems:'flex-start',
+          padding:'11px 20px',
+          borderBottom: i < d.fyPerformance.length-1 ? `1px solid ${BRD}` : 'none'
+        }},
+          h('div', { style:{ width:22, height:22, borderRadius:'50%', background:sec.al, display:'flex', alignItems:'center', justifyContent:'center', flexShrink:0, marginTop:1 }},
+            h('svg', { width:10, height:10, viewBox:'0 0 24 24', fill:'none', stroke:sec.ac, strokeWidth:2.5, strokeLinecap:'round', strokeLinejoin:'round' },
+              h('path', { d:'M12 19V5M5 12l7-7 7 7' })
+            )
+          ),
+          h('span', { style:{ fontSize:12, color:S2, lineHeight:1.65 } }, item)
         ))
       )
     ),
 
-    /* Numeric Guidance */
-    d.hasNumericGuidance && d.guidance && d.guidance.length > 0 && h('div', { style:{ background:`${sec.ac}07`, border:`1px solid ${sec.ac}28`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
-      h('div', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:12 } }, 'FY27 Numeric Guidance'),
-      h('table', { style:{ width:'100%', borderCollapse:'collapse' } },
-        h('tbody', null,
-          ...d.guidance.map((g,i) => h('tr', { key:i },
-            h('td', { style:{ padding:'9px 0', fontSize:12, color:S2, borderBottom:i<d.guidance.length-1?`1px solid ${BRD}`:'none', paddingRight:20 } }, g.metric),
-            h('td', { style:{ padding:'9px 0', fontSize:13, fontWeight:700, color:TX, borderBottom:i<d.guidance.length-1?`1px solid ${BRD}`:'none', textAlign:'right' } }, g.value)
-          ))
-        )
-      )
-    ),
-
-    /* Management Outlook (when no numeric guidance) */
-    !d.hasNumericGuidance && d.outlook && h('div', { style:{ background:`${sec.ac}05`, border:`1px solid ${sec.ac}22`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
-      h('div', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:10 } }, 'Management Tone & Outlook'),
-      h('p', { style:{ fontSize:12, color:S2, margin:0, lineHeight:1.8 } }, d.outlook)
-    ),
-
-    /* Highlights */
-    d.highlights && d.highlights.length > 0 && h('div', { style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:12, padding:'16px 20px', marginBottom:12 } },
-      h('div', { style:{ fontSize:10, fontWeight:700, color:MU, textTransform:'uppercase', letterSpacing:'0.8px', marginBottom:12 } }, 'Key Highlights'),
-      h('div', { style:{ display:'flex', flexDirection:'column', gap:9 } },
-        ...d.highlights.map((hl,i) => h('div', { key:i, style:{ display:'flex', gap:10, alignItems:'flex-start' } },
-          h('div', { style:{ width:6, height:6, borderRadius:'50%', background:sec.ac, marginTop:4, flexShrink:0 } }),
-          h('span', { style:{ fontSize:12, color:S2, lineHeight:1.6 } }, hl)
+    /* ── Numeric Guidance ── */
+    d.hasNumericGuidance && d.guidance && d.guidance.length > 0 && h('div', { style:{ background:SRF, border:`1.5px solid ${sec.ac}30`, borderRadius:14, overflow:'hidden' } },
+      h('div', { style:{ padding:'13px 20px', background:`${sec.ac}0C`, borderBottom:`1px solid ${sec.ac}22` } },
+        h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.9px' } }, 'FY27 Guidance')
+      ),
+      h('div', null,
+        ...d.guidance.map((g,i) => h('div', { key:i, style:{
+          display:'flex', justifyContent:'space-between', alignItems:'center',
+          padding:'12px 20px',
+          borderBottom: i < d.guidance.length-1 ? `1px solid ${BRD}` : 'none'
+        }},
+          h('span', { style:{ fontSize:12, color:S2 } }, g.metric),
+          h('span', { style:{ fontSize:13, fontWeight:700, color:sec.ac } }, g.value)
         ))
       )
     ),
 
-    /* MD Quote */
-    d.quote && h('div', { style:{ borderLeft:`3px solid ${sec.ac}`, padding:'14px 18px', background:`${sec.ac}04`, borderRadius:'0 10px 10px 0' } },
-      h('p',   { style:{ fontSize:12, fontStyle:'italic', color:TX, margin:'0 0 8px', lineHeight:1.7 } }, d.quote),
-      d.quotePerson && h('div', { style:{ fontSize:11, fontWeight:700, color:sec.ac } }, '— ' + d.quotePerson)
-    )
+    /* ── Outlook ── */
+    !d.hasNumericGuidance && d.outlook && h('div', { style:{ background:SRF, border:`1.5px solid ${sec.ac}28`, borderRadius:14, overflow:'hidden' } },
+      h('div', { style:{ padding:'13px 20px', background:`${sec.ac}09`, borderBottom:`1px solid ${sec.ac}1C` } },
+        h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.9px' } }, 'Management Outlook')
+      ),
+      h('p', { style:{ fontSize:12, color:S2, lineHeight:1.85, margin:0, padding:'16px 20px' } }, d.outlook)
+    ),
+
+    /* ── Key Highlights ── */
+    d.highlights && d.highlights.length > 0 && h('div', { style:{ background:SRF, border:`1.5px solid ${BRD}`, borderRadius:14, overflow:'hidden' } },
+      h('div', { style:{ padding:'13px 20px', background:'#F8FAFC', borderBottom:`1px solid ${BRD}` } },
+        h('span', { style:{ fontSize:10, fontWeight:700, color:MU, textTransform:'uppercase', letterSpacing:'0.9px' } }, 'Key Highlights')
+      ),
+      h('div', null,
+        ...d.highlights.map((hl,i) => h('div', { key:i, style:{
+          display:'flex', gap:12, alignItems:'flex-start',
+          padding:'12px 20px',
+          borderBottom: i < d.highlights.length-1 ? `1px solid ${BRD}` : 'none'
+        }},
+          h('div', { style:{ width:8, height:8, borderRadius:'50%', background:sec.ac, flexShrink:0, marginTop:4 } }),
+          h('span', { style:{ fontSize:12, color:S2, lineHeight:1.65 } }, hl)
+        ))
+      )
+    ),
   );
 }
 

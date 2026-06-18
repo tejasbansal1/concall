@@ -1,0 +1,27 @@
+{
+  "sector": {
+    "name": "Auto Ancillaries",
+    "description": "Automotive component manufacturers supplying to OEMs across 2W, 4W, and commercial vehicle segments",
+    "accent": "#64748B",
+    "accentLight": "#F1F5F9"
+  },
+  "companies": [
+    "ASK Automotive Ltd",
+    "Belrise Industries Ltd",
+    "Endurance Technologies Ltd",
+    "Fiem Industries Ltd",
+    "Gabriel India Ltd",
+    "Lumax Auto Technologies Ltd",
+    "Lumax Industries Ltd",
+    "NDR Auto Components Ltd",
+    "Pricol Ltd",
+    "S J S Enterprises Ltd",
+    "Sandhar Technologies Ltd",
+    "Sansera Engineering Ltd",
+    "Sona BLW Precision Forgings Ltd",
+    "Talbros Automotive Components Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

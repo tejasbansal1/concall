@@ -1,0 +1,18 @@
+{
+  "sector": {
+    "name": "Jewelry Retail",
+    "description": "Organised jewellery retail chains spanning studded, gold, and lifestyle jewellery across India",
+    "accent": "#B45309",
+    "accentLight": "#FEF3C7"
+  },
+  "companies": [
+    "D.P. Abhushan Ltd",
+    "Kalyan Jewellers India Ltd",
+    "P N Gadgil Jewellers Ltd",
+    "Senco Gold Ltd",
+    "Titan Company Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

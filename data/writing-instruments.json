@@ -1,0 +1,17 @@
+{
+  "sector": {
+    "name": "Writing Instruments",
+    "description": "Stationery and writing instruments manufacturers with domestic and export presence",
+    "accent": "#DB2777",
+    "accentLight": "#FDF2F8"
+  },
+  "companies": [
+    "Cello World Ltd",
+    "DOMS Industries Ltd",
+    "Flair Writing Industries Ltd",
+    "Linc Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

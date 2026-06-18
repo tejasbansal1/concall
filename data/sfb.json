@@ -1,0 +1,20 @@
+{
+  "sector": {
+    "name": "Small Finance Banks",
+    "description": "Small finance banks serving underserved and unbanked segments across India",
+    "accent": "#4F46E5",
+    "accentLight": "#EEF2FF"
+  },
+  "companies": [
+    "Capital Small Finance Bank Ltd",
+    "Equitas Small Finance Bank Ltd",
+    "ESAF Small Finance Bank Ltd",
+    "Jana Small Finance Bank Ltd",
+    "Suryoday Small Finance Bank Ltd",
+    "Ujjivan Small Finance Bank Ltd",
+    "Utkarsh Small Finance Bank Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

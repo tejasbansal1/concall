@@ -1,0 +1,18 @@
+{
+  "sector": {
+    "name": "Affordable Housing",
+    "description": "NBFCs and HFCs providing home loans to underserved segments across Tier-2 and Tier-3 India",
+    "accent": "#0EA5E9",
+    "accentLight": "#E0F2FE"
+  },
+  "companies": [
+    "Aadhar Housing Finance Ltd",
+    "AAVAS Financiers Ltd",
+    "Aptus Value Housing Finance Ltd",
+    "Home First Finance Company Ltd",
+    "India Shelter Finance Corporation Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

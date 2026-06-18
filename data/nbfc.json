@@ -1,0 +1,30 @@
+{
+  "sector": {
+    "name": "NBFC",
+    "description": "Non-banking financial companies spanning consumer, SME, and infrastructure lending across India",
+    "accent": "#0369A1",
+    "accentLight": "#F0F9FF"
+  },
+  "companies": [
+    "Aditya Birla Capital Ltd",
+    "Bajaj Finance Ltd",
+    "Cholamandalam Investment and Finance Company Ltd",
+    "Five Star Business Finance Ltd",
+    "HDB Financial Services Ltd",
+    "IREDA Ltd",
+    "L&T Finance Ltd",
+    "Mahindra & Mahindra Financial Services Ltd",
+    "MAS Financial Services Ltd",
+    "Northern Arc Capital Ltd",
+    "Piramal Finance Ltd",
+    "Poonawalla Fincorp Ltd",
+    "Power Finance Corporation Ltd",
+    "SBFC Finance Ltd",
+    "SG Finserve Ltd",
+    "Shriram Finance Ltd",
+    "Tata Capital Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

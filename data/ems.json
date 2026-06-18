@@ -1,0 +1,21 @@
+{
+  "sector": {
+    "name": "EMS",
+    "description": "Electronics manufacturing services providers supplying consumer, industrial, and defence segments",
+    "accent": "#2563EB",
+    "accentLight": "#EFF6FF"
+  },
+  "companies": [
+    "Amber Enterprises India Ltd",
+    "Avalon Technologies Ltd",
+    "Dixon Technologies India Ltd",
+    "Epack Durable Ltd",
+    "Kaynes Technology India Ltd",
+    "PG Electroplast Ltd",
+    "Syrma SGS Technology Ltd",
+    "Virtuoso Optoelectronics Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

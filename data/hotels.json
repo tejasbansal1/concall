@@ -1,0 +1,22 @@
+{
+  "sector": {
+    "name": "Hotels",
+    "description": "Hotel and hospitality chains spanning luxury, upper-upscale, and mid-scale segments across India",
+    "accent": "#D97706",
+    "accentLight": "#FFFBEB"
+  },
+  "companies": [
+    "Apeejay Surrendra Park Hotels Ltd",
+    "Brigade Hotel Ventures Ltd",
+    "Chalet Hotels Ltd",
+    "EIH Ltd",
+    "Indian Hotels Company Ltd",
+    "Juniper Hotels Ltd",
+    "Leela Palaces Hotels & Resorts Ltd",
+    "Lemon Tree Hotels Ltd",
+    "Samhi Hotels Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sector": {
+    "name": "Hospitals",
+    "description": "Multi-specialty and super-specialty hospital chains across India",
+    "accent": "#DC2626",
+    "accentLight": "#FEF2F2"
+  },
+  "companies": [
+    "Apollo Hospitals Enterprise Ltd",
+    "Artemis Medicare Services Ltd",
+    "Aster DM Healthcare Ltd",
+    "Dr Agarwals Health Care Ltd",
+    "Fortis Healthcare Ltd",
+    "Global Health Ltd",
+    "HealthCare Global Enterprises Ltd",
+    "Indraprastha Medical Corporation Ltd",
+    "Jupiter Life Line Hospitals Ltd",
+    "Krishna Institute of Medical Sciences Ltd",
+    "Max Healthcare Institute Ltd",
+    "Narayana Hrudayalaya Ltd",
+    "Nephrocare Health Services Ltd",
+    "Park Mediworld Ltd",
+    "Rainbow Childrens Medicare Ltd",
+    "Yatharth Hospital & Trauma Care Services Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sector": {
+    "name": "Capital Markets",
+    "description": "AMCs, wealth managers, brokers, and capital market intermediaries across India",
+    "accent": "#0F766E",
+    "accentLight": "#F0FDFA"
+  },
+  "companies": [
+    "360 ONE WAM Ltd",
+    "Aditya Birla Sun Life AMC Ltd",
+    "Anand Rathi Wealth Ltd",
+    "Angel One Ltd",
+    "Billionbrains Garage Ventures Ltd",
+    "Edelweiss Financial Services Ltd",
+    "HDFC Asset Management Company Ltd",
+    "ICICI Prudential Asset Management Company Ltd",
+    "JM Financial Ltd",
+    "Motilal Oswal Financial Services Ltd",
+    "Nippon Life India Asset Management Ltd",
+    "Nuvama Wealth Management Ltd",
+    "Prudent Corporate Advisory Services Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "sector": {
+    "name": "Wires & Cables",
+    "description": "Wire and cable manufacturers serving power, infrastructure, and industrial segments across India",
+    "accent": "#059669",
+    "accentLight": "#ECFDF5"
+  },
+  "companies": [
+    "Apar Industries Ltd",
+    "Dynamic Cables Ltd",
+    "KEI Industries Ltd",
+    "Polycab India Ltd",
+    "R R Kabel Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

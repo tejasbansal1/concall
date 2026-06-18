@@ -1,0 +1,16 @@
+{
+  "sector": {
+    "name": "Value Retail",
+    "description": "Value-format apparel and general merchandise chains targeting price-conscious consumers across India",
+    "accent": "#F97316",
+    "accentLight": "#FFF7ED"
+  },
+  "companies": [
+    "V-Mart Retail Ltd",
+    "V2 Retail Ltd",
+    "Vishal Mega Mart Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

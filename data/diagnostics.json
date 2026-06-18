@@ -1,0 +1,20 @@
+{
+  "sector": {
+    "name": "Diagnostics",
+    "description": "Pathology labs, diagnostic chains, and imaging centres serving patients across India",
+    "accent": "#8B5CF6",
+    "accentLight": "#F5F3FF"
+  },
+  "companies": [
+    "3B Blackbio DX Ltd",
+    "Dr Lal Pathlabs Ltd",
+    "Krsnaa Diagnostics Ltd",
+    "Metropolis Healthcare Ltd",
+    "Suraksha Diagnostic Ltd",
+    "Thyrocare Technologies Ltd",
+    "Vijaya Diagnostic Centre Ltd"
+  ],
+  "concall": {
+    "_template": {}
+  }
+}

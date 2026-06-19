@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "NBFC",
-    "description": "Non-banking financial companies spanning consumer, SME, and infrastructure lending across India",
+    "description": "NBFCs recovering with secured growth and lower credit costs",
     "accent": "#0369A1",
     "accentLight": "#F0F9FF"
   },
@@ -11,7 +11,6 @@
     "Cholamandalam Investment and Finance Company Ltd",
     "Five Star Business Finance Ltd",
     "HDB Financial Services Ltd",
-    "IREDA Ltd",
     "L&T Finance Ltd",
     "Mahindra & Mahindra Financial Services Ltd",
     "MAS Financial Services Ltd",
@@ -25,6 +24,570 @@
     "Tata Capital Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Bajaj Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "~₹5.1 L Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "Q4 AUM Addition", "value": "~₹25,500 Cr", "change": "Q4FY26", "positive": 1 },
+        { "label": "Q4 PAT", "value": "+27%", "change": "YoY", "positive": 1 },
+        { "label": "Customer Franchise", "value": "119.3 Mn", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM crossed the ₹5 lakh Cr milestone and stood around ₹5,10,000 Cr, up 22%",
+        "Q4FY26 AUM addition stood around ₹25,500 Cr",
+        "Q4FY26 loans booked stood at 12.9 Mn, while new customers added stood at 3.93 Mn",
+        "GNPA stood at 101 bps, NNPA stood at 41 bps and provision coverage stood at 60%",
+        "Q4FY26 ROA stood around 5%, while ROE stood at 20%"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth", "value": "20-24%" },
+        { "metric": "FY27 New Customers", "value": "15-17 Mn" },
+        { "metric": "ROA Guidance", "value": "Around 4-5%" },
+        { "metric": "ROE Guidance", "value": "19-20%" }
+      ],
+      "highlights": [
+        "Growth was broad-based across businesses",
+        "Gold loan portfolio grew 115% and now contributes 3.5% of overall AUM",
+        "Management expects gold loans to move towards around 5% of AUM in FY27",
+        "MSME growth was muted due to proactive risk actions, with recovery expected after June 2026",
+        "Captive 2W / 3W book is expected to run down below ₹1,500 Cr by September 2026",
+        "Management expects significant AI deployment across revenue, cost, underwriting and controllership"
+      ],
+      "quote": "\"Bajaj Finance is outperforming the sector on scale, customer franchise, profitability, credit quality and execution consistency.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Cholamandalam Investment and Finance Company Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "₹2,42,630 Cr", "change": "+21% YoY", "positive": 1 },
+        { "label": "Q4 Disbursement", "value": "₹32,913 Cr", "change": "+25% YoY", "positive": 1 },
+        { "label": "ROA Before Overlay", "value": "~4%", "change": "Q4FY26", "positive": 1 },
+        { "label": "ROE", "value": "23%", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM stood at ₹2,42,630 Cr, up 21% YoY",
+        "Q4FY26 disbursement stood at ₹32,913 Cr, up 25% YoY",
+        "Auto AUM stood at ₹1,19,558 Cr, up 18% YoY",
+        "LAP AUM stood at ₹52,295 Cr, up 26% YoY",
+        "SME AUM grew 41%, while SBPL AUM grew 46%"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth", "value": "20-23%" },
+        { "metric": "Vehicle Finance Growth", "value": "~18%" },
+        { "metric": "LAP / Home Loan Growth", "value": "25-30%" },
+        { "metric": "FY27 Credit Cost", "value": "Towards 150 bps" }
+      ],
+      "highlights": [
+        "Chola delivered broad-based disbursement growth across vehicle finance, MSME, consumer and gold loans",
+        "Vehicle finance disbursement grew 26% YoY in Q4FY26",
+        "Consumer segment disbursement grew 45% YoY, supported by newer products and gold loans",
+        "NIM improved 40 bps YoY in Q4 due to lower cost of funds",
+        "Company created ₹200 Cr management overlay as a precautionary buffer",
+        "Core asset quality indicators remain resilient"
+      ],
+      "quote": "\"Chola is outperforming the sector on diversified growth, vehicle finance franchise, LAP profitability, new product scale-up and balance sheet strength.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "L&T Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 PAT", "value": "₹3,003 Cr", "change": "+14% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹807 Cr", "change": "+27% YoY", "positive": 1 },
+        { "label": "Retail Book", "value": "₹1,19,508 Cr", "change": "+26% YoY", "positive": 1 },
+        { "label": "Q4 NIM + Fees", "value": "10.47%", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 PAT stood at ₹3,003 Cr, up 14% before labour code impact",
+        "Q4FY26 PAT stood at ₹807 Cr, up 27% YoY",
+        "Q4FY26 retail disbursement stood at ₹24,107 Cr, up 62% YoY",
+        "Retail book stood at ₹1,19,508 Cr, up 26% YoY",
+        "Overall book size stood at ₹1,21,728 Cr"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth", "value": "Above 20%" },
+        { "metric": "FY27 NIM + Fees", "value": "10-10.5%" },
+        { "metric": "Q4FY27 Credit Cost", "value": "2-2.2%" },
+        { "metric": "Q4FY27 ROA Target", "value": "At least 2.8%" }
+      ],
+      "highlights": [
+        "FY26 was a strong year with highest ever annual PAT and strong retail growth",
+        "Q4FY26 saw highest ever quarterly retail disbursement",
+        "Project Cyclops helped improve underwriting, credit administration and collections",
+        "Retail book is now the core growth engine",
+        "Credit cost moderated due to policy actions in two-wheeler, SME and farm businesses",
+        "Payments platform is planned by Q2FY27 to support acquisition, fees and data-led lending"
+      ],
+      "quote": "\"L&T Finance is outperforming the sector on retail transformation, AI-led underwriting, disbursement momentum and improving credit cost trajectory.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Mahindra & Mahindra Financial Services Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": false,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM Growth", "value": "12%", "change": "FY26", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹873 Cr", "change": "+55% YoY", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹2,782 Cr", "change": "+19% YoY", "positive": 1 },
+        { "label": "GS2 + GS3", "value": "8.18%", "change": "8-year low", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Business AUM grew 12% in FY26",
+        "Q4FY26 PAT stood at ₹873 Cr, up 55% YoY",
+        "FY26 PAT stood at ₹2,782 Cr, up 19% YoY",
+        "Q4FY26 ROA and FY26 ROA stood around 2%",
+        "Capital adequacy stood at 18.8%, with Tier 1 at 16.7%"
+      ],
+      "outlook": "Management does not give near-term FY27 guidance but indicated that mid-teen growth is a reasonable ambition for a lender of this size.",
+      "highlights": [
+        "Mahindra Finance ended FY26 with better margins and asset quality",
+        "Without overlay, Q4 PAT would have crossed ₹1,000 Cr",
+        "Tractor disbursements grew 63% in Q4 and 49% for FY26",
+        "Mortgage business grew 21%, while core NBFC SME business grew 32%",
+        "NIM expanded 101 bps YoY in Q4 and 60 bps for FY26",
+        "Around 50% of FY26 disbursements were done through Udaan digital stack"
+      ],
+      "quote": "\"Mahindra Finance is outperforming the sector on asset quality improvement, tractor franchise, NIM expansion, digital stack execution and margin recovery.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "HDB Financial Services Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Gross Loan Book", "value": "₹1,18,493 Cr", "change": "+11% YoY", "positive": 1 },
+        { "label": "Q4 Disbursement", "value": "₹19,922 Cr", "change": "+11% QoQ", "positive": 1 },
+        { "label": "FY26 NII", "value": "₹8,968 Cr", "change": "+20% YoY", "positive": 1 },
+        { "label": "Q4 NIM", "value": "8.23%", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Gross loan book stood at ₹1,18,493 Cr, up 11% YoY",
+        "Q4FY26 disbursement stood at ₹19,922 Cr, up 11% QoQ",
+        "Customer franchise stood at 22.9 Mn, up 20%",
+        "Q4FY26 NII stood at ₹2,399 Cr, up 22%, while FY26 NII stood at ₹8,968 Cr, up 20%",
+        "Q4FY26 PAT stood at ₹751 Cr, with ROA around 2% and ROE of 15%"
+      ],
+      "guidance": [
+        { "metric": "NIM Target", "value": "Maintain 8%+" },
+        { "metric": "Medium-Term Growth", "value": "Nominal GDP + 6-7%" },
+        { "metric": "Medium-Term Credit Cost", "value": "~230 bps +/-" },
+        { "metric": "Secured Loan Mix", "value": "74% of gross loan book" }
+      ],
+      "highlights": [
+        "HDB reported its highest-ever quarterly disbursement in Q4FY26",
+        "HDB remains a 100% retail loan book with average exposure per customer of around ₹1.66 lakh",
+        "Customer franchise has grown 2.5x since 2022",
+        "Gold loan book doubled in FY26 and gold loan disbursement grew 59% QoQ",
+        "DIY platform helped digital sourcing disbursements grow 2.2x in FY26",
+        "Gross Stage 3 improved from 281 bps in December to 244 bps in March"
+      ],
+      "quote": "\"HDB is outperforming the sector on retail granularity, NIM, secured mix, distribution depth and asset quality improvement.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Aditya Birla Capital Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "NBFC AUM", "value": "₹1,59,916 Cr", "change": "+27% YoY", "positive": 1 },
+        { "label": "NBFC Q4 PAT", "value": "₹825 Cr", "change": "+27% YoY", "positive": 1 },
+        { "label": "HFC AUM", "value": "₹47,452 Cr", "change": "+53% YoY", "positive": 1 },
+        { "label": "HFC Q4 PAT", "value": "₹200 Cr", "change": "Doubled YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4FY26 consolidated PAT excluding one-offs stood at ₹1,124 Cr, up 30%",
+        "FY26 consolidated PAT excluding one-offs grew 21%",
+        "Q4FY26 consolidated total revenue grew 12%, while FY26 consolidated total revenue grew 14%",
+        "NBFC Q4FY26 disbursement stood around ₹24,950 Cr, up 28%",
+        "HFC FY26 PAT stood at ₹647 Cr"
+      ],
+      "guidance": [
+        { "metric": "HFC Branch Additions", "value": "100+ branches in FY27" },
+        { "metric": "HFC AUM Target", "value": "₹1 lakh Cr over 24-30 months" },
+        { "metric": "Advent Investment", "value": "₹2,750 Cr completed in Aditya Birla Housing Finance" },
+        { "metric": "AI Focus", "value": "Underwriting, sales, audit, compliance, service and operations" }
+      ],
+      "highlights": [
+        "AB Capital delivered strong growth across NBFC, HFC, insurance and AMC businesses",
+        "NBFC AUM crossed ₹1.5 lakh Cr in February",
+        "Retail and MSME AUM crossed ₹1 lakh Cr",
+        "NBFC delivered highest ever quarterly disbursement of around ₹25,000 Cr",
+        "NBFC credit cost was 104 bps in Q4, the lowest ever for the business",
+        "HFC AUM grew 53% YoY and PBT grew 98%"
+      ],
+      "quote": "\"AB Capital is outperforming the sector on diversified financial services growth, NBFC scale, HFC growth, asset quality and digital / AI execution.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Five Star Business Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Q4 Disbursement", "value": "₹1,213 Cr", "change": "+24% QoQ", "positive": 1 },
+        { "label": "FY26 Disbursement", "value": "₹4,675 Cr", "change": "FY26", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹1,099 Cr", "change": "+2% YoY", "positive": 1 },
+        { "label": "FY26 ROA", "value": "~9%", "change": "Avg AUM", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4FY26 disbursement stood at ₹1,213 Cr, up 24% QoQ",
+        "FY26 disbursement stood at ₹4,675 Cr",
+        "Portfolio grew 11%",
+        "Q4FY26 PAT stood at ₹269 Cr, while FY26 PAT stood at ₹1,099 Cr, up 2%",
+        "FY26 ROA on average AUM stood around 9%, while ROE stood at 16%"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth", "value": "~20%" },
+        { "metric": "Core Product", "value": "Micro-LAP" },
+        { "metric": "Growth Driver", "value": "South India as collections stabilize" },
+        { "metric": "Cost of Funds", "value": "8.95% in Q4 vs 9.12% QoQ" }
+      ],
+      "highlights": [
+        "FY26 was challenging due to MFI / unsecured stress spilling into small-ticket secured loans",
+        "Management believes the worst is behind and collection metrics are back to robust levels",
+        "Slippage ratio dropped from 1.9% in Q3 to 0.7% in Q4",
+        "Q4FY26 customer collection efficiency stood at 98.1%",
+        "Q4FY26 x-bucket collection efficiency stood at 99.3%",
+        "Company raised $100 Mn from ADB during Q4"
+      ],
+      "quote": "\"Five-Star is outperforming the sector on ROA, ROE, secured micro-LAP profitability and collection recovery, but growth recovery remains a key monitorable.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "MAS Financial Services Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "₹15,304 Cr", "change": "+19% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹104 Cr", "change": "+25% YoY", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹379 Cr", "change": "+21% YoY", "positive": 1 },
+        { "label": "Capital Adequacy", "value": "22.84%", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM stood at ₹15,304 Cr, up 19% YoY",
+        "Consolidated Q4FY26 PAT stood at ₹104 Cr, up 25%",
+        "Consolidated FY26 PAT stood at ₹379 Cr, up 21%",
+        "Standalone FY26 total income stood at ₹1,900 Cr, up 25%",
+        "Gross Stage 3 stood at 2.57%, while Net Stage 3 stood at 1.70%"
+      ],
+      "guidance": [
+        { "metric": "Long-Term AUM Growth", "value": "20-25%" },
+        { "metric": "Housing Finance Growth", "value": "30-35%" },
+        { "metric": "2036 AUM Vision", "value": "₹1 lakh Cr" },
+        { "metric": "ROA Expectation", "value": "~3%" }
+      ],
+      "highlights": [
+        "MAS crossed ₹15,000 Cr AUM during FY26",
+        "Consolidated PBT crossed ₹500 Cr",
+        "Micro-enterprise loan book grew 20% to ₹5,737 Cr",
+        "SME book grew 16% to ₹5,213 Cr",
+        "Housing finance AUM grew 22% to ₹940 Cr",
+        "Management expects borrowing cost to reduce towards 9.20-9.25% over the next 2-3 quarters"
+      ],
+      "quote": "\"MAS is outperforming the sector on asset quality consistency, profitability discipline, liability management and conservative growth model.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Northern Arc Capital Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "₹16,594 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹406 Cr", "change": "+33% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹133 Cr", "change": "+251% YoY", "positive": 1 },
+        { "label": "FY26 NIM", "value": "9.4%", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM stood at ₹16,594 Cr, up 22% YoY, with Q4 AUM growth of 10% QoQ",
+        "FY26 PAT stood at ₹406 Cr, up 33%",
+        "Q4FY26 PAT stood at ₹133 Cr, up 251% YoY and 32% QoQ",
+        "FY26 NII stood at ₹1,377 Cr, up 20%, while FY26 PPOP stood at ₹956 Cr, up 21%",
+        "GNPA stood at 1.2%, NNPA stood at 0.6% and FY26 ROA stood around 3%"
+      ],
+      "guidance": [
+        { "metric": "FY27 View", "value": "Robust growth with calibrated risk management" },
+        { "metric": "Direct-to-Customer AUM", "value": "59% of AUM" },
+        { "metric": "Credit Funds AUM", "value": "₹3,092 Cr" },
+        { "metric": "Originating Partners", "value": "368 partners, 90% rated BBB and above" }
+      ],
+      "highlights": [
+        "Northern Arc has transformed from a credit solutions platform into a stronger direct-to-customer lending platform",
+        "MSME finance contributes 22% of AUM and consumer finance contributes 30%",
+        "Company provisions 100% on 90+ DPD for all unsecured loans",
+        "Rural finance reported highest-ever quarterly disbursement of ₹305 Cr",
+        "Rural X-bucket collection efficiency improved to 99.6%",
+        "84% of MFI book is covered under CGFMU"
+      ],
+      "quote": "\"Northern Arc is outperforming the sector on PAT growth, NIM expansion, direct-to-customer scale-up, asset quality discipline and risk analytics.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Tata Capital Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM incl. Motor", "value": "₹2.77 L Cr", "change": "+20% YoY", "positive": 1 },
+        { "label": "AUM ex-Motor", "value": "₹2.52 L Cr", "change": "+28% YoY", "positive": 1 },
+        { "label": "Q4 Disbursement", "value": "₹50,000 Cr+", "change": "+32% YoY", "positive": 1 },
+        { "label": "Housing AUM", "value": "₹86,653 Cr", "change": "+29% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM including motor finance stood at ₹2.77 lakh Cr, up 20%",
+        "AUM excluding motor finance stood at ₹2.52 lakh Cr, up 28%",
+        "Q4FY26 disbursement crossed ₹50,000 Cr for the first time, up 32%",
+        "Q4FY26 PAT excluding non-recurring items and motor finance stood at ₹1,459 Cr, up 51%",
+        "Gross Stage 3 including motor finance stood at 200 bps and net Stage 3 stood at 90 bps"
+      ],
+      "guidance": [
+        { "metric": "FY28 Cost-to-Income", "value": "33-34%" },
+        { "metric": "Credit Cost Direction", "value": "FY26 120 bps can move closer to 100 bps" },
+        { "metric": "Unsecured Retail Mix", "value": "Scale from 10% towards 15% of AUM" },
+        { "metric": "Housing Branches", "value": "350 branches" }
+      ],
+      "highlights": [
+        "Growth was broad-based across retail, SME, housing and selective corporate exposures",
+        "Retail and SME lending together form 86% of AUM",
+        "Housing finance credit cost remains very low at 10 bps, with net NPA at 30 bps",
+        "Motor finance achieved breakeven in Q3FY26 and reported PAT of ₹43 Cr in Q4FY26",
+        "AI reduced SME credit memo preparation time from 2 days to 20 minutes",
+        "Unified voice hub operates in 11 languages and automates 90% of welcome calls"
+      ],
+      "quote": "\"Tata Capital is outperforming the sector on scale, diversified growth, housing finance quality, AI-led productivity and asset quality discipline.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Shriram Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "₹3,02,274 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "Q4 Disbursement", "value": "₹50,952 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "Q4 NII", "value": "₹6,994 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹3,014 Cr", "change": "+41% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM stood at ₹3,02,274 Cr, up 15%",
+        "Q4FY26 disbursement stood at ₹50,952 Cr, up 15%",
+        "Q4FY26 NII stood at ₹6,994 Cr, up 16%, with NIM of 861 bps",
+        "Q4FY26 PAT stood at ₹3,014 Cr, up 41%",
+        "Gross Stage 3 stood at 458 bps and net Stage 3 stood at 233 bps"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth Budget", "value": "~18%, to revisit after Q1" },
+        { "metric": "Opex Cost", "value": "Expected around 26-27%" },
+        { "metric": "Capital Adequacy", "value": "Expected to move towards 34% after MUFG infusion" },
+        { "metric": "Liquidity", "value": "Around ₹13,000 Cr; LCR 323%" }
+      ],
+      "highlights": [
+        "FY26 ended with healthy disbursement growth and strong profitability",
+        "Growth was supported by vehicle finance demand across CVs, 2Ws, 3Ws and tractors",
+        "NIM improved YoY and remained stable QoQ",
+        "Cost-to-income improved sharply in Q4 after Q3 labour code impact normalized",
+        "Cost of liabilities declined QoQ, supporting margins",
+        "MUFG Bank completed investment of around ₹39,618 Cr for 20% stake"
+      ],
+      "quote": "\"Shriram Finance is outperforming the sector on scale, vehicle finance franchise, profitability, liquidity and capital strength after MUFG investment.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "SG Finserve Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Operating Income", "value": "₹334 Cr", "change": "+96% YoY", "positive": 1 },
+        { "label": "Loan Book", "value": "₹3,936 Cr", "change": "+75% YoY", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹128 Cr", "change": "+58% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹42 Cr", "change": "+30% QoQ", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Operating income stood at ₹334 Cr, up 96%",
+        "Loan book stood at ₹3,936 Cr, up 75%",
+        "FY26 PAT stood at ₹128 Cr, up 58%",
+        "Q4FY26 PAT stood at ₹42 Cr, up 30% QoQ",
+        "FY26 gross disbursement crossed ₹25,000 Cr, while Q4 disbursement was around ₹7,700 Cr"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth Aspiration", "value": "35-40%" },
+        { "metric": "Medium-Term AUM Growth", "value": "25-30%" },
+        { "metric": "PAT Growth Guidance", "value": "30-35% CAGR on previous year PAT base" },
+        { "metric": "Factoring", "value": "Started and expected to scale from FY27" }
+      ],
+      "highlights": [
+        "Core business is supply chain finance, contributing more than 75% of business",
+        "Management continues to maintain nil NPA and wants to keep NPA at nil",
+        "Loans are short-term, invoice-backed and end-use monitored",
+        "Average churn cycle is around 45 days",
+        "SG has onboarded RXIL and M1xchange for TReDS participation",
+        "Core focus will remain supply chain finance, Tier 1 / Tier 2 dealer financing and factoring"
+      ],
+      "quote": "\"SG Finserve is outperforming the sector on loan book growth, PAT growth, nil NPA, supply chain niche and high churn model.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "SBFC Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "₹11,270 Cr", "change": "+29% YoY", "positive": 1 },
+        { "label": "Gold AUM", "value": "₹2,374 Cr", "change": "+63% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹123 Cr", "change": "+30% YoY", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹451 Cr", "change": "+31% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM stood at ₹11,270 Cr, up 29%",
+        "MSME AUM stood at ₹8,873 Cr, 79% of AUM, up 22%",
+        "Gold loan AUM stood at ₹2,374 Cr, 21% of AUM, up 63%",
+        "Q4FY26 yield stood at 17.61%, cost of borrowing at 852 bps and spread at 909 bps",
+        "Q4FY26 ROA stood at 457 bps and ROATE stood at 14%"
+      ],
+      "guidance": [
+        { "metric": "Book Potential", "value": "Can potentially double over 3-3.5 years" },
+        { "metric": "Credit Cost", "value": "Expected broadly range-bound around current levels" },
+        { "metric": "Gold Loan Mix", "value": "Around guided range of ~20%" },
+        { "metric": "Capital Adequacy", "value": "33%" }
+      ],
+      "highlights": [
+        "SBFC remains a secured small business lending franchise",
+        "Book is almost 100% secured by property or gold",
+        "Company serves small business owners in smaller towns",
+        "Cost of funds reduced by 48 bps YoY and cost of operations reduced by 46 bps YoY",
+        "Company added 46 branches in FY26 vs earlier guidance of 25 branches",
+        "Management believes current markets have a TAM of around ₹4 lakh Cr"
+      ],
+      "quote": "\"SBFC is outperforming the sector on secured book quality, ROA, opex reduction, gold loan scale-up and disciplined small business lending.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Power Finance Corporation Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Consol. Loan Book", "value": "₹11.64 L Cr", "change": "FY26", "positive": 1 },
+        { "label": "Consol. PAT", "value": "₹33,625 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Standalone PAT", "value": "₹20,051 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "Consol. Net NPA", "value": "13 bps", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Consolidated loan book stood at ₹11.64 lakh Cr",
+        "Consolidated renewable book stood at ₹1.65 lakh Cr",
+        "Consolidated PAT stood at ₹33,625 Cr",
+        "Standalone PAT stood at ₹20,051 Cr, up 16%",
+        "Standalone loan book stood around ₹5.8 lakh Cr, up 7%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Loan Growth", "value": "~10%" },
+        { "metric": "FY27 Spread", "value": "240-250 bps" },
+        { "metric": "PFC + REC Merger", "value": "Target merged entity date Apr 1, 2027, subject to approvals" },
+        { "metric": "CRAR / Tier 1", "value": "23% / 22%" }
+      ],
+      "highlights": [
+        "FY26 was described as a year where resilience met results",
+        "PFC remains one of the largest and most profitable NBFCs in India",
+        "PFC and REC restructuring / merger is the biggest strategic development",
+        "Net credit impaired asset ratio is at a new low of 15 bps",
+        "Around 80% of NPA book has been resolved from peak level",
+        "Loan mix is expected to shift from fossil fuel generation towards renewables and distribution"
+      ],
+      "quote": "\"PFC is outperforming the sector on profit scale, asset quality, power financing leadership, renewable financing and merger optionality.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Poonawalla Fincorp Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "AUM", "value": "₹60,348 Cr", "change": "+69% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹255 Cr", "change": "+70% QoQ", "positive": 1 },
+        { "label": "Q4 NIM", "value": "905 bps", "change": "Q4FY26", "positive": 1 },
+        { "label": "GNPA / NNPA", "value": "144 / 74 bps", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM stood at ₹60,348 Cr, up 69%",
+        "Q4FY26 PAT stood at ₹255 Cr, up 70% QoQ",
+        "Q4FY26 NIM stood at 905 bps",
+        "Q4FY26 credit cost stood at 251 bps",
+        "Six new businesses contributed around 24% of Q4FY26 disbursement"
+      ],
+      "outlook": "Poonawalla is entering an operating leverage phase as new businesses, technology and branch investments begin contributing.",
+      "highlights": [
+        "Q4FY26 marked an inflection point for Poonawalla Fincorp",
+        "NIM restored to 9% within 3 quarters, ahead of earlier target",
+        "Stage 1 asset mix improved to 97.5%, while Stage 2 reduced to 1.1%",
+        "400 gold loan branches were operationalized",
+        "PL Prime monthly disbursement run-rate reached around ₹468 Cr",
+        "AI is being deployed across hiring, HR, credit, collections, sales and customer journeys"
+      ],
+      "quote": "\"Poonawalla is outperforming the sector on AUM growth, NIM recovery, new business scale-up, digital productivity and operating leverage.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Piramal Finance Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total AUM", "value": "₹1 L Cr+", "change": "+25% YoY", "positive": 1 },
+        { "label": "Retail AUM", "value": "₹85,885 Cr", "change": "+33% YoY", "positive": 1 },
+        { "label": "FY26 PAT", "value": "₹1,506 Cr", "change": "3x YoY", "positive": 1 },
+        { "label": "Capital Adequacy", "value": "20%", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Total AUM crossed ₹1 lakh Cr, up 25%",
+        "Retail AUM stood at ₹85,885 Cr, up 33%, forming 85% of total AUM",
+        "Legacy book reduced to ₹2,807 Cr, less than 3% of AUM",
+        "FY26 consolidated PAT stood at ₹1,506 Cr vs target of ₹1,300-1,500 Cr",
+        "GNPA stood at 230 bps and NNPA stood at 160 bps"
+      ],
+      "guidance": [
+        { "metric": "FY27 AUM Growth", "value": "Around 25%" },
+        { "metric": "Growth Business RoAUM", "value": "210 bps in Q4FY26" },
+        { "metric": "Rating", "value": "AA+ by all three leading agencies" },
+        { "metric": "Liquidity", "value": "Average Q4 LCR 450%; cash ₹8,640 Cr" }
+      ],
+      "highlights": [
+        "Piramal completed its transition from legacy wholesale-heavy book to retail-led diversified NBFC",
+        "Legacy book is now less than 3% of AUM vs 66% four years ago",
+        "Retail business scaled from ₹20,000 Cr to ₹85,885 Cr in 4 years",
+        "Wholesale 2.0 AUM grew 38% and has zero NPA",
+        "Domestic long-term debt rating upgraded to AA+ by all three leading agencies",
+        "AI was used to scan and classify industry sub-segments by West Asia conflict sensitivity"
+      ],
+      "quote": "\"Piramal is outperforming the sector on retail transformation, legacy rundown, PAT growth, rating upgrade, AI-led risk monitoring and AUM growth.\"",
+      "quotePerson": "Management Commentary"
+    }
   }
 }

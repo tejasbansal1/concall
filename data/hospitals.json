@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Hospitals",
-    "description": "Multi-specialty and super-specialty hospital chains across India",
+    "description": "Hospitals scaling beds, specialties and ARPOB",
     "accent": "#DC2626",
     "accentLight": "#FEF2F2"
   },
@@ -13,7 +13,6 @@
     "Fortis Healthcare Ltd",
     "Global Health Ltd",
     "HealthCare Global Enterprises Ltd",
-    "Indraprastha Medical Corporation Ltd",
     "Jupiter Life Line Hospitals Ltd",
     "Krishna Institute of Medical Sciences Ltd",
     "Max Healthcare Institute Ltd",
@@ -24,6 +23,529 @@
     "Yatharth Hospital & Trauma Care Services Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Apollo Hospitals Enterprise Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹25,229 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹3,769 Cr", "change": "+25% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹1,942 Cr", "change": "+34% YoY", "positive": 1 },
+        { "label": "Q4 EBITDA", "value": "₹1,011 Cr", "change": "+31% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹25,229 Cr (+16% YoY), while EBITDA stood at ₹3,769 Cr (+25% YoY)",
+        "FY26 PAT stood at ₹1,942 Cr (+34% YoY)",
+        "Q4FY26 consolidated EBITDA stood at ₹1,011 Cr (+31% YoY), while PAT stood at ₹529 Cr (+36% YoY)",
+        "Healthcare Services Q4FY26 revenue stood at ₹3,268 Cr (+16% YoY), with EBITDA margin of 24%",
+        "Established hospital EBITDA margin stood at 26%"
+      ],
+      "guidance": [
+        { "metric": "New Hospitals", "value": "855-bed potential; 670 beds planned over next 12 months" },
+        { "metric": "Sarjapur / Gurgaon", "value": "Expected over next 2 quarters" },
+        { "metric": "Upcoming Beds", "value": "~1,400 operating beds across key metros" },
+        { "metric": "Maternity Platform", "value": "Apollo Cradle and Fertility to combine with Cloudnine" }
+      ],
+      "highlights": [
+        "Healthcare Services growth was driven by 7% volume growth, 5% case mix improvement and 4% price revision",
+        "CONGO specialties grew 22% in Q4FY26",
+        "Group occupancy stood at 68%, while metro hospitals stood at 71%",
+        "ALOS reduced to 3.19 days due to robotics, minimally invasive surgeries and better discharge protocols",
+        "Apollo HealthCo Q4FY26 revenue grew 22%, while online losses reduced sharply to ₹16 Cr",
+        "Healthcare Services ROCE stood at 25.4%"
+      ],
+      "quote": "\"Apollo is outperforming the sector on scale, clinical complexity, integrated healthcare ecosystem, HealthCo turnaround and capacity-led growth visibility.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Max Healthcare Institute Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Network Gross Rev", "value": "₹10,538 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "Operating EBITDA", "value": "₹2,638 Cr", "change": "+14% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "26%", "change": "Network", "positive": 1 },
+        { "label": "PAT", "value": "₹1,631 Cr", "change": "+22% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 network gross revenue stood at ₹10,538 Cr (+16% YoY), while operating EBITDA stood at ₹2,638 Cr (+14% YoY)",
+        "FY26 PAT stood at ₹1,631 Cr (+22% YoY)",
+        "Q4FY26 network gross revenue stood at ₹2,664 Cr (+10% YoY), with operating EBITDA of ₹682 Cr (+8% YoY)",
+        "Q4FY26 PAT stood at ₹387 Cr and free cash flow generated stood at ₹581 Cr",
+        "Average occupancy remained above 75% despite operational bed expansion"
+      ],
+      "guidance": [
+        { "metric": "Lucknow Capacity", "value": "426 beds to 570 beds over next 2 quarters" },
+        { "metric": "Gurgaon Sector 56", "value": "500-bed hospital targeted by end-FY27" },
+        { "metric": "Nagpur / Zirakpur", "value": "Expected by FY28" },
+        { "metric": "Shaheed Path Lucknow", "value": "700-bed greenfield hospital approved with ₹1,400 Cr investment" }
+      ],
+      "highlights": [
+        "Q4FY26 was the 22nd consecutive quarter of YoY growth",
+        "Occupied bed days grew 8% YoY and 4% QoQ",
+        "Q4FY26 ARPOB stood at ₹77,900",
+        "International patient revenue stood at ₹227 Cr, up 12%",
+        "Digital revenue stood at ₹838 Cr, contributing 31% of overall revenue",
+        "Acquisition of Kalinga Hospital marks entry into Eastern India"
+      ],
+      "quote": "\"Max is outperforming the sector on EBITDA per bed, free cash flow, occupancy, digital funnel, specialty depth and balance sheet strength.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Fortis Healthcare Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Consol. Revenue", "value": "₹9,128 Cr", "change": "+17% YoY", "positive": 1 },
+        { "label": "Consol. EBITDA", "value": "₹2,085 Cr", "change": "+31% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "23%", "change": "Consolidated", "positive": 1 },
+        { "label": "PAT", "value": "₹1,064 Cr", "change": "+32% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue stood at ₹9,128 Cr (+17% YoY)",
+        "Hospital business revenue stood at ₹7,773 Cr (+19% YoY), while diagnostics net revenue stood at ₹1,355 Cr (+8% YoY)",
+        "FY26 consolidated EBITDA stood at ₹2,085 Cr (+31% YoY), with EBITDA margin of 23%",
+        "Hospital EBITDA margin improved to 22% vs 21% last year",
+        "Q4FY26 consolidated revenue stood at ₹2,365 Cr (+18% YoY)"
+      ],
+      "outlook": "Management believes margin expansion can continue through occupancy ramp-up in large hospitals and scaling of newer units.",
+      "highlights": [
+        "Hospital business contributes around 85% of consolidated revenue and EBITDA",
+        "FY26 hospital occupancy stood at 68%, while occupied beds increased 15%",
+        "Radiation therapy volumes grew 19% and robotic surgery volumes grew 66%",
+        "Focus specialties grew 19% and contributed 62% of hospital revenue",
+        "International patient revenue grew 19% to ₹639 Cr",
+        "13 facilities reported EBITDA margin above 20% vs 10 facilities last year"
+      ],
+      "quote": "\"Fortis is outperforming the sector on margin expansion, specialty growth, international patients, robotic procedures and improving facility-level profitability.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Global Health Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total Income", "value": "₹4,509 Cr", "change": "+20% YoY", "positive": 1 },
+        { "label": "EBITDA ex-Noida", "value": "₹1,134 Cr", "change": "+19% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹554 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "International Rev", "value": "₹278 Cr", "change": "+33% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 total income stood at ₹4,509 Cr (+20% YoY), while income excluding Noida grew 17%",
+        "EBITDA excluding Noida stood at ₹1,134 Cr (+19% YoY)",
+        "EBITDA including Noida stood at ₹1,056 Cr, with EBITDA margin of 24%",
+        "PAT stood at ₹554 Cr (+15% YoY)",
+        "Inpatient count grew 16%, outpatient count grew 19% and ARPOB grew 6% to ₹66,550"
+      ],
+      "guidance": [
+        { "metric": "Noida Beds Operationalized", "value": "382 beds, 98 ICU beds and 14 OTs" },
+        { "metric": "FY26 Bed Additions", "value": "623 beds" },
+        { "metric": "Guwahati", "value": "Land acquired for 400+ bed hospital" },
+        { "metric": "Varanasi", "value": "Partnered for 400+ bed hospital" }
+      ],
+      "highlights": [
+        "FY26 was driven by network performance and Noida ramp-up",
+        "Noida onboarded 200+ doctors and 75+ senior clinicians",
+        "Noida has performed 1,600+ surgeries and 5,000+ Cath lab procedures",
+        "Noida started advanced therapies like CAR-T, BMT and kidney transplant",
+        "Noida received NABH accreditation within 6 months",
+        "Mature hospitals delivered revenue of ₹2,848 Cr, up 9%"
+      ],
+      "quote": "\"Medanta is outperforming the sector on clinical complexity, Noida ramp-up, international growth, ARPOB improvement and quaternary care depth.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Narayana Hrudayalaya Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": false,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "India Revenue", "value": "+10%", "change": "YoY", "positive": 1 },
+        { "label": "India Margin", "value": "~25%", "change": "Q4FY26", "positive": 1 },
+        { "label": "Norm. Group Margin", "value": "~22%", "change": "ex UK one-offs", "positive": 1 },
+        { "label": "Clinic / Insurance Losses", "value": "₹66 Cr", "change": "FY26", "positive": 0 }
+      ],
+      "fyPerformance": [
+        "India operations revenue grew 10% YoY",
+        "India hospital EBITDA margin improved meaningfully in Q4FY26",
+        "India hospital margin stood around 25% in Q4FY26 vs around 22% last year",
+        "UK acquisition caused near-term margin dilution due to one-time acquisition costs",
+        "Normalized group margin stood around 22% after adjusting UK acquisition cost impact"
+      ],
+      "outlook": "Management is building an integrated care and global healthcare platform, while UK integration, insurance loss moderation and clinic cash burn remain key monitorables.",
+      "highlights": [
+        "India margin improvement was driven by higher-end procedures, better case mix, robotics and transplant work",
+        "Management uses ARPIP and throughput as better operating measures than only occupancy / ARPOB",
+        "Occupancy typically operates around 60-65%",
+        "Clinics act as feeders for inpatient referrals and advanced therapies",
+        "Cayman insurance has scaled faster than expected with annualized premium run-rate around $60 Mn",
+        "No additional capex is planned in Cayman currently"
+      ],
+      "quote": "\"Narayana is outperforming the sector on India hospital margin improvement, technology-led efficiency, integrated care model and global healthcare platform build-out.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Krishna Institute of Medical Sciences Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Revenue", "value": "₹3,931 Cr", "change": "+28% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹828 Cr", "change": "+2% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "21%", "change": "FY26", "positive": 0 },
+        { "label": "Q4 Revenue", "value": "₹1,084 Cr", "change": "+35% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹3,931 Cr (+28% YoY), while EBITDA stood at ₹828 Cr (+2% YoY)",
+        "FY26 EBITDA margin stood at 21%, while PAT stood at ₹242 Cr vs ₹415 Cr last year",
+        "Q4FY26 revenue stood at ₹1,084 Cr (+35% YoY), while EBITDA stood at ₹216 Cr (+7% YoY)",
+        "Q4FY26 PAT stood at ₹33 Cr vs ₹106 Cr last year",
+        "FY26 IP volumes grew 15% and OP volumes grew 25%"
+      ],
+      "guidance": [
+        { "metric": "Kondapur Hospital", "value": "800 beds; 400-500 beds likely in phase 1" },
+        { "metric": "QIP Funds", "value": "Largely planned for debt reduction" },
+        { "metric": "Karnataka Losses", "value": "Expected to narrow as PES and Mahadevapura ramp up" },
+        { "metric": "Expansion Focus", "value": "Bangalore, Thane, Kerala, Nashik and Vizag clusters" }
+      ],
+      "highlights": [
+        "FY26 growth was led by new units at Bangalore, Thane, Kerala, Nashik and Seethammadhara / Vizag",
+        "Mature units continued to maintain healthy growth",
+        "Q4 average revenue per operating bed and per patient both grew 14% YoY",
+        "Q4 IP volumes grew 18% YoY and OP volumes grew 30% YoY",
+        "Newer units contributed around ₹224 Cr revenue in Q4",
+        "New units impacted near-term profitability and depressed EBITDA margins"
+      ],
+      "quote": "\"KIMS is outperforming the sector on revenue growth, volume growth and multi-cluster expansion, but profitability is temporarily impacted by new unit ramp-up.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Yatharth Hospital & Trauma Care Services Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹1,207 Cr", "change": "+36% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹292 Cr", "change": "+30% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "24%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹170 Cr", "change": "+30% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹1,207 Cr (+36% YoY), while EBITDA stood at ₹292 Cr (+30% YoY)",
+        "FY26 EBITDA margin stood at 24%, while PAT stood at ₹170 Cr (+30% YoY)",
+        "Q4FY26 revenue stood at ₹342 Cr (+47% YoY), while EBITDA stood at ₹80 Cr (+37% YoY)",
+        "Q4FY26 PAT stood at ₹45 Cr (+15% YoY)",
+        "Q4FY26 occupancy stood at 71%, while FY26 occupancy stood at 68%"
+      ],
+      "guidance": [
+        { "metric": "Bed Target", "value": "5,000 beds over next 3 years" },
+        { "metric": "Current Capacity", "value": "3,200+ beds" },
+        { "metric": "Gurugram Hospital", "value": "Expected operational by April 2027" },
+        { "metric": "EBITDA Margin Guidance", "value": "Around 24-25%" }
+      ],
+      "highlights": [
+        "Q4FY26 was driven by existing hospital momentum and ramp-up of new facilities",
+        "Noida occupancy stood at 86%, while Jhansi-Orchha occupancy stood at 86%",
+        "Q4FY26 ARPOB stood at ₹33,282, up 5%",
+        "Noida Extension ARPOB stood at ₹47,800, up 23%",
+        "Agra hospital is running around ₹7 Cr monthly revenue run-rate with double-digit EBITDA margin",
+        "Greater Faridabad turned profitable during the year"
+      ],
+      "quote": "\"Yatharth is outperforming the sector on revenue growth, occupancy, new hospital ramp-up, ARPOB improvement and North India cluster expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Rainbow Childrens Medicare Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹1,703 Cr", "change": "+12% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹544 Cr", "change": "+11% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "32%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹282 Cr", "change": "+15% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹1,703 Cr (+12% YoY), while EBITDA stood at ₹544 Cr (+11% YoY)",
+        "FY26 PAT stood at ₹282 Cr (+15% YoY)",
+        "Q4FY26 revenue stood at ₹460 Cr (+24% YoY), while EBITDA stood at ₹145 Cr (+26% YoY)",
+        "Q4FY26 PAT stood at ₹78 Cr (+38% YoY)",
+        "IP discharges grew 18%, OP volumes grew 19% and deliveries grew 22%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Growth Target", "value": "~20% while maintaining margins" },
+        { "metric": "Beds In Execution", "value": "900+ beds over ~2.5 years" },
+        { "metric": "Coimbatore Hub", "value": "130-bed hospital expected in H2FY28" },
+        { "metric": "Expansion Capex", "value": "₹300-350 Cr for Coimbatore, Pune, Indore and others" }
+      ],
+      "highlights": [
+        "FY26 was a landmark year with nearly 500 beds added",
+        "Rainbow delivered its highest-ever quarterly revenue in Q4FY26",
+        "ARPOB grew around 8%, driven by case mix and fertility contribution",
+        "IVF contributed 3.7% of FY26 revenue and 4.1% of Q4 revenue",
+        "International patient revenue remained broadly flat due to geopolitical and travel disruption",
+        "Management said FY26 growth could have been 18-20% if seasonality had been normal"
+      ],
+      "quote": "\"Rainbow is outperforming the sector on women & child specialty focus, clinical brand, IVF ramp-up, new bed additions and growth recovery potential.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Jupiter Life Line Hospitals Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total Income", "value": "₹1,500 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹343 Cr", "change": "+14% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "23%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹194 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 total income stood at ₹1,500 Cr (+15% YoY), while EBITDA stood at ₹343 Cr (+14% YoY)",
+        "FY26 EBITDA margin stood at 23%, while PAT stood at ₹194 Cr",
+        "Q4FY26 revenue stood at ₹388 Cr (+15% YoY), while EBITDA stood at ₹89 Cr",
+        "Q4FY26 PAT stood at ₹50 Cr (+12% YoY)",
+        "ARPOB grew 12% to ₹67,700, while overall volumes grew 10%"
+      ],
+      "guidance": [
+        { "metric": "Expansion Cycle", "value": "~1,700 new beds" },
+        { "metric": "Long-Term Capacity", "value": "Close to 3,000 beds" },
+        { "metric": "Expansion Cost", "value": "~₹1.5 Cr per bed" },
+        { "metric": "Funding", "value": "Internal accruals plus debt under 3x EBITDA" }
+      ],
+      "highlights": [
+        "FY26 growth was driven by Thane, Pune and Indore",
+        "Occupancy for the 3 pre-existing hospitals stood at 61%",
+        "Insurance revenue mix stood at 55%, while government mix remained around 1%",
+        "Jupiter deployed around ₹500 Cr capex during FY26",
+        "Gross debt stood around ₹500 Cr, while cash stood around ₹545 Cr",
+        "Company remains net cash positive despite large capex"
+      ],
+      "quote": "\"Jupiter is outperforming the sector on balance sheet strength, western India focus, ARPOB growth and hub-led greenfield expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Artemis Medicare Services Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹1,081 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹218 Cr", "change": "FY26", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "20%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹104 Cr", "change": "+26% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹1,081 Cr (+15% YoY), while EBITDA stood at ₹218 Cr",
+        "FY26 EBITDA margin stood at 20%, while PAT stood at ₹104 Cr (+26% YoY)",
+        "Q4FY26 revenue stood at ₹279 Cr (+16% YoY), while EBITDA stood at ₹59 Cr",
+        "Q4FY26 PAT stood at ₹30 Cr (+32% YoY)",
+        "Q4FY26 ARPOB stood at ₹84,571, up 7%"
+      ],
+      "guidance": [
+        { "metric": "Current Capacity", "value": "~800 beds" },
+        { "metric": "2029 Capacity Plan", "value": "2,000 beds" },
+        { "metric": "Gurugram FAR Benefit", "value": "~100 additional beds" },
+        { "metric": "Expansion Drivers", "value": "Raipur and South Delhi" }
+      ],
+      "highlights": [
+        "FY26 growth was led by cardiology, oncology, orthopaedics and high-complexity procedures",
+        "Q4 growth was driven by higher patient volumes in high-margin specialties",
+        "Gurugram hospital occupancy reached 65% in Q4FY26",
+        "International patient business grew 27% despite West Asia disruption",
+        "International revenue contribution remains around 30-31%",
+        "Artemis received Platinum Green Building certification"
+      ],
+      "quote": "\"Artemis is outperforming the sector on ARPOB, international patient mix, quaternary care, organ transplant / oncology depth and NCR premium positioning.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Aster DM Healthcare Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Revenue", "value": "₹1,182 Cr", "change": "+18% YoY", "positive": 1 },
+        { "label": "Q4 Op. EBITDA", "value": "₹244 Cr", "change": "+26% YoY", "positive": 1 },
+        { "label": "Q4 EBITDA Margin", "value": "21%", "change": "Standalone", "positive": 1 },
+        { "label": "Proforma EBITDA", "value": "₹2,013 Cr", "change": "+21% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Aster standalone Q4FY26 revenue stood at ₹1,182 Cr (+18% YoY)",
+        "Aster standalone Q4FY26 operating EBITDA stood at ₹244 Cr (+26% YoY)",
+        "Aster normalized PAT grew 32% YoY in Q4FY26",
+        "Combined Aster + Quality Care proforma FY26 revenue stood at ₹9,273 Cr (+14% YoY)",
+        "Combined proforma operating EBITDA stood at ₹2,013 Cr (+21% YoY), with 22% margin"
+      ],
+      "guidance": [
+        { "metric": "Combined Capacity", "value": "10,620+ beds across 28 cities" },
+        { "metric": "Pipeline", "value": "4,445 additional beds" },
+        { "metric": "Future Capacity", "value": "Beyond 15,000 beds post pipeline" },
+        { "metric": "Aster Standalone Plan", "value": "Nearly 2,500 beds over coming years" }
+      ],
+      "highlights": [
+        "Quality Care merger has shareholder and creditor approval and awaits NCLT approval",
+        "Aster Q4 growth was supported by 15% patient volume growth and 9% ARPP IP improvement",
+        "Cardiology revenue grew 25% and oncology revenue grew 23%",
+        "Medical value travel grew 41%, while Kerala MVT revenue grew 51%",
+        "Excluding Kasargod, revenue grew 17% and EBITDA grew 31%",
+        "Core hospitals and clinics EBITDA margin stood at 23%"
+      ],
+      "quote": "\"Aster is outperforming the sector on merger-led scale, operating leverage, MVT growth, specialty mix and pan-India capacity pipeline.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "HealthCare Global Enterprises Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹2,545 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "Adj. EBITDA", "value": "₹471 Cr", "change": "+19% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "19%", "change": "Adjusted", "positive": 1 },
+        { "label": "Net Debt / EBITDA", "value": "1.4x", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹2,545 Cr (+15% YoY)",
+        "Adjusted EBITDA stood at ₹471 Cr (+19% YoY), with adjusted EBITDA margin of 19%",
+        "Q4FY26 revenue stood at ₹652 Cr (+11% YoY)",
+        "Q4FY26 adjusted EBITDA stood at ₹125 Cr (+17% YoY), with EBITDA margin of 19%",
+        "Operating cash flow conversion stood at 75%"
+      ],
+      "guidance": [
+        { "metric": "Daycare Centers", "value": "8-10 centers over next 24 months" },
+        { "metric": "Growth Levers", "value": "North Bangalore, Whitefield relocation, brownfield additions and clinician hiring" },
+        { "metric": "MVT Focus", "value": "Improved medical value travel" },
+        { "metric": "Oncologist Additions", "value": "23 added in Q4 alone" }
+      ],
+      "highlights": [
+        "FY26 was a year of broad-based profitable growth",
+        "Growth was supported by higher volumes, realization discipline and payer mix optimization",
+        "Excluding fertility business, FY26 revenue grew 15%",
+        "Patient volumes grew 12% and average revenue per patient improved 3%",
+        "Kenya business grew 71% in FY26 and 39% in Q4",
+        "North Bangalore facility was launched"
+      ],
+      "quote": "\"HCG is outperforming the sector on oncology focus, EBITDA margin expansion, international growth, oncologist additions and center maturity.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Park Mediworld Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹1,679 Cr", "change": "+21% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹444 Cr", "change": "+20% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "26%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹274 Cr", "change": "+27% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹1,679 Cr (+21% YoY), while EBITDA stood at ₹444 Cr (+20% YoY)",
+        "FY26 EBITDA margin stood at 26%, while PAT stood at ₹274 Cr (+27% YoY)",
+        "PAT margin stood at 16%, ROCE stood at 18% and ROE stood at 20%",
+        "Operating cash flow stood at ₹329 Cr",
+        "Gross term debt stood at only ₹28 Cr"
+      ],
+      "guidance": [
+        { "metric": "Current Network", "value": "16 hospitals with 3,960 beds" },
+        { "metric": "Beds Under Execution", "value": "1,500 beds by March 2028" },
+        { "metric": "Target Capacity", "value": "5,460 beds by March 2028" },
+        { "metric": "Narela Hospital", "value": "200 beds targeted for Q2FY27" }
+      ],
+      "highlights": [
+        "FY26 was the best year in company history on operating and financial performance",
+        "Company added 610 beds during FY26, the largest annual addition in its history",
+        "Capacity additions included 250-bed Bathinda and 360-bed Agra hospitals",
+        "Panchkula greenfield facility was commissioned in April 2026",
+        "Q4FY26 occupancy stood at 63% vs 59% last year",
+        "FY26 ARPOB improved to ₹28,000 vs ₹26,200 last year"
+      ],
+      "quote": "\"Park Medi is outperforming the sector on bed addition, cash generation, low debt, North India cluster expansion and occupancy-led margin expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Dr Agarwals Health Care Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total Income", "value": "₹2,125 Cr", "change": "+21% YoY", "positive": 1 },
+        { "label": "Op. Revenue", "value": "₹2,080 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹614 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹168 Cr", "change": "+52% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 total income stood at ₹2,125 Cr (+21% YoY), while revenue from operations stood at ₹2,080 Cr (+22% YoY)",
+        "FY26 EBITDA stood at ₹614 Cr (+22% YoY), with EBITDA margin of 29%",
+        "FY26 PAT stood at ₹168 Cr (+52% YoY)",
+        "Q4FY26 revenue from operations stood at ₹564 Cr (+23% YoY), while EBITDA stood at ₹174 Cr (+19% YoY)",
+        "Q4FY26 PAT stood at ₹50 Cr (+17% YoY), with EBITDA margin of 30%"
+      ],
+      "outlook": "Company continues to focus on eye care expansion, doctor hiring, new facility rollouts and international growth.",
+      "highlights": [
+        "FY26 was the first year where Dr. Agarwal crossed ₹2,000 Cr revenue",
+        "Company served more than 30 lakh patients",
+        "Doctor strength crossed 1,000 doctors across the network",
+        "Q4FY26 margin was the highest quarterly EBITDA margin of FY26",
+        "Q4 performance was delivered despite 19 new facility openings",
+        "India revenue from operations stood at ₹1,871 Cr, up 22%"
+      ],
+      "quote": "\"Dr. Agarwal is outperforming the sector on eye care specialization, margin profile, doctor network, patient scale and aggressive network expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Nephrocare Health Services Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹999 Cr", "change": "+32% YoY", "positive": 1 },
+        { "label": "Adj. EBITDA", "value": "₹238 Cr", "change": "+37% YoY", "positive": 1 },
+        { "label": "Adj. PAT", "value": "+75%", "change": "FY26", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "₹266 Cr", "change": "+21% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹999 Cr (+32% YoY), while adjusted EBITDA stood at ₹238 Cr (+37% YoY)",
+        "Adjusted PAT grew 75%",
+        "Q4FY26 revenue stood at ₹266 Cr (+21% YoY)",
+        "FY26 active guests stood at 36,981, up 12%",
+        "FY26 dialysis treatments stood at 38.45 lakh, up 17%"
+      ],
+      "guidance": [
+        { "metric": "Revenue CAGR Aspiration", "value": "15-20% over 3-4 years" },
+        { "metric": "Revenue Per Treatment", "value": "₹2,598, up 13%" },
+        { "metric": "International Mix", "value": "42% vs 32% earlier" },
+        { "metric": "New Geographies", "value": "Business development team built for country entries" }
+      ],
+      "highlights": [
+        "Nephroplus is building a focused dialysis platform rather than a general hospital platform",
+        "Growth was driven by higher active guests, treatment volumes, international mix and better RPT",
+        "India price point is around $22 per treatment vs $111 in Philippines and $60 in Uzbekistan",
+        "Full-year impact of Philippines price increase supported RPT improvement",
+        "Currency movement in Philippines and Uzbekistan also supported RPT",
+        "New country entry may involve investment phase before scale-up"
+      ],
+      "quote": "\"Nephroplus is outperforming the sector on dialysis specialization, international expansion, treatment growth, operating leverage and global scalability.\"",
+      "quotePerson": "Management Commentary"
+    }
   }
 }

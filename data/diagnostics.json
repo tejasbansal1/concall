@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Diagnostics",
-    "description": "Pathology labs, diagnostic chains, and imaging centres serving patients across India",
+    "description": "Diagnostics chains scaling specialty and wellness testing",
     "accent": "#8B5CF6",
     "accentLight": "#F5F3FF"
   },
@@ -15,6 +15,256 @@
     "Vijaya Diagnostic Centre Ltd"
   ],
   "concall": {
-    "_template": {}
+    "Dr Lal Pathlabs Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹2,763 Cr", "change": "+12% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹752 Cr", "change": "+8% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "27%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹510 Cr", "change": "+4% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹2,763 Cr (+12% YoY), while EBITDA stood at ₹752 Cr (+8% YoY)",
+        "FY26 EBITDA margin stood at 27% and PAT stood at ₹510 Cr (+4% YoY)",
+        "Q4FY26 revenue stood at ₹703 Cr (+17% YoY), while EBITDA stood at ₹187 Cr (+11% YoY)",
+        "Q4FY26 PAT stood at ₹132 Cr, with PAT margin of 19%",
+        "Sample volume grew 13% in Q4FY26 and 10% in FY26"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth", "value": "Early to mid-teens" },
+        { "metric": "Healthy EBITDA Margin", "value": "27-28%" },
+        { "metric": "Net Cash", "value": "₹1,526 Cr" },
+        { "metric": "Growth Focus", "value": "Specialized testing, Swasthfit, Sovaaka and M&A" }
+      ],
+      "highlights": [
+        "FY26 growth was driven by sample volume growth and higher organized diagnostic preference",
+        "Company added 14 new labs and 1,100+ collection centers during FY26",
+        "Swasthfit contributed 27% of total revenue in FY26",
+        "Medllumina 2026 was launched for specialized scientific testing areas",
+        "Sovaaka was launched as an AI-powered premium wellness platform",
+        "Management will reinvest extra operating leverage into growth"
+      ],
+      "quote": "\"Dr. Lal is outperforming the sector on scale, balance sheet strength, scientific leadership, Swasthfit traction and specialized testing push.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Metropolis Healthcare Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Group Revenue", "value": "₹1,646 Cr", "change": "+24% YoY", "positive": 1 },
+        { "label": "Group EBITDA", "value": "₹401 Cr", "change": "+32% YoY", "positive": 1 },
+        { "label": "Group PAT", "value": "₹191 Cr", "change": "+31% YoY", "positive": 1 },
+        { "label": "Q4 PAT", "value": "₹51 Cr", "change": "+75% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 group revenue stood at ₹1,646 Cr (+24% YoY), while group EBITDA stood at ₹401 Cr (+32% YoY)",
+        "Group EBITDA margin stood at 24% and group PAT stood at ₹191 Cr (+31% YoY)",
+        "Q4FY26 group revenue stood at ₹425 Cr (+23% YoY), while EBITDA stood at ₹108 Cr (+71% YoY)",
+        "Organic FY26 revenue stood at ₹1,510 Cr (+14% YoY), ahead of 12-13% guidance",
+        "Organic PAT stood at ₹194 Cr (+33% YoY), with organic EBITDA margin of 26%"
+      ],
+      "guidance": [
+        { "metric": "Core Diagnostics Margin", "value": "20%+ EBITDA margin over 3 years" },
+        { "metric": "Capex Focus", "value": "Selective productivity, specialty, tech and digital investments" },
+        { "metric": "B2C Revenue Mix", "value": "~60%" },
+        { "metric": "Specialty Revenue Mix", "value": "39% of group revenue" }
+      ],
+      "highlights": [
+        "Q4 organic revenue grew 15%, led by 9% patient volume growth and 5% realization improvement",
+        "Organic margins expanded around 140 bps to 26%",
+        "Group FY26 B2C revenue grew 19%, while B2B revenue grew 31%",
+        "TruHealth contributed 18% of group FY26 revenue and grew 27%",
+        "Company expanded presence to 750+ towns and cities",
+        "Core Diagnostics moved from negative EBITDA to high-single-digit EBITDA in Q4"
+      ],
+      "quote": "\"Metropolis is outperforming the sector on margin recovery, specialty mix, Core integration, B2C stickiness and organic growth execution.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Thyrocare Technologies Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Consol. Revenue", "value": "₹829 Cr", "change": "+21% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹262 Cr", "change": "+38% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹163 Cr", "change": "+81% YoY", "positive": 1 },
+        { "label": "Q4 EBITDA Margin", "value": "34%", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue stood at ₹829 Cr (+21% YoY), while standalone revenue stood at ₹774 Cr",
+        "FY26 EBITDA stood at ₹262 Cr (+38% YoY), while PAT stood at ₹163 Cr (+81% YoY)",
+        "Q4FY26 consolidated revenue stood at ₹224 Cr (+20% YoY), while standalone revenue stood at ₹210 Cr (+21% YoY)",
+        "Q4FY26 PAT stood at ₹49 Cr (+128% YoY), with PAT margin of 22%",
+        "Thyrocare processed 210 Mn tests in FY26 and served 19.2 Mn patients"
+      ],
+      "guidance": [
+        { "metric": "FY27 Growth Drivers", "value": "Franchise maturation, partnerships, insurance health checks and specialty testing" },
+        { "metric": "EBITDA Margin", "value": "Broadly stable around FY26 base" },
+        { "metric": "Net Cash & Investments", "value": "₹230 Cr+" },
+        { "metric": "Debt", "value": "Zero debt" }
+      ],
+      "highlights": [
+        "FY26 growth was driven by franchisee and partnership business",
+        "Pathology revenue grew 22% in FY26, while radiology declined 6% due to strategic consolidation",
+        "Active franchisee base reached 10,800",
+        "Jaanch grew 66% YoY in Q4FY26, though still around 2% of pathology revenue",
+        "Allergy testing was introduced using the Phadia platform with 250+ SKUs",
+        "Genomics foray started from May 2026 across NIPT, carrier screening and cancer predisposition panels"
+      ],
+      "quote": "\"Thyrocare is outperforming the sector on test volume scale, PAT growth, B2B franchise model, affordable positioning and specialty expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Vijaya Diagnostic Centre Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹814 Cr", "change": "+20% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹337 Cr", "change": "+23% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "41%", "change": "FY26", "positive": 1 },
+        { "label": "B2C Share", "value": "92%", "change": "Q4FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹814 Cr (+20% YoY), while EBITDA stood at ₹337 Cr (+23% YoY)",
+        "FY26 EBITDA margin stood at 41%, while PAT stood at ₹173 Cr",
+        "Q4FY26 revenue stood at ₹219 Cr (+27% YoY), while EBITDA stood at ₹96 Cr (+39% YoY)",
+        "Q4FY26 EBITDA margin stood at 44% and PAT stood at ₹48 Cr (+38% YoY)",
+        "Q4FY26 test volume grew 19%, with radiology contributing 37% of revenue"
+      ],
+      "guidance": [
+        { "metric": "FY27 Expansion", "value": "4-5 hubs and 10-12 spokes" },
+        { "metric": "FY27 Capex", "value": "₹140-150 Cr" },
+        { "metric": "Automation", "value": "Fully automated Panjagutta lab in Hyderabad" },
+        { "metric": "Specialized Diagnostics", "value": "Advanced Genomic Testing introduction" }
+      ],
+      "highlights": [
+        "FY26 was a landmark year as revenue crossed ₹800 Cr",
+        "Vijaya delivered 17% revenue CAGR over 5 years without EBITDA margin dilution",
+        "Centers increased from 81 to 162 over 5 years",
+        "Footprint expanded from 2 states to 6 states",
+        "Growth was driven by both pathology and radiology",
+        "New hubs at Khammam and Nandyal achieved breakeven within 2 quarters"
+      ],
+      "quote": "\"Vijaya is outperforming the sector on B2C mix, integrated pathology + radiology model, EBITDA margin, wellness traction and new hub breakeven timelines.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Suraksha Diagnostic Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹314 Cr", "change": "+23% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹99 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "32%", "change": "FY26", "positive": 1 },
+        { "label": "Patients Served", "value": "1.37 Mn", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹314 Cr (+23% YoY), while EBITDA stood at ₹99 Cr (+16% YoY)",
+        "FY26 EBITDA margin stood at 32%, while PAT stood at ₹31 Cr (+1% YoY)",
+        "Q4FY26 revenue stood at ₹82 Cr (+25% YoY), while EBITDA stood at ₹25 Cr (+26% YoY)",
+        "Q4FY26 EBITDA margin stood at 31%, while PAT stood at ₹6 Cr",
+        "FY26 tests performed stood at 8.16 Mn, with 6 tests per patient"
+      ],
+      "guidance": [
+        { "metric": "FY27 West Bengal Plan", "value": "3 new hubs and 8 asset-light spokes" },
+        { "metric": "New Specialized Hubs", "value": "One each in Bihar, Tripura and Jharkhand" },
+        { "metric": "FY27 EBITDA Margin", "value": "Around 33%" },
+        { "metric": "Center Count", "value": "68 as of March 2026" }
+      ],
+      "highlights": [
+        "FY26 growth was supported by network expansion, clinical capability and technology-led service improvement",
+        "Pathology contributed 49% of operational revenue and radiology contributed 44%",
+        "Company launched 2 hub centers, 11 spoke centers and 3 PPP centers during FY26",
+        "Mature centers continue to deliver 36-37% EBITDA margins",
+        "Genexus NGS platform enables oncology genomic results in 48-72 hours",
+        "MoU signed with IIT Kharagpur for AI-led Alzheimer detection using routine brain MRI"
+      ],
+      "quote": "\"Suraksha is outperforming smaller regional peers on integrated radiology-pathology model, eastern India depth, genomics capability and hub-and-spoke expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Krsnaa Diagnostics Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Revenue", "value": "₹773 Cr", "change": "FY26", "positive": 1 },
+        { "label": "EBITDA", "value": "₹215 Cr", "change": "FY26", "positive": 1 },
+        { "label": "EBITDA Margin", "value": "28%", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹101 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹773 Cr, while EBITDA stood at ₹215 Cr",
+        "FY26 EBITDA margin stood at 28% and PAT stood at ₹101 Cr",
+        "Q4FY26 revenue stood at ₹193 Cr, up 4% YoY and 7% QoQ",
+        "Q4FY26 EBITDA stood at ₹56 Cr, with EBITDA margin of 29%",
+        "Q4FY26 PAT stood at ₹42 Cr, up 101%"
+      ],
+      "guidance": [
+        { "metric": "Capex Deployment", "value": "Around ₹500 Cr across Rajasthan, CT / MRI, retail and backend" },
+        { "metric": "Long-Term Revenue Visibility", "value": "₹6,000-7,000 Cr over 5-7 years" },
+        { "metric": "Rajasthan PPP Revenue", "value": "~₹150 Cr annualized guidance" },
+        { "metric": "EBITDA Margin", "value": "Expected to be maintained despite expansion costs" }
+      ],
+      "highlights": [
+        "Krsnaa is building an integrated radiology + pathology platform through the PPP model",
+        "Tests processed stood at 59 Mn and patients served stood at 20 Mn",
+        "DSO improved to 139 days vs 155 days QoQ",
+        "Company operates 190+ CT / MRI centers and 147 pathology labs",
+        "Presence spans 18 states and UTs with 4,700+ patient collection centers",
+        "Retail currently contributes around 8% of revenue and is becoming a strategic cash flow driver"
+      ],
+      "quote": "\"Krsnaa is outperforming the sector on PPP scale, radiology leadership, long-term visibility, affordable pricing and integrated platform depth.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "3B Blackbio DX Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Consol. Revenue", "value": "₹142 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Consol. PAT", "value": "~₹60 Cr", "change": "FY26", "positive": 1 },
+        { "label": "India Molecular Sales", "value": "₹86 Cr", "change": "+10% YoY", "positive": 1 },
+        { "label": "TRUPCR Europe", "value": "₹21 Cr", "change": "vs ₹14 Cr LY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue stood at ₹142 Cr, while consolidated PAT stood near ₹60 Cr",
+        "3B India molecular diagnostics sales stood at ₹86 Cr, up 10%",
+        "TRUPCR Europe sales stood at ₹21 Cr vs ₹14 Cr last year",
+        "TRUPCR Europe has delivered around 40% CAGR over the last 4 years",
+        "Coris BioConcept contributed ₹36 Cr sales and ₹9 Cr PAT for 7 months post acquisition"
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth", "value": "15-20%" },
+        { "metric": "Profitability", "value": "Expected to broadly grow in line with revenue" },
+        { "metric": "US FDA", "value": "Submission process ongoing for selected AMR products" },
+        { "metric": "IVDR Transition", "value": "Technical documentation review progressing" }
+      ],
+      "highlights": [
+        "FY26 was supported by Indian molecular diagnostics, TRUPCR Europe and Coris BioConcept",
+        "3B India growth was below expectations due to high FY25 base from flu, dengue and chikungunya demand",
+        "Middle East geopolitical tension impacted some export markets",
+        "Management continues to focus on government labs, private labs and reagent rental programs",
+        "Coris acquisition has started contributing meaningfully to consolidated revenue and PAT",
+        "BSI has been appointed as notified body for IVDR transition"
+      ],
+      "quote": "\"3B BlackBio is outperforming the sector on PAT margin profile, molecular diagnostics positioning, international expansion and regulatory approval optionality.\"",
+      "quotePerson": "Management Commentary"
+    }
   }
 }

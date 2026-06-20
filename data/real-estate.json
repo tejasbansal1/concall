@@ -1,7 +1,7 @@
 {
   "sector": {
     "name": "Real Estate",
-    "description": "Residential & commercial developers across India's major property markets",
+    "description": "Branded developers scaling launches and cash flows",
     "accent": "#1D4ED8",
     "accentLight": "#EFF6FF"
   },
@@ -32,5 +32,720 @@
     "Suraj Estate Developers Ltd",
     "TARC Ltd"
   ],
-  "concall": {}
+  "concall": {
+    "Mahindra Lifespace Developers Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Residential Pre-sales", "value": "₹3,405 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Q4 Pre-sales", "value": "₹1,633 Cr", "change": "Residential", "positive": 1 },
+        { "label": "Collections", "value": "₹2,100 Cr+", "change": "FY26", "positive": 1 },
+        { "label": "Net D/E", "value": "-0.27x", "change": "Net cash", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 residential pre-sales stood at ₹3,405 Cr",
+        "Q4FY26 residential pre-sales were strong at ₹1,633 Cr",
+        "Combined residential plus IC pre-sales stood around ₹4,120 Cr",
+        "Collections crossed ₹2,100 Cr and operating cash flow stood at ₹840 Cr",
+        "Balance sheet remains very strong with net debt to equity at negative 0.27x"
+      ],
+      "guidance": [
+        { "metric": "FY27 Pre-sales", "value": "Meaningful jump expected" },
+        { "metric": "Mahindra Rainforest", "value": "Full GDV of ₹12,000 Cr+" },
+        { "metric": "GDV Addition", "value": "Earlier ₹45,000 Cr aspiration crossed" },
+        { "metric": "Origins Ahmedabad", "value": "Approvals in place; anchor client awaited" }
+      ],
+      "highlights": [
+        "FY26 was supported by residential launches, sustenance sales and industrial cluster monetisation",
+        "Sustenance sales contributed around 40% of residential sales",
+        "Key launches included Blossom, Marina 64, New Haven, Citadel, Tower L and Lakewoods Chennai",
+        "Mahindra Rainforest Phase 1 has received RERA approval",
+        "Thane is being planned as a large mixed-use project",
+        "IC business remained strong, led by Jaipur and Chennai leasing traction"
+      ],
+      "quote": "\"Mahindra Lifespaces is outperforming the sector on balance sheet strength, GDV addition, IC monetisation and strong FY27 launch visibility.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Embassy Developments Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Pre-sales", "value": "₹4,631 Cr", "change": "+128% YoY", "positive": 1 },
+        { "label": "Q4 Pre-sales", "value": "₹2,632 Cr", "change": "+89% QoQ", "positive": 1 },
+        { "label": "FY26 Collections", "value": "₹1,673 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Net D/E", "value": "0.3x", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹4,631 Cr, up 128%",
+        "Q4FY26 pre-sales stood at ₹2,632 Cr, up 89% QoQ",
+        "FY26 collections stood at ₹1,673 Cr, while Q4 collections stood at ₹577 Cr",
+        "FY26 launch GDV stood at ₹16,300 Cr across 6 launches",
+        "FY26 reported PAT loss was due to revenue recognition timing and merger accounting"
+      ],
+      "guidance": [
+        { "metric": "FY27 Owned Pre-sales", "value": "₹6,000 Cr" },
+        { "metric": "FY27 DM Pre-sales", "value": "Additional ₹2,000 Cr" },
+        { "metric": "FY27 Collections", "value": "~₹3,000 Cr" },
+        { "metric": "FY27 Owned Launch GDV", "value": "₹19,400 Cr across 11 projects" }
+      ],
+      "highlights": [
+        "FY26 was a landmark year after NAM Estates integration",
+        "Q4FY26 was the strongest quarter in company history",
+        "Embassy achieved 93% of FY26 pre-sales guidance",
+        "Embassy Citadel marked entry into South Mumbai luxury market",
+        "Embassy Citadel and Embassy Verde contributed around 53% of Q4 pre-sales",
+        "Legal overhang reduced after favourable NCLAT and Karnataka High Court outcomes"
+      ],
+      "quote": "\"Embassy is outperforming the sector on Q4 pre-sales growth, luxury positioning, Bangalore brand strength and FY27 launch pipeline.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "SignatureGlobal India Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹8,250 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Area Sold", "value": "5 Mn+ sq ft", "change": "FY26", "positive": 1 },
+        { "label": "Launches", "value": "~6.5 Mn sq ft", "change": "FY26", "positive": 1 },
+        { "label": "Revenue Recognition", "value": "~₹2,600 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹8,250 Cr",
+        "Area sold crossed 5 Mn sq ft and housing units sold crossed 2,100",
+        "Launches stood around 6.5 Mn sq ft",
+        "Revenue recognition stood around ₹2,600 Cr",
+        "Gross profit margin stood around 30%, while EBITDA margin stood around 9-10%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Sales Target", "value": "Above ₹10,000 Cr" },
+        { "metric": "FY27 Collections Target", "value": "Above ₹5,000 Cr" },
+        { "metric": "FY27 Revenue Recognition", "value": "~₹5,000 Cr" },
+        { "metric": "FY27 Launch Pipeline", "value": "~₹15,000 Cr" }
+      ],
+      "highlights": [
+        "FY26 was steady with strong demand across Gurugram and Delhi NCR",
+        "Cloverdale and Signature Global Sarvam contributed around 85% of FY26 launches",
+        "Around half of FY26 sales came from new launches and balance from sustenance sales",
+        "FY22-FY26 pre-sales CAGR remains above 30%",
+        "Company received around ₹1,250 Cr from JV / RMZ transaction",
+        "Net debt reduced to a historical low level"
+      ],
+      "quote": "\"Signatureglobal is outperforming the sector on Gurugram focus, cash discipline, high-rise premium housing transition and strong FY27 guidance.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Aditya Birla Real Estate Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Pre-sales", "value": "₹8,136 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Q4 Pre-sales", "value": "₹4,288 Cr", "change": "+69% QoQ", "positive": 1 },
+        { "label": "FY26 Collections", "value": "₹3,341 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Q4 Area Sold", "value": "3 Mn sq ft", "change": "+75% QoQ", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales closed at ₹8,136 Cr",
+        "FY26 collections stood at ₹3,341 Cr and area sold stood at 5.5 Mn sq ft",
+        "Q4FY26 pre-sales stood at ₹4,288 Cr, up 69% QoQ",
+        "Q4FY26 collections stood at ₹994 Cr",
+        "Q4FY26 area sold stood at 3 Mn sq ft, up 75% QoQ"
+      ],
+      "guidance": [
+        { "metric": "FY27 New Launch Visibility", "value": "₹9,000 Cr+" },
+        { "metric": "Sustenance Opportunity", "value": "~₹7,000 Cr" },
+        { "metric": "Khar Redevelopment GDV", "value": "~₹1,700 Cr" },
+        { "metric": "Strategy", "value": "Cash neutrality first, then margin maximisation" }
+      ],
+      "highlights": [
+        "Q4FY26 was one of the strongest quarters for Aditya Birla Real Estate",
+        "Momentum was driven by launches across NCR, MMR, Bangalore and Pune",
+        "Birla Arika Phase 2 sold 97% of launch inventory in Q4",
+        "Birla Taranya in MMR delivered around ₹952 Cr sales",
+        "Premium and luxury segments continue to outperform",
+        "Redevelopment is expected to become an important growth driver"
+      ],
+      "quote": "\"Birla Estates is outperforming the sector on Q4 sales momentum, NCR execution, MMR traction and redevelopment optionality.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Sobha Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Real Estate Sales", "value": "₹8,136 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Collections", "value": "₹7,798 Cr", "change": "+26% YoY", "positive": 1 },
+        { "label": "Operating CF", "value": "₹1,637 Cr", "change": "+39% YoY", "positive": 1 },
+        { "label": "Net Cash", "value": "~₹800 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 real estate sales stood at ₹8,136 Cr",
+        "Average price realisation stood at ₹14,675 per sq ft, up 9%",
+        "Collections stood at ₹7,798 Cr, up 26%",
+        "FY26 total income stood at ₹5,384 Cr, while PAT stood at ₹193 Cr",
+        "Q4FY26 total income stood at ₹2,030 Cr and PAT stood at ₹92 Cr"
+      ],
+      "guidance": [
+        { "metric": "FY27 Launch Plan", "value": "~10 Mn sq ft" },
+        { "metric": "Launch Pipeline", "value": "20.67 Mn sq ft over next 6-8 quarters" },
+        { "metric": "Pre-sales Growth", "value": "~30% expected in FY27" },
+        { "metric": "Unrecognised Revenue", "value": "~₹18,600 Cr" }
+      ],
+      "highlights": [
+        "FY26 was an exceptional year with all-time high real estate sales",
+        "Quarterly sales run-rate remained strong around ₹2,000 Cr",
+        "Bangalore delivered highest-ever annual sales of around ₹4,500 Cr",
+        "NCR delivered highest-ever annual sales of around ₹2,450 Cr",
+        "Bangalore and NCR together contributed around 85% of sales",
+        "Company delivered 3,188 homes, equivalent to 5.4 Mn sq ft in FY26"
+      ],
+      "quote": "\"Sobha is outperforming the sector on net cash balance sheet, sales growth, delivery acceleration, Bangalore-NCR strength and unrecognised revenue visibility.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Brigade Enterprises Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹7,424 Cr", "change": "-5% YoY", "positive": 0 },
+        { "label": "Q4 Pre-sales", "value": "₹2,521 Cr", "change": "+44% QoQ", "positive": 1 },
+        { "label": "Revenue", "value": "₹5,909 Cr", "change": "+11% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹725 Cr", "change": "+7% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹7,424 Cr, down 5% due to approval delays",
+        "Q4FY26 pre-sales stood at ₹2,521 Cr, up 44% QoQ",
+        "FY26 launches stood at 8.3 Mn sq ft, while Q4 launches stood at 4 Mn sq ft",
+        "Consolidated revenue stood at ₹5,909 Cr, up 11%",
+        "EBITDA stood at ₹1,638 Cr with EBITDA margin of 28%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Pre-sales Target", "value": "~₹9,000 Cr" },
+        { "metric": "FY27 Launch Pipeline", "value": "~₹12,000 Cr" },
+        { "metric": "Office Pipeline", "value": "~10 Mn sq ft over FY27-FY28" },
+        { "metric": "Debt Equity", "value": "0.27x" }
+      ],
+      "highlights": [
+        "New launches contributed 43% of full-year pre-sales despite being back-ended",
+        "Brigade Lumina was almost fully sold out",
+        "FY26 residential BD addition stood at ₹15,000 Cr GDV across 13 Mn sq ft",
+        "Office portfolio delivered cumulative leasing of around 1.1 Mn sq ft",
+        "GCCs contributed 58% of leased portfolio",
+        "Retail portfolio saw 25% retailer sales growth across 3 malls"
+      ],
+      "quote": "\"Brigade is outperforming the sector on diversified platform strength, Bengaluru leadership, office leasing, retail momentum and low leverage.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Godrej Properties Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Booking Value", "value": "₹34,171 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹19,965 Cr", "change": "+17% YoY", "positive": 1 },
+        { "label": "Operating CF", "value": "₹7,830 Cr", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹1,850 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 booking value stood at ₹34,171 Cr, up 16%",
+        "Q4FY26 booking value stood at ₹10,163 Cr",
+        "FY26 collections stood at ₹19,965 Cr, up 17%",
+        "FY26 operating cash flow stood at ₹7,830 Cr",
+        "FY26 business development stood at ₹42,100 Cr expected booking value"
+      ],
+      "guidance": [
+        { "metric": "FY27 Booking Value", "value": "₹39,000 Cr" },
+        { "metric": "FY27 Launch Value", "value": "₹48,000 Cr" },
+        { "metric": "FY27 Collections", "value": "₹24,000 Cr" },
+        { "metric": "FY27 Delivery", "value": "13.5 Mn sq ft" }
+      ],
+      "highlights": [
+        "FY26 was the best ever year for BD, bookings, collections, OCF and earnings",
+        "Godrej remained India's largest residential developer by booking value for the third consecutive year",
+        "FY26 booking value achieved 105% of annual guidance",
+        "Q4 bookings were the highest-ever quarterly bookings",
+        "11 projects across 6 cities crossed ₹1,000 Cr booking value",
+        "Commercial portfolio has 5 operational assets with rental potential around ₹1,000 Cr p.a."
+      ],
+      "quote": "\"Godrej is outperforming the sector on scale, pan-India diversification, collections, business development and OCF generation.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Prestige Estates Projects Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Sales", "value": "₹30,000 Cr+", "change": "+76% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹18,500 Cr+", "change": "+53% YoY", "positive": 1 },
+        { "label": "Revenue", "value": "₹13,196 Cr", "change": "+71% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹1,312 Cr", "change": "+113% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 sales crossed ₹30,000 Cr, up 76%",
+        "Sales volume stood at 22.28 Mn sq ft, up 77%",
+        "Collections crossed ₹18,500 Cr, up 53%",
+        "Revenue stood at ₹13,196 Cr, up 71%, while EBITDA stood at ₹4,219 Cr, up 43%",
+        "Operating cash flow stood around ₹7,100 Cr, up 15%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Launch Pipeline", "value": "~₹58,000 Cr GDV" },
+        { "metric": "Inventory Available", "value": "~₹19,000 Cr" },
+        { "metric": "FY26 BD Addition", "value": "₹50,000 Cr+ GDV" },
+        { "metric": "Annuity Occupancy", "value": "92%; retail 99%" }
+      ],
+      "highlights": [
+        "FY26 was a milestone year across residential, commercial, retail and hospitality",
+        "Prestige launched its maiden residential project in NCR with ₹9,500 Cr+ sales",
+        "Company achieved first major residential completion in Mumbai",
+        "Prestige crossed 200 Mn sq ft completed across 300 projects",
+        "FY26 launches had 63% sales velocity",
+        "FY27 started with Prestige Golden Grove, Hyderabad, with strong response"
+      ],
+      "quote": "\"Prestige is outperforming the sector on residential pre-sales, NCR entry, launch velocity, annuity platform and BD addition.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Phoenix Mills Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹4,423 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "EBITDA", "value": "₹2,637 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "Retail Rentals", "value": "₹2,157 Cr", "change": "+10% YoY", "positive": 1 },
+        { "label": "Retail Consumption", "value": "₹16,587 Cr", "change": "+21% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue stood at ₹4,423 Cr, up 16%",
+        "FY26 EBITDA stood at ₹2,637 Cr, up 22%",
+        "Retail rental income stood at ₹2,157 Cr, up 10%",
+        "Retail EBITDA stood at ₹2,246 Cr, up 12%",
+        "Retail consumption stood at ₹16,587 Cr, up 21%"
+      ],
+      "guidance": [
+        { "metric": "Net Debt / EBITDA", "value": "1.19x" },
+        { "metric": "Office Business", "value": "Meaningful rental and EBITDA step-up from FY27" },
+        { "metric": "Phoenix Grand Victoria", "value": "79% leased" },
+        { "metric": "Phoenix Surat", "value": "41% leased" }
+      ],
+      "highlights": [
+        "FY26 was a strong operating year and transition year",
+        "Growth was delivered without adding new retail capacity",
+        "FY26 leasing had around 920 deals covering 3.2 Mn sq ft",
+        "Company opened 400+ new stores across the portfolio",
+        "Q4 consumption growth excluding jewellery and electronics was still around 17-18%",
+        "Phoenix Palassio renewal cycle delivered over 20% rental growth"
+      ],
+      "quote": "\"Phoenix is outperforming the sector on retail consumption, rental growth visibility, mixed-use platform, asset quality and operating leverage.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Lodha Developers Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹20,500 Cr", "change": "+16% YoY", "positive": 1 },
+        { "label": "Q4 Pre-sales", "value": "₹5,890 Cr", "change": "+23% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹3,430 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Net D/E", "value": "0.23x", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹20,500 Cr, up 16%",
+        "Q4FY26 pre-sales stood at ₹5,890 Cr, up 23%",
+        "Operating cash flow stood around ₹7,100 Cr",
+        "PAT stood at ₹3,430 Cr, with PAT margin of 20%",
+        "Financial revenue grew 21%, adjusted EBITDA grew 14% and PAT grew 24%"
+      ],
+      "guidance": [
+        { "metric": "FY26 BD Addition", "value": "₹60,000 Cr GDV" },
+        { "metric": "Available GDV", "value": "~₹2 lakh Cr" },
+        { "metric": "FCF View", "value": "Lower BD capex should support higher FCF" },
+        { "metric": "Luxury Share", "value": "~40% share in ₹100 Cr+ category" }
+      ],
+      "highlights": [
+        "FY26 was strong despite macro challenges and environmental clearance delays",
+        "Every quarter delivered its best-ever performance",
+        "Q4 was the strongest quarter in company history",
+        "Net debt has reduced sharply from 3.5x equity at IPO to 0.23x",
+        "Business development was 2.4x internal guidance",
+        "Lodha entered NCR in FY26 through 2 JDA land pieces"
+      ],
+      "quote": "\"Lodha is outperforming the sector on profitability, PAT margin, deleveraging, luxury market share and BD-led supply visibility.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "DLF Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Sales Bookings", "value": "₹20,143 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Collections", "value": "₹13,500 Cr+", "change": "+15% YoY", "positive": 1 },
+        { "label": "Net Cash", "value": "₹14,155 Cr", "change": "FY26", "positive": 1 },
+        { "label": "PAT ex-EI", "value": "₹4,256 Cr", "change": "+16% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 new sales bookings stood at ₹20,143 Cr",
+        "Q4FY26 sales stood at ₹3,967 Cr",
+        "Collections crossed ₹13,500 Cr, up 15%",
+        "Cash surplus generation crossed ₹7,700 Cr, up 25%",
+        "Development business had zero gross debt and net cash of ₹14,155 Cr"
+      ],
+      "guidance": [
+        { "metric": "FY27 Exit Rental", "value": "~₹8,200 Cr" },
+        { "metric": "Rental Portfolio", "value": "50 Mn sq ft; 95% occupancy" },
+        { "metric": "Atrium Place Rent Potential", "value": "~₹700 Cr once fully operational" },
+        { "metric": "Development Focus", "value": "Margins and cash flows over only pre-sales growth" }
+      ],
+      "highlights": [
+        "DLF delivered FY26 sales bookings in line with guidance",
+        "Sales were led by Privana North, West Park and Dahlias",
+        "DLF sold 32 apartments of Dahlias in Q4",
+        "Collections were record-high at ₹13,500 Cr+",
+        "DCCDL revenue stood around ₹7,400 Cr, up 15%",
+        "DCCDL EBITDA crossed ₹5,700 Cr, up 16%"
+      ],
+      "quote": "\"DLF is outperforming the sector on balance sheet strength, net cash position, luxury sales, rental annuity scale and cash surplus generation.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Ajmera Realty & Infra India Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹1,701 Cr", "change": "+57% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹1,103 Cr", "change": "+71% YoY", "positive": 1 },
+        { "label": "Revenue", "value": "₹1,098 Cr", "change": "+46% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹157 Cr", "change": "+24% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹1,701 Cr, up 57%",
+        "Collections stood at ₹1,103 Cr, up 71%",
+        "Revenue stood at ₹1,098 Cr, up 46%, while EBITDA stood at ₹306 Cr, up 25%",
+        "PAT stood at ₹157 Cr, up 24%",
+        "Debt-to-equity improved to 0.53x vs 1.13x in FY21"
+      ],
+      "guidance": [
+        { "metric": "FY27 Pre-sales Target", "value": "~₹2,200 Cr" },
+        { "metric": "FY27 Project Addition Target", "value": "~₹1,800 Cr" },
+        { "metric": "Overall Revenue Visibility", "value": "₹10,432 Cr" },
+        { "metric": "Wadala Land Bank GDV", "value": "~₹13,194 Cr" }
+      ],
+      "highlights": [
+        "FY26 was a strong year with highest-ever annual sales and collections",
+        "Pre-sales surpassed company guidance of ₹1,600 Cr",
+        "New launches contributed nearly 82% of FY26 pre-sales",
+        "Solis at Vikhroli Phase 1 saw 86% absorption",
+        "Vann by Ajmera in Versova marked entry into another premium luxury micro-market",
+        "FY26 business development stood at ₹2,433 Cr across 5 asset-light projects"
+      ],
+      "quote": "\"Ajmera is outperforming the sector on pre-sales growth, collections growth, premium Mumbai launch traction and asset-light redevelopment-led BD.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Arvind SmartSpaces Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Booking Value", "value": "₹1,550 Cr", "change": "+22% YoY", "positive": 1 },
+        { "label": "Revenue", "value": "₹564 Cr", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹103 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Operating CF", "value": "₹417 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 booking value stood at ₹1,550 Cr, up 22%",
+        "New launches contributed ₹930 Cr, around 60% of annual bookings",
+        "Revenue stood at ₹564 Cr, adjusted EBITDA stood at ₹156 Cr and PAT stood at ₹103 Cr",
+        "Q4FY26 adjusted EBITDA stood at ₹56 Cr, up 26%, while PAT stood at ₹44 Cr, up 103%",
+        "Net debt-to-equity stood at 0.26x"
+      ],
+      "guidance": [
+        { "metric": "FY27 BD Target", "value": "₹4,000-5,000 Cr GDV" },
+        { "metric": "FY27 Launch Plan", "value": "~6 launches" },
+        { "metric": "FY27 Launch Inventory", "value": "₹3,000-3,500 Cr" },
+        { "metric": "FY27 Booking Growth Potential", "value": "35-40%" }
+      ],
+      "highlights": [
+        "FY26 was a landmark year with record bookings and strong cash generation",
+        "Bengaluru contributed ₹485 Cr, around 31% of annual bookings",
+        "Q4 bookings crossed ₹600 Cr for the first time",
+        "Arvind Skycrest generated ₹262 Cr bookings within a week of launch",
+        "Company entered Mumbai residential apartment market through Santacruz redevelopment",
+        "Unrealized operating cash flow from current pipeline is above ₹4,970 Cr over 4-5 years"
+      ],
+      "quote": "\"Arvind SmartSpaces is outperforming the sector on booking growth, operating cash flow, Mumbai entry, Bengaluru execution and asset-light BD.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Ashiana Housing Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Booking Value", "value": "₹2,421 Cr", "change": "+25% YoY", "positive": 1 },
+        { "label": "Q4 Booking", "value": "₹1,290 Cr", "change": "+124% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹1,762 Cr", "change": "All-time high", "positive": 1 },
+        { "label": "PAT", "value": "₹118 Cr", "change": "vs ₹18 Cr LY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 booking value stood at ₹2,421 Cr, up 25%",
+        "Q4FY26 booking value stood at ₹1,290 Cr, up 124%",
+        "Customer collections stood at ₹1,762 Cr, an all-time high",
+        "FY26 pre-tax operating cash flow stood at ₹577 Cr, up 34%",
+        "Total income more than doubled to ₹1,187 Cr, while EBITDA grew 281%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Pre-sales Target", "value": "₹2,200 Cr" },
+        { "metric": "FY27 Senior Living Target", "value": "Above ₹700 Cr" },
+        { "metric": "Senior Living GDV Potential", "value": "₹6,500 Cr+ across 5 projects" },
+        { "metric": "FY27 Launches", "value": "Oma, Tattvam and Aaranya" }
+      ],
+      "highlights": [
+        "FY26 was one of the strongest years in company history",
+        "Q4 performance was driven by Ashiana Aaroham Phase 1 and 2 in Gurugram",
+        "Ashiana Aaroham contributed around ₹833 Cr booking value at launch",
+        "Q4 average realization improved 71% to ₹11,566 per sq ft",
+        "Senior Living delivered record bookings of ₹570 Cr",
+        "Senior Living additions across Chennai and Maharashtra added around ₹3,200 Cr sales potential"
+      ],
+      "quote": "\"Ashiana is outperforming the sector on Senior Living leadership, cash flow generation, launch response in Gurugram and sharp profitability improvement.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Sunteck Realty Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹3,157 Cr", "change": "+25% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹1,433 Cr", "change": "+14% YoY", "positive": 1 },
+        { "label": "Revenue", "value": "₹1,124 Cr", "change": "+32% YoY", "positive": 1 },
+        { "label": "PAT", "value": "₹202 Cr", "change": "+34% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹3,157 Cr, up 25%",
+        "Q4FY26 pre-sales stood at ₹1,064 Cr, up 22%",
+        "Collections stood at ₹1,433 Cr, up 14%, while Q4 collections grew 39%",
+        "Operating revenue stood at ₹1,124 Cr, up 32%, while EBITDA grew 64%",
+        "Net cash flow surplus stood at ₹552 Cr, up 48%, and net debt-to-equity stood at 0.06x"
+      ],
+      "guidance": [
+        { "metric": "Total GDV", "value": "~₹44,100 Cr gross of pre-sales" },
+        { "metric": "FY26 BD", "value": "3 new projects with ~₹5,000 Cr GDV" },
+        { "metric": "FY27 Launch Pipeline", "value": "Altavia, Andheri, Mira Road, Vasai, Naigaon and Nepeansea Road" },
+        { "metric": "Dubai Project", "value": "Launch-ready, timing dependent on Middle East situation" }
+      ],
+      "highlights": [
+        "FY26 delivered strong financial and operational performance",
+        "Uber luxury and premium luxury continue to do well",
+        "Aspirational luxury is showing early signs of recovery",
+        "Pre-sales growth was led by premium and luxury projects",
+        "Unsold under-construction inventory remains below 12 months",
+        "Company invested ₹810 Cr in BD in FY26 vs ₹180 Cr in FY25"
+      ],
+      "quote": "\"Sunteck is outperforming the sector on premium-luxury positioning, margin growth, net cash flow surplus, low leverage and Mumbai redevelopment optionality.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Keystone Realtors Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹4,022 Cr", "change": "+33% YoY", "positive": 1 },
+        { "label": "Q4 Pre-sales", "value": "₹1,346 Cr", "change": "+58% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹2,622 Cr", "change": "+13% YoY", "positive": 1 },
+        { "label": "OCF", "value": "₹715 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹4,022 Cr, up 33%",
+        "Q4FY26 pre-sales stood at ₹1,346 Cr, up 58%",
+        "Collections stood at ₹2,622 Cr, up 13%, while Q4 collections stood at ₹853 Cr",
+        "Revenue from operations stood at ₹2,635 Cr",
+        "FY26 launch GDV stood at ₹9,813 Cr, up 96%, while BD addition stood at ₹10,400 Cr GDV"
+      ],
+      "guidance": [
+        { "metric": "FY27 Pre-sales Guidance", "value": "₹5,000 Cr" },
+        { "metric": "FY27 Launch Guidance", "value": "~₹8,000 Cr" },
+        { "metric": "FY27 Acquisition Target", "value": "₹8,000 Cr+" },
+        { "metric": "FY27 OCF Guidance", "value": "~₹1,000 Cr" }
+      ],
+      "highlights": [
+        "FY26 was an inflection year for Keystone / Rustomjee",
+        "Pre-sales have grown 2.5x from ₹1,604 Cr in FY23",
+        "MMR market share doubled to around 2%",
+        "Q4FY26 was the highest-ever quarterly pre-sales quarter",
+        "Since FY23, company has added 25 projects with ₹27,800 Cr+ GDV",
+        "Accounting policy moved from project completion method to POCM"
+      ],
+      "quote": "\"Keystone is outperforming the sector on MMR redevelopment execution, guidance delivery, net cash position, BD engine and margin-first asset-light model.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Puravankara Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹7,407 Cr", "change": "+55% YoY", "positive": 1 },
+        { "label": "Q4 Pre-sales", "value": "₹3,547 Cr", "change": "+190% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹4,258 Cr", "change": "+15% YoY", "positive": 1 },
+        { "label": "Avg Realization", "value": "₹10,213/sq ft", "change": "+21% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹7,407 Cr, up 55%",
+        "Q4FY26 pre-sales stood at ₹3,547 Cr, up 190%",
+        "Collections stood at ₹4,258 Cr, up 15%, while Q4 collections grew 36%",
+        "Sales volume stood at 7.25 Mn sq ft",
+        "Total income stood at ₹3,846 Cr, up 84%, while Q4 total income grew 173%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Pre-sales Guidance", "value": "~₹11,200 Cr" },
+        { "metric": "FY27 Debt Reduction Target", "value": "~₹750 Cr, excluding strategic BD borrowing" },
+        { "metric": "FY26 BD Addition", "value": "₹15,200 Cr GDV" },
+        { "metric": "FY27 Sales Mix", "value": "48% sustenance, 52% new launches" }
+      ],
+      "highlights": [
+        "FY26 was a landmark year with highest-ever quarterly and annual sales",
+        "Growth was driven by successful launches and traction across existing portfolio",
+        "Company handed over 3,747 homes aggregating 4.25 Mn sq ft",
+        "FY26 launches included Purva SilverSky, Northern Lights and Estrella",
+        "Business development was strong with 6 new projects across Mumbai and Bengaluru",
+        "Mumbai additions include Chembur and Malabar Hill redevelopment projects"
+      ],
+      "quote": "\"Puravankara is outperforming the sector on pre-sales growth, Q4 launch response, BD addition and premium realization improvement.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Ganesh Housing Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": false,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "₹539 Cr", "change": "FY26", "positive": 1 },
+        { "label": "PAT", "value": "₹316 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "₹122 Cr", "change": "+33% QoQ", "positive": 1 },
+        { "label": "Land Reserves", "value": "~518 acres", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at ₹539 Cr, while PAT stood at ₹316 Cr",
+        "Q4FY26 revenue stood at ₹122 Cr, up 33% QoQ",
+        "Q4FY26 EBITDA stood at ₹98 Cr, with EBITDA margin of 81%",
+        "Q4FY26 PAT stood at ₹61 Cr, with PAT margin of 50%",
+        "Dividend stood at ₹1.5 per share"
+      ],
+      "outlook": "FY27 is expected to be important due to Million Minds lease rentals, Malabar Retreat completion and further land monetisation.",
+      "highlights": [
+        "FY26 was a transition year for Ganesh Housing",
+        "Company is moving from land-rich developer to integrated commercial, residential, township and annuity platform",
+        "Ahmedabad and Gujarat remain key growth markets",
+        "Million Minds Tech City has long-term development potential of over 18 Mn sq ft",
+        "Phase 1 has 0.85 Mn sq ft leasable area and around 60-65% is leased or in final stages",
+        "Remaining Godhavi land is around 411 acres"
+      ],
+      "quote": "\"Ganesh Housing is outperforming the sector on PAT margin, land bank strength, Ahmedabad premiumization, Million Minds annuity optionality and low-cost embedded land value.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Kalpataru Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹5,280 Cr", "change": "+17% YoY", "positive": 1 },
+        { "label": "Collections", "value": "₹4,960 Cr", "change": "+34% YoY", "positive": 1 },
+        { "label": "Revenue", "value": "₹3,436 Cr", "change": "+54% YoY", "positive": 1 },
+        { "label": "Net D/E", "value": "2x", "change": "FY26", "positive": 0 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹5,280 Cr, up 17%",
+        "Q4FY26 pre-sales stood at ₹1,833 Cr, up 6%",
+        "Collections stood at ₹4,960 Cr, up 34%, while Q4 collections grew 41%",
+        "Revenue from operations stood at ₹3,436 Cr, up 54%",
+        "Adjusted EBITDA stood at ₹1,022 Cr, with margin of 30%"
+      ],
+      "guidance": [
+        { "metric": "FY27 Launch Pipeline", "value": "5 Mn sq ft with GDV of ₹7,800 Cr" },
+        { "metric": "FY27 Delivery Target", "value": "~5.5 Mn sq ft" },
+        { "metric": "Total Future Inflows", "value": "~₹57,000 Cr" },
+        { "metric": "Debt Refinancing", "value": "₹1,300 Cr further planned" }
+      ],
+      "highlights": [
+        "FY26 was the strongest operational year in Kalpataru's history",
+        "Q4FY26 was the highest-ever quarterly pre-sales quarter",
+        "Collections grew faster than pre-sales, showing execution and cash flow efficiency",
+        "Portfolio comprises 31 projects with total saleable area of 43 Mn sq ft",
+        "FY26 completions stood at 5.15 Mn sq ft, nearly double the previous year",
+        "Company refinanced around ₹3,500 Cr debt after listing, reducing blended cost by around 120 bps"
+      ],
+      "quote": "\"Kalpataru is outperforming the sector on collections growth, delivery-led revenue recognition, large future inflow visibility and premium MMR portfolio depth.\"",
+      "quotePerson": "Management Commentary"
+    },
+
+    "Max Estates Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Pre-sales", "value": "₹5,305 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Q4 Bookings", "value": "₹3,300 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Collections", "value": "₹1,578 Cr", "change": "+61% YoY", "positive": 1 },
+        { "label": "Net Debt", "value": "~₹100 Cr", "change": "FY26", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 pre-sales stood at ₹5,305 Cr",
+        "Q4FY26 bookings stood at ₹3,300 Cr",
+        "Collections stood at ₹1,578 Cr, up 61%",
+        "Average realization stood at ₹23,000 per sq ft vs ₹18,000 in FY24",
+        "Consolidated revenue stood at ₹200 Cr, EBITDA at ₹24 Cr and PBT at ₹23 Cr"
+      ],
+      "guidance": [
+        { "metric": "FY27 Collections", "value": "₹2,500-3,000 Cr" },
+        { "metric": "Contracted Sales", "value": "₹12,500 Cr sold and locked in" },
+        { "metric": "Embedded PBT", "value": "₹4,200-4,900 Cr from launched projects" },
+        { "metric": "Residential Pipeline", "value": "₹17,200 Cr+" }
+      ],
+      "highlights": [
+        "Max Estates crossed ₹5,300 Cr pre-sales for the second consecutive year",
+        "Q4FY26 was the strongest quarterly performance ever",
+        "Bookings were driven by Estate 105 and Max One in Noida",
+        "3-year pre-sales CAGR from FY24 stands at 70%",
+        "Cancellations remain negligible, reflecting end-user buyer base",
+        "Commercial assets operate at 100% occupancy"
+      ],
+      "quote": "\"Max Estates is outperforming the sector on NCR premium positioning, Q4 bookings, contracted revenue visibility, low net debt and commercial annuity optionality.\"",
+      "quotePerson": "Management Commentary"
+    }
+  }
 }

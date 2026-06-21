@@ -1,0 +1,432 @@
+{
+  "sector": {
+    "name": "FMCG",
+    "description": "Consumer brands navigating demand recovery",
+    "accent": "#9333EA",
+    "accentLight": "#FAF5FF"
+  },
+  "companies": [
+    "Hindustan Unilever Ltd",
+    "Varun Beverages Ltd",
+    "Mrs. Bectors Food Specialities Ltd",
+    "Marico Ltd",
+    "Bikaji Foods International Ltd",
+    "Britannia Industries Ltd",
+    "Emami Ltd",
+    "Godrej Consumer Products Ltd",
+    "Tata Consumer Products Ltd",
+    "Manorama Industries Ltd",
+    "CCL Products (India) Ltd",
+    "Vintage Coffee and Beverages Ltd"
+  ],
+  "concall": {
+    "Hindustan Unilever Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Revenue Growth", "value": "8%", "change": "Consol", "positive": 1 },
+        { "label": "Q4 USG", "value": "7%", "change": "Volume-led", "positive": 1 },
+        { "label": "Q4 EBITDA Margin", "value": "23.7%", "change": "High end", "positive": 1 },
+        { "label": "Q4 PAT", "value": "2,711 Cr", "change": "+4%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 consolidated revenue grew 8%, supported by 7% underlying sales growth.",
+        "Growth was primarily volume-led and marked the highest quarterly growth in 12 quarters.",
+        "EBITDA grew 6% YoY with margin at 23.7%, at the higher end of guidance.",
+        "Reported PAT grew 20% YoY, while PAT before exceptional items grew 4%.",
+        "Cash flow from operations stood close to 10,500 Cr for FY26."
+      ],
+      "guidance": [
+        { "metric": "Capex", "value": "2,000 Cr planned investment" },
+        { "metric": "EBITDA Margin", "value": "23.6-23.7% range maintained" },
+        { "metric": "Focus", "value": "Premium formats and demand recovery" }
+      ],
+      "highlights": [
+        "Beauty & Wellbeing grew 8% USG.",
+        "Personal Care delivered 5% underlying sales growth.",
+        "Foods business crossed 4,000 Cr revenue.",
+        "Quick commerce channel grew over 25%.",
+        "Minimalist annual revenue run rate is around 850 Cr.",
+        "Management highlighted improving rural and volume trends."
+      ],
+      "quote": "\"This represents our highest quarterly growth in 12 quarters.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Varun Beverages Ltd": {
+      "quarter": "Q1CY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue", "value": "6,574 Cr", "change": "+18.1%", "positive": 1 },
+        { "label": "Volume Growth", "value": "16.3%", "change": "Consol", "positive": 1 },
+        { "label": "EBITDA", "value": "1,529 Cr", "change": "+21%", "positive": 1 },
+        { "label": "PAT", "value": "879 Cr", "change": "+20.1%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Consolidated sales volume grew 16.3%, led by India growth of 14.4%.",
+        "International territories grew 21.4% in volume during the quarter.",
+        "Revenue grew 18.1% YoY to 6,574 Cr.",
+        "EBITDA grew 21% with margin improving 55 bps to 23.3%.",
+        "PAT grew 20.1% YoY, supported by volume growth and operating efficiencies."
+      ],
+      "guidance": [
+        { "metric": "Capacity", "value": "Can support up to 50% growth" },
+        { "metric": "RoCE Target", "value": "Around 30%" },
+        { "metric": "Growth Focus", "value": "India, international and dairy scale-up" }
+      ],
+      "highlights": [
+        "India EBITDA margin improved by 112 bps.",
+        "Gross margin improved 62 bps to 55.2%.",
+        "Dairy segment grew around 60%.",
+        "International business contributed around 63% of volumes.",
+        "Twizza revenue was around 800 Cr and Crickley around 160 Cr.",
+        "Interim dividend of 0.50 per share was declared."
+      ],
+      "quote": "\"We have enough capacity that even if we get a 50% growth, we can comfortably handle it.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Mrs. Bectors Food Specialities Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "2,043.6 Cr", "change": "+9.1%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "257.7 Cr", "change": "+2.5%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "140.9 Cr", "change": "6.9% margin", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "485.9 Cr", "change": "+8.9%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue crossed the 2,000 Cr mark, growing 9.1% YoY.",
+        "Q4 revenue grew 8.9% YoY to 485.9 Cr.",
+        "Biscuits grew 8.4% YoY in Q4, while Bakery grew 8.5%.",
+        "FY26 EBITDA stood at 257.7 Cr with margin at 12.6%.",
+        "PAT stood at 140.9 Cr with PAT margin at 6.9%."
+      ],
+      "guidance": [
+        { "metric": "Exports", "value": "Low to mid-teens growth expected" },
+        { "metric": "Bakery", "value": "Mumbai plant in ramp-up phase" },
+        { "metric": "Margin Focus", "value": "Pricing and cost actions" }
+      ],
+      "highlights": [
+        "Bakery delivered 14% growth for FY26.",
+        "Q4 EBITDA margin improved 25 bps YoY to 12.7%.",
+        "Mumbai plant was commissioned in Q4FY26.",
+        "Biscuits and Bakery have compounded strongly over the last four years.",
+        "B2B opportunity improves as new capacity ramps up.",
+        "Management remains watchful on input cost pressure."
+      ],
+      "quote": "\"FY26 marks a significant milestone as we crossed the 2,000 Cr revenue mark.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Marico Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Foods Revenue", "value": "1,000+ Cr", "change": "FY26 exit", "positive": 1 },
+        { "label": "Digital Portfolio", "value": "1,100 Cr", "change": "FY26 exit", "positive": 1 },
+        { "label": "FY27 Revenue Goal", "value": "15,000 Cr", "change": "Target", "positive": 1 },
+        { "label": "FY30 Revenue Goal", "value": "20,000 Cr", "change": "Aspiration", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "More than 95% of the portfolio gained or sustained market share.",
+        "Foods exited FY26 at over 1,000 Cr revenue.",
+        "Premium Personal Care digital-first portfolio exited FY26 at 1,100 Cr.",
+        "VAHO saw over 20% volume growth in Q4.",
+        "Bangladesh sales growth accelerated sharply to 35% in Q4."
+      ],
+      "guidance": [
+        { "metric": "FY27 India Volume", "value": "High single-digit growth" },
+        { "metric": "FY27 Revenue", "value": "Double-digit growth, 15,000 Cr target" },
+        { "metric": "FY30 EBITDA", "value": "Mid-teen growth aspiration" }
+      ],
+      "highlights": [
+        "Foods portfolio is now a meaningful growth engine.",
+        "Digital brands are expected to exit FY27 at double-digit EBITDA margin.",
+        "Beardo and Plix remain accelerated growth brands.",
+        "Management expects high-teen EBITDA growth in FY27.",
+        "Gross margin expansion of 350-400 bps was discussed.",
+        "Operating margin expansion of around 150 bps is targeted."
+      ],
+      "quote": "\"We expect to sustain high single-digit volume growth in the India business in FY27.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Bikaji Foods International Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "2,994 Cr", "change": "+9.5% volume", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "720 Cr", "change": "Strong quarter", "positive": 1 },
+        { "label": "FY26 EBITDA Margin", "value": "13.7%", "change": "+120 bps", "positive": 1 },
+        { "label": "Q4 EBITDA", "value": "88 Cr", "change": "12.2% margin", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood near 2,994 Cr with 9.5% volume growth.",
+        "Q4 volume growth was above 16%, the highest quarterly growth during the year.",
+        "Q4 revenue crossed around 720 Cr with EBITDA of 88 Cr.",
+        "FY26 EBITDA margin improved 120 bps to 13.7%.",
+        "PAT margin in Q4 was close to 8% with PAT around 56 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Growth", "value": "Around 13% plus-minus" },
+        { "metric": "FY27 Capex", "value": "Around 100 Cr" },
+        { "metric": "Longer-Term Goal", "value": "50-55% topline growth over 3 years" }
+      ],
+      "highlights": [
+        "Family packs grew 20%, while impulse packs grew 14%.",
+        "Core Namkeen and snacks recovered after GST reduction.",
+        "Packaged sweets performed well in Q4.",
+        "One brand crossed 100 Cr revenue during the year.",
+        "Sweet factory capex in Bikaner remains a key project.",
+        "Management expects premium and new markets to support growth."
+      ],
+      "quote": "\"Quarter 4 volume growth was upward of 16%, highest in any quarter.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Britannia Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "18,858 Cr", "change": "+7.5%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "2,533 Cr", "change": "+16.3%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "4,686 Cr", "change": "+7.1%", "positive": 1 },
+        { "label": "Q4 PAT", "value": "678 Cr", "change": "+21.1%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 7.5% to 18,858 Cr.",
+        "FY26 PAT grew 16.3% to 2,533 Cr, with PAT margin at 13.4%.",
+        "Q4 revenue grew 7.1% to 4,686 Cr.",
+        "Q4 operating profit grew 6% to 768 Cr.",
+        "Q4 PAT grew 21.1% YoY to 678 Cr."
+      ],
+      "guidance": [
+        { "metric": "Growth Channels", "value": "E-commerce and adjacent categories" },
+        { "metric": "Margin Focus", "value": "Commodity and cost management" },
+        { "metric": "Distribution", "value": "Rural and wholesale normalization expected" }
+      ],
+      "highlights": [
+        "Operating profit for FY26 grew 11.6% to 3,208 Cr.",
+        "PBT grew 12.4% to 3,289 Cr.",
+        "Non-biscuit and new categories gained share in the revenue mix.",
+        "E-commerce grew at around 1.4x of biscuits.",
+        "Some businesses outpaced company growth by around 3x.",
+        "Management highlighted commodity moderation in parts of the portfolio."
+      ],
+      "quote": "\"For the year, at the revenue level, we clocked 18,858 Cr.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Emami Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "3,780 Cr", "change": "-1%", "positive": 0 },
+        { "label": "FY26 EBITDA", "value": "964 Cr", "change": "-6%", "positive": 0 },
+        { "label": "FY26 PAT", "value": "775 Cr", "change": "Stable", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "925 Cr", "change": "-4%", "positive": 0 }
+      ],
+      "fyPerformance": [
+        "Q4 revenue declined 4% YoY to 925 Cr in a challenging operating environment.",
+        "Core domestic business grew 11% in Q4, reflecting underlying brand strength.",
+        "FY26 revenue stood at 3,780 Cr, down 1% YoY.",
+        "Gross margin expanded 130 bps for FY26 to 69.9%.",
+        "FY26 EBITDA declined 6% to 964 Cr, while PAT stood at 775 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Growth", "value": "Good double-digit growth targeted" },
+        { "metric": "Strategic Investments", "value": "Around 30% growth intent" },
+        { "metric": "EBITDA", "value": "Absolute EBITDA increase targeted" }
+      ],
+      "highlights": [
+        "Pain Management grew 11% in Q4.",
+        "Kesh King grew 14%, its second consecutive double-digit quarter.",
+        "Strategic investments grew 34%.",
+        "7 Oils in One grew 34%.",
+        "Modern trade grew 70% and GT Marts grew 25%.",
+        "Talc dependency reduced to 27% of domestic sales."
+      ],
+      "quote": "\"We are well positioned to deliver sustained growth in FY27.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Godrej Consumer Products Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Revenue Growth", "value": "11%", "change": "Consol", "positive": 1 },
+        { "label": "Q4 UVG", "value": "6%", "change": "Consol", "positive": 1 },
+        { "label": "Q4 EBITDA Margin", "value": "21.7%", "change": "Healthy", "positive": 1 },
+        { "label": "India UVG", "value": "8%", "change": "Standalone", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 consolidated revenue grew 11% on 6% underlying volume growth.",
+        "Consolidated EBITDA grew 10% with operating margin at 21.7%.",
+        "Standalone business delivered 8% UVG and 10% sales growth.",
+        "Standalone EBITDA grew 18% with margin at 24.7%.",
+        "Indonesia delivered 4% volume growth and showed signs of stabilization."
+      ],
+      "guidance": [
+        { "metric": "Indonesia Volume", "value": "5-6% steady-state ambition" },
+        { "metric": "Africa", "value": "Growth expected to compound in FY27" },
+        { "metric": "Margin", "value": "Near-term oil inflation may pressure margins" }
+      ],
+      "highlights": [
+        "Home Care grew 12% in value.",
+        "Personal Care grew 3%.",
+        "Perfumes and deodorants delivered strong double-digit growth.",
+        "Standalone margins were supported by cost control and portfolio mix.",
+        "Africa reported strong sales growth off a weak base.",
+        "Management remained confident on India volume recovery."
+      ],
+      "quote": "\"Q4 FY26 has been a quarter of strong broad-based performance.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Tata Consumer Products Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Revenue Growth", "value": "18%", "change": "Consol", "positive": 1 },
+        { "label": "Q4 EBITDA Growth", "value": "27%", "change": "YoY", "positive": 1 },
+        { "label": "FY26 Revenue Growth", "value": "15%", "change": "Full year", "positive": 1 },
+        { "label": "Net Cash", "value": "3,000 Cr", "change": "Balance sheet", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 consolidated revenue grew 18%, with India business revenue up 15%.",
+        "India business UVG was 13%, with tea volume up 4%.",
+        "Growth businesses crossed 4,000 Cr and grew 24% for the year.",
+        "Consolidated EBITDA grew 27% in Q4, ahead of revenue growth.",
+        "FY26 topline grew 15%, EBITDA grew 12%, PBT grew 23% and group net profit grew 24%."
+      ],
+      "guidance": [
+        { "metric": "Growth Businesses", "value": "Continue scaling beyond 4,000 Cr" },
+        { "metric": "Innovation", "value": "4.5% innovation-to-sales ratio" },
+        { "metric": "Balance Sheet", "value": "Around 3,000 Cr net cash" }
+      ],
+      "highlights": [
+        "Sampann grew 69% in Q4 and 46% for FY26.",
+        "RTD grew 28% in volume and 23% in revenue in Q4.",
+        "International business delivered 11% constant currency growth in Q4.",
+        "Non-branded business grew 41% in Q4.",
+        "Salt market share improved by 100 bps.",
+        "The company launched 80 new products during the year."
+      ],
+      "quote": "\"Consolidated revenue for the quarter grew 18%.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Manorama Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "1,357 Cr", "change": "+76.1%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "367.7 Cr", "change": "27.1% margin", "positive": 1 },
+        { "label": "FY26 PAT", "value": "233.2 Cr", "change": "17.2% margin", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "382.3 Cr", "change": "Strong", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 standalone revenue grew 76.1% to 1,357 Cr.",
+        "FY26 EBITDA stood at 367.7 Cr with margin at 27.1%.",
+        "FY26 PAT stood at 233.2 Cr with PAT margin of 17.2%.",
+        "Q4 revenue stood at 382.3 Cr, EBITDA at 102.9 Cr and PAT at 59.5 Cr.",
+        "Operating cash flow stood at 259.4 Cr, with ROCE at 33.6% and ROE at 40.3%."
+      ],
+      "guidance": [
+        { "metric": "FY27 Growth", "value": "Strong volume-led growth expected" },
+        { "metric": "EBITDA Margin", "value": "25-27% guidance maintained" },
+        { "metric": "Capex", "value": "Around 460 Cr across projects" }
+      ],
+      "highlights": [
+        "Solvent fractionation plant capacity increased 30%.",
+        "Net debt/equity stood at 0.38x.",
+        "Burkina Faso project capex is around 120 Cr.",
+        "Forward integration project forms a major part of capex.",
+        "Management indicated 25-30% growth as a reasonable broad range.",
+        "Capacity upgrades support the next growth phase."
+      ],
+      "quote": "\"The outlook for FY27 remains strongly positive on the topline front.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "CCL Products (India) Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue Growth", "value": "43%", "change": "Group", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "741.4 Cr", "change": "+32%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "388.1 Cr", "change": "+25%", "positive": 1 },
+        { "label": "Net Debt/EBITDA", "value": "1.45x", "change": "Down from 3.1x", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 group revenue grew 43% YoY.",
+        "FY26 EBITDA grew 32% to 741.4 Cr.",
+        "FY26 net profit grew 25% to 388.1 Cr.",
+        "Q4 revenue grew 46% YoY, while EBITDA grew 16%.",
+        "Domestic gross turnover was around 650 Cr, including brand sales of around 440 Cr."
+      ],
+      "guidance": [
+        { "metric": "Volume Growth", "value": "Around 15%" },
+        { "metric": "EBITDA Growth", "value": "Around 15%" },
+        { "metric": "Capex", "value": "No major capex for next 2 years" }
+      ],
+      "highlights": [
+        "Q4 net profit grew 12% to 114.5 Cr.",
+        "Net debt reduced sharply to around 1,073 Cr.",
+        "Capacities are sufficient for growth aspirations over the next two years.",
+        "Online channel contributes around 20-25% of branded sales.",
+        "Value growth may moderate if coffee prices normalize.",
+        "Maintenance capex is expected around 25 Cr."
+      ],
+      "quote": "\"We are sticking to the volume growth guidance of 15%.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Vintage Coffee and Beverages Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "553.1 Cr", "change": "+79.3%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "99.6 Cr", "change": "+88.1%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "72.2 Cr", "change": "+79.8%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "165.3 Cr", "change": "+57.2%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 79.3% to 553.1 Cr.",
+        "FY26 EBITDA grew 88.1% to 99.6 Cr with margin at 18%.",
+        "FY26 PAT grew 79.8% to 72.2 Cr with PAT margin at 13.1%.",
+        "Q4 revenue grew 57.2% YoY to 165.3 Cr.",
+        "Q4 EBITDA stood at 30.6 Cr with margin at 18.5%."
+      ],
+      "guidance": [
+        { "metric": "Installed Capacity", "value": "11,000 MT fully operational from Q1FY27" },
+        { "metric": "FY27 Utilization", "value": "Around 95% of 11,000 MT" },
+        { "metric": "New Capacity", "value": "5,500 MT facility by Q2FY28" }
+      ],
+      "highlights": [
+        "Brownfield expansion increased capacity from 6,500 MT to 11,000 MT.",
+        "Company remained operating cash flow positive in FY26.",
+        "PAT margin was maintained above 12% in Q4.",
+        "Capacity expansion positions the company for stronger FY27.",
+        "Freeze-dried coffee facility is expected to add future growth.",
+        "Management expects staged utilization gains across FY27-FY29."
+      ],
+      "quote": "\"FY26 was a year of accelerated growth and strong financial delivery.\"",
+      "quotePerson": "Management Commentary"
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "sector": {
+    "name": "Recycling",
+    "description": "Circular economy companies scaling recycling",
+    "accent": "#15803D",
+    "accentLight": "#F0FDF4"
+  },
+  "companies": [
+    "Gravita India Ltd",
+    "Pondy Oxides and Chemicals Ltd",
+    "Jain Resources Ltd",
+    "Tinna Rubber and Infrastructure Ltd",
+    "Bhagyanagar India Ltd",
+    "Ganesha Ecosphere Ltd"
+  ],
+  "concall": {
+    "Gravita India Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "4,265 Cr", "change": "+10%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "452.5 Cr", "change": "+12%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "378.8 Cr", "change": "+21%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "1,172.8 Cr", "change": "+13%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 10% to 4,265 Cr.",
+        "Adjusted EBITDA grew 12% to 452.5 Cr with margin at 10.6%.",
+        "PAT grew 21% to 378.8 Cr with PAT margin at 8.88%.",
+        "Q4 revenue grew 13% YoY and 15% QoQ to 1,172.8 Cr.",
+        "Value-added products contributed 42% of revenue."
+      ],
+      "guidance": [
+        { "metric": "Capex Plan", "value": "1,700 Cr through FY29" },
+        { "metric": "Vision 2029", "value": "50% value-added revenue target" },
+        { "metric": "Capacity Plan", "value": "800,000 tons target" }
+      ],
+      "highlights": [
+        "Lead recycling capacity at Mundra expanded by 80,300 MTPA.",
+        "Lithium-ion battery recycling facility started at Mundra.",
+        "Copper recycling capacity is being added in Gujarat.",
+        "FY26 capex stood at 372 Cr.",
+        "Five-year revenue, EBITDA and PAT CAGR stood at 25%, 49% and 31%.",
+        "Company operates across 70+ countries with 14 manufacturing facilities."
+      ],
+      "quote": "\"Gravita ended FY26 on a strong note, continuing towards its growth trajectory.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Pondy Oxides and Chemicals Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Revenue", "value": "932 Cr", "change": "+80%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "218 Cr", "change": "Strong", "positive": 1 },
+        { "label": "Q4 PAT", "value": "38 Cr", "change": "+111%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "139 Cr", "change": "+113%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 was described as one of the most remarkable years in the company's journey.",
+        "Q4 revenue grew 80% YoY and 20% QoQ to 932 Cr.",
+        "FY26 EBITDA stood at 218 Cr with improved earnings profile.",
+        "Q4 PAT grew 111% YoY to 38 Cr.",
+        "FY26 PAT grew 113% YoY to 139 Cr with PAT margin at 4.7%."
+      ],
+      "guidance": [
+        { "metric": "FY27 Capex", "value": "Around 180 Cr" },
+        { "metric": "Volume Growth", "value": "20% targeted" },
+        { "metric": "EBITDA Growth", "value": "20% targeted" }
+      ],
+      "highlights": [
+        "Lead recycling capacity at TKD increased by 55%.",
+        "Copper cathode plant of 36,000 MTPA is planned at TKD.",
+        "Copper production and sales volumes increased 7x in FY26.",
+        "Exports contributed 66% of total revenue.",
+        "Value-added products contributed 65% of lead segment revenue.",
+        "ROCE improved to 17%."
+      ],
+      "quote": "\"FY26 stands as one of the most remarkable years in POCL's journey.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Jain Resources Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue Growth", "value": "48%", "change": "YoY", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "559 Cr", "change": "+53%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "347 Cr", "change": "+56%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "3,105 Cr", "change": "+76%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 48% YoY.",
+        "FY26 EBITDA grew 53% to around 559 Cr with margin at 5.9%.",
+        "FY26 PAT grew 56% to around 347 Cr.",
+        "FY26 volume growth stood at around 26.5%.",
+        "Q4 revenue grew 76% YoY to around 3,105 Cr."
+      ],
+      "guidance": [
+        { "metric": "Copper Anode Capacity", "value": "1,600 MT/month after second furnace" },
+        { "metric": "Cathode Capacity", "value": "1,500 MT/month after phase 2" },
+        { "metric": "Plastic Recycling Capex", "value": "Around 15 Cr" }
+      ],
+      "highlights": [
+        "Copper anode production began in March 2026.",
+        "Second furnace is in advanced installation stage.",
+        "Copper bus bar and rod capacity of 1,500 MT/month is planned.",
+        "Exports contributed 62% of FY26 revenue.",
+        "Copper and copper products contributed around 55% of revenue.",
+        "Q4 margin compression was described as transient."
+      ],
+      "quote": "\"We delivered strong year-on-year growth across key financial parameters.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Tinna Rubber and Infrastructure Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Revenue CAGR", "value": "23%", "change": "3-year", "positive": 1 },
+        { "label": "EBITDA CAGR", "value": "37%", "change": "3-year", "positive": 1 },
+        { "label": "PAT CAGR", "value": "34%", "change": "3-year", "positive": 1 },
+        { "label": "FY26 EBITDA Margin", "value": "17%+", "change": "Robust", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 was another year of strong execution despite geopolitical uncertainty.",
+        "The company delivered robust EBITDA margins of over 17%.",
+        "Three-year revenue, EBITDA and PAT CAGR stood at 23%, 37% and 34%.",
+        "Tire-crush capacity in India expanded 9% to 185,000 tons.",
+        "Varale plant reached 80% capacity utilization."
+      ],
+      "guidance": [
+        { "metric": "FY27 Capacity", "value": "235,000 tons targeted" },
+        { "metric": "Capex", "value": "100 Cr over FY27-FY28" },
+        { "metric": "PCMB Share", "value": "8-10% in FY27 targeted" }
+      ],
+      "highlights": [
+        "FY26 capex was over 100 Cr.",
+        "Solar capacity increased more than 3x to 4.48 MW.",
+        "Nearly 50% power requirement is expected from renewable sources from FY27.",
+        "PCMB contributed around 4% of FY26 revenue.",
+        "Haryana facility is expected to reach 18,000 TPA by Q1FY27-end.",
+        "Oman plant operated at 85% utilization and generated around 30 Cr revenue."
+      ],
+      "quote": "\"We remain focused on our expansion road map.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Bhagyanagar India Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "2,000+ Cr", "change": "First time", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "100+ Cr", "change": "First time", "positive": 1 },
+        { "label": "FY26 PAT", "value": "50+ Cr", "change": "First time", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "735 Cr", "change": "Best quarter", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue crossed 2,000 Cr for the first time.",
+        "Operational EBITDA crossed 100 Cr and PAT crossed 50 Cr for the first time.",
+        "Q4 was the best quarter with revenue around 735 Cr.",
+        "Q4 operational EBITDA stood at 36 Cr and PAT at 18.5 Cr.",
+        "Copper sales volume increased from around 18,000 MT last year to a much higher base."
+      ],
+      "guidance": [
+        { "metric": "FY27 EBITDA Margin", "value": "5% targeted" },
+        { "metric": "Growth", "value": "25% expected" },
+        { "metric": "Capex", "value": "10 Cr for plastic recycling" }
+      ],
+      "highlights": [
+        "Capacity reached 35,000 MT with the new integrated facility.",
+        "Value-added product mix improved through the year.",
+        "Q3 and Q4 EBITDA margin was around 5%.",
+        "ROE stood at 19.5% and ROCE at 16.3%.",
+        "EBITDA/kg for FY26 was around 43.",
+        "Management expects 15-20% minimum annual volume growth."
+      ],
+      "quote": "\"For the first time in our history, we have crossed 2,000 Cr of revenue.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Ganesha Ecosphere Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Revenue", "value": "423.9 Cr", "change": "+18.7% QoQ", "positive": 1 },
+        { "label": "Q4 EBITDA", "value": "52.4 Cr", "change": "+70.4% QoQ", "positive": 1 },
+        { "label": "Q4 PAT", "value": "23.2 Cr", "change": "+388.6% QoQ", "positive": 1 },
+        { "label": "Q4 Sales Volume", "value": "45,162 MT", "change": "+12.25% QoQ", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 consolidated production stood at 41,268 tons, up 6.45% QoQ.",
+        "Q4 sales volume increased 12.25% QoQ to 45,162 MT.",
+        "Q4 revenue stood at 423.94 Cr.",
+        "Q4 EBITDA margin improved to 12.35%.",
+        "FY26 operating cash flow stood at 170 Cr."
+      ],
+      "guidance": [
+        { "metric": "Warangal rPET", "value": "Ramp-up expected by Q2FY27" },
+        { "metric": "FY27 EBITDA", "value": "225-250 Cr targeted" },
+        { "metric": "rPET Capacity", "value": "90,000-100,000 tons by FY27-end" }
+      ],
+      "highlights": [
+        "22,500-ton brownfield rPET expansion at Warangal was commissioned.",
+        "Net debt stood at around 375 Cr.",
+        "Standalone EBITDA margin improved 125 bps.",
+        "Demand visibility for rPET granules remains strong.",
+        "FSSAI-approved capacity in the market has grown to around 280,000 MT.",
+        "Company is prioritizing higher-return capacity additions."
+      ],
+      "quote": "\"We concluded FY26 on a high note.\"",
+      "quotePerson": "Management Commentary"
+    }
+  }
+}

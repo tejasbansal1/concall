@@ -1,0 +1,432 @@
+{
+  "sector": {
+    "name": "Mid-Tier Banks",
+    "description": "Mid-tier banks balancing growth and asset quality",
+    "accent": "#1E3A8A",
+    "accentLight": "#EFF6FF"
+  },
+  "companies": [
+    "Bandhan Bank Ltd",
+    "Bank of Maharashtra",
+    "City Union Bank Ltd",
+    "CSB Bank Ltd",
+    "DCB Bank Ltd",
+    "Federal Bank Ltd",
+    "IDFC First Bank Ltd",
+    "Karnataka Bank Ltd",
+    "Karur Vysya Bank Ltd",
+    "RBL Bank Ltd",
+    "South Indian Bank Ltd",
+    "Tamilnad Mercantile Bank Ltd"
+  ],
+  "concall": {
+    "Bandhan Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Gross Advances", "value": "1.54 L Cr", "change": "+13%", "positive": 1 },
+        { "label": "Deposits", "value": "1.66 L Cr", "change": "+10%", "positive": 1 },
+        { "label": "Q4 NIM", "value": "6.2%", "change": "+30 bps QoQ", "positive": 1 },
+        { "label": "Q4 PAT", "value": "534 Cr", "change": "+68%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Gross advances grew 13% YoY to around 1.54 lakh Cr.",
+        "Deposits grew to 1.66 lakh Cr, supported by strong retail term deposit growth.",
+        "Q4 NIM improved sequentially to 6.2%.",
+        "Q4 PAT grew 68% YoY to 534 Cr.",
+        "Gross NPA and net NPA stood at 3.3% and 1.0% respectively."
+      ],
+      "guidance": [
+        { "metric": "Capital", "value": "Tier 1 at 17.3%" },
+        { "metric": "Credit Cost", "value": "2% in Q4, 3% for FY26" },
+        { "metric": "Secured Mix", "value": "56% of portfolio" }
+      ],
+      "highlights": [
+        "Retail assets grew 46% YoY.",
+        "Non-EEB portfolio grew 25% YoY.",
+        "CASA ratio improved to 29.3%.",
+        "Retail deposit composition improved to 74%.",
+        "Credit cost moderated from 3.3% in Q3 to 2% in Q4.",
+        "Secured book growth supports portfolio diversification."
+      ],
+      "quote": "\"The quarter saw healthy margin expansion.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Bank of Maharashtra": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Advances Growth", "value": "22%", "change": "YoY", "positive": 1 },
+        { "label": "Deposit Growth", "value": "14%", "change": "YoY", "positive": 1 },
+        { "label": "FY26 Net Profit", "value": "7,019 Cr", "change": "+27%", "positive": 1 },
+        { "label": "FY26 NIM", "value": "3.91%", "change": "Above guidance", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Advances grew 22% and deposits grew 14% in FY26.",
+        "CASA ratio remained strong at 52.51%.",
+        "Operating profit grew 16% to 10,826 Cr.",
+        "Net profit grew 27% to 7,019 Cr.",
+        "Gross NPA and net NPA improved to 1.45% and 0.13%."
+      ],
+      "guidance": [
+        { "metric": "ROA Guidance", "value": "Around 1.80%" },
+        { "metric": "NIM Guidance", "value": "Around 3.75%" },
+        { "metric": "CASA", "value": "Above 50%" }
+      ],
+      "highlights": [
+        "Retail loans grew 32%.",
+        "Home loans grew 29%.",
+        "Vehicle loans grew 56%.",
+        "Gold loans grew 53%.",
+        "Q4 ROA stood at 1.97%.",
+        "Full-year ROE stood at 23.19%."
+      ],
+      "quote": "\"We closed the year with 52.51% CASA.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "City Union Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Advance Growth", "value": "26%", "change": "YoY", "positive": 1 },
+        { "label": "Deposits", "value": "78,308 Cr", "change": "+23%", "positive": 1 },
+        { "label": "Gross NPA", "value": "1.91%", "change": "11-year low", "positive": 1 },
+        { "label": "CASA Ratio", "value": "28%", "change": "Stable", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 advances grew 26% YoY, with FY26 incremental credit growth of 13,600 Cr.",
+        "Deposits grew 23% YoY to 78,308 Cr.",
+        "Gross NPA reduced to 1.91%, below 2% after 11 years.",
+        "Q4 recoveries of 231 Cr exceeded slippages of 199 Cr.",
+        "Interest income grew 21% in Q4FY26."
+      ],
+      "guidance": [
+        { "metric": "Growth", "value": "2-3% above system growth" },
+        { "metric": "ROA", "value": "Around 1.5% expected" },
+        { "metric": "Slippage", "value": "700-750 Cr full-year range earlier indicated" }
+      ],
+      "highlights": [
+        "CASA growth is matching overall deposit growth.",
+        "Average CD ratio stood at 85% for FY26.",
+        "Gross NPA improved 118 bps YoY.",
+        "SMA-2 stood at 0.72% of advances.",
+        "Yield on advances stood at 9.80% in Q4.",
+        "Cost of deposits stood at 5.60%."
+      ],
+      "quote": "\"We achieved this 25% plus growth rate after almost 13 years.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "CSB Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Net Profit", "value": "633 Cr", "change": "+7%", "positive": 1 },
+        { "label": "FY26 Advances Growth", "value": "27%", "change": "YoY", "positive": 1 },
+        { "label": "FY26 Deposit Growth", "value": "20%", "change": "YoY", "positive": 1 },
+        { "label": "Q4 NIM", "value": "3.83%", "change": "Healthy", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 net profit grew 7% to 633 Cr.",
+        "Q4 net profit stood at 202 Cr, up 32% sequentially.",
+        "Operating profit grew 19% to 1,085 Cr.",
+        "NII grew 17% for FY26 and 25% YoY in Q4.",
+        "GNPA and NNPA stood at 1.66% and 0.40%."
+      ],
+      "guidance": [
+        { "metric": "Loan Growth", "value": "20-22% possible" },
+        { "metric": "Retail Franchise", "value": "Kickstart by Q4FY27/Q1FY28" },
+        { "metric": "Capital", "value": "RoE 14.14% for FY26" }
+      ],
+      "highlights": [
+        "FY26 NIM stood at 3.76%.",
+        "FY26 ROA stood at 1.29%.",
+        "CD ratio stood at 91%.",
+        "Average LCR stood at 109%.",
+        "Yield on advances stood at 10.8%.",
+        "Core fees supported 21% growth in non-interest income."
+      ],
+      "quote": "\"Q4 FY2026 was particularly notable, marking our best performance in terms of slippage.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "DCB Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 PAT", "value": "206 Cr", "change": "Strong", "positive": 1 },
+        { "label": "FY26 PAT", "value": "732 Cr", "change": "Full year", "positive": 1 },
+        { "label": "Q4 Advance Growth", "value": "18%", "change": "YoY", "positive": 1 },
+        { "label": "Q4 NIM", "value": "3.39%", "change": "+12 bps QoQ", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 PAT stood at 206 Cr and FY26 PAT stood at 732 Cr.",
+        "Q4 advances grew 18% YoY and 6% sequentially.",
+        "Full-year operating profit grew 25%.",
+        "Gross NPA and net NPA stood at 2.45% and 0.89%.",
+        "Full-year credit cost stood at 40 bps, below guidance."
+      ],
+      "guidance": [
+        { "metric": "Credit Cost Model", "value": "45-55 bps" },
+        { "metric": "Cost to Assets", "value": "Around 2.5%" },
+        { "metric": "Net NPA", "value": "Expected below 1%" }
+      ],
+      "highlights": [
+        "Top 20 concentration remains below 7%.",
+        "Deposit cost declined 44 bps YoY in Q4.",
+        "Upgrades and recoveries were 109% of fresh slippages.",
+        "Q4 ROA stood at 0.97%.",
+        "Q4 ROE stood at 13.53%.",
+        "Deposit repricing benefits may continue into Q2/Q3."
+      ],
+      "quote": "\"The granularity of the portfolio continues to improve.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Federal Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Net Profit", "value": "1,145 Cr", "change": "+10% QoQ", "positive": 1 },
+        { "label": "CASA", "value": "1 L Cr+", "change": "Milestone", "positive": 1 },
+        { "label": "Q4 NIM", "value": "3.20%", "change": "+2 bps QoQ", "positive": 1 },
+        { "label": "GNPA", "value": "1.62%", "change": "Improved", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 net profit stood at 1,145 Cr, nearly 10% higher sequentially.",
+        "CASA crossed the 1 lakh Cr milestone.",
+        "CASA ratio improved to 32.94%, up 271 bps YoY.",
+        "NII grew 14.2% YoY and NIM expanded to 3.20%.",
+        "GNPA and NNPA declined to 1.62% and 0.37%."
+      ],
+      "guidance": [
+        { "metric": "CASA Target", "value": "36%" },
+        { "metric": "Credit Cost", "value": "50-60 bps guidance range" },
+        { "metric": "Growth Focus", "value": "Commercial banking, gold and granular retail" }
+      ],
+      "highlights": [
+        "Commercial banking grew 26% YoY.",
+        "Gold loan portfolio grew 26% YoY.",
+        "Other income grew 24% YoY.",
+        "Provision coverage increased to 76.55%.",
+        "Q4 credit cost was maintained at 47 bps.",
+        "ROA improved to 1.24% and ROE to 12.47%."
+      ],
+      "quote": "\"Q4 reinforces that we are building a more stable, margin-led and resilient franchise.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "IDFC First Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "AUM Growth", "value": "23%", "change": "YoY", "positive": 1 },
+        { "label": "CASA Ratio", "value": "49.8%", "change": "Strong", "positive": 1 },
+        { "label": "Q4 NIM", "value": "5.93%", "change": "Above guidance", "positive": 1 },
+        { "label": "Gross NPA", "value": "1.61%", "change": "-8 bps QoQ", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "AUM grew around 23% and stood near 2.84 lakh Cr.",
+        "CASA ratio remained strong at 49.8%.",
+        "Gross NPA improved to 1.61% and net NPA to 0.48%.",
+        "NII growth improved to 15.7% YoY in Q4.",
+        "Q4 NIM came in at 5.93% versus guidance of 5.85%."
+      ],
+      "guidance": [
+        { "metric": "FY27 NIM", "value": "Expected stable" },
+        { "metric": "Growth", "value": "13-14% and credit cost 2-3% noted for MFI-style lending" },
+        { "metric": "MFI Credit Cost Risk", "value": "Could be 4-5% in stress pockets" }
+      ],
+      "highlights": [
+        "Retail, rural and MSME GNPA improved to 1.47%.",
+        "Fee and other income grew 21.3% YoY in Q4.",
+        "Overall credit cost improved to 1.63% in Q4.",
+        "Full-year credit cost stood at 2.13%.",
+        "Normalized Q4 PAT was around 746 Cr after exclusions.",
+        "Deposit traction improved at the start of Q1."
+      ],
+      "quote": "\"We came with a NIM of 5.93% on an AUM basis.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Karnataka Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total Business", "value": "1.92 L Cr", "change": "Met guidance", "positive": 1 },
+        { "label": "Gross Advances", "value": "83,340 Cr", "change": "FY26 end", "positive": 1 },
+        { "label": "Deposits", "value": "108,779 Cr", "change": "FY26 end", "positive": 1 },
+        { "label": "Q4 PAT", "value": "408 Cr", "change": "+62% YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Total business closed at 1.92 lakh Cr, in line with guidance.",
+        "Gross advances stood at 83,340 Cr and deposits at 108,779 Cr.",
+        "CASA ratio stood at 33.61%, ahead of guidance.",
+        "Q4 PAT grew 62% YoY to 408.19 Cr.",
+        "FY26 PAT reached the bank's highest-ever level of 1,310.5 Cr."
+      ],
+      "guidance": [
+        { "metric": "GNPA", "value": "Below 3% achieved" },
+        { "metric": "NNPA", "value": "Below 1% achieved" },
+        { "metric": "CD Ratio", "value": "76.61%" }
+      ],
+      "highlights": [
+        "Q4 NIM stood at 3.07%.",
+        "Q4 cost-to-income ratio improved to 50.47%.",
+        "ROA stood at 1.05% for FY26.",
+        "GNPA and NNPA stood at 2.78% and 0.98%.",
+        "CASA deposits grew 11% QoQ.",
+        "Cost of funds reduced 8 bps QoQ."
+      ],
+      "quote": "\"The bank has achieved its highest-ever PAT.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Karur Vysya Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Advances", "value": "98,754 Cr", "change": "+17%", "positive": 1 },
+        { "label": "Deposits", "value": "115,666 Cr", "change": "+13%", "positive": 1 },
+        { "label": "FY26 NIM", "value": "3.97%", "change": "Above guidance", "positive": 1 },
+        { "label": "FY26 Net Profit", "value": "2,500 Cr", "change": "+29%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Total business grew 15% to 2.14 lakh Cr.",
+        "Advances grew 17% and deposits grew 13%.",
+        "CASA balances grew 12%, the highest absolute growth in 10 years.",
+        "FY26 NIM stood at 3.97%, above guidance.",
+        "Net profit touched 2,500 Cr for FY26, up 29%."
+      ],
+      "guidance": [
+        { "metric": "Growth", "value": "Guidance surpassed across growth, profitability and quality" },
+        { "metric": "NIM", "value": "3.9-3.95% guidance exceeded" },
+        { "metric": "Portfolio", "value": "Retail 27%, Agri 25%, Commercial 35%" }
+      ],
+      "highlights": [
+        "Q4 NIM was 4.25% excluding one-off impact.",
+        "Cost of deposits reduced 13 bps sequentially.",
+        "Fixed-rate loan book increased to 29%.",
+        "Operating profit stood at 4,075 Cr for FY26.",
+        "Retail loan share increased to 27%.",
+        "Commercial book remained the largest segment at 35%."
+      ],
+      "quote": "\"Performance has consistently surpassed our guidance.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "RBL Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Advances", "value": "114,232 Cr", "change": "+23%", "positive": 1 },
+        { "label": "Deposits", "value": "139,018 Cr", "change": "+25%", "positive": 1 },
+        { "label": "CASA Ratio", "value": "33.6%", "change": "Stable", "positive": 1 },
+        { "label": "CD Ratio", "value": "82.2%", "change": "Comfortable", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Advances grew 23% YoY to 114,232 Cr.",
+        "Deposits grew 25% YoY to 139,018 Cr.",
+        "Retail advances grew 20% YoY and wholesale advances grew 28%.",
+        "Secured retail assets grew 36% YoY.",
+        "Commercial Banking grew 30% YoY."
+      ],
+      "guidance": [
+        { "metric": "FY27 Priority", "value": "Defined growth architecture" },
+        { "metric": "Retail-Wholesale Mix", "value": "59:41" },
+        { "metric": "LCR", "value": "Average 130%" }
+      ],
+      "highlights": [
+        "Granular deposits grew 16% YoY.",
+        "Granular term deposits grew 24% YoY.",
+        "Microfinance advances grew 34% YoY.",
+        "Credit cards in force increased to 4.63 Mn.",
+        "Core fee income grew 9% YoY and 10% QoQ.",
+        "Cost of deposits reduced 28 bps during the quarter."
+      ],
+      "quote": "\"As we look ahead to FY27, our growth priorities are clearly defined.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "South Indian Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Net Profit", "value": "1,455 Cr", "change": "+12%", "positive": 1 },
+        { "label": "Deposits", "value": "123,346 Cr", "change": "+15%", "positive": 1 },
+        { "label": "Advances", "value": "100,274 Cr", "change": "+14.5%", "positive": 1 },
+        { "label": "Net NPA", "value": "0.29%", "change": "Improved", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 net profit was the highest ever at 1,455 Cr, up 12%.",
+        "Deposits grew 15% to 123,346 Cr.",
+        "Gross advances grew 14.5% to 100,274 Cr.",
+        "GNPA reduced sharply to 1.43% and NNPA to 0.29%.",
+        "Q4 net profit grew to 408 Cr from 342 Cr in Q4FY25."
+      ],
+      "guidance": [
+        { "metric": "FY27 Loan Growth", "value": "15-16% targeted" },
+        { "metric": "Gold Loan Book", "value": "Around 25,000 Cr" },
+        { "metric": "Asset Quality", "value": "Slippages at all-time low" }
+      ],
+      "highlights": [
+        "CASA grew 17.5% YoY.",
+        "FY26 NIM stood at 2.91%.",
+        "Q4 NIM stood at 2.95%.",
+        "Q4 credit cost was only 3 bps.",
+        "Provision coverage improved 810 bps YoY.",
+        "Slippage ratio for the year was 72 bps."
+      ],
+      "quote": "\"The bank declared its highest ever net profit for the year.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Tamilnad Mercantile Bank Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Total Business", "value": "115,091 Cr", "change": "+17.37%", "positive": 1 },
+        { "label": "CASA", "value": "17,365 Cr", "change": "+22.35%", "positive": 1 },
+        { "label": "Q4 NIM", "value": "4.18%", "change": "Strong", "positive": 1 },
+        { "label": "Q4 PAT", "value": "373.7 Cr", "change": "+28%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Total business grew 17.37% to 115,091 Cr, above 15% guidance.",
+        "CASA grew 22.35% to 17,365 Cr, above guidance.",
+        "Q4 NII grew 24.04% to 704.45 Cr.",
+        "Q4 PAT grew 28.01% YoY to 373.65 Cr.",
+        "GNPA and NNPA improved to 0.73% and 0.18%."
+      ],
+      "guidance": [
+        { "metric": "NIM Guidance", "value": "3.90-3.95% earlier exceeded" },
+        { "metric": "ROA Guidance", "value": "1.85% plus exceeded" },
+        { "metric": "GNPA Guidance", "value": "Less than 1% achieved" }
+      ],
+      "highlights": [
+        "ROA stood at 2.05% and ROE exceeded 14% guidance.",
+        "CASA share improved to 28.14%.",
+        "Credit cost stood at 1 bp due to write-back.",
+        "SMA 0/1/2 stood at 1.29%.",
+        "Gold-led growth was strong in the retail book.",
+        "Deposit growth was the highest in 39 quarters."
+      ],
+      "quote": "\"We have exceeded all the guidances.\"",
+      "quotePerson": "Management Commentary"
+    }
+  }
+}

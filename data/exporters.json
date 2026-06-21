@@ -1,0 +1,292 @@
+{
+  "sector": {
+    "name": "Exporters",
+    "description": "Export-led companies scaling global demand",
+    "accent": "#0E7490",
+    "accentLight": "#ECFEFF"
+  },
+  "companies": [
+    "Avanti Feeds Ltd",
+    "Garware Hi Tech Films Ltd",
+    "Gokaldas Exports Ltd",
+    "Goldiam International Ltd",
+    "Indo Count Industries Ltd",
+    "L T Foods Ltd",
+    "Pearl Global Industries Ltd",
+    "Welspun Living Ltd"
+  ],
+  "concall": {
+    "Avanti Feeds Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Gross Income", "value": "1,515 Cr", "change": "+5.9%", "positive": 1 },
+        { "label": "FY26 PBT", "value": "882 Cr", "change": "+19.7%", "positive": 1 },
+        { "label": "FY26 Feed Sales", "value": "562,060 MT", "change": "+1.2%", "positive": 1 },
+        { "label": "FY26 Shrimp Exports", "value": "16,976 MT", "change": "Growth", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 gross income grew 5.86% YoY to 1,515 Cr.",
+        "FY26 PBT grew to 882 Cr from 737 Cr in FY25.",
+        "Feed division FY26 sales stood at 562,060 MT versus 555,247 MT in FY25.",
+        "FY26 PBT margin stood at 15.5% of revenue versus 14.34% in FY25.",
+        "Shrimp exports grew 13.16% in rupee value and 6.9% by volume."
+      ],
+      "guidance": [
+        { "metric": "FY27 Feed Sales", "value": "Around 5.7 lakh MT estimated" },
+        { "metric": "Industry Feed Demand", "value": "11-12 lakh MT estimated" },
+        { "metric": "Export Focus", "value": "US and China remain key markets" }
+      ],
+      "highlights": [
+        "Q4 feed sales stood at 123,725 MT.",
+        "Raw material costs increased for fish meal and soya bean meal.",
+        "US export volumes declined while China exports improved.",
+        "Frozen shrimp exports grew in rupee, dollar and volume terms.",
+        "Feed PBT was impacted sequentially by raw material cost inflation.",
+        "Company remains one of the major shrimp feed players in India."
+      ],
+      "quote": "\"PBT during FY26 stood at 15.5% on revenue.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Garware Hi Tech Films Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "2,120 Cr", "change": "Resilient", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "500 Cr", "change": "Strong", "positive": 1 },
+        { "label": "FY26 PAT", "value": "338 Cr", "change": "Healthy", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "597 Cr", "change": "+8.9%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue stood at 2,120 Cr despite tariff disruption in export markets.",
+        "FY26 EBITDA stood at 500 Cr and PAT at 338 Cr.",
+        "Q4 revenue grew 8.9% YoY to 597 Cr.",
+        "Q4 EBITDA grew 29% YoY to 157 Cr with margin at 26.2%.",
+        "Q4 PAT grew 39.1% YoY to 108 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue", "value": "2,500 Cr target" },
+        { "metric": "EBITDA Margin", "value": "25% plus-minus 2%" },
+        { "metric": "PPF Growth", "value": "25-30% CAGR targeted" }
+      ],
+      "highlights": [
+        "Cash and liquid investments stood at 774 Cr at year-end.",
+        "Company remains debt-free.",
+        "More than 500 Cr has been deployed toward capacity expansion.",
+        "Sun control capex of 191 Cr was announced.",
+        "D2C margins are meaningfully higher than distributor margins.",
+        "PPF and sun control remain key growth drivers."
+      ],
+      "quote": "\"Q4 emerged as one of our best performing quarters.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Gokaldas Exports Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "4,065 Cr", "change": "+4%", "positive": 1 },
+        { "label": "India Ops Growth", "value": "10%", "change": "FY26", "positive": 1 },
+        { "label": "FY26 Capex", "value": "170 Cr", "change": "Capacity", "positive": 1 },
+        { "label": "Q4 India Growth", "value": "2%", "change": "YoY", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 4% to 4,065 Cr.",
+        "India operations grew 10% YoY despite US tariff uncertainty.",
+        "Q4 India operations grew 2% in a difficult tariff environment.",
+        "Company spent around 170 Cr toward new capacity creation.",
+        "Net debt increased mainly due to capex and working capital."
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth", "value": "10-12% possible excluding tariff benefit" },
+        { "metric": "New Customers", "value": "2 premium customers start contributing FY27" },
+        { "metric": "BTPL Capacity", "value": "70 lakh meters/month, expandable to 100 lakh" }
+      ],
+      "highlights": [
+        "US and UK retail sales grew 8% and 6% in CY25.",
+        "Operating EBITDA margin in India improved to around 12%.",
+        "Subsidiary EBITDA margin stood around 5.9%.",
+        "Africa business margin is expected to improve in H2FY27.",
+        "Tariff normalization improves FY27 revenue and margin outlook.",
+        "Order flow remains good, but management is selective."
+      ],
+      "quote": "\"The revenue and margin outlook for FY27 has improved.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Goldiam International Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "1,000+ Cr", "change": "Highest ever", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "248.7 Cr", "change": "+36.2%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "243.3 Cr", "change": "+21%", "positive": 1 },
+        { "label": "Q4 PAT", "value": "37.2 Cr", "change": "+61%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 was the highest-ever year for revenue, EBITDA and PAT.",
+        "Revenue crossed 1,000 Cr for the first time.",
+        "Q4 revenue grew 21% YoY to 243.3 Cr.",
+        "Q4 EBITDA grew 35.9% to 58.3 Cr with margin at 23.9%.",
+        "Q4 PAT grew 61% to 37.2 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Margin", "value": "Expected stronger than Q4" },
+        { "metric": "ORIGEM Stores", "value": "8 more stores under plan" },
+        { "metric": "Store Breakeven", "value": "18-20 lakh monthly sales" }
+      ],
+      "highlights": [
+        "Lab-grown diamond jewelry contributed 88.3% of Q4 export sales mix.",
+        "Online revenue accounted for 27.4% of Q4 revenue.",
+        "Cash and investments stood around 493.4 Cr.",
+        "ORIGEM Q4 revenue stood at 5.56 Cr.",
+        "April ORIGEM sales crossed 3.5 Cr.",
+        "ORIGEM store capex is around 40-60 lakh per store."
+      ],
+      "quote": "\"For the first time in Goldiam's history, our revenue crossed 1,000 Cr.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Indo Count Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY27 Revenue Target", "value": "5,500 Cr", "change": "+30%", "positive": 1 },
+        { "label": "New Biz Revenue", "value": "270 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Branded Revenue", "value": "792 Cr", "change": "FY26", "positive": 1 },
+        { "label": "Pillow Capacity", "value": "31 Mn", "change": "From 13 Mn", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue was broadly similar to FY25 despite a tough environment.",
+        "Annual pillow manufacturing capacity doubled from 13 Mn to 31 Mn pillows.",
+        "Branded revenues stood at 792 Cr in FY26 with sequential growth.",
+        "New business revenue stood at 270 Cr, around USD30 Mn.",
+        "Non-US core business contributed around 30% of core revenue."
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue", "value": "Around 5,500 Cr" },
+        { "metric": "FY27 EBITDA Margin", "value": "Around 13%" },
+        { "metric": "Non-US Revenue", "value": "20% growth expected" }
+      ],
+      "highlights": [
+        "Manufacturing facilities operate at around 65% utilization.",
+        "Management expects 60-65% utilization across facilities in FY27.",
+        "Domestic products are available at nearly 2,000 touchpoints.",
+        "FY27 is expected to be a defining year.",
+        "Incremental FY27 revenue addition targeted around 1,300 Cr.",
+        "Branded revenue is expected to nearly double from FY26 levels."
+      ],
+      "quote": "\"We are on track to deliver a record year in FY27.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "L T Foods Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "11,023 Cr", "change": "+19% normalized", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "1,236 Cr", "change": "11.8% margin", "positive": 1 },
+        { "label": "FY26 PAT", "value": "625 Cr", "change": "Strong", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "2,938 Cr", "change": "Growth", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue including other income grew to 11,023 Cr.",
+        "Normalized revenue growth was 19% excluding US tariff and shipment-term changes.",
+        "FY26 EBITDA rose to 1,236 Cr and PAT stood at 625 Cr.",
+        "Q4 revenue stood at 2,938 Cr, EBITDA at 300 Cr and PAT around 136 Cr.",
+        "Basmati and specialty rice contributed 88% of revenue."
+      ],
+      "guidance": [
+        { "metric": "Long-Term Growth", "value": "10-12% revenue growth" },
+        { "metric": "UK Target", "value": "GBP100 Mn over 5 years" },
+        { "metric": "Balance Sheet", "value": "Net debt/EBITDA at 0.6x" }
+      ],
+      "highlights": [
+        "Basmati and specialty rice revenue grew 29% in FY26.",
+        "Organic segment crossed 1,016 Cr revenue.",
+        "Ready-to-heat segment reached 187 Cr revenue.",
+        "Quick commerce grew more than 45%.",
+        "North America contributed 48% of revenue mix.",
+        "Europe revenue grew 34% in FY26."
+      ],
+      "quote": "\"FY26 has been a year of strong execution and resilient growth.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Pearl Global Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "5,025 Cr", "change": "+11.5%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "468 Cr", "change": "+14%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "270 Cr", "change": "Strong", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "1,314 Cr", "change": "+6.9%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue crossed 5,000 Cr for the first time.",
+        "FY26 revenue grew 11.5% to 5,025 Cr.",
+        "EBITDA excluding ESOP expense grew 14% to 468 Cr.",
+        "Q4 revenue was the highest ever quarterly revenue at around 1,314 Cr.",
+        "Q4 PAT grew 24.6% YoY to 81 Cr."
+      ],
+      "guidance": [
+        { "metric": "Capacity", "value": "101 Mn pieces per annum" },
+        { "metric": "Bangladesh Capex", "value": "Completion expected H1FY27" },
+        { "metric": "Capacity Addition", "value": "6 Mn pieces over FY27-FY28" }
+      ],
+      "highlights": [
+        "Adjusted FY26 EBITDA margin stood at 9.3%.",
+        "Adjusted EBITDA margin excluding tariff and new-unit losses stood at 10.3%.",
+        "Q4 adjusted EBITDA margin stood at 10.3%.",
+        "Indonesia utilization improved to 47%.",
+        "Another facility utilization improved to over 80% from 63%.",
+        "Capacity crossed 100 Mn pieces ahead of target."
+      ],
+      "quote": "\"FY26 was a record year for us.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Welspun Living Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "9,468 Cr", "change": "-11.5%", "positive": 0 },
+        { "label": "FY26 EBITDA Margin", "value": "9.1%", "change": "Pressure", "positive": 0 },
+        { "label": "Q4 Revenue", "value": "+7.7%", "change": "QoQ", "positive": 1 },
+        { "label": "Net Debt", "value": "775 Cr", "change": "-52%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue declined 11.5% to 9,468 Cr due to tariffs, demand softness and disruption.",
+        "Q4 revenue grew 7.7% sequentially, showing stabilization.",
+        "Q4 EBITDA margin improved 313 bps QoQ to 10.8%.",
+        "Full-year free cash flow stood at 956 Cr.",
+        "Net debt reduced 52% YoY to 775 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27", "value": "Measured volume recovery and margin progression" },
+        { "metric": "Focus", "value": "Profitable growth and working capital discipline" },
+        { "metric": "US Diversification", "value": "Non-US share rose to 41%" }
+      ],
+      "highlights": [
+        "Welspun brand grew 44% YoY.",
+        "Spaces brand grew 19% YoY.",
+        "Domestic consumer business Q4 revenue grew 29.2% YoY.",
+        "Domestic full-year revenue grew 9% to 657 Cr.",
+        "Advanced Textiles revenue declined 20% to 452 Cr.",
+        "Christy delivered 15% growth in FY26."
+      ],
+      "quote": "\"Q4 was about stabilization. FY27 will be about profitable growth.\"",
+      "quotePerson": "Management Commentary"
+    }
+  }
+}

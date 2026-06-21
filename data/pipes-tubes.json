@@ -1,0 +1,327 @@
+{
+  "sector": {
+    "name": "Pipes & Tubes",
+    "description": "Pipe and tube makers scaling capacity",
+    "accent": "#B45309",
+    "accentLight": "#FEF3C7"
+  },
+  "companies": [
+    "APL Apollo Tubes Ltd",
+    "Goodluck India Ltd",
+    "Hariom Pipe Industries Ltd",
+    "Hi-Tech Pipes Ltd",
+    "JTL Industries Ltd",
+    "Ratnamani Metals & Tubes Ltd",
+    "Sambhv Steel Tubes Ltd",
+    "Scoda Tubes Ltd",
+    "Venus Pipes & Tubes Ltd"
+  ],
+  "concall": {
+    "APL Apollo Tubes Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "Q4 Volume Growth", "value": "9%", "change": "YoY", "positive": 1 },
+        { "label": "Q4 EBITDA/Ton", "value": "5,500+", "change": "Strong", "positive": 1 },
+        { "label": "FY26 ROCE", "value": "37%", "change": "High", "positive": 1 },
+        { "label": "Net Cash", "value": "1,500+ Cr", "change": "FY26 end", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 volumes grew 9% YoY.",
+        "Q4 EBITDA/ton was above 5,500.",
+        "FY26 ROCE stood at 37%.",
+        "Operating cash flow generation was around 2,000 Cr and free cash flow around 1,300 Cr.",
+        "Company closed FY26 with net cash balance above 1,500 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Volume Growth", "value": "15-20%" },
+        { "metric": "FY27 EBITDA Growth", "value": "20-25%" },
+        { "metric": "FY27 PAT Growth", "value": "25-30%" }
+      ],
+      "highlights": [
+        "Long-term 8 MnT capacity plan by FY28 remains on track.",
+        "Pending capex for 8 MnT plan is around 1,400-1,500 Cr.",
+        "Annual capex target remains around 500-600 Cr.",
+        "Dubai operations are currently at around 40% utilization.",
+        "Management targets long-term EBITDA/ton of 5,000-5,500.",
+        "May-June volume recovery was expected after temporary disruption."
+      ],
+      "quote": "\"Our long-term plan of 8-million-ton capacity by FY28 remains totally on-track.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Goodluck India Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "4,100+ Cr", "change": "Crossed", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "418.5 Cr", "change": "+26%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "182.6 Cr", "change": "+10.2%", "positive": 1 },
+        { "label": "Q4 EBITDA", "value": "104.2 Cr", "change": "+11.7%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 consolidated revenue crossed 4,100 Cr.",
+        "FY26 consolidated EBITDA grew to 418.5 Cr.",
+        "FY26 PAT grew 10.2% to 182.6 Cr.",
+        "Q4 EBITDA grew 11.7% YoY to 104.2 Cr.",
+        "Q4 PAT including OCI stood at 48.5 Cr."
+      ],
+      "guidance": [
+        { "metric": "Shell Capacity", "value": "Expansion to 4 lakh shells" },
+        { "metric": "High-Margin Products", "value": "30-35% EBITDA margin guidance" },
+        { "metric": "Solar Sales", "value": "33% growth highlighted" }
+      ],
+      "highlights": [
+        "Q4 standalone sales stood at 1,061.5 Cr.",
+        "FY26 standalone EBITDA grew to 395.8 Cr.",
+        "FY26 standalone PAT grew to 173.4 Cr.",
+        "Specialized product category supported realizations.",
+        "Renewable and solar energy products remain focus areas.",
+        "Financial discipline remained an important FY26 theme."
+      ],
+      "quote": "\"FY26 has been another important year for Goodluck India.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Hariom Pipe Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "1,667 Cr", "change": "+23%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "209 Cr", "change": "+19%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "76 Cr", "change": "+23%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "507 Cr", "change": "Strong", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 23% to 1,667 Cr.",
+        "FY26 EBITDA grew 19% to 209 Cr with margin at 12.56%.",
+        "FY26 PAT grew 23% to 76 Cr.",
+        "Q4 revenue stood at 507 Cr with strong growth.",
+        "Q4 PAT grew 75% YoY to 30 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Volume Growth", "value": "30% potential" },
+        { "metric": "Capacity Utilization", "value": "Above 60% currently" },
+        { "metric": "Leverage", "value": "Net debt/EBITDA 1.65x" }
+      ],
+      "highlights": [
+        "Q4 EBITDA grew 31% YoY to 64 Cr.",
+        "Q4 EBITDA margin stood at 12.59%.",
+        "Full-year operating cash flow stood at 192 Cr.",
+        "EBITDA to OCF conversion stood at 92%.",
+        "ROCE improved to 21%.",
+        "FY27 focus is improving capacity utilization."
+      ],
+      "quote": "\"FY26 has been a year of steady performance and improved operating numbers.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Hi-Tech Pipes Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Volume", "value": "5.32 L tons", "change": "+10%", "positive": 1 },
+        { "label": "FY26 Revenue", "value": "4,200 Cr", "change": "+37%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "174 Cr", "change": "+8%", "positive": 1 },
+        { "label": "Q4 Volume", "value": "1.47 L tons", "change": "+27%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 sales volume grew 27% YoY to 1.47 lakh tons.",
+        "FY26 sales volume increased to 5.32 lakh tons.",
+        "Q4 revenue grew 102% YoY to 1,480 Cr.",
+        "FY26 revenue grew 37% to 4,200 Cr.",
+        "FY26 EBITDA grew 8% to 174 Cr with stable EBITDA/ton."
+      ],
+      "guidance": [
+        { "metric": "Capacity Vision", "value": "2 MnT long-term capacity" },
+        { "metric": "Value-Added Share", "value": "Around 50% by FY27-end" },
+        { "metric": "Hindupur Facility", "value": "1.5 lakh tons capacity" }
+      ],
+      "highlights": [
+        "Q4 EBITDA grew 33% to 46 Cr.",
+        "Q4 EBITDA/ton improved to 3,150.",
+        "Debt/equity stood at 0.18x.",
+        "Additional 1 MnT capacity is planned by FY29.",
+        "APA pipes facility readiness is expected by Q4FY27.",
+        "Installed solar power capacity reached 16.5 MW."
+      ],
+      "quote": "\"FY26 has been another year of strong operational growth and strategic progress.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "JTL Industries Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "2,136 Cr", "change": "Full year", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "166 Cr", "change": "Full year", "positive": 1 },
+        { "label": "FY26 PAT", "value": "103 Cr", "change": "Full year", "positive": 1 },
+        { "label": "Q4 Volume", "value": "123,262 MT", "change": "Highest ever", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue from operations stood at 2,136 Cr.",
+        "FY26 EBITDA stood at 166 Cr and PAT at 103 Cr.",
+        "FY26 sales volume was the highest ever at 395,900 MT.",
+        "Q4 revenue grew 47.5% YoY to 693 Cr.",
+        "Q4 EBITDA stood at 58 Cr and PAT at 38 Cr."
+      ],
+      "guidance": [
+        { "metric": "FY27 Volume Growth", "value": "30%" },
+        { "metric": "EBITDA/Ton Growth", "value": "10-15%" },
+        { "metric": "Export Share", "value": "15% target over coming years" }
+      ],
+      "highlights": [
+        "Q4 value-added product share was around 27%.",
+        "Mangaon facility utilization improved.",
+        "Export sales share reached around 10%.",
+        "JTL Defence delivered around 20% EBITDA margin in Q4.",
+        "Mangaon capex is nearing completion by H1.",
+        "Management expects utilization to move toward 60-70%."
+      ],
+      "quote": "\"We should be able to deliver about 30% volume growth YoY.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Ratnamani Metals & Tubes Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Cautiously Optimistic",
+      "toneColor": "#D97706",
+      "metrics": [
+        { "label": "Q4 Standalone Sales", "value": "893 Cr", "change": "Lower YoY", "positive": 0 },
+        { "label": "Order Book", "value": "2,160 Cr", "change": "May 2026", "positive": 1 },
+        { "label": "Export Order Book", "value": "700 Cr", "change": "Part of book", "positive": 1 },
+        { "label": "Free Cash", "value": "800 Cr", "change": "Approx", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "Q4 standalone sales stood at 893 Cr versus a high base last year.",
+        "Consolidated Q4 sales stood at 1,085 Cr.",
+        "Order book stood around 2,160 Cr as of 1 May 2026.",
+        "Export order book contributed around 700 Cr.",
+        "Company remains effectively debt-free on regular bank limits."
+      ],
+      "guidance": [
+        { "metric": "Spool Business Growth", "value": "20-25% in FY27" },
+        { "metric": "RTL Growth", "value": "10-15% in FY27" },
+        { "metric": "Margin", "value": "16-17% band discussed" }
+      ],
+      "highlights": [
+        "Subsidiary revenue grew 28% in one business during Q4.",
+        "Another subsidiary recorded around 60% YoY growth in Q4.",
+        "Domestic deemed exports remain a meaningful part of demand.",
+        "Energy and infrastructure capex are demand drivers.",
+        "Order execution remains lumpy by project cycle.",
+        "Margins improved despite sequential sales decline."
+      ],
+      "quote": "\"The order book has continued to be around 2,000 Cr.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Sambhv Steel Tubes Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "2,413 Cr", "change": "+60%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "276 Cr", "change": "+79%", "positive": 1 },
+        { "label": "FY26 PAT", "value": "143 Cr", "change": "+147%", "positive": 1 },
+        { "label": "FY26 Volume", "value": "396,000 tons", "change": "+37%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 was a landmark year with volume up 37%, revenue up 60%, EBITDA up 79% and PAT up 147%.",
+        "FY26 revenue increased to 2,413 Cr.",
+        "FY26 EBITDA stood at 276 Cr with margin above 11%.",
+        "PAT more than doubled to 143 Cr with margin improving to 6%.",
+        "Value-added product volume grew 51% to 356,000 tons."
+      ],
+      "guidance": [
+        { "metric": "Long-Term Capacity", "value": "2 Mn tons finished goods by 2030" },
+        { "metric": "ERW Capacity", "value": "0.5 Mn tons after expansion" },
+        { "metric": "Debt Discipline", "value": "Long-term debt below 1.5x net worth/forward EBITDA" }
+      ],
+      "highlights": [
+        "Q4 revenue grew 38% to 685 Cr.",
+        "Q4 EBITDA grew 91% to 92 Cr.",
+        "Q4 PAT more than doubled to 56 Cr.",
+        "EBITDA/ton stood at 9,500 excluding sponge iron sales.",
+        "DFT expansion capex is around 50 Cr.",
+        "Additional Sarora capex is around 150 Cr."
+      ],
+      "quote": "\"FY26 has been a landmark year for Sambhv.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Scoda Tubes Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "518.7 Cr", "change": "+7%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "76.2 Cr", "change": "14.7% margin", "positive": 1 },
+        { "label": "FY26 PAT", "value": "38.8 Cr", "change": "+22%", "positive": 1 },
+        { "label": "FY27 Revenue Growth", "value": "25%", "change": "Expected", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 7% to 518.7 Cr.",
+        "FY26 EBITDA stood at 76.2 Cr with margin at 14.7%.",
+        "FY26 PAT grew 22% to 38.8 Cr, with PAT margin up 100 bps.",
+        "Q4 revenue was broadly flat at 123.6 Cr.",
+        "Exports contributed 34.6% of FY26 revenue and 44.8% of Q4 revenue."
+      ],
+      "guidance": [
+        { "metric": "FY27 Revenue Growth", "value": "25%" },
+        { "metric": "FY27 EBITDA Margin", "value": "14-15%" },
+        { "metric": "Welded Facility", "value": "Operational by H2FY27" }
+      ],
+      "highlights": [
+        "Seamless capacity increased to 20,000 MTPA.",
+        "Welded capacity to reach 21,150 MTPA by H1FY28.",
+        "8.79 MW DC solar project is being installed.",
+        "Solar project can save around 8.63 Cr annually in electricity cost.",
+        "FY26 capex stood at 110 Cr.",
+        "Working capital management remains a focus for FY27."
+      ],
+      "quote": "\"FY27, we are expecting a 25% revenue growth with 14% to 15% EBITDA margins.\"",
+      "quotePerson": "Management Commentary"
+    },
+    "Venus Pipes & Tubes Ltd": {
+      "quarter": "FY26",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        { "label": "FY26 Revenue", "value": "1,166.8 Cr", "change": "+22%", "positive": 1 },
+        { "label": "FY26 EBITDA", "value": "190.6 Cr", "change": "+14%", "positive": 1 },
+        { "label": "Q4 Revenue", "value": "302.2 Cr", "change": "+17%", "positive": 1 },
+        { "label": "Q4 EBITDA", "value": "49.4 Cr", "change": "+19%", "positive": 1 }
+      ],
+      "fyPerformance": [
+        "FY26 revenue grew 22% to 1,166.8 Cr.",
+        "FY26 EBITDA grew 14% to 190.6 Cr with margin at 16.3%.",
+        "Q4 revenue grew 17% YoY to 302.2 Cr.",
+        "Q4 EBITDA grew 19% to 49.4 Cr with margin at 16.3%.",
+        "Q4 PAT grew 7% YoY to 25.4 Cr."
+      ],
+      "guidance": [
+        { "metric": "Order Book", "value": "450 Cr plus LOI of 185 Cr" },
+        { "metric": "Spooling Capex", "value": "Around 70 Cr" },
+        { "metric": "Export Share", "value": "More than 30% maintained" }
+      ],
+      "highlights": [
+        "Exports grew 18% in FY26.",
+        "Total installed capacity stands at 27,600 MTPA.",
+        "Company is 100% backward integrated for 20,400 MTPA capacity.",
+        "Revenue mix in Q4 was 59% seamless.",
+        "Seamless revenue grew 18% and welded revenue grew 15% in Q4.",
+        "EBITDA to CFO conversion stood at 59% for FY26."
+      ],
+      "quote": "\"FY26 was a year of continued momentum and steady progress.\"",
+      "quotePerson": "Management Commentary"
+    }
+  }
+}

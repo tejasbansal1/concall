@@ -18,7 +18,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://concall.equityinsightselite.com">
   <link rel="canonical" href="https://concall.equityinsightselite.com">
-  <link rel="icon" type="image/png" href="logo.png">
+  <link rel="icon" type="image/png" href="/logo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
@@ -105,6 +105,12 @@
       border: 3px solid #E2E8F0; border-top-color: #7C3AED;
       animation: spin 0.8s linear infinite;
     }
+
+    /* ── Global search ───────────────────────────── */
+    .gsearch { width:100%; max-width:260px; padding:9px 14px 9px 36px; border:1.5px solid #E2E8F0; border-radius:10px; font-size:13px; font-family:inherit; color:#0F172A; background:#fff; outline:none; transition:border-color 0.18s, box-shadow 0.18s; }
+    .gsearch:focus { border-color:#2563EB; box-shadow:0 0 0 3px rgba(37,99,235,0.10); }
+    .gsearch::placeholder { color:#94A3B8; }
+    @media (max-width:600px) { .gsearch { max-width:100%; } }
   </style>
 </head>
 <body>
@@ -114,7 +120,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js" crossorigin></script>
 <script>
 'use strict';
-const { useState, useEffect } = React;
+const { useState, useEffect, useRef } = React;
 const h = React.createElement;
 
 /* ── Design tokens ───────────────────────────────── */
@@ -146,6 +152,7 @@ const DATA_FILES = [
   'auto-anc',
   'real-estate',
   'internet-platform',
+  'it',
   'cement',
   'fmcg',
   'banks',
@@ -186,93 +193,104 @@ function StickyBar({ dismissed, onDismiss }) {
 }
 
 function App() {
-  const [sectors,  setSectors]  = useState(null);   // null = loading
+  const [sectors,  setSectors]  = useState([]);
   const [concall,  setConcall]  = useState({});
-  const [loadErr,  setLoadErr]  = useState(null);
   const [view,     setView]     = useState('s');
   const [sid,      setSid]      = useState(null);
   const [co,       setCo]       = useState(null);
   const [barDone,  setBarDone]  = useState(false);
+  const pendingRouteRef = useRef(null);
 
-  /* ── Sync state from history on back/forward ── */
+  /* ── Routing: parse URL + handle back/forward ── */
   useEffect(() => {
+    const parsePath = () => {
+      const parts = window.location.pathname.split('/').filter(Boolean);
+      if (!parts.length) return null;
+      return { sid: parts[0], co: parts.length >= 2 ? decodeURIComponent(parts.slice(1).join('/')) : null };
+    };
+    pendingRouteRef.current = parsePath();
+
     const onPop = e => {
-      const st = e.state;
-      // No state or we hit the guard buffer — stay on sectors and repush so
-      // pressing back again doesn't leave the app.
-      if (!st || st._guard) {
+      if (!e.state || e.state._guard) {
         setView('s'); setSid(null); setCo(null);
-        history.pushState({ view:'s', sid:null, co:null }, '');
+        history.pushState({ view:'s' }, '', '/');
         return;
       }
-      setView(st.view); setSid(st.sid || null); setCo(st.co || null);
+      setView(e.state.view || 's'); setSid(e.state.sid || null); setCo(e.state.co || null);
       window.scrollTo({ top:0, behavior:'smooth' });
     };
     window.addEventListener('popstate', onPop);
-    // Guard entry first, then the real sectors entry on top.
-    // If the user presses back past sectors they hit the guard and stay.
-    history.replaceState({ view:'s', sid:null, co:null, _guard:true }, '');
-    history.pushState({ view:'s', sid:null, co:null }, '');
+    // Push a guard at / so back-past-home stays in the app
+    const origPath = window.location.pathname;
+    history.replaceState({ _guard: true }, '', '/');
+    const pr = pendingRouteRef.current;
+    if (pr) {
+      history.pushState({ view: pr.co ? 'd' : 'c', sid: pr.sid, co: pr.co || null }, '', origPath);
+    } else {
+      history.pushState({ view: 's' }, '', '/');
+    }
     return () => window.removeEventListener('popstate', onPop);
   }, []);
 
-  /* ── Fetch all sector JSON files on mount ── */
+  /* ── Fetch sector JSON files progressively ── */
   useEffect(() => {
-    Promise.all(
-      DATA_FILES.map(f =>
-        fetch('./data/' + f + '.json')
-          .then(r => { if (!r.ok) throw new Error(f + '.json returned ' + r.status); return r.json(); })
-          .catch(e => { console.warn('Could not load', f, e.message); return null; })
-      )
-    ).then(results => {
-      const loaded = [];
-      const cc     = {};
-      DATA_FILES.forEach((f, i) => {
-        const d = results[i];
-        if (!d || !d.sector) return;
-        const entries = d.concall || {};
-        // Strip _template key — it's a placeholder for the editor, not real data
-        delete entries['_template'];
-        loaded.push({
-          id:  f,
-          nm:  d.sector.name,
-          desc: d.sector.description,
-          ac:  d.sector.accent,
-          al:  d.sector.accentLight,
-          cos: d.companies || [],
-          d:   Object.keys(entries).length > 0
-        });
-        Object.assign(cc, entries);
-      });
-      setSectors(loaded);
-      setConcall(cc);
-    }).catch(e => setLoadErr(e.message));
+    DATA_FILES.forEach(f => {
+      fetch('/data/' + f + '.json')
+        .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(d => {
+          if (!d || !d.sector) return;
+          const entries = d.concall || {};
+          delete entries['_template'];
+          const sector = {
+            id: f, nm: d.sector.name, desc: d.sector.description,
+            ac: d.sector.accent, al: d.sector.accentLight,
+            cos: d.companies || [], d: Object.keys(entries).length > 0
+          };
+          const idx = DATA_FILES.indexOf(f);
+          setSectors(prev => {
+            const arr = [...prev];
+            let at = arr.length;
+            for (let i = 0; i < arr.length; i++) {
+              if (DATA_FILES.indexOf(arr[i].id) > idx) { at = i; break; }
+            }
+            arr.splice(at, 0, sector);
+            return arr;
+          });
+          if (Object.keys(entries).length > 0)
+            setConcall(prev => ({ ...prev, ...entries }));
+        })
+        .catch(e => console.warn('Could not load', f, e.message));
+    });
   }, []);
+
+  /* ── Resolve initial URL route once target sector loads ── */
+  useEffect(() => {
+    const pr = pendingRouteRef.current;
+    if (!pr) return;
+    const sec = sectors.find(s => s.id === pr.sid);
+    if (!sec) return;
+    pendingRouteRef.current = null;
+    setSid(pr.sid);
+    if (pr.co && sec.cos.includes(pr.co)) { setCo(pr.co); setView('d'); }
+    else { setView('c'); }
+    window.scrollTo({ top: 0 });
+  }, [sectors]);
 
   /* ── Page title sync ── */
   useEffect(() => {
-    if (!sectors) return;
     const sec = sid ? gs(sectors, sid) : null;
-    document.title =
-      view === 's' ? 'Concall Research · Equity Insights Elite'
-      : view === 'c' ? sec.nm + ' · Concall Research'
-      : sn(co).split(' ').slice(0,3).join(' ') + ' · Q4FY26';
+    if (view === 's') { document.title = 'Concall Research · Equity Insights Elite'; return; }
+    if (view === 'c' && sec) { document.title = sec.nm + ' · Concall Research'; return; }
+    if (view === 'd' && co) { document.title = sn(co).split(' ').slice(0,3).join(' ') + ' · Q4FY26'; }
   }, [view, sid, co, sectors]);
 
   /* ── Navigation ── */
-  const goS = ()  => { history.pushState({ view:'s', sid:null, co:null }, ''); setView('s'); setSid(null); setCo(null); };
-  const goC = id  => { history.pushState({ view:'c', sid:id,   co:null }, ''); setSid(id); setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
-  const goD = nm  => { history.pushState({ view:'d', sid,      co:nm  }, ''); setCo(nm);  setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goS = ()         => { history.pushState({ view:'s' }, '', '/');                                                                setView('s'); setSid(null); setCo(null); };
+  const goC = id         => { history.pushState({ view:'c', sid:id }, '', '/'+id);                                                    setSid(id); setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goD = (nm, tsid) => { const s=tsid||sid; history.pushState({ view:'d', sid:s, co:nm }, '', '/'+s+'/'+encodeURIComponent(nm)); setSid(s); setCo(nm); setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
 
-  /* ── Loading / Error screens ── */
-  if (loadErr) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
-    h('div', { style:{ fontSize:32 } }, '⚠️'),
-    h('div', { style:{ fontSize:15, fontWeight:600, color:TX } }, 'Failed to load data'),
-    h('p',   { style:{ fontSize:13, color:S2, maxWidth:400, textAlign:'center' } }, loadErr),
-    h('p',   { style:{ fontSize:12, color:MU, maxWidth:400, textAlign:'center' } }, 'Make sure the site is served via HTTP, not opened as a local file. Run: python -m http.server 8000')
-  );
-
-  if (!sectors) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
+  /* ── Loading screen ── */
+  if (sectors.length === 0) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
     h('div', { className:'spinner' }),
     h('div', { style:{ fontSize:13, color:MU } }, 'Loading research data…')
   );
@@ -289,7 +307,7 @@ function App() {
         /* ── Left: logo + brand / breadcrumb ── */
         h('div', { style:{ display:'flex', alignItems:'center', gap:10, minWidth:0, flex:1 } },
           h('a', { href:'https://equityinsightselite.com', target:'_blank', rel:'noopener noreferrer', style:{ flexShrink:0, lineHeight:0 } },
-            h('img', { src:'logo.png', alt:'Equity Insights Elite', style:{ width:32, height:32, borderRadius:9, objectFit:'cover', display:'block', boxShadow:'0 1px 4px rgba(0,0,0,0.10)' } })
+            h('img', { src:'/logo.png', alt:'Equity Insights Elite', style:{ width:32, height:32, borderRadius:9, objectFit:'cover', display:'block', boxShadow:'0 1px 4px rgba(0,0,0,0.10)' } })
           ),
           view === 's'
             ? h('span', { className:'nav-brand-text', style:{ fontFamily:"'Space Grotesk',sans-serif", fontWeight:700, fontSize:19, color:TX, cursor:'pointer', letterSpacing:'-0.4px' }, onClick:goS }, 'Concall Research')
@@ -300,7 +318,7 @@ function App() {
                 view === 'd' && h(React.Fragment, null,
                   h('span', { style:{ color:BRD, fontSize:18, flexShrink:0, lineHeight:1 } }, '/'),
                   h('span', { style:{ fontSize:12, color:S2, fontWeight:500, overflow:'hidden', textOverflow:'ellipsis', whiteSpace:'nowrap', minWidth:0 } },
-                    sn(co).split(' ').slice(0,3).join(' ')
+                    co ? sn(co).split(' ').slice(0,3).join(' ') : ''
                   )
                 )
               )
@@ -324,7 +342,7 @@ function App() {
 
     /* ── Main ──────────────────────────────────── */
     h('main', { style:{ flex:1, maxWidth:1100, margin:'0 auto', width:'100%', padding:'28px 20px 60px' } },
-      view === 's' && h(SView, { sectors, totalCos, onSel:goC }),
+      view === 's' && h(SView, { sectors, totalCos, onSel:goC, onSelD:goD }),
       view === 'c' && sec && h(CView, { sec, concall, onSel:goD }),
       view === 'd' && co && sec && h(DView, { co, sec, concall })
     ),
@@ -372,16 +390,57 @@ function CTABanner() {
   );
 }
 
-function SView({ sectors, totalCos, onSel }) {
+function SView({ sectors, totalCos, onSel, onSelD }) {
+  const [q, setQ] = useState('');
+  const query = q.trim();
+  const searching = query.length >= 2;
+  const results = searching
+    ? sectors.flatMap(s => s.cos.filter(c => sn(c).toLowerCase().includes(query.toLowerCase())).map(c => ({ s, c })))
+    : [];
+
   return h('div', null,
-    h('div', { style:{ marginBottom:26 } },
-      h('h1', { style:{ fontSize:23, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif", margin:'0 0 6px' } }, 'Sector Coverage'),
-      h('p',  { style:{ fontSize:13, color:S2, margin:0 } }, totalCos + ' companies · ' + sectors.length + ' sectors · Q4FY26 concall tracker')
+    h('div', { style:{ marginBottom: searching ? 20 : 26 } },
+      h('div', { style:{ display:'flex', alignItems:'flex-start', justifyContent:'space-between', gap:16, flexWrap:'wrap' } },
+        h('div', null,
+          h('h1', { style:{ fontSize:23, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif", margin:'0 0 6px' } }, 'Sector Coverage'),
+          h('p',  { style:{ fontSize:13, color:S2, margin:0 } }, totalCos + ' companies · ' + sectors.length + ' sectors · Q4FY26 concall tracker')
+        ),
+        h('div', { style:{ position:'relative', display:'flex', alignItems:'center', marginTop:4 } },
+          h('svg', { style:{ position:'absolute', left:11, pointerEvents:'none' }, width:14, height:14, viewBox:'0 0 24 24', fill:'none', stroke:MU, strokeWidth:2.2, strokeLinecap:'round', strokeLinejoin:'round' },
+            h('circle', { cx:11, cy:11, r:8 }),
+            h('path', { d:'m21 21-4.35-4.35' })
+          ),
+          h('input', { className:'gsearch', type:'text', value:q, onChange:e=>setQ(e.target.value), placeholder:'Search company…' })
+        )
+      )
     ),
-    h('div', { className:'sector-grid' },
-      ...sectors.map(s => h(SCard, { key:s.id, s, onClick:()=>onSel(s.id) }))
-    ),
-    h(CTABanner)
+    searching
+      ? h('div', null,
+          results.length > 0
+            ? h('div', { style:{ display:'flex', flexDirection:'column', gap:8 } },
+                ...results.map(({ s, c }) =>
+                  h('div', {
+                    key: s.id + c, onClick: () => onSelD(c, s.id),
+                    style:{ background:SRF, border:`1.5px solid ${BRD}`, borderLeft:`4px solid ${s.ac}`, borderRadius:12, padding:'12px 16px', cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'space-between', gap:12, transition:'box-shadow 0.18s, border-color 0.18s' },
+                    onMouseEnter: e => { e.currentTarget.style.boxShadow=`0 4px 16px ${s.ac}30`; e.currentTarget.style.borderColor=s.ac; e.currentTarget.style.borderLeftColor=s.ac; },
+                    onMouseLeave: e => { e.currentTarget.style.boxShadow=''; e.currentTarget.style.borderColor=BRD; e.currentTarget.style.borderLeftColor=s.ac; }
+                  },
+                    h('div', null,
+                      h('div', { style:{ fontSize:13, fontWeight:600, color:TX } }, sn(c)),
+                      h('div', { style:{ fontSize:11, color:s.ac, fontWeight:600, marginTop:3 } }, s.nm)
+                    ),
+                    s.d && h('span', { style:{ fontSize:10, background:'#DCFCE7', color:'#15803D', padding:'3px 9px', borderRadius:20, fontWeight:700, flexShrink:0 } }, 'Research ✓')
+                  )
+                )
+              )
+            : h('div', { style:{ textAlign:'center', padding:'56px 0', color:MU, fontSize:13 } }, 'No results for "' + query + '"')
+        )
+      : h(React.Fragment, null,
+          h('div', { className:'sector-grid' },
+            ...sectors.map(s => h(SCard, { key:s.id, s, onClick:()=>onSel(s.id) }))
+          ),
+          h(CTABanner)
+        )
   );
 }
 

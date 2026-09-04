@@ -11,192 +11,326 @@
     "M&B Engineering Ltd"
   ],
   "concall": {
-    "Interarch Building Solutions Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "metrics": [
-        {
-          "label": "Revenue (FY26)",
-          "value": "₹1,898 Cr",
-          "change": "+31% YoY",
-          "positive": 1
-        },
-        {
-          "label": "EBITDA (FY26)",
-          "value": "₹176 Cr",
-          "change": "+29% YoY",
-          "positive": 1
-        },
-        {
-          "label": "PAT (FY26)",
-          "value": "₹135 Cr",
-          "change": "+25% YoY",
-          "positive": 1
-        },
-        {
-          "label": "Order Book",
-          "value": "₹1,703 Cr",
-          "change": "As of Apr 2026",
-          "positive": 1
-        }
-      ],
-      "fyPerformance": [
-        "FY26 Revenue: ₹1,898 Cr (+31% YoY); EBITDA: ₹176 Cr (+29% YoY); PAT: ₹135 Cr (+25% YoY)",
-        "Order book stood at ₹1,703 Cr as of April 2026",
-        "Export orders worth over ₹40 Cr were received in FY26",
-        "Spent ₹127 Cr in capex to expand capacities in Andhra Pradesh, Kiccha and Gujarat"
-      ],
-      "guidance": [
-        {
-          "metric": "Revenue Target (FY27)",
-          "value": "₹2,200 Cr"
-        },
-        {
-          "metric": "Revenue Target (FY28)",
-          "value": "₹2,500 Cr"
-        },
-        {
-          "metric": "Total Revenue Potential",
-          "value": "₹3,500 Cr after all capacities come live"
-        },
-        {
-          "metric": "Andhra Pradesh & Gujarat Commissioning",
-          "value": "Q2FY27"
-        }
-      ],
-      "highlights": [
-        "Andhra Pradesh expansion is focused on heavy steel structures",
-        "Gujarat PEB plant is located in a major industrial cluster and targets sectors like EVs and semiconductors",
-        "Company secured export certifications for Canada and USA",
-        "MoU signed with ER Steel for structural steel and PEB business across Canada and North America",
-        "Sector tailwinds remain strong from industrial capex, warehousing, logistics, renewable energy, data centres, semiconductors and large manufacturing projects"
-      ]
-    },
-    "EPACK Prefab Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "metrics": [
-        {
-          "label": "Revenue (FY26)",
-          "value": "₹1,525 Cr",
-          "change": "+35% YoY",
-          "positive": 1
-        },
-        {
-          "label": "EBITDA (FY26)",
-          "value": "₹160 Cr",
-          "change": "+36% YoY",
-          "positive": 1
-        },
-        {
-          "label": "PAT (FY26)",
-          "value": "₹93 Cr",
-          "change": "+56% YoY",
-          "positive": 1
-        },
-        {
-          "label": "Order Book",
-          "value": "₹1,113 Cr",
-          "change": "As of Mar 2026",
-          "positive": 1
-        }
-      ],
-      "fyPerformance": [
-        "FY26 Revenue: ₹1,525 Cr (+35% YoY); EBITDA: ₹160 Cr (+36% YoY); PAT: ₹93 Cr (+56% YoY)",
-        "Prefab business grew around 45% YoY in FY26",
-        "Capacity utilisation improved through the year and reached 83% in Q4FY26",
-        "Operating cash flow stood at ₹136 Cr, around 85% of EBITDA; net cash stood at ₹201 Cr"
-      ],
-      "guidance": [
-        {
-          "metric": "Revenue Guidance (FY27)",
-          "value": "Surpass ₹1,900 Cr"
-        },
-        {
-          "metric": "Prefab Division Growth",
-          "value": "~30%"
-        },
-        {
-          "metric": "EBITDA Margin Guidance",
-          "value": "10.5%"
-        },
-        {
-          "metric": "Order Book",
-          "value": "₹1,113 Cr as of Mar 2026"
-        }
-      ],
-      "highlights": [
-        "Management believes 30% growth is achievable in the prefab division based on order book, pipeline and capacity additions",
-        "Order book and pipeline provide strong FY27 visibility",
-        "Higher capacity utilisation through FY26 indicates operating leverage potential",
-        "Healthy operating cash conversion and net cash position support the next phase of growth",
-        "Structural shift from conventional construction to faster, factory-made and execution-efficient solutions remains a key demand driver"
-      ]
-    },
-    "M&B Engineering Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "metrics": [
-        {
-          "label": "Revenue (FY26)",
-          "value": "₹1,260 Cr",
-          "change": "+27% YoY",
-          "positive": 1
-        },
-        {
-          "label": "PAT (FY26)",
-          "value": "₹93 Cr",
-          "change": "+20% YoY",
-          "positive": 1
-        },
-        {
-          "label": "Order Book",
-          "value": "₹1,083 Cr",
-          "change": "+35% YoY",
-          "positive": 1
-        },
-        {
-          "label": "Order Inflow",
-          "value": "₹1,539 Cr",
-          "change": "+28% YoY",
-          "positive": 1
-        }
-      ],
-      "fyPerformance": [
-        "FY26 Revenue: ₹1,260 Cr (+27% YoY); PAT: ₹93 Cr (+20% YoY)",
-        "Unexecuted order book stood at ₹1,083 Cr, growing 35% YoY",
-        "FY26 order inflow stood at ₹1,539 Cr (+28% YoY)",
-        "Phenix division FY26 revenue stood at ₹985 Cr (+29% YoY); Proflex division revenue stood at ₹275 Cr (+23% YoY)"
-      ],
-      "guidance": [
-        {
-          "metric": "FY27 Growth Guidance",
-          "value": "23-25%"
-        },
-        {
-          "metric": "FY27 Capex",
-          "value": "~₹100 Cr"
-        },
-        {
-          "metric": "Sanand Capacity Addition",
-          "value": "~20,000 MT; commissioning expected Q2FY27"
-        },
-        {
-          "metric": "FY27 Export Revenue Target",
-          "value": "₹275-300 Cr vs ₹165 Cr in FY26"
-        },
-        {
-          "metric": "Export EBITDA Margin",
-          "value": "16-17% vs domestic margins of ~10-11%"
-        }
-      ],
-      "highlights": [
-        "Management has not given specific margin guidance due to uncertainty in steel prices, freight, FX and geopolitical conditions",
-        "FY26 capex was ₹33 Cr, while FY27 capex is expected around ₹100 Cr",
-        "Company is adding around 20,000 MT capacity at Sanand, expected to be commissioned in Q2FY27",
-        "Export revenue is targeted to rise sharply to ₹275-300 Cr in FY27 from ₹165 Cr in FY26",
-        "Margin pressure in Q4 was due to FX loss, input cost inflation and freight costs"
-      ]
-    }
+    "Interarch Building Solutions Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹460 Cr", "change": "+20.7% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹39 Cr", "change": "+24.6% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹28 Cr", "change": "Flat YoY", "positive": 0 },
+          { "label": "Order Book", "value": "₹1,864 Cr", "change": "As of Jul 2026", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue grew 20.7% YoY to ₹460 Cr from ₹381 Cr",
+          "EBITDA increased 24.6% to ₹39 Cr, ahead of revenue growth, while margin remained stable at 8.6%",
+          "PAT was flat at ₹28 Cr due to lower treasury income as IPO funds were deployed into capex",
+          "Order book increased to ₹1,864 Cr by July 2026, including a ₹165 Cr energy-sector order",
+          "Q1 production was around 40,000 tonnes, implying about 80% utilization of quarterly capacity"
+        ],
+        "guidanceTracking": [
+          { "metric": "Andhra Pradesh & Gujarat Commissioning", "guided": "Q2FY27", "actual": "Gujarat started in July; AP heavy structures entered trial production", "status": "met" },
+          { "metric": "FY27 Revenue Target", "guided": "₹2,200 Cr", "actual": "₹460 Cr in Q1; management says well on target", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Revenue", "value": "₹2,150-2,200 Cr" },
+          { "metric": "FY28 Revenue", "value": "Raised to ₹2,700 Cr from ₹2,500 Cr" },
+          { "metric": "EBITDA Margin", "value": "9.5-10% target" },
+          { "metric": "Quarterly Revenue Run-rate", "value": "Average around ₹600 Cr over coming quarters" },
+          { "metric": "Canada Export Plant", "value": "$22-23 Mn sales potential at full capacity" }
+        ],
+        "highlights": [
+          "The Gujarat PEB plant began operations on July 9, with Phase 2 scheduled for October",
+          "Andhra Pradesh heavy-structure trial production began, with commercial production expected by August-September",
+          "About 35% of the order book comes from new-age sectors, multistory buildings, data centers and hotels",
+          "Installed capacity rose to 221,000 tonnes after Gujarat Phase 1",
+          "The planned Canada-focused export unit targets 15,000 tonnes and EBITDA margin above 20% at scale",
+          "Management expects exports and complex heavy structures to improve the margin profile over time"
+        ],
+        "quote": "\"We are well on target for our projections.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,898 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹176 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹135 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹1,703 Cr",
+            "change": "As of Apr 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 Revenue: ₹1,898 Cr (+31% YoY); EBITDA: ₹176 Cr (+29% YoY); PAT: ₹135 Cr (+25% YoY)",
+          "Order book stood at ₹1,703 Cr as of April 2026",
+          "Export orders worth over ₹40 Cr were received in FY26",
+          "Spent ₹127 Cr in capex to expand capacities in Andhra Pradesh, Kiccha and Gujarat"
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Target (FY27)",
+            "value": "₹2,200 Cr"
+          },
+          {
+            "metric": "Revenue Target (FY28)",
+            "value": "₹2,500 Cr"
+          },
+          {
+            "metric": "Total Revenue Potential",
+            "value": "₹3,500 Cr after all capacities come live"
+          },
+          {
+            "metric": "Andhra Pradesh & Gujarat Commissioning",
+            "value": "Q2FY27"
+          }
+        ],
+        "highlights": [
+          "Andhra Pradesh expansion is focused on heavy steel structures",
+          "Gujarat PEB plant is located in a major industrial cluster and targets sectors like EVs and semiconductors",
+          "Company secured export certifications for Canada and USA",
+          "MoU signed with ER Steel for structural steel and PEB business across Canada and North America",
+          "Sector tailwinds remain strong from industrial capex, warehousing, logistics, renewable energy, data centres, semiconductors and large manufacturing projects"
+        ],
+        "asOf": "May 2026"
+      }
+    ],
+    "EPACK Prefab Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹366 Cr", "change": "+25% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹35 Cr", "change": "+13% YoY", "positive": 1 },
+          { "label": "EBITDA Margin", "value": "9.4%", "change": "vs 10.5%", "positive": -1 },
+          { "label": "Order Book", "value": "₹1,376 Cr", "change": "6-8 month visibility", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue grew about 25% YoY to ₹366 Cr from ₹295 Cr",
+          "EBITDA increased to nearly ₹35 Cr from ₹30.9 Cr, while margin moderated to 9.4%",
+          "PAT margin declined to 5% from 5.4% due to the roughly 100 bps EBITDA margin impact",
+          "Q1 order bookings rose around 150% to ₹580 Cr from ₹240 Cr a year earlier",
+          "The closing order book stood at ₹1,376 Cr, providing six to eight months of execution visibility"
+        ],
+        "guidanceTracking": [
+          { "metric": "Prefab Division Growth", "guided": "Around 30%", "actual": "Around 25% in Q1FY27", "status": "partial" },
+          { "metric": "EBITDA Margin", "guided": "10.5%", "actual": "9.4% in Q1FY27", "status": "missed" },
+          { "metric": "FY27 Revenue", "guided": "Above ₹1,900 Cr", "actual": "₹366 Cr in Q1; ₹1,376 Cr order book", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Revenue", "value": "₹1,900-1,950 Cr" },
+          { "metric": "FY27 Revenue Growth", "value": "Around 30%" },
+          { "metric": "EBITDA Margin", "value": "10.5-11.5% from Q2 onward" },
+          { "metric": "Sandwich Panel Utilization", "value": "Above 70-75% in FY27" },
+          { "metric": "Expanded Revenue Potential", "value": "₹2,700-2,900 Cr" }
+        ],
+        "highlights": [
+          "Q1 included the company’s largest order of ₹165 Cr for a solar cell and module facility",
+          "Renewables, transformers and wires and cables lead the order mix; logistics contributes about 24-25%",
+          "Prefab capacity utilization was above 75%, while the Mambattu sandwich-panel line reached about 45%",
+          "The company began exports with insulated sandwich panels supplied to Africa",
+          "EPACK Data Center Solutions is targeting structural steel, containment zones and modular data-center opportunities",
+          "Management expects margins to normalize as new orders reflect higher steel prices"
+        ],
+        "quote": "\"The ₹1,380 crore order book gives us confidence that we will very easily achieve the growth target.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,525 Cr",
+            "change": "+35% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹160 Cr",
+            "change": "+36% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹93 Cr",
+            "change": "+56% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹1,113 Cr",
+            "change": "As of Mar 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 Revenue: ₹1,525 Cr (+35% YoY); EBITDA: ₹160 Cr (+36% YoY); PAT: ₹93 Cr (+56% YoY)",
+          "Prefab business grew around 45% YoY in FY26",
+          "Capacity utilisation improved through the year and reached 83% in Q4FY26",
+          "Operating cash flow stood at ₹136 Cr, around 85% of EBITDA; net cash stood at ₹201 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Guidance (FY27)",
+            "value": "Surpass ₹1,900 Cr"
+          },
+          {
+            "metric": "Prefab Division Growth",
+            "value": "~30%"
+          },
+          {
+            "metric": "EBITDA Margin Guidance",
+            "value": "10.5%"
+          },
+          {
+            "metric": "Order Book",
+            "value": "₹1,113 Cr as of Mar 2026"
+          }
+        ],
+        "highlights": [
+          "Management believes 30% growth is achievable in the prefab division based on order book, pipeline and capacity additions",
+          "Order book and pipeline provide strong FY27 visibility",
+          "Higher capacity utilisation through FY26 indicates operating leverage potential",
+          "Healthy operating cash conversion and net cash position support the next phase of growth",
+          "Structural shift from conventional construction to faster, factory-made and execution-efficient solutions remains a key demand driver"
+        ],
+        "asOf": "May 2026"
+      }
+    ],
+    "M&B Engineering Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          { "label": "Revenue", "value": "₹291 Cr", "change": "+22.5% YoY", "positive": 1 },
+          { "label": "Op. EBITDA", "value": "₹33 Cr", "change": "11.4% margin", "positive": 1 },
+          { "label": "PAT", "value": "₹22 Cr", "change": "+22% YoY", "positive": 1 },
+          { "label": "Order Book", "value": "₹1,053 Cr", "change": "+25% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue grew 22.5% YoY to ₹291 Cr, supported by both Phenix and Proflex",
+          "Operating EBITDA stood at ₹33 Cr with margin of 11.4%; reported EBITDA was ₹36 Cr",
+          "PAT increased 22% to ₹22 Cr from ₹18 Cr",
+          "Phenix revenue grew 22% to ₹214 Cr and Proflex revenue grew 25% to ₹77 Cr",
+          "Order book rose 25% YoY to ₹1,053 Cr, including ₹278 Cr of export orders"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Revenue Growth", "guided": "23-25%", "actual": "22.5% in Q1FY27; guidance raised to 25%+", "status": "partial" },
+          { "metric": "Sanand Capacity Commissioning", "guided": "Q2FY27", "actual": "Expected in October 2026", "status": "missed" },
+          { "metric": "Export EBITDA Margin", "guided": "16-17%", "actual": "Around 15% sustainable at current freight costs", "status": "missed" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Revenue Growth", "value": "Above 25%" },
+          { "metric": "FY27 Revenue", "value": "Around ₹1,600 Cr" },
+          { "metric": "Medium-term Growth", "value": "Above 20% CAGR for 3-4 years" },
+          { "metric": "Sanand PEB Addition", "value": "20,000 tonnes by October 2026" },
+          { "metric": "Heavy Structures Addition", "value": "10,000 tonnes by Q1FY28" }
+        ],
+        "highlights": [
+          "Phenix and Proflex inquiry pipelines were about ₹4,000 Cr and ₹200 Cr respectively",
+          "Sanand PEB capacity will rise from 72,000 to 92,000 tonnes, supporting H2 growth",
+          "The board approved ₹30 Cr for an automated heavy-structural-steel line at Sanand",
+          "AISC certification at Cheyyar enables US West Coast exports from FY28",
+          "Q1 capex was ₹27 Cr across Sanand expansion, Proflex mobile units and captive solar",
+          "Higher West Asia freight costs pressured margins, though lower US Section 232 duties provide some offset"
+        ],
+        "quote": "\"The pipeline reinforces our confidence in delivering on the 25% plus growth guidance for the year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,260 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹93 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹1,083 Cr",
+            "change": "+35% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Inflow",
+            "value": "₹1,539 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 Revenue: ₹1,260 Cr (+27% YoY); PAT: ₹93 Cr (+20% YoY)",
+          "Unexecuted order book stood at ₹1,083 Cr, growing 35% YoY",
+          "FY26 order inflow stood at ₹1,539 Cr (+28% YoY)",
+          "Phenix division FY26 revenue stood at ₹985 Cr (+29% YoY); Proflex division revenue stood at ₹275 Cr (+23% YoY)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth Guidance",
+            "value": "23-25%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "~₹100 Cr"
+          },
+          {
+            "metric": "Sanand Capacity Addition",
+            "value": "~20,000 MT; commissioning expected Q2FY27"
+          },
+          {
+            "metric": "FY27 Export Revenue Target",
+            "value": "₹275-300 Cr vs ₹165 Cr in FY26"
+          },
+          {
+            "metric": "Export EBITDA Margin",
+            "value": "16-17% vs domestic margins of ~10-11%"
+          }
+        ],
+        "highlights": [
+          "Management has not given specific margin guidance due to uncertainty in steel prices, freight, FX and geopolitical conditions",
+          "FY26 capex was ₹33 Cr, while FY27 capex is expected around ₹100 Cr",
+          "Company is adding around 20,000 MT capacity at Sanand, expected to be commissioned in Q2FY27",
+          "Export revenue is targeted to rise sharply to ₹275-300 Cr in FY27 from ₹165 Cr in FY26",
+          "Margin pressure in Q4 was due to FX loss, input cost inflation and freight costs"
+        ],
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

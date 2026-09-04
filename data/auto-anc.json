@@ -23,544 +23,2231 @@
     "Talbros Automotive Components Ltd"
   ],
   "concall": {
-    "Sharda Motor Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹3,397 Cr", "change": "+20% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹419 Cr", "change": "+6% YoY", "positive": 1 },
-        { "label": "PAT", "value": "₹345 Cr", "change": "+10% YoY", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "₹972 Cr", "change": "+30% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹3,397 Cr, up 20%",
-        "FY26 gross profit stood at ₹803 Cr, up 8%",
-        "FY26 EBITDA stood at ₹419 Cr, up 6%, while PAT stood at ₹345 Cr, up 10%",
-        "Q4FY26 revenue stood at ₹972 Cr, up 30%, while EBITDA stood at ₹113 Cr, up 12%",
-        "Q4FY26 EBITDA margin stood at 12%, while PAT stood at ₹89 Cr"
-      ],
-      "guidance": [
-        { "metric": "FY27 Capex", "value": "₹90-100 Cr" },
-        { "metric": "Lightweighting Mix", "value": "~10% of gross sales" },
-        { "metric": "Lightweighting Share", "value": "~14% in FY26, expected to rise" },
-        { "metric": "Europe Export Order", "value": "$2 Mn annual value; SOP from Q1FY28" }
-      ],
-      "highlights": [
-        "Core emission business remains steady and strategically important",
-        "Company is preparing for BS7 and BS6.3 / WLTP readiness",
-        "CAFE III supports hybrids, CNG, ethanol, flex fuel and lightweighting",
-        "Donghee TLA has added subframes and torsion beams to content per vehicle opportunity",
-        "Exports remain a strategic priority, especially North America and Europe",
-        "Chakan 3 lightweighting plant has started SOP and is gradually ramping up"
-      ],
-      "quote": "\"Sharda is outperforming the sector on lightweighting, emission adjacency, export order wins, BS7 / CAFE readiness and balance sheet flexibility.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "ASK Automotive Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "~₹4,200 Cr", "change": "+16% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹551 Cr", "change": "+24% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "13%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "~₹299 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood around ₹4,200 Cr, up 16%",
-        "FY26 EBITDA stood at ₹551 Cr, up 24%, with EBITDA margin of 13%",
-        "PAT stood around ₹299 Cr, while EPS improved to ₹15.08 vs ₹12.56 last year",
-        "Q4FY26 revenue stood around ₹1,160 Cr, up 35%, while EBITDA stood at ₹140 Cr, up 31%",
-        "Q4FY26 PAT stood at ₹72 Cr, up 24%; ROACE stood at 27% and ROE stood at 25%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Growth", "value": "Mid-teens" },
-        { "metric": "FY27 Export Growth", "value": "~20%, subject to geopolitical stability" },
-        { "metric": "FY27 Capex", "value": "~₹400 Cr" },
-        { "metric": "Alloy Wheel Revenue", "value": "₹90-100 Cr in FY27; ~₹220 Cr in FY28" }
-      ],
-      "highlights": [
-        "ASK delivered its 10th consecutive quarter of strong performance since listing",
-        "Company outperformed 2W industry production growth in FY26",
-        "Advanced braking system revenue grew 17% in FY26 and 32% in Q4FY26",
-        "Aluminium lightweighting revenue grew 30% in FY26 and 47% in Q4FY26",
-        "Independent aftermarket grew 25% in FY26",
-        "GST reduction is helping ASK gain share from grey market operators"
-      ],
-      "quote": "\"ASK is outperforming the sector on 2W aftermarket growth, braking system leadership, lightweighting growth, ROE / ROACE and GST-led formalization benefit.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Sona BLW Precision Forgings Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹4,475 Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "BEV Revenue", "value": "₹1,154 Cr", "change": "35% of auto rev", "positive": 1 },
-        { "label": "EBITDA", "value": "₹1,107 Cr", "change": "+13% YoY", "positive": 1 },
-        { "label": "Adj. PAT", "value": "₹670 Cr", "change": "+11% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹4,475 Cr, up 26%",
-        "BEV revenue stood at ₹1,154 Cr and formed 35% of automotive revenue",
-        "FY26 EBITDA stood at ₹1,107 Cr, up 13%, with EBITDA margin of 25%",
-        "Adjusted PAT stood at ₹670 Cr, up 11%",
-        "Q4FY26 revenue stood at ₹1,272 Cr, up 47%, with Q4 BEV revenue share of 39%"
-      ],
-      "guidance": [
-        { "metric": "Net Order Book", "value": "₹237 Bn; EVs around 70%" },
-        { "metric": "EV Programs", "value": "67 programs across 35 customers" },
-        { "metric": "Programs In Production", "value": "37 EV programs; 30 yet to enter production" },
-        { "metric": "Cash & Investments", "value": "₹1,269 Cr" }
-      ],
-      "highlights": [
-        "Q4FY26 was the best ever quarter across revenue, EBITDA, PAT, BEV revenue and BEV share",
-        "Company won 4 new driveline orders in Q4FY26",
-        "3 driveline orders came from European OEMs, the highest ever in a single quarter from Europe",
-        "Company won its first EV order from Europe in almost 4 years",
-        "India share in revenue mix crossed 50% for FY26",
-        "Railway business is scaling with approvals for electric panels and HVAC systems"
-      ],
-      "quote": "\"Sona is outperforming the sector on EV order book, BEV revenue share, global customer wins, railway diversification, cash generation and technology depth.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Gabriel India Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Consol. Revenue", "value": "₹4,667 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "Consol. EBITDA", "value": "₹452 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "10%", "change": "Consolidated", "positive": 1 },
-        { "label": "Sunroof Revenue", "value": "₹434 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 consolidated revenue stood at ₹4,667 Cr, up 15%",
-        "FY26 consolidated EBITDA stood at ₹452 Cr, up 15%, with EBITDA margin of 10%",
-        "Standalone revenue stood at ₹4,223 Cr, up 16%, while standalone EBITDA grew 18%",
-        "Q4FY26 consolidated revenue stood at ₹1,210 Cr, up 13%",
-        "Inalfa Gabriel Sunroof FY26 EBITDA stood at ₹65 Cr, with EBITDA margin of 15%"
-      ],
-      "guidance": [
-        { "metric": "Standalone FY27 Capex", "value": "₹160-190 Cr" },
-        { "metric": "Jinhap Facility", "value": "Commercial production expected by Q3FY27 / Q4CY26" },
-        { "metric": "Project Rise", "value": "Four ANAND entities coming into Gabriel" },
-        { "metric": "Sunroof Pipeline", "value": "5 new models under development for FY27 / FY28" }
-      ],
-      "highlights": [
-        "Gabriel delivered double-digit growth across 2W, PV and CV-related businesses",
-        "All segments grew ahead of underlying industry growth",
-        "Composite scheme involving ANAND group automotive businesses received shareholder and NCLT approvals",
-        "Gabriel will become the automotive growth engine for ANAND Group's ₹50,000 Cr 2030 ambition",
-        "SK JV has started operations and sales have commenced",
-        "Aftermarket and exports saw temporary Q4 pressure due to aluminium and gas shortage"
-      ],
-      "quote": "\"Gabriel is outperforming the sector on suspension franchise, sunroof profitability, group restructuring optionality, new JV scale-up and ANAND Group growth platform.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Lumax Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹4,184 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹412 Cr", "change": "+43% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "10%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹173 Cr", "change": "+23% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹4,184 Cr, up 23%",
-        "FY26 EBITDA stood at ₹412 Cr, up 43%, with EBITDA margin of 10%",
-        "PAT stood at ₹173 Cr, up 23%, with PAT margin of 4%",
-        "Q4FY26 revenue stood at ₹1,200 Cr, up 30%, while EBITDA stood at ₹125 Cr, up 47%",
-        "Q4FY26 PAT stood at ₹54 Cr, up 23%"
-      ],
-      "guidance": [
-        { "metric": "Current Order Book", "value": "~₹2,200 Cr" },
-        { "metric": "LED Share Of Order Book", "value": "~88-90%" },
-        { "metric": "FY27 Growth", "value": "At least 2x industry growth" },
-        { "metric": "Mid-Term EBITDA Margin", "value": "~13%" }
-      ],
-      "highlights": [
-        "FY26 delivered the highest ever annual revenue, EBITDA and PAT",
-        "Growth was driven by auto recovery, premiumization and rising LED content per vehicle",
-        "LED lighting now contributes over 61% of revenue vs 58% last year",
-        "New orders were won from Mahindra, Skoda, Toyota and Suzuki programs",
-        "Maruti revenues grew nearly 50% in FY26",
-        "Bengaluru plant expansion for Maruti and Toyota models is expected from Q4FY27"
-      ],
-      "quote": "\"Lumax Industries is outperforming the sector on revenue growth, EBITDA growth, LED order book, premiumization and margin expansion.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Belrise Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Total Revenue", "value": "~₹9,530 Cr", "change": "FY26", "positive": 1 },
-        { "label": "Mfg Revenue", "value": "₹7,735 Cr", "change": "+17% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹1,154 Cr", "change": "+13% YoY", "positive": 1 },
-        { "label": "Adj. PAT", "value": "₹502 Cr", "change": "+41% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 total revenue stood around ₹9,530 Cr",
-        "Manufacturing revenue stood at ₹7,735 Cr, up 17%",
-        "EBITDA stood at ₹1,154 Cr, up 13%, with EBITDA margin of 12%",
-        "Manufacturing EBITDA stood at ₹1,058 Cr, up 15%, with margin of 14%",
-        "Q4FY26 total revenue stood at ₹2,553 Cr, up 12%, while manufacturing revenue grew 21%"
-      ],
-      "guidance": [
-        { "metric": "Aerospace Aspiration", "value": "Above 10% of revenue over next few years" },
-        { "metric": "New 2W / 3W OEM Order", "value": "~₹90 Cr peak annual revenue potential" },
-        { "metric": "Japanese OEM Order", "value": "~₹220 Cr peak annual revenue; production from Q4FY27" },
-        { "metric": "Haridwar Facility", "value": "Expected to reach peak production in FY27" }
-      ],
-      "highlights": [
-        "Belrise delivered mid-teens revenue growth with stable EBITDA margins",
-        "Growth is now broad-based, with no single customer or vehicle segment controlling performance",
-        "4W business grew 37% in FY26 and 71% in Q4FY26",
-        "CV business grew 35% in FY26 and 32% in Q4FY26",
-        "2W content per vehicle grew 65-70% in FY26",
-        "Aerospace and defense capabilities improved through SDM France and Chester Hall acquisitions"
-      ],
-      "quote": "\"Belrise is outperforming the sector on content per vehicle expansion, 4W / CV growth, customer diversification, proprietary product scale-up and aerospace optionality.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Lumax Auto Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹4,870 Cr", "change": "+34% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹705 Cr", "change": "FY26", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "15%", "change": "FY26", "positive": 1 },
-        { "label": "PAT Before MI", "value": "₹337 Cr", "change": "+47% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹4,870 Cr, up 34%",
-        "FY26 EBITDA stood at ₹705 Cr, with EBITDA margin of 15%",
-        "PAT before minority interest stood at ₹337 Cr, up 47%",
-        "Q4FY26 revenue stood at ₹1,417 Cr, up 25%, while EBITDA stood at ₹208 Cr",
-        "Q4FY26 PAT before minority interest stood at ₹98 Cr, up 22%"
-      ],
-      "guidance": [
-        { "metric": "Order Book", "value": "₹1,450 Cr" },
-        { "metric": "Order Execution", "value": "25% FY27, 54% FY28, 21% FY29" },
-        { "metric": "Mid-Term Strategy", "value": "20% CAGR growth" },
-        { "metric": "Industry Outperformance", "value": "At least 2x industry growth" }
-      ],
-      "highlights": [
-        "Lumax Auto delivered best ever financial and operational performance in FY26",
-        "Growth was driven by core products, OEM traction and aftermarket momentum",
-        "Company is moving from traditional Tier 1 supplier to Tier 0.5 system integrator",
-        "IAC India and Lumax Ancillary merger is completed in reported numbers",
-        "Board approved sale of 50% stake in Lumax JOPP Allied Technologies",
-        "Board approved acquisition of remaining 16% stake in Lumax FAE"
-      ],
-      "quote": "\"Lumax Auto is outperforming the sector on revenue growth, EBITDA scale, order book visibility, aftermarket strength, acquisition integration and Tier 0.5 transition.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Endurance Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹14,720 Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹2,090 Cr", "change": "+25% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "14%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹952 Cr", "change": "+14% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue / total income stood at ₹14,720 Cr, up 26%",
-        "FY26 EBITDA stood at ₹2,090 Cr, up 25%, with EBITDA margin of 14%",
-        "FY26 PAT stood at ₹952 Cr, up 14%",
-        "Q4FY26 revenue stood at ₹4,116 Cr, up 37%, while EBITDA stood at ₹598 Cr, up 31%",
-        "Standalone FY26 total income stood at ₹10,696 Cr, up 20%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Capex", "value": "~₹800 Cr" },
-        { "metric": "ABS Volume Growth", "value": "100-150% expected in FY27" },
-        { "metric": "Battery Pack Potential", "value": "₹300-360 Cr annual business; scope for ₹600 Cr next year" },
-        { "metric": "India Order Wins", "value": "₹1,596 Cr in FY26" }
-      ],
-      "highlights": [
-        "Growth was supported by 2W recovery, PV growth, EV traction and new product ramp-ups",
-        "ABS capacity is being expanded by 12 lakh units per annum over the existing 6.4 lakh units",
-        "Dual-channel ABS SOP for Bajaj Auto starts in June 2026",
-        "Chennai disc brake plant SOP for Royal Enfield is planned in July 2026",
-        "AURIC Shendra plant has ₹513 Cr peak annual business potential from global programs",
-        "Total EV order wins including Maxwell and battery packs stand at ₹1,724 Cr per annum"
-      ],
-      "quote": "\"Endurance is outperforming the sector on ABS expansion, braking systems, EV content, battery packs, alloy wheels, suspension, order wins and Europe operating leverage.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Sansera Engineering Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹3,498 Cr", "change": "+16% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹632 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "18%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹327 Cr", "change": "+51% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹3,498 Cr, up 16%",
-        "FY26 EBITDA stood at ₹632 Cr, up 23%, with EBITDA margin of 18%",
-        "FY26 PAT stood at ₹327 Cr, up 51%",
-        "Q4FY26 revenue stood at ₹999 Cr, up 28%, while EBITDA stood at ₹193 Cr, up 52%",
-        "Q4FY26 PAT stood at ₹123 Cr, up 108%, with PAT margin of 12%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Capex", "value": "Similar to FY26 level of ₹510 Cr" },
-        { "metric": "Peak Annual Revenue From New Business", "value": "₹1,920 Cr as of Mar 2026" },
-        { "metric": "ADS 5-Year Backlog", "value": "₹4,460 Cr" },
-        { "metric": "Medium-Term Order Execution Visibility", "value": "₹8,000-8,200 Cr" }
-      ],
-      "highlights": [
-        "FY26 was the highest-ever annual performance for Sansera",
-        "Growth was supported by Auto ICE, Auto-Tech Agnostic / xEV and Non-Auto segments",
-        "ADS product sales stood at ₹316 Cr in FY26, up 155%",
-        "Non-Auto plus xEV / tech-agnostic share reached around 30% for FY26",
-        "Management aims to move Auto ICE mix towards 60%",
-        "Aerospace, semiconductor and defence are key long-term non-auto growth engines"
-      ],
-      "quote": "\"Sansera is outperforming the sector on margin expansion, PAT growth, ADS scale-up, semiconductor exposure, xEV growth and diversification beyond Auto ICE.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Pricol Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "~₹4,000 Cr", "change": "+51% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹493 Cr", "change": "+48% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "12%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹251 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood around ₹4,000 Cr, up 51%",
-        "FY26 EBITDA stood at ₹493 Cr, up 48%, with EBITDA margin of 12%",
-        "FY26 PAT stood at ₹251 Cr, with PAT margin of 6%",
-        "Q4FY26 revenue stood at ₹1,078 Cr, while EBITDA stood at ₹143 Cr",
-        "Q4FY26 PAT stood at ₹73 Cr, with PAT margin of 7%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Capex", "value": "₹680-700 Cr" },
-        { "metric": "Debt-Equity", "value": "Expected around 0.5-0.6x" },
-        { "metric": "P3L Target", "value": "Double revenue within 3 years of acquisition" },
-        { "metric": "Net Debt", "value": "₹63 Cr" }
-      ],
-      "highlights": [
-        "Pricol crossed ₹1,000 Cr quarterly revenue for the first time in Q4FY26",
-        "Performance was driven by organic growth and inorganic contribution",
-        "Company maintained volume share and improved value share in instrument clusters",
-        "Digital PV clusters are scaling well with Tata Motors",
-        "Around 75-80% of Tata cars are coming with Pricol clusters",
-        "Disc brake business is progressing with key customers"
-      ],
-      "quote": "\"Pricol is outperforming the sector on revenue growth, cluster market share, technology-led product depth, P3L integration and balance sheet strength.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Sandhar Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹4,852 Cr", "change": "+25% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹513 Cr", "change": "+28% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "11%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹199 Cr", "change": "+40% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹4,852 Cr, up 25%",
-        "FY26 EBITDA stood at ₹513 Cr, up 28%, with EBITDA margin of 11%",
-        "FY26 PBT stood at ₹256 Cr, up 39%, while PAT stood at ₹199 Cr, up 40%",
-        "India business revenue stood at ₹4,384 Cr, up 28%",
-        "India business PAT stood at ₹221 Cr, up 44%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth", "value": "More than 15%, excluding pricing retrigger benefit" },
-        { "metric": "Long-Term Ambition", "value": "Double revenue every 3-4 years" },
-        { "metric": "FY27 EV Revenue", "value": "Expected to double" },
-        { "metric": "New Unit Asset Turns", "value": "Move towards 2.5x in FY27" }
-      ],
-      "highlights": [
-        "Sandhar crossed ₹4,800 Cr revenue for the first time",
-        "India business grew 28% vs industry growth of around 13%",
-        "In 2W, Sandhar grew 35% vs industry growth of around 13%",
-        "Consolidated EBITDA margin moved into double digits at 11%",
-        "Overseas subsidiaries turned around in Q4 with 15% EBITDA margin and break-even EBT",
-        "New businesses like sheet metal, castings, aluminium die-casting, cabins and EV are becoming important growth drivers"
-      ],
-      "quote": "\"Sandhar is outperforming the sector on India growth, 2W outperformance, PAT growth, new business ramp-up and overseas turnaround.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Fiem Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Net Sales", "value": "₹2,791 Cr", "change": "+16% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹393 Cr", "change": "FY26", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "14%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹254 Cr", "change": "+24% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 net sales stood at ₹2,791 Cr, up 16%",
-        "FY26 EBITDA stood at ₹393 Cr, with EBITDA margin of 14%",
-        "FY26 PAT stood at ₹254 Cr, up 24%",
-        "Q4FY26 sales stood at ₹744 Cr, up 17%, while EBITDA stood at ₹109 Cr",
-        "Q4FY26 PAT stood at ₹71 Cr, up 22%"
-      ],
-      "guidance": [
-        { "metric": "Capex Plan", "value": "~₹200 Cr over next 2 years" },
-        { "metric": "FY26 Capex", "value": "₹108 Cr" },
-        { "metric": "EBITDA Margin Target", "value": "14%+" },
-        { "metric": "4W RFQ Pipeline", "value": "~₹700 Cr; ~70% converted" }
-      ],
-      "highlights": [
-        "FY26 was the strongest year for FIEM across key operating metrics",
-        "2W industry production crossed pre-pandemic peak",
-        "FIEM benefited from premiumisation, rural recovery and EV adoption",
-        "LED lighting contributes 60%+ of automotive lighting business",
-        "4W business is seeing traction and Mahindra orders are expected to contribute from FY27",
-        "Hosur facility already meets around 65% of energy needs through solar"
-      ],
-      "quote": "\"FIEM is outperforming the sector on PAT growth, LED lighting, 2W EV exposure, customer depth and 4W order conversion.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "S J S Enterprises Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹955 Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹288 Cr", "change": "+42% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "30%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹172 Cr", "change": "+45% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹955 Cr, up 26%",
-        "FY26 EBITDA stood at ₹288 Cr, up 42%, with EBITDA margin of 30%",
-        "FY26 PAT stood at ₹172 Cr, up 45%",
-        "Q4FY26 revenue stood at ₹260 Cr, up 30%, while EBITDA stood at ₹81 Cr, up 53%",
-        "Q4FY26 PAT stood at ₹49 Cr, up 45%, with PAT margin of 19%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Outperformance", "value": "1.5-2x underlying industry growth" },
-        { "metric": "FY27 Revenue Visibility", "value": "Order book covers 85%+ of forecast revenue" },
-        { "metric": "FY28 Export Share Target", "value": "14-15% of consolidated revenue" },
-        { "metric": "Net Cash", "value": "₹244 Cr" }
-      ],
-      "highlights": [
-        "SJS delivered its highest-ever quarterly revenue and PAT in Q4FY26",
-        "Automotive segment grew 41% in Q4FY26, more than 2x industry production growth",
-        "FY26 marked the 26th consecutive year of outperformance",
-        "New generation products now contribute around 24% of consolidated revenue",
-        "Q4FY26 exports grew 75% and FY26 exports grew 61%",
-        "Technology license and supply agreement with BOE Varitronix opens optical display opportunity"
-      ],
-      "quote": "\"SJS is outperforming the sector on margins, PAT growth, export growth, net cash balance sheet, premiumisation and advanced display optionality.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Talbros Automotive Components Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "~₹888 Cr", "change": "+5% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹155 Cr", "change": "FY26", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "18%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹104 Cr", "change": "+10% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood around ₹888 Cr, up 5%",
-        "FY26 EBITDA stood at ₹155 Cr, with EBITDA margin of 18%",
-        "FY26 PAT stood at ₹104 Cr, up 10%",
-        "Q4FY26 revenue stood at ₹241 Cr, up 15%, while EBITDA stood at ₹45 Cr",
-        "Q4FY26 PAT stood at ₹32 Cr, up 19%, with PAT margin of 13%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Growth", "value": "15-20%" },
-        { "metric": "FY27 EBITDA Margin", "value": "17-18%" },
-        { "metric": "FY27 Capex", "value": "~₹103 Cr" },
-        { "metric": "Forging New Orders", "value": "₹500 Cr secured" }
-      ],
-      "highlights": [
-        "Talbros delivered its strongest-ever quarterly performance in Q4FY26",
-        "Gasket and Heat Shield division remains the largest and most profitable contributor",
-        "Talbros holds around 50% share in the Indian gasket market",
-        "Forging exports form around 56% of Forging revenue",
-        "Marelli Talbros Chassis Systems FY26 revenue grew 21%",
-        "Global OEMs reducing China dependence is creating export opportunity"
-      ],
-      "quote": "\"Talbros is outperforming the sector on EBITDA margin, PAT margin, gasket leadership, export traction, new order wins and diversified powertrain exposure.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "NDR Auto Components Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Total Income", "value": "₹825 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹94 Cr", "change": "FY26", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "11%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹62 Cr", "change": "+16% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 total income stood at ₹825 Cr, up 15%",
-        "FY26 EBITDA stood at ₹94 Cr, with EBITDA margin of 11%",
-        "FY26 PAT stood at ₹62 Cr, up 16%",
-        "Q4FY26 total income stood at ₹230 Cr, up 19%, while EBITDA stood at ₹27 Cr, up 25%",
-        "Q4FY26 EBITDA margin stood at 12%, while PAT stood at ₹18 Cr"
-      ],
-      "guidance": [
-        { "metric": "Order Book", "value": "₹650 Cr" },
-        { "metric": "New Product Capex", "value": "~₹150 Cr" },
-        { "metric": "Long-Term Scale Plan", "value": "Move towards ₹3,000 Cr scale" },
-        { "metric": "Bharat Seats FY30 Revenue", "value": "~₹3,500 Cr guidance" }
-      ],
-      "highlights": [
-        "NDR delivered its highest-ever EBITDA margin in Q4FY26",
-        "Order book increased from ₹450 Cr in Q3FY26 to ₹650 Cr in Q4FY26",
-        "Incremental order book came from Maruti Suzuki new models",
-        "Company won orders in ambient lighting, marking progress beyond core seating",
-        "New product areas include seat inserts, ambient lighting, shades, latches and seat belt reminders",
-        "Premiumisation in seats is an important trigger across artificial leather, power seats and ventilated seats"
-      ],
-      "quote": "\"NDR Auto is outperforming the sector on EBITDA margin improvement, ROCE, order book growth, seating premiumisation and new product expansion.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Sharda Motor Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,011 Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gross Profit",
+            "value": "₹204 Cr",
+            "change": "+8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹103 Cr",
+            "change": "+5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹86.5 Cr",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 34% to ₹1,011 Cr",
+          "Gross profit grew 8% despite a customer supplier fire and premium raw-material purchases",
+          "EBITDA increased 5% with margin at 10.2%",
+          "PAT stood at ₹86.5 Cr",
+          "Addressable industry volume growth was around 8-10%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Capex",
+            "guided": "₹90-100 Cr",
+            "actual": "Investment programme continues",
+            "status": "partial"
+          },
+          {
+            "metric": "Lightweighting Mix",
+            "guided": "Rise from around 14%",
+            "actual": "Lightweighting remains a key growth contributor",
+            "status": "partial"
+          },
+          {
+            "metric": "Export Programme",
+            "guided": "$2 Mn annual value from Q1FY28",
+            "actual": "Programme remains in development",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Drivers",
+            "value": "Domestic OEM volumes, new programmes and exports"
+          },
+          {
+            "metric": "Capex",
+            "value": "₹90-100 Cr FY27 framework"
+          },
+          {
+            "metric": "Europe Export SOP",
+            "value": "Q1FY28"
+          }
+        ],
+        "highlights": [
+          "A supplier fire temporarily affected production",
+          "Premium raw-material procurement reduced gross-profit growth",
+          "Utility-vehicle production grew 21.2%",
+          "Emission-control and lightweighting remain core opportunities",
+          "Export orders support the medium-term pipeline",
+          "Management does not provide formal near-term growth guidance"
+        ],
+        "quote": "\"Underlying demand stayed healthy, but temporary supply and input costs constrained margins.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹3,397 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹419 Cr",
+            "change": "+6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹345 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "₹972 Cr",
+            "change": "+30% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹3,397 Cr, up 20%",
+          "FY26 gross profit stood at ₹803 Cr, up 8%",
+          "FY26 EBITDA stood at ₹419 Cr, up 6%, while PAT stood at ₹345 Cr, up 10%",
+          "Q4FY26 revenue stood at ₹972 Cr, up 30%, while EBITDA stood at ₹113 Cr, up 12%",
+          "Q4FY26 EBITDA margin stood at 12%, while PAT stood at ₹89 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "₹90-100 Cr"
+          },
+          {
+            "metric": "Lightweighting Mix",
+            "value": "~10% of gross sales"
+          },
+          {
+            "metric": "Lightweighting Share",
+            "value": "~14% in FY26, expected to rise"
+          },
+          {
+            "metric": "Europe Export Order",
+            "value": "$2 Mn annual value; SOP from Q1FY28"
+          }
+        ],
+        "highlights": [
+          "Core emission business remains steady and strategically important",
+          "Company is preparing for BS7 and BS6.3 / WLTP readiness",
+          "CAFE III supports hybrids, CNG, ethanol, flex fuel and lightweighting",
+          "Donghee TLA has added subframes and torsion beams to content per vehicle opportunity",
+          "Exports remain a strategic priority, especially North America and Europe",
+          "Chakan 3 lightweighting plant has started SOP and is gradually ramping up"
+        ],
+        "quote": "\"Sharda is outperforming the sector on lightweighting, emission adjacency, export order wins, BS7 / CAFE readiness and balance sheet flexibility.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "ASK Automotive Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue Growth",
+            "value": "52.1%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Underlying Growth",
+            "value": "25.3%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹164 Cr",
+            "change": "+32.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹85 Cr",
+            "change": "+28.8% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "ASK reported its highest-ever quarterly revenue, EBITDA and PAT",
+          "Underlying revenue excluding alloy pass-through and wheel-assembly exit grew 25.3%",
+          "EBITDA margin stood at 12% despite the alloy-price denominator impact",
+          "Advanced braking and aluminium-lightweighting revenue grew 48% and 75%",
+          "Export revenue increased to ₹39 Cr from ₹33 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Growth",
+            "guided": "Mid-teens",
+            "actual": "Guidance raised to high teens after 25.3% underlying Q1 growth",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Capex",
+            "guided": "Around ₹400-500 Cr",
+            "actual": "Revised to as much as ₹700 Cr",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Alloy Wheel Revenue",
+            "guided": "₹90-100 Cr in FY27",
+            "actual": "₹70-90 Cr confirmed for FY27",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth",
+            "value": "High teens"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Up to ₹700 Cr"
+          },
+          {
+            "metric": "FY28 Alloy Wheel Revenue",
+            "value": "Around ₹250 Cr confirmed"
+          }
+        ],
+        "highlights": [
+          "Karoli utilisation improved to around 75%",
+          "Karoli utilisation is targeted near 80% by Q4",
+          "A new Bengaluru plant is planned before March 2027",
+          "Ford export revenue is expected at ₹40-45 Cr in FY27",
+          "The Bikaner solar plant is expected to commission in Q2",
+          "Debt-equity is expected to remain below 0.5x"
+        ],
+        "quote": "\"Strong order visibility led management to raise both growth and investment plans.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "~₹4,200 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹551 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "13%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "~₹299 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood around ₹4,200 Cr, up 16%",
+          "FY26 EBITDA stood at ₹551 Cr, up 24%, with EBITDA margin of 13%",
+          "PAT stood around ₹299 Cr, while EPS improved to ₹15.08 vs ₹12.56 last year",
+          "Q4FY26 revenue stood around ₹1,160 Cr, up 35%, while EBITDA stood at ₹140 Cr, up 31%",
+          "Q4FY26 PAT stood at ₹72 Cr, up 24%; ROACE stood at 27% and ROE stood at 25%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth",
+            "value": "Mid-teens"
+          },
+          {
+            "metric": "FY27 Export Growth",
+            "value": "~20%, subject to geopolitical stability"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "~₹400 Cr"
+          },
+          {
+            "metric": "Alloy Wheel Revenue",
+            "value": "₹90-100 Cr in FY27; ~₹220 Cr in FY28"
+          }
+        ],
+        "highlights": [
+          "ASK delivered its 10th consecutive quarter of strong performance since listing",
+          "Company outperformed 2W industry production growth in FY26",
+          "Advanced braking system revenue grew 17% in FY26 and 32% in Q4FY26",
+          "Aluminium lightweighting revenue grew 30% in FY26 and 47% in Q4FY26",
+          "Independent aftermarket grew 25% in FY26",
+          "GST reduction is helping ASK gain share from grey market operators"
+        ],
+        "quote": "\"ASK is outperforming the sector on 2W aftermarket growth, braking system leadership, lightweighting growth, ROE / ROACE and GST-led formalization benefit.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sona BLW Precision Forgings Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,231 Cr",
+            "change": "+54% YoY",
+            "positive": 1
+          },
+          {
+            "label": "BEV Revenue",
+            "value": "₹436 Cr",
+            "change": "+107% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹303 Cr",
+            "change": "+49% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹181 Cr",
+            "change": "+45% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 54% to ₹1,231 Cr",
+          "BEV revenue more than doubled to ₹436 Cr",
+          "EBITDA increased 49% to ₹303 Cr with margin at 23.1%",
+          "PAT grew 45% to ₹181 Cr",
+          "BEVs represented 44% of automotive product sales"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Net Order Book",
+            "guided": "₹23,700 Cr",
+            "actual": "₹24,000 Cr",
+            "status": "exceeded"
+          },
+          {
+            "metric": "EV Programmes",
+            "guided": "67 programmes",
+            "actual": "69 programmes",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Cash Position",
+            "guided": "₹1,269 Cr",
+            "actual": "Investment continues from a strong balance sheet",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Net Order Book",
+            "value": "₹24,000 Cr"
+          },
+          {
+            "metric": "EV Programmes",
+            "value": "69 programmes"
+          },
+          {
+            "metric": "Robotics and Physical AI",
+            "value": "New strategic growth platform"
+          }
+        ],
+        "highlights": [
+          "The order book remains heavily weighted toward EV programmes",
+          "Two new EV programmes were added in Q1",
+          "BEV content growth outpaced total company growth",
+          "Margin declined 70 bps because of mix and input prices",
+          "Operating leverage partly offset cost pressure",
+          "Robotics and physical AI broaden the addressable market"
+        ],
+        "quote": "\"Electrification drove another quarter of growth well ahead of the automotive market.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹4,475 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "BEV Revenue",
+            "value": "₹1,154 Cr",
+            "change": "35% of auto rev",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹1,107 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹670 Cr",
+            "change": "+11% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹4,475 Cr, up 26%",
+          "BEV revenue stood at ₹1,154 Cr and formed 35% of automotive revenue",
+          "FY26 EBITDA stood at ₹1,107 Cr, up 13%, with EBITDA margin of 25%",
+          "Adjusted PAT stood at ₹670 Cr, up 11%",
+          "Q4FY26 revenue stood at ₹1,272 Cr, up 47%, with Q4 BEV revenue share of 39%"
+        ],
+        "guidance": [
+          {
+            "metric": "Net Order Book",
+            "value": "₹237 Bn; EVs around 70%"
+          },
+          {
+            "metric": "EV Programs",
+            "value": "67 programs across 35 customers"
+          },
+          {
+            "metric": "Programs In Production",
+            "value": "37 EV programs; 30 yet to enter production"
+          },
+          {
+            "metric": "Cash & Investments",
+            "value": "₹1,269 Cr"
+          }
+        ],
+        "highlights": [
+          "Q4FY26 was the best ever quarter across revenue, EBITDA, PAT, BEV revenue and BEV share",
+          "Company won 4 new driveline orders in Q4FY26",
+          "3 driveline orders came from European OEMs, the highest ever in a single quarter from Europe",
+          "Company won its first EV order from Europe in almost 4 years",
+          "India share in revenue mix crossed 50% for FY26",
+          "Railway business is scaling with approvals for electric panels and HVAC systems"
+        ],
+        "quote": "\"Sona is outperforming the sector on EV order book, BEV revenue share, global customer wins, railway diversification, cash generation and technology depth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Gabriel India Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,426 Cr",
+            "change": "+15.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹124 Cr",
+            "change": "+2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "8.7%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "PBT",
+            "value": "₹133 Cr",
+            "change": "+6% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 15.5% to ₹1,426 Cr",
+          "EBITDA rose 2% to ₹124 Cr with margin at 8.7%",
+          "PBT grew 6% to ₹133 Cr",
+          "Share of profit from associates increased 10% to ₹43 Cr",
+          "Scooter and passenger-vehicle production supported demand"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Project Rise",
+            "guided": "Four ANAND entities to combine",
+            "actual": "Restructured businesses are reflected in consolidated reporting",
+            "status": "met"
+          },
+          {
+            "metric": "Jinhap Facility",
+            "guided": "Production by Q3FY27/Q4CY26",
+            "actual": "Ramp-up plan retained",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Standalone Capex",
+            "guided": "₹160-190 Cr",
+            "actual": "Capacity extensions continue across locations",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "HL Klemove India",
+            "value": "Around ₹1,000 Cr revenue and ₹129 Cr adjusted EBITDA base"
+          },
+          {
+            "metric": "Jinhap Facility",
+            "value": "Commercial production targeted in FY27"
+          },
+          {
+            "metric": "Sunroof Programmes",
+            "value": "Five models under development"
+          }
+        ],
+        "highlights": [
+          "The new consolidated structure includes Anchemco",
+          "Standalone EBITDA increased 7%",
+          "Associate earnings grew faster than consolidated EBITDA",
+          "Gabriel is deepening partnerships in ADAS technology",
+          "Sunroof and EV products remain important new growth pools",
+          "Internal accruals are expected to support working capital and capex"
+        ],
+        "quote": "\"The enlarged platform began FY27 with double-digit revenue growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consol. Revenue",
+            "value": "₹4,667 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Consol. EBITDA",
+            "value": "₹452 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "10%",
+            "change": "Consolidated",
+            "positive": 1
+          },
+          {
+            "label": "Sunroof Revenue",
+            "value": "₹434 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 consolidated revenue stood at ₹4,667 Cr, up 15%",
+          "FY26 consolidated EBITDA stood at ₹452 Cr, up 15%, with EBITDA margin of 10%",
+          "Standalone revenue stood at ₹4,223 Cr, up 16%, while standalone EBITDA grew 18%",
+          "Q4FY26 consolidated revenue stood at ₹1,210 Cr, up 13%",
+          "Inalfa Gabriel Sunroof FY26 EBITDA stood at ₹65 Cr, with EBITDA margin of 15%"
+        ],
+        "guidance": [
+          {
+            "metric": "Standalone FY27 Capex",
+            "value": "₹160-190 Cr"
+          },
+          {
+            "metric": "Jinhap Facility",
+            "value": "Commercial production expected by Q3FY27 / Q4CY26"
+          },
+          {
+            "metric": "Project Rise",
+            "value": "Four ANAND entities coming into Gabriel"
+          },
+          {
+            "metric": "Sunroof Pipeline",
+            "value": "5 new models under development for FY27 / FY28"
+          }
+        ],
+        "highlights": [
+          "Gabriel delivered double-digit growth across 2W, PV and CV-related businesses",
+          "All segments grew ahead of underlying industry growth",
+          "Composite scheme involving ANAND group automotive businesses received shareholder and NCLT approvals",
+          "Gabriel will become the automotive growth engine for ANAND Group's ₹50,000 Cr 2030 ambition",
+          "SK JV has started operations and sales have commenced",
+          "Aftermarket and exports saw temporary Q4 pressure due to aluminium and gas shortage"
+        ],
+        "quote": "\"Gabriel is outperforming the sector on suspension franchise, sunroof profitability, group restructuring optionality, new JV scale-up and ANAND Group growth platform.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Lumax Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,223 Cr",
+            "change": "+32.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹113 Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹51 Cr",
+            "change": "+41.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹2,500 Cr",
+            "change": "90% LED",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 32.6% to ₹1,223 Cr",
+          "Manufacturing revenue increased 36.8% to ₹1,160 Cr",
+          "EBITDA rose 34% while margin held at 9.2%",
+          "PAT grew 41.2% to ₹51 Cr",
+          "LED lighting reached 63% of revenue and around 90% of the order book"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Growth",
+            "guided": "At least 2x industry",
+            "actual": "32.6% revenue growth",
+            "status": "met"
+          },
+          {
+            "metric": "Mid-Term EBITDA Margin",
+            "guided": "Around 13%",
+            "actual": "9.2%; 10.5-11% FY27 view retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Order Book",
+            "guided": "Around ₹2,200 Cr",
+            "actual": "Around ₹2,500 Cr",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "10.5-11%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹200-250 Cr"
+          }
+        ],
+        "highlights": [
+          "Commodity and other costs reduced Q1 margin by 120-130 bps",
+          "Maruti and Tata Motors revenue grew 43% and 68%",
+          "Bengaluru expansion is expected to commission in Q4FY27",
+          "Sanand and Bawal brownfield projects are underway",
+          "Around ₹1,500 Cr of orders are expected to enter SOP in FY28",
+          "Net long-term debt stood at ₹209 Cr"
+        ],
+        "quote": "\"Order-book strength supported rapid growth despite temporary cost pressure.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹4,184 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹412 Cr",
+            "change": "+43% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "10%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹173 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹4,184 Cr, up 23%",
+          "FY26 EBITDA stood at ₹412 Cr, up 43%, with EBITDA margin of 10%",
+          "PAT stood at ₹173 Cr, up 23%, with PAT margin of 4%",
+          "Q4FY26 revenue stood at ₹1,200 Cr, up 30%, while EBITDA stood at ₹125 Cr, up 47%",
+          "Q4FY26 PAT stood at ₹54 Cr, up 23%"
+        ],
+        "guidance": [
+          {
+            "metric": "Current Order Book",
+            "value": "~₹2,200 Cr"
+          },
+          {
+            "metric": "LED Share Of Order Book",
+            "value": "~88-90%"
+          },
+          {
+            "metric": "FY27 Growth",
+            "value": "At least 2x industry growth"
+          },
+          {
+            "metric": "Mid-Term EBITDA Margin",
+            "value": "~13%"
+          }
+        ],
+        "highlights": [
+          "FY26 delivered the highest ever annual revenue, EBITDA and PAT",
+          "Growth was driven by auto recovery, premiumization and rising LED content per vehicle",
+          "LED lighting now contributes over 61% of revenue vs 58% last year",
+          "New orders were won from Mahindra, Skoda, Toyota and Suzuki programs",
+          "Maruti revenues grew nearly 50% in FY26",
+          "Bengaluru plant expansion for Maruti and Toyota models is expected from Q4FY27"
+        ],
+        "quote": "\"Lumax Industries is outperforming the sector on revenue growth, EBITDA growth, LED order book, premiumization and margin expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Belrise Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,547 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Manufacturing Revenue",
+            "value": "₹2,198 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹293 Cr",
+            "change": "11.5% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹122 Cr",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 13% while manufacturing revenue increased 20%",
+          "Four-wheeler and commercial-vehicle revenue grew 18%",
+          "EBITDA stood at ₹293 Cr with margin at 11.5%",
+          "PAT reached ₹122 Cr",
+          "Cost pressures are expected to ease as customer pass-throughs catch up"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Aerospace Aspiration",
+            "guided": "Above 10% of revenue",
+            "actual": "10% goal retained; localisation discussions advanced",
+            "status": "partial"
+          },
+          {
+            "metric": "New OEM Orders",
+            "guided": "₹310 Cr peak annual potential",
+            "actual": "Additional chassis order above ₹65 Cr annual revenue",
+            "status": "partial"
+          },
+          {
+            "metric": "Haridwar Ramp-Up",
+            "guided": "Peak production in FY27",
+            "actual": "Core manufacturing revenue grew 20%",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Aerospace Revenue Mix",
+            "value": "At least 10% over the next few years"
+          },
+          {
+            "metric": "Solar Assemblies",
+            "value": "Above ₹150 Cr peak annual revenue"
+          },
+          {
+            "metric": "New Chassis Programme",
+            "value": "SOP expected in Q4FY27"
+          }
+        ],
+        "highlights": [
+          "Aerospace capabilities expanded through SDM and Chester Hall",
+          "The company is evaluating aero-engine localisation in India",
+          "A solar-tracker assembly facility is planned for Q4FY27",
+          "The renewable facility will support around 2.5 GW annual supplies",
+          "A fifth suspension-system OEM was added",
+          "Back-to-back pricing limits the lasting impact of commodity inflation"
+        ],
+        "quote": "\"Core manufacturing growth remained healthy while new adjacencies gathered pace.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Revenue",
+            "value": "~₹9,530 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Mfg Revenue",
+            "value": "₹7,735 Cr",
+            "change": "+17% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹1,154 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹502 Cr",
+            "change": "+41% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total revenue stood around ₹9,530 Cr",
+          "Manufacturing revenue stood at ₹7,735 Cr, up 17%",
+          "EBITDA stood at ₹1,154 Cr, up 13%, with EBITDA margin of 12%",
+          "Manufacturing EBITDA stood at ₹1,058 Cr, up 15%, with margin of 14%",
+          "Q4FY26 total revenue stood at ₹2,553 Cr, up 12%, while manufacturing revenue grew 21%"
+        ],
+        "guidance": [
+          {
+            "metric": "Aerospace Aspiration",
+            "value": "Above 10% of revenue over next few years"
+          },
+          {
+            "metric": "New 2W / 3W OEM Order",
+            "value": "~₹90 Cr peak annual revenue potential"
+          },
+          {
+            "metric": "Japanese OEM Order",
+            "value": "~₹220 Cr peak annual revenue; production from Q4FY27"
+          },
+          {
+            "metric": "Haridwar Facility",
+            "value": "Expected to reach peak production in FY27"
+          }
+        ],
+        "highlights": [
+          "Belrise delivered mid-teens revenue growth with stable EBITDA margins",
+          "Growth is now broad-based, with no single customer or vehicle segment controlling performance",
+          "4W business grew 37% in FY26 and 71% in Q4FY26",
+          "CV business grew 35% in FY26 and 32% in Q4FY26",
+          "2W content per vehicle grew 65-70% in FY26",
+          "Aerospace and defense capabilities improved through SDM France and Chester Hall acquisitions"
+        ],
+        "quote": "\"Belrise is outperforming the sector on content per vehicle expansion, 4W / CV growth, customer diversification, proprietary product scale-up and aerospace optionality.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Lumax Auto Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,364 Cr",
+            "change": "+33% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹205 Cr",
+            "change": "+51% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "15.1%",
+            "change": "+190 bps",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹99 Cr",
+            "change": "+83% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 33% to ₹1,364 Cr",
+          "EBITDA increased 51% to ₹205 Cr",
+          "EBITDA margin expanded 190 bps to 15.1%",
+          "PAT grew 83% to ₹99 Cr",
+          "The order book increased to ₹1,600 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Industry Outperformance",
+            "guided": "At least 2x industry growth",
+            "actual": "Revenue grew 33% against industry production growth near 22%",
+            "status": "partial"
+          },
+          {
+            "metric": "Order Book",
+            "guided": "₹1,450 Cr",
+            "actual": "₹1,600 Cr",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Mid-Term Growth",
+            "guided": "20% CAGR",
+            "actual": "33% Q1 growth",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹300 Cr"
+          },
+          {
+            "metric": "Order Execution",
+            "value": "24% in FY27"
+          },
+          {
+            "metric": "Mid-Term Growth",
+            "value": "Around 20% CAGR"
+          }
+        ],
+        "highlights": [
+          "Integrated plastic modules revenue grew 47%",
+          "Mechatronics revenue grew around 56%",
+          "Structure and control systems revenue grew 21%",
+          "Alternate-fuels revenue grew 17%",
+          "Q1 capex stood at ₹23 Cr",
+          "Margins were maintained despite input-cost pressure"
+        ],
+        "quote": "\"A stronger mix and broad-based growth drove a sharp profit increase.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹4,870 Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹705 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "15%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT Before MI",
+            "value": "₹337 Cr",
+            "change": "+47% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹4,870 Cr, up 34%",
+          "FY26 EBITDA stood at ₹705 Cr, with EBITDA margin of 15%",
+          "PAT before minority interest stood at ₹337 Cr, up 47%",
+          "Q4FY26 revenue stood at ₹1,417 Cr, up 25%, while EBITDA stood at ₹208 Cr",
+          "Q4FY26 PAT before minority interest stood at ₹98 Cr, up 22%"
+        ],
+        "guidance": [
+          {
+            "metric": "Order Book",
+            "value": "₹1,450 Cr"
+          },
+          {
+            "metric": "Order Execution",
+            "value": "25% FY27, 54% FY28, 21% FY29"
+          },
+          {
+            "metric": "Mid-Term Strategy",
+            "value": "20% CAGR growth"
+          },
+          {
+            "metric": "Industry Outperformance",
+            "value": "At least 2x industry growth"
+          }
+        ],
+        "highlights": [
+          "Lumax Auto delivered best ever financial and operational performance in FY26",
+          "Growth was driven by core products, OEM traction and aftermarket momentum",
+          "Company is moving from traditional Tier 1 supplier to Tier 0.5 system integrator",
+          "IAC India and Lumax Ancillary merger is completed in reported numbers",
+          "Board approved sale of 50% stake in Lumax JOPP Allied Technologies",
+          "Board approved acquisition of remaining 16% stake in Lumax FAE"
+        ],
+        "quote": "\"Lumax Auto is outperforming the sector on revenue growth, EBITDA scale, order book visibility, aftermarket strength, acquisition integration and Tier 0.5 transition.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Endurance Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹4,348 Cr",
+            "change": "+29.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹569 Cr",
+            "change": "+18.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹245 Cr",
+            "change": "+8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EV Sales",
+            "value": "₹932 Cr",
+            "change": "+20.9% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated total income grew 29.6% to ₹4,348 Cr",
+          "EBITDA increased 18.7% with margin at 13.1%",
+          "PAT grew 8% to ₹245 Cr",
+          "India EV sales grew 87.6% and consolidated EV plus hybrid sales grew 20.9%",
+          "Maxwell achieved quarterly PAT profitability for the first time"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Capex",
+            "guided": "Around ₹800 Cr",
+            "actual": "₹800 Cr plan retained",
+            "status": "met"
+          },
+          {
+            "metric": "Battery Pack Ramp-Up",
+            "guided": "₹300-360 Cr annual potential",
+            "actual": "Plant remains in ramp-up; optimum sales expected in Q3",
+            "status": "partial"
+          },
+          {
+            "metric": "India Order Wins",
+            "guided": "₹1,596 Cr won in FY26",
+            "actual": "Capacity investments continue against secured programmes",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹800 Cr"
+          },
+          {
+            "metric": "Battery Pack Plant",
+            "value": "Optimum sales expected in Q3FY27"
+          },
+          {
+            "metric": "New Suspension Plant",
+            "value": "SOP expected in Q4FY27"
+          }
+        ],
+        "highlights": [
+          "Standalone underlying EBITDA margin was 13.33% excluding commodity pass-through",
+          "More than ₹300 Cr commodity inflation was funded upfront in Q1",
+          "Standalone net cash remained ₹416 Cr",
+          "OEM price amendments are expected in Q2 and Q3",
+          "Bidkin alloy wheels and Mindewadi battery packs are ramping up",
+          "Automation remains a key FY27 investment area"
+        ],
+        "quote": "\"Growth stayed strong despite the lag in recovering commodity inflation.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹14,720 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹2,090 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "14%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹952 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue / total income stood at ₹14,720 Cr, up 26%",
+          "FY26 EBITDA stood at ₹2,090 Cr, up 25%, with EBITDA margin of 14%",
+          "FY26 PAT stood at ₹952 Cr, up 14%",
+          "Q4FY26 revenue stood at ₹4,116 Cr, up 37%, while EBITDA stood at ₹598 Cr, up 31%",
+          "Standalone FY26 total income stood at ₹10,696 Cr, up 20%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "~₹800 Cr"
+          },
+          {
+            "metric": "ABS Volume Growth",
+            "value": "100-150% expected in FY27"
+          },
+          {
+            "metric": "Battery Pack Potential",
+            "value": "₹300-360 Cr annual business; scope for ₹600 Cr next year"
+          },
+          {
+            "metric": "India Order Wins",
+            "value": "₹1,596 Cr in FY26"
+          }
+        ],
+        "highlights": [
+          "Growth was supported by 2W recovery, PV growth, EV traction and new product ramp-ups",
+          "ABS capacity is being expanded by 12 lakh units per annum over the existing 6.4 lakh units",
+          "Dual-channel ABS SOP for Bajaj Auto starts in June 2026",
+          "Chennai disc brake plant SOP for Royal Enfield is planned in July 2026",
+          "AURIC Shendra plant has ₹513 Cr peak annual business potential from global programs",
+          "Total EV order wins including Maxwell and battery packs stand at ₹1,724 Cr per annum"
+        ],
+        "quote": "\"Endurance is outperforming the sector on ABS expansion, braking systems, EV content, battery packs, alloy wheels, suspension, order wins and Europe operating leverage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sansera Engineering Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,021 Cr",
+            "change": "+33% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹196 Cr",
+            "change": "+48% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "19.2%",
+            "change": "+200 bps",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹87 Cr",
+            "change": "+39% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue crossed ₹1,000 Cr in a quarter for the first time",
+          "EBITDA grew 48% with margin expanding to 19.2%",
+          "PAT rose 39% to ₹87 Cr; adjusted PAT was ₹100 Cr",
+          "Non-auto revenue grew 129.9% and reached 20.8% of sales",
+          "ADS revenue more than tripled to ₹145 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Growth",
+            "guided": "High teens",
+            "actual": "33% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "ADS Backlog",
+            "guided": "₹4,460 Cr over five years",
+            "actual": "₹4,440 Cr at Q1-end and ₹5,750 Cr currently",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Margin Ambition",
+            "guided": "Improve toward 20%",
+            "actual": "19.2%; 20.4% adjusted",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "High teens"
+          },
+          {
+            "metric": "ADS Backlog",
+            "value": "₹5,750 Cr over five years"
+          },
+          {
+            "metric": "Peak Annual Revenue ex-ADS",
+            "value": "₹1,850 Cr"
+          }
+        ],
+        "highlights": [
+          "Auto ICE revenue grew 20.8%",
+          "Auto tech-agnostic and xEV revenue grew 22.2%",
+          "New auto and ADS capacity starts from Q3FY27",
+          "An aerospace surface-treatment facility awaits NADCAP validation",
+          "A dedicated defence facility and 80,000 sq ft hangar are being developed",
+          "Capex remains phased against customer validation and utilisation"
+        ],
+        "quote": "\"The non-auto portfolio became a meaningful second growth engine in Q1.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹3,498 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹632 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "18%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹327 Cr",
+            "change": "+51% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹3,498 Cr, up 16%",
+          "FY26 EBITDA stood at ₹632 Cr, up 23%, with EBITDA margin of 18%",
+          "FY26 PAT stood at ₹327 Cr, up 51%",
+          "Q4FY26 revenue stood at ₹999 Cr, up 28%, while EBITDA stood at ₹193 Cr, up 52%",
+          "Q4FY26 PAT stood at ₹123 Cr, up 108%, with PAT margin of 12%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Similar to FY26 level of ₹510 Cr"
+          },
+          {
+            "metric": "Peak Annual Revenue From New Business",
+            "value": "₹1,920 Cr as of Mar 2026"
+          },
+          {
+            "metric": "ADS 5-Year Backlog",
+            "value": "₹4,460 Cr"
+          },
+          {
+            "metric": "Medium-Term Order Execution Visibility",
+            "value": "₹8,000-8,200 Cr"
+          }
+        ],
+        "highlights": [
+          "FY26 was the highest-ever annual performance for Sansera",
+          "Growth was supported by Auto ICE, Auto-Tech Agnostic / xEV and Non-Auto segments",
+          "ADS product sales stood at ₹316 Cr in FY26, up 155%",
+          "Non-Auto plus xEV / tech-agnostic share reached around 30% for FY26",
+          "Management aims to move Auto ICE mix towards 60%",
+          "Aerospace, semiconductor and defence are key long-term non-auto growth engines"
+        ],
+        "quote": "\"Sansera is outperforming the sector on margin expansion, PAT growth, ADS scale-up, semiconductor exposure, xEV growth and diversification beyond Auto ICE.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Pricol Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,084 Cr",
+            "change": "+23.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹124 Cr",
+            "change": "+21.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹67 Cr",
+            "change": "+34.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11.4%",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 23.5% to ₹1,084 Cr",
+          "EBITDA increased 21.4% to ₹124 Cr",
+          "PAT grew 34.3% to ₹67 Cr",
+          "Digital cockpit and connected-vehicle businesses grew around 25%",
+          "Margin was temporarily affected by polymers, freight, FX and wages"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Capex",
+            "guided": "₹680-700 Cr",
+            "actual": "₹700 Cr capex cycle reaffirmed",
+            "status": "met"
+          },
+          {
+            "metric": "P3L Scale",
+            "guided": "Double revenue in three years",
+            "actual": "Growth and integration remain on plan",
+            "status": "partial"
+          },
+          {
+            "metric": "Industry Outperformance",
+            "guided": "Outgrow market",
+            "actual": "Revenue growth exceeded industry by around 4 points",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Capex Cycle",
+            "value": "Around ₹700 Cr"
+          },
+          {
+            "metric": "Industry Outperformance",
+            "value": "Target 10 percentage points"
+          },
+          {
+            "metric": "FY31 Plan",
+            "value": "Long-range revenue targets retained"
+          }
+        ],
+        "highlights": [
+          "Cost recoveries are expected over the next two quarters",
+          "The company is moving toward quarterly commodity indexation",
+          "Demand remained robust across automotive segments",
+          "The polymer division generated ₹249 Cr revenue",
+          "The balance sheet will be managed conservatively through the capex cycle",
+          "New product launches supported market-share gains"
+        ],
+        "quote": "\"Top-line momentum remained strong while delayed cost recovery weighed on margin.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "~₹4,000 Cr",
+            "change": "+51% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹493 Cr",
+            "change": "+48% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "12%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹251 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood around ₹4,000 Cr, up 51%",
+          "FY26 EBITDA stood at ₹493 Cr, up 48%, with EBITDA margin of 12%",
+          "FY26 PAT stood at ₹251 Cr, with PAT margin of 6%",
+          "Q4FY26 revenue stood at ₹1,078 Cr, while EBITDA stood at ₹143 Cr",
+          "Q4FY26 PAT stood at ₹73 Cr, with PAT margin of 7%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "₹680-700 Cr"
+          },
+          {
+            "metric": "Debt-Equity",
+            "value": "Expected around 0.5-0.6x"
+          },
+          {
+            "metric": "P3L Target",
+            "value": "Double revenue within 3 years of acquisition"
+          },
+          {
+            "metric": "Net Debt",
+            "value": "₹63 Cr"
+          }
+        ],
+        "highlights": [
+          "Pricol crossed ₹1,000 Cr quarterly revenue for the first time in Q4FY26",
+          "Performance was driven by organic growth and inorganic contribution",
+          "Company maintained volume share and improved value share in instrument clusters",
+          "Digital PV clusters are scaling well with Tata Motors",
+          "Around 75-80% of Tata cars are coming with Pricol clusters",
+          "Disc brake business is progressing with key customers"
+        ],
+        "quote": "\"Pricol is outperforming the sector on revenue growth, cluster market share, technology-led product depth, P3L integration and balance sheet strength.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sandhar Technologies Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹4,852 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹513 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹199 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹4,852 Cr, up 25%",
+          "FY26 EBITDA stood at ₹513 Cr, up 28%, with EBITDA margin of 11%",
+          "FY26 PBT stood at ₹256 Cr, up 39%, while PAT stood at ₹199 Cr, up 40%",
+          "India business revenue stood at ₹4,384 Cr, up 28%",
+          "India business PAT stood at ₹221 Cr, up 44%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "More than 15%, excluding pricing retrigger benefit"
+          },
+          {
+            "metric": "Long-Term Ambition",
+            "value": "Double revenue every 3-4 years"
+          },
+          {
+            "metric": "FY27 EV Revenue",
+            "value": "Expected to double"
+          },
+          {
+            "metric": "New Unit Asset Turns",
+            "value": "Move towards 2.5x in FY27"
+          }
+        ],
+        "highlights": [
+          "Sandhar crossed ₹4,800 Cr revenue for the first time",
+          "India business grew 28% vs industry growth of around 13%",
+          "In 2W, Sandhar grew 35% vs industry growth of around 13%",
+          "Consolidated EBITDA margin moved into double digits at 11%",
+          "Overseas subsidiaries turned around in Q4 with 15% EBITDA margin and break-even EBT",
+          "New businesses like sheet metal, castings, aluminium die-casting, cabins and EV are becoming important growth drivers"
+        ],
+        "quote": "\"Sandhar is outperforming the sector on India growth, 2W outperformance, PAT growth, new business ramp-up and overseas turnaround.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Fiem Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹770 Cr",
+            "change": "+18.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹104 Cr",
+            "change": "+19.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "13.5%",
+            "change": "Stable",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹65 Cr",
+            "change": "+16.3% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 18.6% to ₹770 Cr",
+          "EBITDA increased to ₹104 Cr with stable 13.5% margin",
+          "PAT rose 16.3% to ₹65 Cr",
+          "LED lighting represented 63% of automotive-lighting revenue",
+          "Q1 capex stood at ₹41 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Revenue Growth",
+            "guided": "15-20%",
+            "actual": "18.6%",
+            "status": "met"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "14%+",
+            "actual": "13.5%",
+            "status": "partial"
+          },
+          {
+            "metric": "Two-Year Capex",
+            "guided": "Around ₹200 Cr",
+            "actual": "₹41 Cr spent in Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Around 14%"
+          },
+          {
+            "metric": "Capex",
+            "value": "Focused mainly on Hosur expansion"
+          }
+        ],
+        "highlights": [
+          "TVS iQube cumulative production crossed one million units",
+          "Four-wheeler supplies to Mahindra are scaling",
+          "Force Motors development programmes are progressing",
+          "Premiumisation is increasing lighting content per vehicle",
+          "EV adoption continues to expand the addressable market",
+          "Management reiterated disciplined investment and balance-sheet control"
+        ],
+        "quote": "\"Q1 growth landed inside guidance while margins remained close to target.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Net Sales",
+            "value": "₹2,791 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹393 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "14%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹254 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 net sales stood at ₹2,791 Cr, up 16%",
+          "FY26 EBITDA stood at ₹393 Cr, with EBITDA margin of 14%",
+          "FY26 PAT stood at ₹254 Cr, up 24%",
+          "Q4FY26 sales stood at ₹744 Cr, up 17%, while EBITDA stood at ₹109 Cr",
+          "Q4FY26 PAT stood at ₹71 Cr, up 22%"
+        ],
+        "guidance": [
+          {
+            "metric": "Capex Plan",
+            "value": "~₹200 Cr over next 2 years"
+          },
+          {
+            "metric": "FY26 Capex",
+            "value": "₹108 Cr"
+          },
+          {
+            "metric": "EBITDA Margin Target",
+            "value": "14%+"
+          },
+          {
+            "metric": "4W RFQ Pipeline",
+            "value": "~₹700 Cr; ~70% converted"
+          }
+        ],
+        "highlights": [
+          "FY26 was the strongest year for FIEM across key operating metrics",
+          "2W industry production crossed pre-pandemic peak",
+          "FIEM benefited from premiumisation, rural recovery and EV adoption",
+          "LED lighting contributes 60%+ of automotive lighting business",
+          "4W business is seeing traction and Mahindra orders are expected to contribute from FY27",
+          "Hosur facility already meets around 65% of energy needs through solar"
+        ],
+        "quote": "\"FIEM is outperforming the sector on PAT growth, LED lighting, 2W EV exposure, customer depth and 4W order conversion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "S J S Enterprises Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹261 Cr",
+            "change": "+24.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹80 Cr",
+            "change": "+36.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "30%",
+            "change": "+239 bps",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹74 Cr",
+            "change": "+115% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "SJS delivered its highest-ever quarterly revenue and profitability",
+          "Automotive revenue grew 32.4%, around 1.5x underlying industry growth",
+          "EBITDA margin expanded to 30%",
+          "Adjusted PAT margin excluding a one-time gain was 19.3%",
+          "Exports grew 83.2% and reached 9.8% of revenue"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Industry Outperformance",
+            "guided": "1.5-2x",
+            "actual": "Around 1.5x in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "27-28%",
+            "actual": "30%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY28 Export Mix",
+            "guided": "14-15%",
+            "actual": "9.8% in Q1 after 83.2% growth",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Industry Outperformance",
+            "value": "1.5-2x"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "27-28% sustainable range"
+          },
+          {
+            "metric": "New Capacity Revenue",
+            "value": "₹200-250 Cr potential"
+          }
+        ],
+        "highlights": [
+          "Passenger-vehicle revenue grew 45.4%",
+          "The Pune SJS Decoplast plant commenced operations in August",
+          "A cover-glass and display subsidiary was approved",
+          "Cross-selling wins were secured with Tata Motors and Mahindra",
+          "The company remained net cash",
+          "Premium products and exports remain the main growth drivers"
+        ],
+        "quote": "\"Growth, margins and exports all outperformed the company’s prior framework.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹955 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹288 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "30%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹172 Cr",
+            "change": "+45% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹955 Cr, up 26%",
+          "FY26 EBITDA stood at ₹288 Cr, up 42%, with EBITDA margin of 30%",
+          "FY26 PAT stood at ₹172 Cr, up 45%",
+          "Q4FY26 revenue stood at ₹260 Cr, up 30%, while EBITDA stood at ₹81 Cr, up 53%",
+          "Q4FY26 PAT stood at ₹49 Cr, up 45%, with PAT margin of 19%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Outperformance",
+            "value": "1.5-2x underlying industry growth"
+          },
+          {
+            "metric": "FY27 Revenue Visibility",
+            "value": "Order book covers 85%+ of forecast revenue"
+          },
+          {
+            "metric": "FY28 Export Share Target",
+            "value": "14-15% of consolidated revenue"
+          },
+          {
+            "metric": "Net Cash",
+            "value": "₹244 Cr"
+          }
+        ],
+        "highlights": [
+          "SJS delivered its highest-ever quarterly revenue and PAT in Q4FY26",
+          "Automotive segment grew 41% in Q4FY26, more than 2x industry production growth",
+          "FY26 marked the 26th consecutive year of outperformance",
+          "New generation products now contribute around 24% of consolidated revenue",
+          "Q4FY26 exports grew 75% and FY26 exports grew 61%",
+          "Technology license and supply agreement with BOE Varitronix opens optical display opportunity"
+        ],
+        "quote": "\"SJS is outperforming the sector on margins, PAT growth, export growth, net cash balance sheet, premiumisation and advanced display optionality.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Talbros Automotive Components Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹242 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹43 Cr",
+            "change": "17.6% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹30 Cr",
+            "change": "+35% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Export Mix",
+            "value": "~25%",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Talbros delivered its highest-ever quarterly revenue at ₹242 Cr",
+          "EBITDA stood at ₹43 Cr with margin at 17.6%",
+          "PAT grew 35% to ₹30 Cr",
+          "Gasket and heat-shield revenue grew 21%",
+          "Exports contributed around 25% of revenue"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Growth",
+            "guided": "15-20%",
+            "actual": "15% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "17-18%",
+            "actual": "17.6%",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 Capex",
+            "guided": "Around ₹103 Cr",
+            "actual": "₹103 Cr plan retained",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "18-20% target reiterated"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Around 17-17.5%"
+          },
+          {
+            "metric": "FY28 Export Mix",
+            "value": "35%"
+          }
+        ],
+        "highlights": [
+          "Forging revenue grew 4% as European auto demand remained soft",
+          "Marelli Chassis revenue grew 43%",
+          "Talbros Marugo revenue grew 31% and EBITDA 57%",
+          "Stellantis supplies began in Q1",
+          "Data-centre generator gaskets offer ₹30-40 Cr annual potential",
+          "Commodity and wage recoveries are expected from OEMs"
+        ],
+        "quote": "\"Q1 results met the growth and margin framework despite commodity pressure.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "~₹888 Cr",
+            "change": "+5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹155 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "18%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹104 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood around ₹888 Cr, up 5%",
+          "FY26 EBITDA stood at ₹155 Cr, with EBITDA margin of 18%",
+          "FY26 PAT stood at ₹104 Cr, up 10%",
+          "Q4FY26 revenue stood at ₹241 Cr, up 15%, while EBITDA stood at ₹45 Cr",
+          "Q4FY26 PAT stood at ₹32 Cr, up 19%, with PAT margin of 13%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "17-18%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "~₹103 Cr"
+          },
+          {
+            "metric": "Forging New Orders",
+            "value": "₹500 Cr secured"
+          }
+        ],
+        "highlights": [
+          "Talbros delivered its strongest-ever quarterly performance in Q4FY26",
+          "Gasket and Heat Shield division remains the largest and most profitable contributor",
+          "Talbros holds around 50% share in the Indian gasket market",
+          "Forging exports form around 56% of Forging revenue",
+          "Marelli Talbros Chassis Systems FY26 revenue grew 21%",
+          "Global OEMs reducing China dependence is creating export opportunity"
+        ],
+        "quote": "\"Talbros is outperforming the sector on EBITDA margin, PAT margin, gasket leadership, export traction, new order wins and diversified powertrain exposure.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "NDR Auto Components Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹221 Cr",
+            "change": "+19.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹26.4 Cr",
+            "change": "11.9% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹16.4 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹650 Cr",
+            "change": "Stable",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue reached ₹221 Cr with growth around 19.5%",
+          "EBITDA stood at ₹26.4 Cr and margin held at 11.88%",
+          "PAT was ₹16.4 Cr",
+          "NDR Hayashi began sunshade production in June",
+          "The Anantapur facility was inaugurated for a Q2 start"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Long-Term Scale",
+            "guided": "₹3,000 Cr",
+            "actual": "Target retained; ₹650 Cr order book supports the path",
+            "status": "partial"
+          },
+          {
+            "metric": "New Product Capex",
+            "guided": "Around ₹150 Cr",
+            "actual": "South and Hayashi projects have begun commissioning",
+            "status": "partial"
+          },
+          {
+            "metric": "Margin",
+            "guided": "Maintain current range",
+            "actual": "11.88%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "EBITDA Margin",
+            "value": "11-12%"
+          },
+          {
+            "metric": "Annual Capex",
+            "value": "₹40-50 Cr for the next two years"
+          },
+          {
+            "metric": "Anantapur Potential",
+            "value": "₹70-80 Cr revenue"
+          }
+        ],
+        "highlights": [
+          "The order book is concentrated in seat frames and seat covers",
+          "Seat inserts, latches and reminders broaden the product portfolio",
+          "Ambient-lighting programmes are planned for 2028",
+          "South India production begins contributing from Q2",
+          "Commodity indexation supports margin stability",
+          "R&D and customer-development spending will continue"
+        ],
+        "quote": "\"New facilities are beginning to convert the order book into revenue.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹825 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹94 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹62 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income stood at ₹825 Cr, up 15%",
+          "FY26 EBITDA stood at ₹94 Cr, with EBITDA margin of 11%",
+          "FY26 PAT stood at ₹62 Cr, up 16%",
+          "Q4FY26 total income stood at ₹230 Cr, up 19%, while EBITDA stood at ₹27 Cr, up 25%",
+          "Q4FY26 EBITDA margin stood at 12%, while PAT stood at ₹18 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "Order Book",
+            "value": "₹650 Cr"
+          },
+          {
+            "metric": "New Product Capex",
+            "value": "~₹150 Cr"
+          },
+          {
+            "metric": "Long-Term Scale Plan",
+            "value": "Move towards ₹3,000 Cr scale"
+          },
+          {
+            "metric": "Bharat Seats FY30 Revenue",
+            "value": "~₹3,500 Cr guidance"
+          }
+        ],
+        "highlights": [
+          "NDR delivered its highest-ever EBITDA margin in Q4FY26",
+          "Order book increased from ₹450 Cr in Q3FY26 to ₹650 Cr in Q4FY26",
+          "Incremental order book came from Maruti Suzuki new models",
+          "Company won orders in ambient lighting, marking progress beyond core seating",
+          "New product areas include seat inserts, ambient lighting, shades, latches and seat belt reminders",
+          "Premiumisation in seats is an important trigger across artificial leather, power seats and ventilated seats"
+        ],
+        "quote": "\"NDR Auto is outperforming the sector on EBITDA margin improvement, ROCE, order book growth, seating premiumisation and new product expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

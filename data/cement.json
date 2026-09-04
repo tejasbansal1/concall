@@ -16,277 +16,829 @@
     "Nuvoco Vistas Corporation Ltd"
   ],
   "concall": {
-    "UltraTech Cement Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "India Capacity", "value": "200+ MnT", "change": "Milestone", "positive": 1 },
-        { "label": "Q4 Volume", "value": "44 MnT", "change": "+19% brand growth", "positive": 1 },
-        { "label": "Q4 EBITDA/Ton", "value": "1,253", "change": "Consol", "positive": 1 },
-        { "label": "Net Debt/EBITDA", "value": "0.94x", "change": "Low leverage", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 saw UltraTech cross 200 MnT cement capacity in India.",
-        "Q4 consolidated sales volume crossed 44 MnT, with UltraTech brand volume up 19% YoY.",
-        "India Cements and Kesoram brand migration was completed ahead of schedule.",
-        "EBITDA/ton excluding acquired assets stood at 1,296 in Q4FY26.",
-        "Balance sheet remained strong with consolidated net debt/EBITDA below 1x."
-      ],
-      "guidance": [
-        { "metric": "Volume Growth", "value": "7-8% per annum" },
-        { "metric": "Annual Capex", "value": "8,000-10,000 Cr" },
-        { "metric": "Leverage", "value": "Below 1x net debt/EBITDA" }
-      ],
-      "highlights": [
-        "Green energy met around 43% of power needs.",
-        "India Cements EBITDA/ton improved to 497 in Q4.",
-        "Management expects integration benefits to reflect in FY27 P&L.",
-        "Kesoram assets are already operating near 1,000 EBITDA/ton.",
-        "Management is charting the next growth phase beyond 240 MnT capacity.",
-        "Dividend of 240 per share was recommended for FY26."
-      ],
-      "quote": "\"We enter fiscal '27 in a stronger strategic position than at any point in our history.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Shree Cement Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Domestic Volume", "value": "10.56 MnT", "change": "+11% YoY", "positive": 1 },
-        { "label": "FY26 Volume", "value": "36.4 MnT", "change": "+2.2%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "4,222 Cr", "change": "+11%", "positive": 1 },
-        { "label": "FY26 EBITDA/Ton", "value": "1,161", "change": "+90", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 domestic cement volume grew 11% YoY to 10.56 MnT.",
-        "FY26 operating EBITDA grew 11% to 4,222 Cr, excluding one-time impact.",
-        "Union Cement delivered strong FY26 performance with revenue up 39%.",
-        "FY26 realization improved 3.6% YoY to 4,732/ton.",
-        "Q4 EBITDA/ton improved sequentially to 1,125."
-      ],
-      "guidance": [
-        { "metric": "FY27 Capex", "value": "Around 1,500 Cr" },
-        { "metric": "Industry Demand", "value": "Around 7.1-7.2%" },
-        { "metric": "Volume Goal", "value": "1% above industry growth" }
-      ],
-      "highlights": [
-        "Installed India cement capacity increased to 69.3 MnT.",
-        "Green electricity share stood at 61% in Q4FY26.",
-        "UAE cement mill of 2.5 MnT is scheduled by September 2026.",
-        "Kodla integrated project was commissioned during the quarter.",
-        "RMC network is expanding from 26 to 36 plants.",
-        "Meghalaya integrated cement project is under development."
-      ],
-      "quote": "\"Profitability is the prime focus.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Ambuja Cements Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "FY26 Volume", "value": "73.7 MnT", "change": "+16%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "6,539 Cr", "change": "+31%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "2,647 Cr", "change": "+17%", "positive": 1 },
-        { "label": "Capacity", "value": "109 MnT", "change": "FY26 exit", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 annual sales volume reached a record 73.7 MnT, up 16% YoY.",
-        "Normalized EBITDA grew 31% to 6,539 Cr, with EBITDA/ton at 887.",
-        "PAT grew 17% to 2,647 Cr while the company remained debt-free.",
-        "Trade sales volume grew 10% and premium cement formed 35% of trade sales.",
-        "Capacity increased to 109 MnT during FY26 through grinding and clinker additions."
-      ],
-      "guidance": [
-        { "metric": "FY27 Volume", "value": "Around 80 MnT" },
-        { "metric": "FY27 Volume Growth", "value": "Around 8%" },
-        { "metric": "FY27 Capacity", "value": "Around 119 MnT by year-end" }
-      ],
-      "highlights": [
-        "Premium cement formed around 36% of Q4 trade sales.",
-        "Management targets 150-200/ton savings from raw material and green energy levers.",
-        "Penna and Sanghi utilization improvement remains a key FY27 focus.",
-        "Green power share improved to around 32% in Q4.",
-        "FY27 volume target is around 80 MnT.",
-        "Capacity is expected to reach around 119 MnT by FY27-end."
-      ],
-      "quote": "\"FY27 focus firmly remains on streamlining operations and margin expansion.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Dalmia Bharat Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 EBITDA", "value": "3,083 Cr", "change": "+28%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "1,157 Cr", "change": "+65%", "positive": 1 },
-        { "label": "Q4 EBITDA", "value": "902 Cr", "change": "+14%", "positive": 1 },
-        { "label": "Net Debt/EBITDA", "value": "0.46x", "change": "Healthy", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 6% and volume grew 2%.",
-        "FY26 EBITDA reached a record 3,083 Cr, up 28% YoY.",
-        "Q4 EBITDA grew to 902 Cr, with EBITDA/ton at 1,023.",
-        "FY26 PAT jumped 65% YoY to 1,157 Cr.",
-        "Core cement ROCE improved from 9.9% to 12.1%."
-      ],
-      "guidance": [
-        { "metric": "Capacity Target", "value": "61.5 MnT in 18-20 months" },
-        { "metric": "FY27 Capex", "value": "3,200-3,400 Cr" },
-        { "metric": "Annual Cost Takeout", "value": "50-100/ton internally targeted" }
-      ],
-      "highlights": [
-        "Q4 cost/ton was the lowest quarterly cost in five years.",
-        "Renewable energy share improved to 47% in Q4.",
-        "Core cement ROCE improved by more than 200 bps to 12.1%.",
-        "Logistics cost declined 6% YoY to 1,064/ton in Q4.",
-        "Direct dispatch share reached a record 65%.",
-        "Belgaum, Pune and Kadapa projects are key capacity additions."
-      ],
-      "quote": "\"Maximizing ROCE from all our assets is a top agenda item.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "JK Cement Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Net Sales", "value": "12,568 Cr", "change": "+16%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "2,318 Cr", "change": "+18%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "1,033 Cr", "change": "+21%", "positive": 1 },
-        { "label": "Q4 EBITDA Margin", "value": "18.5%", "change": "+140 bps QoQ", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 net sales grew 16% to 12,568 Cr.",
-        "FY26 EBITDA grew 18% to 2,318 Cr, with margin at 18.5%.",
-        "Q4 PAT rose 91% QoQ to 345 Cr.",
-        "Full-year PAT grew 21% to 1,033 Cr.",
-        "Q4 net sales grew 15% QoQ to 3,614 Cr."
-      ],
-      "guidance": [
-        { "metric": "FY27 Volume", "value": "Double-digit growth expected" },
-        { "metric": "FY27 Capex", "value": "3,500-4,000 Cr" },
-        { "metric": "Jaisalmer Project", "value": "Commissioning expected H1FY28" }
-      ],
-      "highlights": [
-        "Central India 6 MnT capacity expansion was commissioned.",
-        "Muddapur capacity increased by 1 MnT to 4.5 MnT.",
-        "Net debt/EBITDA stood at 1.45x.",
-        "Jaisalmer integrated project is expected in H1FY28.",
-        "Nathdwara wall putty plant is expected by September.",
-        "Management expects at least 2.5 MnT incremental FY27 volume."
-      ],
-      "quote": "\"We should be growing in double digits in FY27.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Birla Corporation Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "FY26 Volume Growth", "value": "4%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 EBITDA/Ton", "value": "~800", "change": "Full year", "positive": 1 },
-        { "label": "Q4 EBITDA/Ton", "value": "~1,000", "change": "Quarter exit", "positive": 1 },
-        { "label": "Trade Mix", "value": "77%", "change": "+700 bps", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 volume grew around 4% despite operational challenges at a few plants.",
-        "Blended cement share improved to 88% from 82%.",
-        "Lead distance reduced to 337 km, supporting cost discipline.",
-        "Trade segment mix improved to 77% from 70%.",
-        "Mukutban volume improved to 27.7 lakh tons in FY26."
-      ],
-      "guidance": [
-        { "metric": "FY27 Volume Growth", "value": "Mid-single digit" },
-        { "metric": "FY27 Capex", "value": "Around 900 Cr" },
-        { "metric": "Capacity Plan", "value": "21.5 MnT to 27.5 MnT by FY29" }
-      ],
-      "highlights": [
-        "Mukutban volume improved to 27.7 lakh tons.",
-        "Peak net debt is expected around 4,000 Cr in the current capex cycle.",
-        "Cost impact from packaging and fuel is estimated at 150-175/ton.",
-        "Capacity is planned to expand from 21.5 MnT to 27.5 MnT by FY29.",
-        "Bikram coal block is expected to support cost savings.",
-        "Management remains cautious on forward guidance due to volatile inputs."
-      ],
-      "quote": "\"We are on a solid footing and sticking to our strategy.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "JK Lakshmi Cement Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Industry FY26 Demand", "value": "480 MnT", "change": "+7%", "positive": 1 },
-        { "label": "FY27 Demand View", "value": "~6%", "change": "Industry", "positive": 1 },
-        { "label": "Energy Cost Risk", "value": "+300/ton", "change": "Expected", "positive": 0 },
-        { "label": "Packaging Cost Risk", "value": "+80-100/ton", "change": "Expected", "positive": 0 }
-      ],
-      "fyPerformance": [
-        "Management highlighted strong FY26 industry demand growth of around 7%.",
-        "Pricing recovered partly in Q4, but capacity additions restricted meaningful hikes.",
-        "The company is ramping Surat capacity and continuing work on Durg expansion.",
-        "Surat utilization has already crossed 60% and is expected to ramp further.",
-        "Management expects JK Lakshmi to grow ahead of industry in FY27."
-      ],
-      "guidance": [
-        { "metric": "FY27 Industry Demand", "value": "Around 6%" },
-        { "metric": "FY27 Capex", "value": "1,500-1,700 Cr" },
-        { "metric": "Durg Capex", "value": "Around 3,000 Cr total project" }
-      ],
-      "highlights": [
-        "Surat utilization has crossed 60% and may move above 70%.",
-        "Management expects to grow higher than the industry in FY27.",
-        "Fuel mix and clinker efficiency are key levers to protect margins.",
-        "FY27 industry demand growth is expected around 6%.",
-        "Durg project capex is around 3,000 Cr with 500 Cr already spent.",
-        "Energy and packaging inflation remain the main near-term margin risks."
-      ],
-      "quote": "\"We are relentlessly working on cost and margin improvement.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Nuvoco Vistas Corporation Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Volume", "value": "20.4 MnT", "change": "Highest ever", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "1,881 Cr", "change": "Highest ever", "positive": 1 },
-        { "label": "Q4 Volume", "value": "6 MnT", "change": "Milestone", "positive": 1 },
-        { "label": "Q4 EBITDA", "value": "590 Cr", "change": "Record", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 was Nuvoco's strongest annual performance, with highest-ever volume and EBITDA.",
-        "Q4 marked the first 6 MnT quarter and record quarterly EBITDA of 590 Cr.",
-        "Premiumization improved 300 bps YoY to 43% in FY26.",
-        "FY26 EBITDA reached 1,881 Cr, the highest in company history.",
-        "Management highlighted infrastructure and housing demand as key FY27 tailwinds."
-      ],
-      "guidance": [
-        { "metric": "Vadraj Commissioning", "value": "Q3FY27 to Q1FY28" },
-        { "metric": "FY27 Capex", "value": "Around 900 Cr" },
-        { "metric": "FY28 Capex", "value": "Around 960 Cr" }
-      ],
-      "highlights": [
-        "Vadraj Cement project remains on schedule.",
-        "East expansion will add 4 MnT grinding capacity in phases through FY28.",
-        "Management aims to keep debt around 2-2.5x EBITDA during investment phase.",
-        "Vadraj commissioning is planned in phases from Q3FY27 to Q1FY28.",
-        "Viramgam bulk cement terminal is targeted for FY28.",
-        "AFR share is targeted to rise from 10% to above 13% in FY27."
-      ],
-      "quote": "\"Our growth agenda is firmly on track.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "UltraTech Cement Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Domestic Volume Growth", "value": "13.1%", "change": "YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹5,146 Cr", "change": "+12% YoY", "positive": 1 },
+          { "label": "PAT Growth", "value": "17%", "change": "YoY", "positive": 1 },
+          { "label": "Capacity Utilisation", "value": "81%", "change": "vs 76% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Domestic grey-cement volume grew 13.1% YoY, ahead of industry growth",
+          "Revenue grew 16% and EBITDA increased 12% to a June-quarter record of ₹5,146 Cr",
+          "Profit increased around 17% YoY",
+          "Capacity utilisation improved to 81% from 76%",
+          "Net debt to EBITDA improved to 0.87x from 0.94x at FY26-end"
+        ],
+        "guidanceTracking": [
+          { "metric": "Volume Growth", "guided": "7-8% annually", "actual": "13.1% domestic growth", "status": "exceeded" },
+          { "metric": "Annual Capex", "guided": "₹8,000-10,000 Cr", "actual": "12 MnT commissioned in Q1; programme continues", "status": "met" },
+          { "metric": "Net Debt / EBITDA", "guided": "Below 1x", "actual": "0.87x", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Grey Capacity", "value": "212.7 MnT" },
+          { "metric": "Capacity Under Execution", "value": "₹17,000 Cr over 2-2.5 years" },
+          { "metric": "Consolidated Capacity", "value": "Above 242 MnT" },
+          { "metric": "FY27 Leverage", "value": "Below 1x net debt / EBITDA" }
+        ],
+        "highlights": [
+          "Around 12 MnT capacity was commissioned during Q1",
+          "Domestic capacity reached 200.1 MnT and consolidated capacity 205.5 MnT",
+          "Acquired assets continued to ramp up",
+          "Domestic volume growth translated into market-share gains",
+          "Green-power capacity is moving toward 2.5-3 GW",
+          "Power and data-centre capex remain important demand drivers"
+        ],
+        "quote": "\"UltraTech outgrew the industry while keeping leverage below its stated ceiling.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "India Capacity",
+            "value": "200+ MnT",
+            "change": "Milestone",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Volume",
+            "value": "44 MnT",
+            "change": "+19% brand growth",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA/Ton",
+            "value": "1,253",
+            "change": "Consol",
+            "positive": 1
+          },
+          {
+            "label": "Net Debt/EBITDA",
+            "value": "0.94x",
+            "change": "Low leverage",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 saw UltraTech cross 200 MnT cement capacity in India.",
+          "Q4 consolidated sales volume crossed 44 MnT, with UltraTech brand volume up 19% YoY.",
+          "India Cements and Kesoram brand migration was completed ahead of schedule.",
+          "EBITDA/ton excluding acquired assets stood at 1,296 in Q4FY26.",
+          "Balance sheet remained strong with consolidated net debt/EBITDA below 1x."
+        ],
+        "guidance": [
+          {
+            "metric": "Volume Growth",
+            "value": "7-8% per annum"
+          },
+          {
+            "metric": "Annual Capex",
+            "value": "8,000-10,000 Cr"
+          },
+          {
+            "metric": "Leverage",
+            "value": "Below 1x net debt/EBITDA"
+          }
+        ],
+        "highlights": [
+          "Green energy met around 43% of power needs.",
+          "India Cements EBITDA/ton improved to 497 in Q4.",
+          "Management expects integration benefits to reflect in FY27 P&L.",
+          "Kesoram assets are already operating near 1,000 EBITDA/ton.",
+          "Management is charting the next growth phase beyond 240 MnT capacity.",
+          "Dividend of 240 per share was recommended for FY26."
+        ],
+        "quote": "\"We enter fiscal '27 in a stronger strategic position than at any point in our history.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Shree Cement Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Cautiously Optimistic", "toneColor": "#D97706",
+        "metrics": [
+          { "label": "Consol. Volume", "value": "11.45 MnT", "change": "+15% YoY", "positive": 1 },
+          { "label": "Operating EBITDA", "value": "₹1,272 Cr", "change": "vs ₹1,333 Cr YoY", "positive": 0 },
+          { "label": "EBITDA / T", "value": "₹1,111", "change": "vs ₹1,339 YoY", "positive": 0 },
+          { "label": "Realisation / T", "value": "₹4,919", "change": "vs ₹4,854 YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated volume grew around 15% YoY to 11.45 MnT",
+          "Operational EBITDA excluding other income was ₹1,272 Cr",
+          "EBITDA per tonne declined to ₹1,111 from ₹1,339 YoY",
+          "Realisation improved to ₹4,919 per tonne from ₹4,854",
+          "Higher southern utilisation and non-trade mix affected unit profitability"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Volume", "guided": "~40 MnT", "actual": "11.45 MnT in Q1; guidance retained", "status": "met" },
+          { "metric": "Growth vs Industry", "guided": "1% above industry", "actual": "~15% volume growth versus ~8% industry", "status": "exceeded" },
+          { "metric": "FY27 Capex", "guided": "~₹1,500 Cr", "actual": "Programme progressing", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Volume", "value": "40 MnT" },
+          { "metric": "Profitability", "value": "Healthier from Q2FY27" },
+          { "metric": "UAE Expansion", "value": "Commissioning by Q3FY27" },
+          { "metric": "FY27 Capex", "value": "Around ₹1,500 Cr" }
+        ],
+        "highlights": [
+          "Management shifted reporting focus to consolidated grey-cement operations",
+          "North volume grew around 20%",
+          "Southern capacity utilisation increased materially",
+          "The UAE plant is being doubled",
+          "Profitability rather than volume remains the operating priority",
+          "Management expects H2 to contribute a larger share of annual sales"
+        ],
+        "quote": "\"Volume growth was well ahead of plan, but lower unit EBITDA keeps the outlook measured.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Domestic Volume",
+            "value": "10.56 MnT",
+            "change": "+11% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Volume",
+            "value": "36.4 MnT",
+            "change": "+2.2%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "4,222 Cr",
+            "change": "+11%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA/Ton",
+            "value": "1,161",
+            "change": "+90",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 domestic cement volume grew 11% YoY to 10.56 MnT.",
+          "FY26 operating EBITDA grew 11% to 4,222 Cr, excluding one-time impact.",
+          "Union Cement delivered strong FY26 performance with revenue up 39%.",
+          "FY26 realization improved 3.6% YoY to 4,732/ton.",
+          "Q4 EBITDA/ton improved sequentially to 1,125."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Around 1,500 Cr"
+          },
+          {
+            "metric": "Industry Demand",
+            "value": "Around 7.1-7.2%"
+          },
+          {
+            "metric": "Volume Goal",
+            "value": "1% above industry growth"
+          }
+        ],
+        "highlights": [
+          "Installed India cement capacity increased to 69.3 MnT.",
+          "Green electricity share stood at 61% in Q4FY26.",
+          "UAE cement mill of 2.5 MnT is scheduled by September 2026.",
+          "Kodla integrated project was commissioned during the quarter.",
+          "RMC network is expanding from 26 to 36 plants.",
+          "Meghalaya integrated cement project is under development."
+        ],
+        "quote": "\"Profitability is the prime focus.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Ambuja Cements Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹9,500 Cr", "change": "Q1FY27", "positive": 1 },
+          { "label": "Operating EBITDA", "value": "₹1,589 Cr", "change": "16.7% margin", "positive": 1 },
+          { "label": "PAT", "value": "₹660 Cr", "change": "Q1FY27", "positive": 1 },
+          { "label": "EBITDA / T", "value": "₹931", "change": "Cost down ₹206 QoQ", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue stood at ₹9,500 Cr and operating EBITDA at ₹1,589 Cr",
+          "EBITDA margin improved 331 bps to 16.7%",
+          "EBITDA per tonne reached ₹931 as unit cost declined ₹206 QoQ",
+          "PAT stood at ₹660 Cr",
+          "Trade share improved to 78% from 74% QoQ as low-margin volumes were reduced"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Volume", "guided": "~80 MnT", "actual": "Q1 volumes were deliberately reduced in low-margin channels", "status": "partial" },
+          { "metric": "FY27 Capacity", "guided": "~119 MnT", "actual": "109 MnT currently; projects on track", "status": "met" },
+          { "metric": "Cost Target", "guided": "₹4,250 / T", "actual": "On track after ₹206 / T QoQ reduction", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Capacity", "value": "119 MnT" },
+          { "metric": "FY27 Cost", "value": "₹4,250 per tonne" },
+          { "metric": "Growth Strategy", "value": "Value and trade mix ahead of low-margin volume" },
+          { "metric": "Industry Position", "value": "Outperform industry growth" }
+        ],
+        "highlights": [
+          "Trade volume grew in the North while low-margin non-trade sales were reduced",
+          "Renewable power capacity reached 973 MW and WHRS 228 MW",
+          "Salai Banwa started 2.4 MnT capacity",
+          "Bhatinda, Marwar and Kalamboli additions remain in the rollout programme",
+          "Installed capacity reached 109 MnT",
+          "Management is prioritising revenue quality and return on capital"
+        ],
+        "quote": "\"Ambuja sacrificed low-margin volume to improve mix, unit costs and EBITDA quality.\"",
+        "quotePerson": "Management Commentary", "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "FY26 Volume",
+            "value": "73.7 MnT",
+            "change": "+16%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "6,539 Cr",
+            "change": "+31%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "2,647 Cr",
+            "change": "+17%",
+            "positive": 1
+          },
+          {
+            "label": "Capacity",
+            "value": "109 MnT",
+            "change": "FY26 exit",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 annual sales volume reached a record 73.7 MnT, up 16% YoY.",
+          "Normalized EBITDA grew 31% to 6,539 Cr, with EBITDA/ton at 887.",
+          "PAT grew 17% to 2,647 Cr while the company remained debt-free.",
+          "Trade sales volume grew 10% and premium cement formed 35% of trade sales.",
+          "Capacity increased to 109 MnT during FY26 through grinding and clinker additions."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume",
+            "value": "Around 80 MnT"
+          },
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "Around 8%"
+          },
+          {
+            "metric": "FY27 Capacity",
+            "value": "Around 119 MnT by year-end"
+          }
+        ],
+        "highlights": [
+          "Premium cement formed around 36% of Q4 trade sales.",
+          "Management targets 150-200/ton savings from raw material and green energy levers.",
+          "Penna and Sanghi utilization improvement remains a key FY27 focus.",
+          "Green power share improved to around 32% in Q4.",
+          "FY27 volume target is around 80 MnT.",
+          "Capacity is expected to reach around 119 MnT by FY27-end."
+        ],
+        "quote": "\"FY27 focus firmly remains on streamlining operations and margin expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Dalmia Bharat Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹3,890 Cr", "change": "+7% YoY", "positive": 1 },
+          { "label": "Volume Growth", "value": "9%", "change": "YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹805 Cr", "change": "-11% QoQ", "positive": 0 },
+          { "label": "EBITDA / T", "value": "₹1,055", "change": "+3% QoQ", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 7% YoY to ₹3,890 Cr",
+          "Sales volume increased 9% YoY for the third consecutive healthy-growth quarter",
+          "EBITDA per tonne improved 3% QoQ to ₹1,055",
+          "Absolute EBITDA declined 11% QoQ to ₹805 Cr due to lower sequential volume and higher costs",
+          "Realisation improved 6% QoQ"
+        ],
+        "guidanceTracking": [
+          { "metric": "Capacity Expansion", "guided": "61.5 MnT in 18-20 months", "actual": "Roadmap expanded toward 67 MnT by Q3FY28", "status": "exceeded" },
+          { "metric": "FY27 Capex", "guided": "₹3,200-3,400 Cr", "actual": "₹510 Cr spent excluding acquisition; guidance retained", "status": "met" },
+          { "metric": "Annual Cost Takeout", "guided": "₹50-100 / T", "actual": "Cost initiatives continue; fuel cost rose in Q1", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "Capacity", "value": "Around 67 MnT by Q3FY28" },
+          { "metric": "FY27 Capex", "value": "₹3,200-3,400 Cr" },
+          { "metric": "Leverage", "value": "Remain below 2x net debt / EBITDA" },
+          { "metric": "New Capacity Ramp-Up", "value": "Meaningful volume from Q3FY27" }
+        ],
+        "highlights": [
+          "Power and fuel cost rose 10% YoY to ₹1,045 per tonne",
+          "Jaypee acquisition leverage remained comfortable at 1.47x",
+          "Central India additions broaden geographic reach",
+          "Premiumisation remains central to revenue quality",
+          "Belgaum capacity is being commercialised",
+          "Management expects acquired assets to support growth from Q3"
+        ],
+        "quote": "\"Dalmia sustained volume growth and unit EBITDA despite geopolitical cost pressure.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 EBITDA",
+            "value": "3,083 Cr",
+            "change": "+28%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "1,157 Cr",
+            "change": "+65%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "902 Cr",
+            "change": "+14%",
+            "positive": 1
+          },
+          {
+            "label": "Net Debt/EBITDA",
+            "value": "0.46x",
+            "change": "Healthy",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 6% and volume grew 2%.",
+          "FY26 EBITDA reached a record 3,083 Cr, up 28% YoY.",
+          "Q4 EBITDA grew to 902 Cr, with EBITDA/ton at 1,023.",
+          "FY26 PAT jumped 65% YoY to 1,157 Cr.",
+          "Core cement ROCE improved from 9.9% to 12.1%."
+        ],
+        "guidance": [
+          {
+            "metric": "Capacity Target",
+            "value": "61.5 MnT in 18-20 months"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "3,200-3,400 Cr"
+          },
+          {
+            "metric": "Annual Cost Takeout",
+            "value": "50-100/ton internally targeted"
+          }
+        ],
+        "highlights": [
+          "Q4 cost/ton was the lowest quarterly cost in five years.",
+          "Renewable energy share improved to 47% in Q4.",
+          "Core cement ROCE improved by more than 200 bps to 12.1%.",
+          "Logistics cost declined 6% YoY to 1,064/ton in Q4.",
+          "Direct dispatch share reached a record 65%.",
+          "Belgaum, Pune and Kadapa projects are key capacity additions."
+        ],
+        "quote": "\"Maximizing ROCE from all our assets is a top agenda item.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "JK Cement Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Cautiously Optimistic", "toneColor": "#D97706",
+        "metrics": [
+          { "label": "Consol. Revenue", "value": "₹3,962 Cr", "change": "+22% YoY", "positive": 1 },
+          { "label": "Consol. EBITDA", "value": "₹648 Cr", "change": "vs ₹688 Cr YoY", "positive": 0 },
+          { "label": "PAT", "value": "₹291 Cr", "change": "vs ₹345 Cr YoY", "positive": 0 },
+          { "label": "Volume Growth", "value": "18%", "change": "Combined YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 22% YoY to ₹3,962 Cr",
+          "Combined grey and white volume grew 18% YoY",
+          "Consolidated EBITDA declined to ₹648 Cr from ₹688 Cr YoY",
+          "Standalone PAT declined to ₹291 Cr from ₹345 Cr",
+          "Standalone EBITDA per tonne fell to ₹982 from ₹1,229 YoY"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Volume Growth", "guided": "Double digit", "actual": "18% YoY", "status": "exceeded" },
+          { "metric": "Jaisalmer Commissioning", "guided": "H1FY28", "actual": "On schedule", "status": "met" },
+          { "metric": "FY27 Capex", "guided": "₹3,500-4,000 Cr", "actual": "Projects progressing", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Volume", "value": "Double-digit growth" },
+          { "metric": "Jaisalmer Start", "value": "H1FY28" },
+          { "metric": "Bhatinda Expansion", "value": "On schedule" },
+          { "metric": "Q2 Cost", "value": "Similar maintenance pressure" }
+        ],
+        "highlights": [
+          "Grey volume grew 19% and white volume 11% YoY",
+          "Central India expansion and Bihar grinding capacity drove volume",
+          "Paints revenue was around ₹125 Cr and reached breakeven",
+          "Wall-putty expansion was nearing Q2 commissioning",
+          "Net debt to EBITDA stood at 1.69x",
+          "Cash balance was ₹1,686 Cr at June-end"
+        ],
+        "quote": "\"Capacity additions drove excellent volume growth, but higher costs compressed EBITDA and PAT.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Net Sales",
+            "value": "12,568 Cr",
+            "change": "+16%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "2,318 Cr",
+            "change": "+18%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "1,033 Cr",
+            "change": "+21%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "18.5%",
+            "change": "+140 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 net sales grew 16% to 12,568 Cr.",
+          "FY26 EBITDA grew 18% to 2,318 Cr, with margin at 18.5%.",
+          "Q4 PAT rose 91% QoQ to 345 Cr.",
+          "Full-year PAT grew 21% to 1,033 Cr.",
+          "Q4 net sales grew 15% QoQ to 3,614 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume",
+            "value": "Double-digit growth expected"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "3,500-4,000 Cr"
+          },
+          {
+            "metric": "Jaisalmer Project",
+            "value": "Commissioning expected H1FY28"
+          }
+        ],
+        "highlights": [
+          "Central India 6 MnT capacity expansion was commissioned.",
+          "Muddapur capacity increased by 1 MnT to 4.5 MnT.",
+          "Net debt/EBITDA stood at 1.45x.",
+          "Jaisalmer integrated project is expected in H1FY28.",
+          "Nathdwara wall putty plant is expected by September.",
+          "Management expects at least 2.5 MnT incremental FY27 volume."
+        ],
+        "quote": "\"We should be growing in double digits in FY27.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Birla Corporation Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Cautious", "toneColor": "#D97706",
+        "metrics": [
+          { "label": "Mukutban Volume", "value": "0.75 MnT", "change": "Q1FY27", "positive": 1 },
+          { "label": "Capex", "value": "₹120 Cr", "change": "Q1FY27", "positive": 1 },
+          { "label": "Lead Distance", "value": "335 km", "change": "Consolidated", "positive": 0 },
+          { "label": "FY27 Capex", "value": "₹900 Cr", "change": "Guidance retained", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Mukutban sold around 0.75 MnT during Q1",
+          "Quarterly capex stood at approximately ₹120 Cr",
+          "Trade and blended-cement focus limited participation in stronger non-trade pricing",
+          "Central India realisation remained weak due to competitive intensity",
+          "Logistics disruption constrained potential Mukutban volume"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Volume Growth", "guided": "Mid-single digit", "actual": "Guidance retained", "status": "met" },
+          { "metric": "FY27 Capex", "guided": "₹900 Cr", "actual": "₹120 Cr in Q1; guidance retained", "status": "met" },
+          { "metric": "FY29 Capacity", "guided": "27.5 MnT", "actual": "Expansion remains on track", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Volume Growth", "value": "Mid-single digit" },
+          { "metric": "FY27 Capex", "value": "Around ₹900 Cr" },
+          { "metric": "FY29 Capacity", "value": "Around 27.5 MnT" },
+          { "metric": "FY27 EBITDA", "value": "Around ₹2,000 Cr aspiration retained" }
+        ],
+        "highlights": [
+          "Blended cement remains the strategic product priority",
+          "Kundanganj Line 3 increased Central India exposure",
+          "Mukutban is shifting toward closer markets to reduce freight",
+          "OPC and non-trade prices improved more than trade prices",
+          "Management may revisit market strategy if trade pricing remains weak",
+          "Second-quarter pricing and monsoon demand remain key monitorables"
+        ],
+        "quote": "\"The growth roadmap remains intact, but an unfavourable product and regional pricing mix limited Q1 upside.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "FY26 Volume Growth",
+            "value": "4%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA/Ton",
+            "value": "~800",
+            "change": "Full year",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA/Ton",
+            "value": "~1,000",
+            "change": "Quarter exit",
+            "positive": 1
+          },
+          {
+            "label": "Trade Mix",
+            "value": "77%",
+            "change": "+700 bps",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 volume grew around 4% despite operational challenges at a few plants.",
+          "Blended cement share improved to 88% from 82%.",
+          "Lead distance reduced to 337 km, supporting cost discipline.",
+          "Trade segment mix improved to 77% from 70%.",
+          "Mukutban volume improved to 27.7 lakh tons in FY26."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "Mid-single digit"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Around 900 Cr"
+          },
+          {
+            "metric": "Capacity Plan",
+            "value": "21.5 MnT to 27.5 MnT by FY29"
+          }
+        ],
+        "highlights": [
+          "Mukutban volume improved to 27.7 lakh tons.",
+          "Peak net debt is expected around 4,000 Cr in the current capex cycle.",
+          "Cost impact from packaging and fuel is estimated at 150-175/ton.",
+          "Capacity is planned to expand from 21.5 MnT to 27.5 MnT by FY29.",
+          "Bikram coal block is expected to support cost savings.",
+          "Management remains cautious on forward guidance due to volatile inputs."
+        ],
+        "quote": "\"We are on a solid footing and sticking to our strategy.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "JK Lakshmi Cement Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Cautious", "toneColor": "#D97706",
+        "metrics": [
+          { "label": "Cement Volume", "value": "3.60 MnT", "change": "Q1FY27", "positive": 1 },
+          { "label": "Realisation", "value": "+9%", "change": "QoQ", "positive": 1 },
+          { "label": "Non-Cement Revenue", "value": "₹185 Cr", "change": "Q1FY27", "positive": 1 },
+          { "label": "FY27 Capex", "value": "₹1,500 Cr", "change": "Guidance", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Cement volume was approximately 3.60 MnT during Q1",
+          "Reported realisation improved around 9% QoQ, helped by mix and non-cement income",
+          "Non-cement revenue stood at ₹185 Cr",
+          "Fuel and logistics inflation was only partly passed through",
+          "Industry demand grew around 8% with utilisation near 73-74%"
+        ],
+        "guidanceTracking": [
+          { "metric": "Industry Demand", "guided": "~6%", "actual": "~8% in Q1", "status": "exceeded" },
+          { "metric": "FY27 Capex", "guided": "₹1,500-1,700 Cr", "actual": "~₹1,500 Cr now expected", "status": "met" },
+          { "metric": "Durg Expansion", "guided": "~₹3,000 Cr", "actual": "Equipment and project work progressing", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Capex", "value": "Around ₹1,500 Cr" },
+          { "metric": "Durg Project", "value": "Progressing with phased spending" },
+          { "metric": "Q2 Margin", "value": "Pressure from maintenance and fuel costs" },
+          { "metric": "Leverage Ceiling", "value": "2.5-2.75x net debt / EBITDA" }
+        ],
+        "highlights": [
+          "Imported coal and pet-coke disruption increased energy costs",
+          "The company is increasing indigenous coal and renewable-energy use",
+          "Premium products and geographic mix are being used to protect realisation",
+          "Trade prices remained largely flat while non-trade prices improved",
+          "Q2 will face both seasonal operating leverage and cost pressure",
+          "The Northeast project is included in the current capex programme"
+        ],
+        "quote": "\"Realisation improved, but fuel inflation and the seasonal Q2 slowdown keep management cautious on margins.\"",
+        "quotePerson": "Management Commentary", "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Industry FY26 Demand",
+            "value": "480 MnT",
+            "change": "+7%",
+            "positive": 1
+          },
+          {
+            "label": "FY27 Demand View",
+            "value": "~6%",
+            "change": "Industry",
+            "positive": 1
+          },
+          {
+            "label": "Energy Cost Risk",
+            "value": "+300/ton",
+            "change": "Expected",
+            "positive": 0
+          },
+          {
+            "label": "Packaging Cost Risk",
+            "value": "+80-100/ton",
+            "change": "Expected",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "Management highlighted strong FY26 industry demand growth of around 7%.",
+          "Pricing recovered partly in Q4, but capacity additions restricted meaningful hikes.",
+          "The company is ramping Surat capacity and continuing work on Durg expansion.",
+          "Surat utilization has already crossed 60% and is expected to ramp further.",
+          "Management expects JK Lakshmi to grow ahead of industry in FY27."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Industry Demand",
+            "value": "Around 6%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "1,500-1,700 Cr"
+          },
+          {
+            "metric": "Durg Capex",
+            "value": "Around 3,000 Cr total project"
+          }
+        ],
+        "highlights": [
+          "Surat utilization has crossed 60% and may move above 70%.",
+          "Management expects to grow higher than the industry in FY27.",
+          "Fuel mix and clinker efficiency are key levers to protect margins.",
+          "FY27 industry demand growth is expected around 6%.",
+          "Durg project capex is around 3,000 Cr with 500 Cr already spent.",
+          "Energy and packaging inflation remain the main near-term margin risks."
+        ],
+        "quote": "\"We are relentlessly working on cost and margin improvement.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Nuvoco Vistas Corporation Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Volume", "value": "5.3 MnT", "change": "+5% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹572 Cr", "change": "+7% YoY", "positive": 1 },
+          { "label": "Fuel Cost", "value": "₹1.52 / Mcal", "change": "Within guidance", "positive": 1 },
+          { "label": "Q1 Realisation", "value": "+₹320 / T", "change": "QoQ", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Volume grew 5% YoY to a first-quarter high of 5.3 MnT",
+          "EBITDA increased 7% to a first-quarter high of ₹572 Cr",
+          "Fuel cost was contained at ₹1.52 per Mcal",
+          "Realisation improved around ₹320 per tonne QoQ",
+          "Cost rose around ₹230 per tonne, leaving about ₹90 per tonne net EBITDA benefit"
+        ],
+        "guidanceTracking": [
+          { "metric": "Vadraj Commissioning", "guided": "Q3FY27-Q1FY28", "actual": "Surat grinding started ahead of schedule; Kutch from Q3", "status": "exceeded" },
+          { "metric": "FY27 Capex", "guided": "~₹900 Cr", "actual": "Programme remains on plan", "status": "met" },
+          { "metric": "Fuel Cost", "guided": "Guided range", "actual": "₹1.52 / Mcal", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Vadraj Ramp-Up", "value": "Phased from Q3FY27" },
+          { "metric": "Capacity Addition", "value": "4 MnT through FY28" },
+          { "metric": "Surat Exit Run-Rate", "value": "2 MnT annualised by Q4" },
+          { "metric": "FY27 Capex", "value": "Around ₹900 Cr" }
+        ],
+        "highlights": [
+          "Surat's 2 MnT grinding unit started on 11 July ahead of schedule",
+          "Kutch clinker and grinding units remain on track for phased start from Q3",
+          "Packing materials and logistics raised unit costs",
+          "Fuel-mix optimisation contained energy inflation",
+          "The West expansion also releases Rajasthan capacity for northern markets",
+          "Government capex and housing support the demand outlook"
+        ],
+        "quote": "\"Record Q1 volume and EBITDA were supported by disciplined costs and ahead-of-schedule capacity execution.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Volume",
+            "value": "20.4 MnT",
+            "change": "Highest ever",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "1,881 Cr",
+            "change": "Highest ever",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Volume",
+            "value": "6 MnT",
+            "change": "Milestone",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "590 Cr",
+            "change": "Record",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 was Nuvoco's strongest annual performance, with highest-ever volume and EBITDA.",
+          "Q4 marked the first 6 MnT quarter and record quarterly EBITDA of 590 Cr.",
+          "Premiumization improved 300 bps YoY to 43% in FY26.",
+          "FY26 EBITDA reached 1,881 Cr, the highest in company history.",
+          "Management highlighted infrastructure and housing demand as key FY27 tailwinds."
+        ],
+        "guidance": [
+          {
+            "metric": "Vadraj Commissioning",
+            "value": "Q3FY27 to Q1FY28"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Around 900 Cr"
+          },
+          {
+            "metric": "FY28 Capex",
+            "value": "Around 960 Cr"
+          }
+        ],
+        "highlights": [
+          "Vadraj Cement project remains on schedule.",
+          "East expansion will add 4 MnT grinding capacity in phases through FY28.",
+          "Management aims to keep debt around 2-2.5x EBITDA during investment phase.",
+          "Vadraj commissioning is planned in phases from Q3FY27 to Q1FY28.",
+          "Viramgam bulk cement terminal is targeted for FY28.",
+          "AFR share is targeted to rise from 10% to above 13% in FY27."
+        ],
+        "quote": "\"Our growth agenda is firmly on track.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

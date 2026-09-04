@@ -14,226 +14,699 @@
     "Spandana Sphoorty Financial Ltd"
   ],
   "concall": {
-    "Spandana Sphoorty Financial Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "AUM", "value": "₹4,420 Cr", "change": "+12% QoQ", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹5 Cr", "change": "vs loss of ₹95 Cr QoQ", "positive": 1 },
-        { "label": "PPOP (Q4FY26)", "value": "₹39 Cr", "change": "vs ₹8 Cr QoQ", "positive": 1 },
-        { "label": "Capital Adequacy", "value": "35.9%", "change": "Strong liquidity", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "AUM stood at ₹4,420 Cr, up 12% QoQ, increasing after 8 quarters",
-        "Q4FY26 monthly disbursement run-rate stood around ₹500 Cr vs ₹400 Cr in Q3FY26 and ₹300 Cr in Q2FY26",
-        "Q4FY26 PAT stood at ₹5 Cr vs loss of ₹95 Cr in Q3FY26",
-        "Q4FY26 PBT stood at ₹8 Cr vs loss of ₹125 Cr in Q3FY26; PPOP stood at ₹39 Cr vs ₹8 Cr in Q3FY26",
-        "Yield stood at 22.8% vs 22.4% in Q3FY26; NIM stood at 9.9%; liquidity stood at ₹1,438 Cr"
-      ],
-      "guidance": [
-        { "metric": "FY27 AUM Target", "value": "~₹6,500 Cr" },
-        { "metric": "FY27 Borrower Addition Target", "value": "~7 lakh new borrowers" },
-        { "metric": "Customer Base Target", "value": "Closer to 1.6 mn by FY27-end" },
-        { "metric": "Monthly Disbursement Target", "value": "₹550-600 Cr after 3-4 months" },
-        { "metric": "FY27 Cost of Borrowing", "value": "Below 12.5%" }
-      ],
-      "highlights": [
-        "New book now forms 80% of AUM and has been originated under the new guardrails / BRE framework",
-        "X-bucket collection efficiency stood at 99.7%, with new book showing 99.7% collection efficiency over 8 months of seasoning",
-        "Customer base stood at 11.5 lakh+, and company added around 1.2 lakh new borrowers in Q4FY26",
-        "1-90 DPD AUM improved to 1.3% vs 2.5% QoQ; GNPA improved to 3.8% vs 4.2% QoQ",
-        "Provision coverage remains above 80%; company collected nearly ₹65 Cr from 90+ DPD customers for the second consecutive quarter",
-        "Individual loan product is expected before the end of the quarter or early next quarter"
-      ],
-      "quote": "\"Spandana is showing a sharp recovery, but it is still in rebuild mode compared to stronger peers like CreditAccess and Satin.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Satin Creditcare Network Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Consol. AUM (FY26)", "value": "₹15,174 Cr", "change": "+19% YoY", "positive": 1 },
-        { "label": "Revenue (FY26)", "value": "₹3,161 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PPOP (FY26)", "value": "₹928 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹330 Cr", "change": "+79% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated AUM stood at ₹15,174 Cr (+19% YoY); total revenue stood at ₹3,161 Cr (+23% YoY)",
-        "PPOP stood at ₹928 Cr (+23% YoY); consolidated PAT stood at ₹330 Cr (+79% YoY)",
-        "Q4FY26 PAT grew 640% YoY and 125% QoQ",
-        "Standalone AUM stood at ₹12,853 Cr (+14% YoY); standalone disbursement stood at ₹11,202 Cr",
-        "Consolidated NIM stood at 13.2%; ROA improved to 2.6% and ROE improved to 12.3%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Growth Expectation", "value": "15-20%" },
-        { "metric": "Consolidated NIM Expectation", "value": "12-13%" },
-        { "metric": "2030 Consolidated AUM Target", "value": "₹32,000 Cr" },
-        { "metric": "2030 Non-MFI AUM Share Target", "value": "30%" },
-        { "metric": "Cost of Funds View", "value": "Stable or improving if repo rates fall" }
-      ],
-      "highlights": [
-        "Management believes the sector had passed its stress peak by early 2026",
-        "SRO guardrails, 3 lender cap and ₹2 lakh borrower exposure ceiling have reshaped lending discipline",
-        "Standalone GNPA stood at 3.1%; X-bucket collection efficiency stood at 99.9%",
-        "Stage 3 coverage improved to 73% vs 67% in December 2025",
-        "FY26 credit cost stood at 3.8% vs 4.6% in FY25; Q4FY26 credit cost improved further to 2.5%",
-        "Non-MFI businesses now contribute 17% of consolidated AUM"
-      ],
-      "quote": "\"Satin is outperforming the sector on asset quality, Q4 profitability, credit cost moderation, geographic spread and diversification beyond core MFI.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Arman Financial Services Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Consol. AUM (FY26)", "value": "₹2,728 Cr", "change": "+22% YoY", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹41 Cr", "change": "+220% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹57 Cr", "change": "+9% YoY", "positive": 1 },
-        { "label": "MFI AUM", "value": "₹1,999 Cr", "change": "+19% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated AUM stood at ₹2,728 Cr (+22% YoY)",
-        "Highest-ever quarterly disbursement stood at ₹951 Cr",
-        "Q4FY26 consolidated PAT stood at ₹41 Cr, up 85% QoQ and 220% YoY",
-        "FY26 PAT stood at ₹57 Cr (+9% YoY)",
-        "MFI AUM stood at ₹1,999 Cr (+19% YoY); Q4FY26 MFI disbursement stood at ₹738 Cr (+88% YoY and +62% QoQ)"
-      ],
-      "guidance": [
-        { "metric": "FY27 MSME Growth Expectation", "value": "~25%" },
-        { "metric": "FY27 LAP Growth Expectation", "value": "20-25%" },
-        { "metric": "FY27 Opex Target", "value": "Reduce from ~9% to ~7%" },
-        { "metric": "Short-Medium Term Opex Target", "value": "~6%" },
-        { "metric": "FY27 Profitability View", "value": "May get close to peak profitability" }
-      ],
-      "highlights": [
-        "Management said the MFI industry moved beyond the most difficult phase and is entering a stable, disciplined growth cycle",
-        "Company separated credit and recovery functions from branch operations, improving accountability and collection efficiency",
-        "Around 90% of the MFI portfolio is covered under CGFMU",
-        "Company moved away from pure group-based JLG credit assessment towards individual-level borrower assessment",
-        "GNPA stood at 3.4% and NNPA stood at 0.95%; X-bucket collection was above 99.5% for Q4FY26",
-        "MSME and LAP initiatives are expected to contribute over the next 2-4 quarters"
-      ],
-      "quote": "\"Arman is outperforming on Q4 recovery, underwriting discipline and CGFMU coverage, but operating cost remains the biggest monitorable.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "CreditAccess Grameen Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "AUM Growth", "value": "14%", "change": "YoY; +11% QoQ", "positive": 1 },
-        { "label": "Disbursement (FY26)", "value": "₹24,859 Cr", "change": "+24% YoY", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹340 Cr", "change": "6x YoY", "positive": 1 },
-        { "label": "ROA / ROE (Q4)", "value": "4.4% / 17.8%", "change": "Q4FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "AUM grew 14% YoY and 11% QoQ",
-        "Q4FY26 disbursement stood at ₹8,313 Cr (+28% YoY and +44% QoQ); FY26 disbursement stood at ₹24,859 Cr (+24% YoY)",
-        "Q4FY26 borrower addition stood at 3.3 lakh; FY26 borrower addition stood at 9.8 lakh",
-        "Q4FY26 PPOP stood at ₹780 Cr (+23% YoY and +15% QoQ); Q4FY26 PAT stood at ₹340 Cr, up 6x YoY and 35% QoQ",
-        "FY26 PPOP stood at ₹2,809 Cr (+7% YoY); FY26 PAT stood at ₹778 Cr"
-      ],
-      "guidance": [
-        { "metric": "FY27 AUM Growth Guidance", "value": "20-25%" },
-        { "metric": "FY27 NIM Guidance", "value": "12.8-13.2%" },
-        { "metric": "FY27 Cost-to-Income Guidance", "value": "33-35%" },
-        { "metric": "FY27 Credit Cost Guidance", "value": "3-4%" },
-        { "metric": "FY27 ROA / ROE Guidance", "value": "4-4.8% / 16-20%" }
-      ],
-      "highlights": [
-        "Management called Q4FY26 a decisive inflection in performance trajectory",
-        "Growth was driven by new-to-credit customers, guardrail-compliant borrowers and graduation of vintage borrowers into retail finance products",
-        "Retail finance share increased to 18.1% vs 5.9% last year",
-        "Branch network stood at 2,236 branches after adding 183 branches",
-        "Gross NPA stood at 3.17%, Net NPA stood at 1.12% and PAR 90 stood at 2.28%",
-        "Grameen Mahi app onboarded 8.4 lakh borrowers in FY26; active app base reached 11.2 lakh customers"
-      ],
-      "quote": "\"CreditAccess is outperforming the sector on scale, profitability, borrower acquisition, digital adoption, cost of borrowing and FY27 return guidance.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Fusion Finance Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "AUM", "value": "₹7,400 Cr", "change": "vs ₹6,800 Cr QoQ", "positive": 1 },
-        { "label": "Disbursement (Q4)", "value": "₹2,140 Cr", "change": "vs ₹1,594 Cr QoQ", "positive": 1 },
-        { "label": "Core PAT (Q4)", "value": "₹38 Cr", "change": "ex-DTA", "positive": 1 },
-        { "label": "Capital Adequacy", "value": "36.46%", "change": "Strong liquidity", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "AUM increased to ₹7,400 Cr vs ₹6,800 Cr QoQ",
-        "Q4FY26 disbursement rose to ₹2,140 Cr vs ₹1,594 Cr QoQ",
-        "Q4FY26 NII stood at ₹222 Cr, NIM stood at 11.4% and PPOP stood at ₹93 Cr",
-        "Q4FY26 reported PAT stood at ₹114 Cr; core PAT excluding one-time DTA impact stood at ₹38 Cr",
-        "FY26 PAT stood at ₹14 Cr vs loss of around ₹1,200 Cr in FY25"
-      ],
-      "guidance": [
-        { "metric": "FY27 AUM Aspiration", "value": "~₹10,000 Cr by Mar 2027" },
-        { "metric": "FY27 Opex Growth", "value": "4-5% over FY26 base of ₹832 Cr" },
-        { "metric": "Credit Cost Normalisation", "value": "2.5-3%" },
-        { "metric": "MFI Credit Cost Guidance", "value": "3.25-3.75% through cycle" },
-        { "metric": "LMS Migration", "value": "Expected by Aug 2026" }
-      ],
-      "highlights": [
-        "FY26 was a year of learning, testing and institutional building",
-        "Nearly 90% of disbursements now come from A and B category branches",
-        "Current bucket forward flow remains below 0.1% on net basis",
-        "MFI collection efficiency stood at 99.7%, while MSME collection efficiency was above 99.3%",
-        "GNPA improved for the 4th consecutive quarter to 3.21%, while NNPA improved to 0.51%",
-        "Fusion raised around ₹6,000 Cr borrowings in FY26 and onboarded 11 new lenders"
-      ],
-      "quote": "\"Fusion has moved from stress phase to recovery phase, but needs 2-3 more quarters of consistent delivery to prove the turnaround is sustainable.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Muthoot Microfin Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Portfolio", "value": "₹14,005 Cr", "change": "+13% YoY", "positive": 1 },
-        { "label": "Disbursement (Q4)", "value": "₹2,876 Cr", "change": "+46% YoY", "positive": 1 },
-        { "label": "Profit (Q4FY26)", "value": "₹71 Cr", "change": "Highest in 7 quarters", "positive": 1 },
-        { "label": "Profit (FY26)", "value": "₹170 Cr", "change": "Full Year", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Portfolio under management stood at ₹14,005 Cr (+13% YoY); Q4FY26 portfolio growth stood at 7% QoQ",
-        "Q4FY26 disbursement stood at ₹2,876 Cr (+46% YoY and +15% QoQ)",
-        "Q4FY26 profit stood at ₹71 Cr, highest in the last 7 quarters; FY26 profit stood at ₹170 Cr",
-        "Q4FY26 NIM stood at 12%; Q4FY26 opex stood at 6.4% vs peak of around 7% earlier in FY26",
-        "FY26 credit cost stood at 3.5% vs 9.4% last year; Q4FY26 ROA stood at 2.1% and ROE stood at 10%"
-      ],
-      "guidance": [
-        { "metric": "FY27 AUM Growth Guidance", "value": "12-15%; management believes it can overachieve 15%" },
-        { "metric": "Vision 3030 AUM Target", "value": "₹30,000 Cr by 2030" },
-        { "metric": "Vision 3030 ROA / ROE Target", "value": "5%+ / 20%+" },
-        { "metric": "2030 JLG / Non-JLG Mix", "value": "53% / 47%" },
-        { "metric": "Long-Term Credit Cost Target", "value": "~2.5%" }
-      ],
-      "highlights": [
-        "Management said FY26 saw a return of normal business momentum",
-        "Asset quality improved through the year, with GNPA improving to 3.89% vs 4.85% last year",
-        "X-bucket collection efficiency stood around 99.8% in the last 2 quarters",
-        "Small and micro-enterprise individual loan portfolio stood around ₹2,387 Cr with near-zero delinquency",
-        "Non-JLG portfolio already stands around 17% of AUM",
-        "Customer app has nearly 2 mn customers out of 3.3 mn customers, and digital collection stands around 40% incrementally"
-      ],
-      "quote": "\"Muthoot Microfin is outperforming on diversification, Q4 recovery, technology-led underwriting and long-term Vision 3030 roadmap.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Spandana Sphoorty Financial Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          { "label": "AUM", "value": "₹4,887 Cr", "change": "+11% QoQ", "positive": 1 },
+          { "label": "PAT", "value": "₹12 Cr", "change": "vs ₹5 Cr QoQ", "positive": 1 },
+          { "label": "Credit Cost", "value": "2.1%", "change": "vs 3.2% QoQ", "positive": 1 },
+          { "label": "NIM", "value": "12.5%", "change": "vs 9.9% QoQ", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "AUM rose 11% QoQ to ₹4,887 Cr as the share of the new portfolio reached 91%",
+          "PAT improved to ₹12 Cr from ₹5 Cr in Q4FY26",
+          "Annualised credit cost declined to 2.1% from 3.2% QoQ, aided by ₹51 Cr recovery from the 90+ pool",
+          "Yield improved to 24.6% and NIM expanded to 12.5% from 9.9% QoQ",
+          "GNPA improved to 3.6% from 3.8% and NNPA to 0.68% from 0.73% QoQ"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 AUM", "guided": "~₹6,500 Cr", "actual": "₹4,887 Cr; exit now seen slightly above ₹6,000 Cr", "status": "partial" },
+          { "metric": "Credit Cost", "guided": "2.5-3.0%", "actual": "2.1% annualised", "status": "exceeded" },
+          { "metric": "Cost of Borrowing", "guided": "Below 12.5%", "actual": "12.8%", "status": "missed" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Disbursement", "value": "₹6,000-6,500 Cr" },
+          { "metric": "FY27 Exit AUM", "value": "Slightly above ₹6,000 Cr" },
+          { "metric": "FY27 Credit Cost", "value": "2.5-3.0%" },
+          { "metric": "FY28 AUM", "value": "Around ₹10,000 Cr" },
+          { "metric": "FY28 ROA Target", "value": "3.5%" }
+        ],
+        "highlights": [
+          "X-bucket collection efficiency remained strong at 99.5%",
+          "New-member additions rose to 61% of quarterly additions from 46% in Q4FY26",
+          "The company added 1.38 lakh members during the quarter",
+          "Marginal funding cost fell to 11.3% from 12.0% QoQ",
+          "The company raised ₹1,597 Cr and ended the quarter with ₹1,316 Cr liquidity",
+          "PPOP was ₹16 Cr excluding recoveries and ₹40 Cr including recoveries"
+        ],
+        "quote": "\"The recovery is progressing, with a better new book and lower credit costs, though the FY27 AUM target has moderated.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹4,420 Cr",
+            "change": "+12% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹5 Cr",
+            "change": "vs loss of ₹95 Cr QoQ",
+            "positive": 1
+          },
+          {
+            "label": "PPOP (Q4FY26)",
+            "value": "₹39 Cr",
+            "change": "vs ₹8 Cr QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Capital Adequacy",
+            "value": "35.9%",
+            "change": "Strong liquidity",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "AUM stood at ₹4,420 Cr, up 12% QoQ, increasing after 8 quarters",
+          "Q4FY26 monthly disbursement run-rate stood around ₹500 Cr vs ₹400 Cr in Q3FY26 and ₹300 Cr in Q2FY26",
+          "Q4FY26 PAT stood at ₹5 Cr vs loss of ₹95 Cr in Q3FY26",
+          "Q4FY26 PBT stood at ₹8 Cr vs loss of ₹125 Cr in Q3FY26; PPOP stood at ₹39 Cr vs ₹8 Cr in Q3FY26",
+          "Yield stood at 22.8% vs 22.4% in Q3FY26; NIM stood at 9.9%; liquidity stood at ₹1,438 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM Target",
+            "value": "~₹6,500 Cr"
+          },
+          {
+            "metric": "FY27 Borrower Addition Target",
+            "value": "~7 lakh new borrowers"
+          },
+          {
+            "metric": "Customer Base Target",
+            "value": "Closer to 1.6 mn by FY27-end"
+          },
+          {
+            "metric": "Monthly Disbursement Target",
+            "value": "₹550-600 Cr after 3-4 months"
+          },
+          {
+            "metric": "FY27 Cost of Borrowing",
+            "value": "Below 12.5%"
+          }
+        ],
+        "highlights": [
+          "New book now forms 80% of AUM and has been originated under the new guardrails / BRE framework",
+          "X-bucket collection efficiency stood at 99.7%, with new book showing 99.7% collection efficiency over 8 months of seasoning",
+          "Customer base stood at 11.5 lakh+, and company added around 1.2 lakh new borrowers in Q4FY26",
+          "1-90 DPD AUM improved to 1.3% vs 2.5% QoQ; GNPA improved to 3.8% vs 4.2% QoQ",
+          "Provision coverage remains above 80%; company collected nearly ₹65 Cr from 90+ DPD customers for the second consecutive quarter",
+          "Individual loan product is expected before the end of the quarter or early next quarter"
+        ],
+        "quote": "\"Spandana is showing a sharp recovery, but it is still in rebuild mode compared to stronger peers like CreditAccess and Satin.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Satin Creditcare Network Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Consol. AUM", "value": "₹15,935 Cr", "change": "+27% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹123 Cr", "change": "+172% YoY", "positive": 1 },
+          { "label": "PPOP", "value": "₹267 Cr", "change": "+33% YoY", "positive": 1 },
+          { "label": "Standalone NIM", "value": "14.36%", "change": "+120 bps YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM grew 27% YoY and 5% QoQ to ₹15,935 Cr",
+          "Consolidated disbursement rose 56% YoY to ₹3,495 Cr",
+          "Total income grew 22% YoY to ₹827 Cr and PPOP grew 33% to ₹267 Cr",
+          "Consolidated PAT rose 172% YoY to ₹123 Cr, marking the twentieth consecutive profitable quarter",
+          "Standalone ROA was 3.55% and ROE was 15.10%"
+        ],
+        "guidanceTracking": [
+          { "metric": "AUM Growth", "guided": "20-25%", "actual": "27% YoY", "status": "exceeded" },
+          { "metric": "Standalone Credit Cost", "guided": "3.0-3.5%", "actual": "3.06%", "status": "met" },
+          { "metric": "Standalone ROA", "guided": "3.5-4.0%", "actual": "3.55%", "status": "met" },
+          { "metric": "Consolidated NIM", "guided": "12-13%", "actual": "Standalone NIM 14.36%", "status": "exceeded" }
+        ],
+        "guidance": [
+          { "metric": "FY27 AUM Growth", "value": "20-25%" },
+          { "metric": "FY27 Exit AUM", "value": "₹18,200-18,900 Cr" },
+          { "metric": "Standalone Credit Cost", "value": "3.0-3.5%" },
+          { "metric": "Standalone ROA", "value": "3.5-4.0%" },
+          { "metric": "2030 Consolidated AUM", "value": "₹32,000 Cr" }
+        ],
+        "highlights": [
+          "Standalone GNPA improved to 2.2% from 3.1% QoQ and NNPA stood at 0.3%",
+          "X-bucket collection efficiency remained at 99.9%",
+          "Stage 3 coverage improved to 85% and overall provision coverage stood at 115%",
+          "Opex ratio improved to 6.33% from 6.98% QoQ",
+          "Management added a ₹36 Cr overlay due to monsoon and Assam-related caution",
+          "Non-MFI businesses contributed 19% of AUM against the 30% target by 2030"
+        ],
+        "quote": "\"Growth is running ahead of guidance while returns and credit costs remain within the guided range.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consol. AUM (FY26)",
+            "value": "₹15,174 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹3,161 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PPOP (FY26)",
+            "value": "₹928 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹330 Cr",
+            "change": "+79% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM stood at ₹15,174 Cr (+19% YoY); total revenue stood at ₹3,161 Cr (+23% YoY)",
+          "PPOP stood at ₹928 Cr (+23% YoY); consolidated PAT stood at ₹330 Cr (+79% YoY)",
+          "Q4FY26 PAT grew 640% YoY and 125% QoQ",
+          "Standalone AUM stood at ₹12,853 Cr (+14% YoY); standalone disbursement stood at ₹11,202 Cr",
+          "Consolidated NIM stood at 13.2%; ROA improved to 2.6% and ROE improved to 12.3%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth Expectation",
+            "value": "15-20%"
+          },
+          {
+            "metric": "Consolidated NIM Expectation",
+            "value": "12-13%"
+          },
+          {
+            "metric": "2030 Consolidated AUM Target",
+            "value": "₹32,000 Cr"
+          },
+          {
+            "metric": "2030 Non-MFI AUM Share Target",
+            "value": "30%"
+          },
+          {
+            "metric": "Cost of Funds View",
+            "value": "Stable or improving if repo rates fall"
+          }
+        ],
+        "highlights": [
+          "Management believes the sector had passed its stress peak by early 2026",
+          "SRO guardrails, 3 lender cap and ₹2 lakh borrower exposure ceiling have reshaped lending discipline",
+          "Standalone GNPA stood at 3.1%; X-bucket collection efficiency stood at 99.9%",
+          "Stage 3 coverage improved to 73% vs 67% in December 2025",
+          "FY26 credit cost stood at 3.8% vs 4.6% in FY25; Q4FY26 credit cost improved further to 2.5%",
+          "Non-MFI businesses now contribute 17% of consolidated AUM"
+        ],
+        "quote": "\"Satin is outperforming the sector on asset quality, Q4 profitability, credit cost moderation, geographic spread and diversification beyond core MFI.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Arman Financial Services Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          { "label": "Consol. AUM", "value": "₹2,925 Cr", "change": "+36% YoY", "positive": 1 },
+          { "label": "Disbursement", "value": "₹686 Cr", "change": "+76% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹45 Cr", "change": "vs loss of ₹15 Cr YoY", "positive": 1 },
+          { "label": "NIM", "value": "17.4%", "change": "Q1FY27", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM grew 36% YoY to ₹2,925 Cr",
+          "Disbursement rose 76% YoY to ₹686 Cr, the highest first-quarter level",
+          "Gross total income grew 34% YoY and 15% QoQ to ₹202 Cr",
+          "PPOP improved to ₹77 Cr from ₹59 Cr QoQ and PAT rose to ₹45 Cr",
+          "Annualised ROA was 6.4%, ROE was 18.9% and capital adequacy stood at 33.6%"
+        ],
+        "guidanceTracking": [
+          { "metric": "Opex to AUM", "guided": "Reduce to ~7%", "actual": "~8.5% annualised", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "Opex to AUM Target", "value": "~7%" },
+          { "metric": "Credit Cost View", "value": "Around 2.5-3.5%; not firm guidance" },
+          { "metric": "Growth Approach", "value": "Calibrated to collections and delinquency" },
+          { "metric": "Profitability View", "value": "Maintain healthy cross-cycle returns" }
+        ],
+        "highlights": [
+          "Collection efficiency stood at 96.6%",
+          "GNPA stood at 2.76% and NNPA at 0.84%",
+          "Cost-to-income improved to 44.3% from 51.7% QoQ",
+          "Namra AUM grew 39% YoY and 8% QoQ to ₹2,167 Cr",
+          "Standalone AUM grew 26% YoY to ₹758 Cr",
+          "Around 90% of the MFI portfolio remains covered under CGFMU"
+        ],
+        "quote": "\"The recovery is healthy, but management is retaining calibrated growth and avoiding hard return guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consol. AUM (FY26)",
+            "value": "₹2,728 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹41 Cr",
+            "change": "+220% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹57 Cr",
+            "change": "+9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "MFI AUM",
+            "value": "₹1,999 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM stood at ₹2,728 Cr (+22% YoY)",
+          "Highest-ever quarterly disbursement stood at ₹951 Cr",
+          "Q4FY26 consolidated PAT stood at ₹41 Cr, up 85% QoQ and 220% YoY",
+          "FY26 PAT stood at ₹57 Cr (+9% YoY)",
+          "MFI AUM stood at ₹1,999 Cr (+19% YoY); Q4FY26 MFI disbursement stood at ₹738 Cr (+88% YoY and +62% QoQ)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 MSME Growth Expectation",
+            "value": "~25%"
+          },
+          {
+            "metric": "FY27 LAP Growth Expectation",
+            "value": "20-25%"
+          },
+          {
+            "metric": "FY27 Opex Target",
+            "value": "Reduce from ~9% to ~7%"
+          },
+          {
+            "metric": "Short-Medium Term Opex Target",
+            "value": "~6%"
+          },
+          {
+            "metric": "FY27 Profitability View",
+            "value": "May get close to peak profitability"
+          }
+        ],
+        "highlights": [
+          "Management said the MFI industry moved beyond the most difficult phase and is entering a stable, disciplined growth cycle",
+          "Company separated credit and recovery functions from branch operations, improving accountability and collection efficiency",
+          "Around 90% of the MFI portfolio is covered under CGFMU",
+          "Company moved away from pure group-based JLG credit assessment towards individual-level borrower assessment",
+          "GNPA stood at 3.4% and NNPA stood at 0.95%; X-bucket collection was above 99.5% for Q4FY26",
+          "MSME and LAP initiatives are expected to contribute over the next 2-4 quarters"
+        ],
+        "quote": "\"Arman is outperforming on Q4 recovery, underwriting discipline and CGFMU coverage, but operating cost remains the biggest monitorable.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "CreditAccess Grameen Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "AUM", "value": "₹30,319 Cr", "change": "+16.4% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹493 Cr", "change": "+720% YoY", "positive": 1 },
+          { "label": "PPOP", "value": "₹873 Cr", "change": "+33.6% YoY", "positive": 1 },
+          { "label": "NIM", "value": "14.4%", "change": "Above guidance", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "AUM grew 16.4% YoY and 2.5% QoQ to ₹30,319 Cr",
+          "Disbursement rose 11.9% YoY to ₹6,107 Cr",
+          "PPOP increased 33.6% YoY to ₹873 Cr and PAT rose 720% to ₹493 Cr",
+          "Annualised ROA was 5.9% and ROE was 24.4%",
+          "GNPA stood at 2.18%, NNPA at 0.76% and PAR90 at 1.46%"
+        ],
+        "guidanceTracking": [
+          { "metric": "AUM Growth", "guided": "20-25%", "actual": "16.4% YoY", "status": "partial" },
+          { "metric": "NIM", "guided": "12.8-13.2%", "actual": "14.4%", "status": "exceeded" },
+          { "metric": "Cost-to-Income", "guided": "33-35%", "actual": "29.3%", "status": "exceeded" },
+          { "metric": "Credit Cost", "guided": "3-4%", "actual": "~2.9% annualised", "status": "exceeded" },
+          { "metric": "ROA / ROE", "guided": "4-4.8% / 16-20%", "actual": "5.9% / 24.4%", "status": "exceeded" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Guidance", "value": "Maintained across key parameters" },
+          { "metric": "AUM Growth", "value": "20-25%" },
+          { "metric": "New Borrowers", "value": "Around 1 lakh per month" },
+          { "metric": "Calendar 2028 AUM", "value": "₹50,000 Cr" },
+          { "metric": "Cross-Cycle ROA / ROE", "value": "4-4.8% / 16-20%" }
+        ],
+        "highlights": [
+          "Retail finance increased to 20.6% of AUM from 18.1% in Q4FY26",
+          "The company added 2.5 lakh borrowers, with 35% new to credit",
+          "X-bucket collection efficiency remained strong at 99.68%",
+          "Cost-to-income improved to 29.3%",
+          "Employee attrition declined to 20.6% from 25.8%",
+          "Management remains committed to the ₹50,000 Cr calendar 2028 AUM goal"
+        ],
+        "quote": "\"Operating performance is ahead of most guided ranges, with growth the only metric still catching up.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM Growth",
+            "value": "14%",
+            "change": "YoY; +11% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Disbursement (FY26)",
+            "value": "₹24,859 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹340 Cr",
+            "change": "6x YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROA / ROE (Q4)",
+            "value": "4.4% / 17.8%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "AUM grew 14% YoY and 11% QoQ",
+          "Q4FY26 disbursement stood at ₹8,313 Cr (+28% YoY and +44% QoQ); FY26 disbursement stood at ₹24,859 Cr (+24% YoY)",
+          "Q4FY26 borrower addition stood at 3.3 lakh; FY26 borrower addition stood at 9.8 lakh",
+          "Q4FY26 PPOP stood at ₹780 Cr (+23% YoY and +15% QoQ); Q4FY26 PAT stood at ₹340 Cr, up 6x YoY and 35% QoQ",
+          "FY26 PPOP stood at ₹2,809 Cr (+7% YoY); FY26 PAT stood at ₹778 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM Growth Guidance",
+            "value": "20-25%"
+          },
+          {
+            "metric": "FY27 NIM Guidance",
+            "value": "12.8-13.2%"
+          },
+          {
+            "metric": "FY27 Cost-to-Income Guidance",
+            "value": "33-35%"
+          },
+          {
+            "metric": "FY27 Credit Cost Guidance",
+            "value": "3-4%"
+          },
+          {
+            "metric": "FY27 ROA / ROE Guidance",
+            "value": "4-4.8% / 16-20%"
+          }
+        ],
+        "highlights": [
+          "Management called Q4FY26 a decisive inflection in performance trajectory",
+          "Growth was driven by new-to-credit customers, guardrail-compliant borrowers and graduation of vintage borrowers into retail finance products",
+          "Retail finance share increased to 18.1% vs 5.9% last year",
+          "Branch network stood at 2,236 branches after adding 183 branches",
+          "Gross NPA stood at 3.17%, Net NPA stood at 1.12% and PAR 90 stood at 2.28%",
+          "Grameen Mahi app onboarded 8.4 lakh borrowers in FY26; active app base reached 11.2 lakh customers"
+        ],
+        "quote": "\"CreditAccess is outperforming the sector on scale, profitability, borrower acquisition, digital adoption, cost of borrowing and FY27 return guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Fusion Finance Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "AUM", "value": "₹7,702 Cr", "change": "+4% QoQ", "positive": 1 },
+          { "label": "Disbursement", "value": "₹1,783 Cr", "change": "+88% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹62 Cr", "change": "Q1FY27", "positive": 1 },
+          { "label": "NIM", "value": "11.93%", "change": "+160 bps YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "AUM increased 4% QoQ to ₹7,702 Cr and disbursement rose 88% YoY to ₹1,783 Cr",
+          "Collection efficiency remained above 99.75%",
+          "PPOP rose to ₹102 Cr from ₹87 Cr YoY and reported PAT stood at ₹62 Cr",
+          "Annualised credit cost declined for the seventh consecutive quarter to 2.0%",
+          "GNPA improved to 2.51% from 3.21% QoQ and NNPA stood at 0.47%"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 AUM", "guided": "~₹10,000 Cr", "actual": "₹7,702 Cr at Q1 end", "status": "partial" },
+          { "metric": "Credit Cost", "guided": "2.5-3.0%", "actual": "2.0% annualised", "status": "exceeded" },
+          { "metric": "LMS Rollout", "guided": "By August 2026", "actual": "Pilot successful; migration underway", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 AUM Target", "value": "₹10,000 Cr" },
+          { "metric": "Disbursement Mix", "value": "44-45% in H1 and 55% in H2" },
+          { "metric": "Operating Plan", "value": "On track with annual plan" },
+          { "metric": "MFI Branch Plan", "value": "50 additions and ~100 rationalisations through Q3" }
+        ],
+        "highlights": [
+          "Hard-bucket recoveries moved fully in-house with AI-enabled collection tools",
+          "The company continued to recover around ₹35 Cr quarterly from 60+ DPD accounts",
+          "MSME collection efficiency remained above 99.3%",
+          "Liquidity stood at ₹1,880 Cr with ₹2,300 Cr undrawn sanctions",
+          "Capital adequacy remained strong at 36.95%",
+          "Marginal borrowing cost fell around 250 bps YoY to 10.1%"
+        ],
+        "quote": "\"Fusion is rebuilding growth while collections, funding costs and credit costs move in the right direction.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹7,400 Cr",
+            "change": "vs ₹6,800 Cr QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Disbursement (Q4)",
+            "value": "₹2,140 Cr",
+            "change": "vs ₹1,594 Cr QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Core PAT (Q4)",
+            "value": "₹38 Cr",
+            "change": "ex-DTA",
+            "positive": 1
+          },
+          {
+            "label": "Capital Adequacy",
+            "value": "36.46%",
+            "change": "Strong liquidity",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "AUM increased to ₹7,400 Cr vs ₹6,800 Cr QoQ",
+          "Q4FY26 disbursement rose to ₹2,140 Cr vs ₹1,594 Cr QoQ",
+          "Q4FY26 NII stood at ₹222 Cr, NIM stood at 11.4% and PPOP stood at ₹93 Cr",
+          "Q4FY26 reported PAT stood at ₹114 Cr; core PAT excluding one-time DTA impact stood at ₹38 Cr",
+          "FY26 PAT stood at ₹14 Cr vs loss of around ₹1,200 Cr in FY25"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM Aspiration",
+            "value": "~₹10,000 Cr by Mar 2027"
+          },
+          {
+            "metric": "FY27 Opex Growth",
+            "value": "4-5% over FY26 base of ₹832 Cr"
+          },
+          {
+            "metric": "Credit Cost Normalisation",
+            "value": "2.5-3%"
+          },
+          {
+            "metric": "MFI Credit Cost Guidance",
+            "value": "3.25-3.75% through cycle"
+          },
+          {
+            "metric": "LMS Migration",
+            "value": "Expected by Aug 2026"
+          }
+        ],
+        "highlights": [
+          "FY26 was a year of learning, testing and institutional building",
+          "Nearly 90% of disbursements now come from A and B category branches",
+          "Current bucket forward flow remains below 0.1% on net basis",
+          "MFI collection efficiency stood at 99.7%, while MSME collection efficiency was above 99.3%",
+          "GNPA improved for the 4th consecutive quarter to 3.21%, while NNPA improved to 0.51%",
+          "Fusion raised around ₹6,000 Cr borrowings in FY26 and onboarded 11 new lenders"
+        ],
+        "quote": "\"Fusion has moved from stress phase to recovery phase, but needs 2-3 more quarters of consistent delivery to prove the turnaround is sustainable.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Muthoot Microfin Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "AUM Growth", "value": "18%", "change": "YoY", "positive": 1 },
+          { "label": "Disbursement", "value": "₹2,644 Cr", "change": "+49% YoY", "positive": 1 },
+          { "label": "PPOP Growth", "value": "43%", "change": "YoY", "positive": 1 },
+          { "label": "Credit Cost", "value": "2.6%", "change": "vs 2.8% QoQ", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "AUM grew 18% YoY and disbursement rose 49% to ₹2,644 Cr, the highest-ever Q1 level",
+          "Total income grew 20% YoY and 5% QoQ",
+          "PPOP rose 43% YoY and 3% QoQ",
+          "Credit cost improved to 2.6% from 2.8% QoQ",
+          "Overall collection efficiency was 97.97% and X-bucket collection was 99.9%"
+        ],
+        "guidanceTracking": [
+          { "metric": "AUM Growth", "guided": "12-15%", "actual": "18% YoY", "status": "exceeded" },
+          { "metric": "Credit Cost", "guided": "Around 2.5-3.0%", "actual": "2.6%", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 AUM Growth", "value": "Revised to 20%" },
+          { "metric": "FY27 Disbursement", "value": "Above ₹12,000 Cr" },
+          { "metric": "Monthly Disbursement", "value": "Around ₹1,000 Cr" },
+          { "metric": "Credit Cost", "value": "Expected to remain near or below 2.5-3.0%" },
+          { "metric": "Gold Loan Portfolio", "value": "₹500 Cr target may be exceeded" }
+        ],
+        "highlights": [
+          "Around 65% of the book was originated after April 2025",
+          "The portfolio mix was 76% JLG and 24% non-JLG",
+          "The ₹3,200 Cr individual-loan portfolio had only 0.02% at 30+ DPD and no 60+/90+ DPD",
+          "Cost of funds declined 14 bps QoQ to 10.13%, with incremental funding near 9.8%",
+          "The company had nearly ₹5,000 Cr sanctions plus ₹1,000 Cr under the guarantee scheme",
+          "Digital collections reached around 40% and individual-loan repayments were fully digital"
+        ],
+        "quote": "\"Growth and disbursement guidance have been raised as portfolio quality and funding costs continue to improve.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Portfolio",
+            "value": "₹14,005 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Disbursement (Q4)",
+            "value": "₹2,876 Cr",
+            "change": "+46% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Profit (Q4FY26)",
+            "value": "₹71 Cr",
+            "change": "Highest in 7 quarters",
+            "positive": 1
+          },
+          {
+            "label": "Profit (FY26)",
+            "value": "₹170 Cr",
+            "change": "Full Year",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Portfolio under management stood at ₹14,005 Cr (+13% YoY); Q4FY26 portfolio growth stood at 7% QoQ",
+          "Q4FY26 disbursement stood at ₹2,876 Cr (+46% YoY and +15% QoQ)",
+          "Q4FY26 profit stood at ₹71 Cr, highest in the last 7 quarters; FY26 profit stood at ₹170 Cr",
+          "Q4FY26 NIM stood at 12%; Q4FY26 opex stood at 6.4% vs peak of around 7% earlier in FY26",
+          "FY26 credit cost stood at 3.5% vs 9.4% last year; Q4FY26 ROA stood at 2.1% and ROE stood at 10%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM Growth Guidance",
+            "value": "12-15%; management believes it can overachieve 15%"
+          },
+          {
+            "metric": "Vision 3030 AUM Target",
+            "value": "₹30,000 Cr by 2030"
+          },
+          {
+            "metric": "Vision 3030 ROA / ROE Target",
+            "value": "5%+ / 20%+"
+          },
+          {
+            "metric": "2030 JLG / Non-JLG Mix",
+            "value": "53% / 47%"
+          },
+          {
+            "metric": "Long-Term Credit Cost Target",
+            "value": "~2.5%"
+          }
+        ],
+        "highlights": [
+          "Management said FY26 saw a return of normal business momentum",
+          "Asset quality improved through the year, with GNPA improving to 3.89% vs 4.85% last year",
+          "X-bucket collection efficiency stood around 99.8% in the last 2 quarters",
+          "Small and micro-enterprise individual loan portfolio stood around ₹2,387 Cr with near-zero delinquency",
+          "Non-JLG portfolio already stands around 17% of AUM",
+          "Customer app has nearly 2 mn customers out of 3.3 mn customers, and digital collection stands around 40% incrementally"
+        ],
+        "quote": "\"Muthoot Microfin is outperforming on diversification, Q4 recovery, technology-led underwriting and long-term Vision 3030 roadmap.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

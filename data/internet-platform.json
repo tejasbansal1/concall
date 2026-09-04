@@ -20,413 +20,1809 @@
     "CarTrade Tech Ltd"
   ],
   "concall": {
-    "FSN E-Commerce Ventures Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Net Revenue", "value": "10,000+ Cr", "change": "+26%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "752 Cr", "change": "+59%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "204 Cr", "change": "+183%", "positive": 1 },
-        { "label": "Q4FY26 EBITDA Margin", "value": "8.4%", "change": "+200 bps", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 GMV and net revenue grew 28% and 26% respectively, with net revenue crossing 10,000 Cr.",
-        "Q4FY26 net revenue grew 28% YoY to 2,648 Cr, while EBITDA rose 67% YoY to 223 Cr.",
-        "Beauty remained the core growth engine with FY26 GMV near 15,000 Cr and EBITDA margin of 9.6%.",
-        "Gross profit grew 30% YoY to 4,516 Cr with margin at 45.1%.",
-        "PAT improved sharply to around 204 Cr, showing better scale-led profitability."
-      ],
-      "guidance": [
-        { "metric": "Retail Expansion", "value": "313 stores across 99 cities" },
-        { "metric": "House of Nykaa GMV", "value": "3,176 Cr, up around 50%" },
-        { "metric": "Focus", "value": "Scale owned brands and beauty platform profitably" }
-      ],
-      "highlights": [
-        "Gross profit grew 30% YoY in FY26 with gross margin at 45.1%.",
-        "PAT margin improved to around 2% of net revenue for FY26.",
-        "Dot & Key and Kay Beauty continued to scale as key owned brands.",
-        "Retail footprint reached 313 stores across 99 cities.",
-        "House of Nykaa GMV grew around 50% YoY to 3,176 Cr.",
-        "Owned brands supported both growth and margin expansion."
-      ],
-      "quote": "\"Growth remained broad-based across beauty, fashion and owned brands.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Eternal Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY29 EBITDA Goal", "value": "$1 Bn", "change": "Target", "positive": 1 },
-        { "label": "QC NOV CAGR", "value": "60%", "change": "3-year view", "positive": 1 },
-        { "label": "Dark Store Target", "value": "3,000", "change": "By March", "positive": 1 },
-        { "label": "Food Delivery Growth", "value": "18-20%", "change": "Medium-term", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Management reiterated a medium-term path toward $1 Bn EBITDA by FY29.",
-        "Quick commerce remains in expansion mode, with 60% NOV CAGR targeted over three years.",
-        "Food delivery is expected to grow 18-20% over the medium term with steady-state EBITDA margin of around 5%.",
-        "Dark store expansion remains a major growth driver for quick commerce.",
-        "Management maintained confidence in medium-term quick commerce margin potential."
-      ],
-      "guidance": [
-        { "metric": "FY29 EBITDA", "value": "$1 Bn ambition" },
-        { "metric": "Dark Stores", "value": "3,000 target by March" },
-        { "metric": "Food Delivery Margin", "value": "Around 5% steady-state EBITDA" }
-      ],
-      "highlights": [
-        "Quick commerce store expansion remains the main investment area.",
-        "Management indicated QC margins can move toward 3-3.5% over time.",
-        "Food delivery remains a more mature profit pool within the platform.",
-        "The company is targeting 3,000 dark stores by March.",
-        "FY27 quick commerce growth may moderate from earlier high-growth expectations.",
-        "Integrated food and quick commerce scale remains the key platform advantage."
-      ],
-      "quote": "\"The medium-term growth and profitability ambition remains intact.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Swiggy Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Food Delivery Growth", "value": "18-20%", "change": "Medium-term", "positive": 1 },
-        { "label": "Food EBITDA Margin", "value": "5%", "change": "Steady-state", "positive": 1 },
-        { "label": "QC Ambition", "value": "1 Lakh Cr", "change": "GOV target", "positive": 1 },
-        { "label": "QC Growth View", "value": "35-50%", "change": "CAGR range", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Food delivery continues to be guided for 18-20% medium-term growth.",
-        "Management sees steady-state food delivery EBITDA margin potential of around 5%.",
-        "Quick commerce remains in investment mode, but contribution margin discipline is improving.",
-        "Management highlighted quick commerce contribution margin breakeven as an important milestone.",
-        "Platform initiatives remain focused on category expansion and better customer frequency."
-      ],
-      "guidance": [
-        { "metric": "Quick Commerce GOV", "value": "1 Lakh Cr ambition over 3.5-5 years" },
-        { "metric": "Quick Commerce CAGR", "value": "35-50%" },
-        { "metric": "Food Delivery EBITDA", "value": "Around 5% steady-state margin" }
-      ],
-      "highlights": [
-        "Management emphasized profitable growth instead of chasing low-quality volume.",
-        "Quick commerce contribution margin breakeven was highlighted as an important milestone.",
-        "Platform innovation and category expansion remain key growth levers.",
-        "Food delivery remains the more mature earnings base.",
-        "Quick commerce ambition stands at 1 Lakh Cr GOV over 3.5-5 years.",
-        "Management expects growth to be balanced with improving contribution discipline."
-      ],
-      "quote": "\"The focus is on growth with improving contribution discipline.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Pine Labs Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue Growth", "value": "19%", "change": "YoY", "positive": 1 },
-        { "label": "Adjusted EBITDA", "value": "559 Cr", "change": "+56%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "113 Cr", "change": "Positive", "positive": 1 },
-        { "label": "Payment Volume", "value": "$200 Bn", "change": "Full year", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 19% while adjusted EBITDA rose sharply to 559 Cr.",
-        "PAT stood at 113 Cr, supported by margin expansion and operating leverage.",
-        "Full-year payment volume was close to $200 Bn across around 2 Mn touchpoints.",
-        "Adjusted EBITDA margin improved by around 500 bps through FY26.",
-        "Operating cash flow improved meaningfully, with Q4 operating cash flow at 676 Cr."
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth", "value": "21-23.5%" },
-        { "metric": "Contribution Margin", "value": "Around 74-75%" },
-        { "metric": "Capex Run Rate", "value": "Around 180-190 Cr" }
-      ],
-      "highlights": [
-        "Adjusted EBITDA margin expanded by around 500 bps.",
-        "Q4 operating cash flow stood at 676 Cr.",
-        "Issuing and acquiring businesses continue to contribute meaningfully to revenue.",
-        "Management guided FY27 revenue growth at 21-23.5%.",
-        "Contribution margin remained strong at around 74-75%.",
-        "Capex intensity is expected to remain controlled."
-      ],
-      "quote": "\"Revenue growth is expected to accelerate with better EBITDA and cash flow.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "One97 Communications Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 EBITDA Margin", "value": "~6%", "change": "Exit base", "positive": 1 },
-        { "label": "Q4 GMV Growth", "value": "27%", "change": "YoY", "positive": 1 },
-        { "label": "Net Payment Margin", "value": ">4 bps", "change": "Core", "positive": 1 },
-        { "label": "Medium-Term EBITDA Margin", "value": "15-20%", "change": "Aspiration", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Management expects FY27 revenue growth to accelerate across payments, marketing services and financial services.",
-        "Q4 GMV grew 27% YoY, with core net payment margin above 4 bps.",
-        "FY26 EBITDA margin ended around 6%, creating a base for operating leverage.",
-        "Merchant GMV growth remained healthy across offline and online use cases.",
-        "Management expects indirect cost growth to remain below revenue and contribution profit growth."
-      ],
-      "guidance": [
-        { "metric": "Medium-Term EBITDA Margin", "value": "15-20%" },
-        { "metric": "Timeline", "value": "Around 2.5-3 years" },
-        { "metric": "Cost Growth", "value": "Expected below revenue and contribution profit growth" }
-      ],
-      "highlights": [
-        "AI-led efficiencies are expected to control indirect cost growth.",
-        "Merchant GMV trends remain healthy across offline and online channels.",
-        "Financial services and marketing services are expected to support revenue acceleration.",
-        "Medium-term EBITDA margin aspiration remains 15-20%.",
-        "Management indicated a 2.5-3 year path toward margin targets.",
-        "Core net payment margin improved above earlier guidance."
-      ],
-      "quote": "\"Operating leverage should improve as revenue scales faster than indirect costs.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Urban Company Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 NTV", "value": "4,290 Cr", "change": "+33%", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "426 Cr", "change": "+43%", "positive": 1 },
-        { "label": "Users", "value": "8.4 Mn", "change": "+24%", "positive": 1 },
-        { "label": "International NTV", "value": "700 Cr", "change": "+75%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 consolidated NTV grew 33% YoY to 4,290 Cr.",
-        "Q4 revenue grew 43% YoY to 426 Cr, while Q4 consolidated NTV grew 42%.",
-        "International business grew 75% for the full year and turned adjusted EBITDA positive.",
-        "India Consumer Services generated 131 Cr adjusted EBITDA for FY26.",
-        "The transacting user base grew 24% to 8.4 Mn."
-      ],
-      "guidance": [
-        { "metric": "Adjusted EBITDA Breakeven", "value": "By Q3FY28" },
-        { "metric": "FY31 Adjusted EBITDA", "value": "1,000 Cr ambition" },
-        { "metric": "India Consumer Services Margin", "value": "Around 10% of NTV long term" }
-      ],
-      "highlights": [
-        "India Consumer Services full-year adjusted EBITDA stood at 131 Cr.",
-        "83% of NTV came from retained users.",
-        "Native losses narrowed meaningfully as scale improved.",
-        "International NTV reached 700 Cr for FY26.",
-        "Management targets consolidated adjusted EBITDA breakeven by Q3FY28.",
-        "FY31 adjusted EBITDA ambition stands at 1,000 Cr."
-      ],
-      "quote": "\"The company is investing for growth while keeping a clear path to breakeven.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "PB Fintech Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Insurance Premium", "value": "29,934 Cr", "change": "+42%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "670 Cr", "change": "Positive", "positive": 1 },
-        { "label": "Operating Revenue", "value": "6,794 Cr", "change": "+37%", "positive": 1 },
-        { "label": "New Protection Premium", "value": "+57%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 insurance premium grew 42% to 29,934 Cr, with new protection premium up 57%.",
-        "Operating revenue grew 37% to 6,794 Cr, while Q4 operating revenue was nearly 2,000 Cr.",
-        "PAT stood at 670 Cr, showing strong operating leverage across the core business.",
-        "Q4 insurance premium grew 46% YoY, led by strong protection demand.",
-        "UAE business grew 54% YoY and continued to add a new growth vector."
-      ],
-      "guidance": [
-        { "metric": "Growth Approach", "value": "Guides around 30%, aims to outperform" },
-        { "metric": "Paisabazaar", "value": "Expected to be meaningfully EBITDA positive" },
-        { "metric": "Operating Leverage", "value": "Cost base largely stabilized" }
-      ],
-      "highlights": [
-        "Q4 insurance premium grew 46% YoY.",
-        "Core online insurance premium grew 39% for the year.",
-        "UAE business grew 54% YoY.",
-        "New protection premium grew 67% YoY in Q4.",
-        "Paisabazaar turned EBITDA positive in Q4.",
-        "Management continues to guide around 30% growth while aiming to outperform."
-      ],
-      "quote": "\"The business continues to compound with strong premium growth and operating leverage.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "PhysicsWallah Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "3,900 Cr", "change": "+35%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "300 Cr", "change": "3x", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "919 Cr", "change": "+51%", "positive": 1 },
-        { "label": "Paid Enrolments", "value": "10 Lakh+", "change": "+20%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 35% to 3,900 Cr, while EBITDA rose around 3x to 300 Cr.",
-        "Q4 revenue grew 51% YoY to 919 Cr.",
-        "PAT loss narrowed sharply to 24 Cr, with management highlighting underlying profitability after one-off adjustments.",
-        "Paid enrolments crossed 10 lakh new enrolments, up 20% YoY.",
-        "Online revenue grew 39% and reached 50.1% of total revenue."
-      ],
-      "guidance": [
-        { "metric": "FY27 PAT", "value": "Full-year profitability targeted" },
-        { "metric": "Offline Business", "value": "Breakeven expected in FY27" },
-        { "metric": "Online Revenue Mix", "value": "Targeting 55% over 3 years" }
-      ],
-      "highlights": [
-        "Online revenues grew 39% and reached 50.1% of revenue.",
-        "PBT turned positive at 10 Cr versus a loss last year.",
-        "Paid enrolment growth remained strong across the platform.",
-        "Management targets full-year PAT profitability in FY27.",
-        "Offline business is expected to break even in FY27.",
-        "Online revenue mix is targeted to move toward 55% over three years."
-      ],
-      "quote": "\"FY27 is expected to be the year of full-year PAT profitability.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Affle (India) Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "27.1 Bn", "change": "+19.5%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "6.10 Bn", "change": "+26.3%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "4.55 Bn", "change": "+19.1%", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "7.24 Bn", "change": "+20.3%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 19.5% to 27.1 Bn, with EBITDA margin expanding to 22.5%.",
-        "Q4 revenue and EBITDA both grew 20.3% YoY.",
-        "The company delivered its 13th consecutive quarter of sequential topline growth.",
-        "PAT grew 19.1% to 4.55 Bn with PAT margin at 16.3%.",
-        "Operating cash flow remained strong at 5.02 Bn for FY26."
-      ],
-      "guidance": [
-        { "metric": "Medium-Term Revenue CAGR", "value": "20%" },
-        { "metric": "Decadal Vision", "value": "10x growth ambition" },
-        { "metric": "Patent Portfolio", "value": "18 granted, 21 filed or pending" }
-      ],
-      "highlights": [
-        "FY26 operating cash flow stood at 5.02 Bn.",
-        "CPCU conversions reached 120.3 Mn in Q4 at a CPCU rate of 60.",
-        "Direct advertisers contributed around 75% of business.",
-        "EBITDA margin expanded by around 120 bps in FY26.",
-        "Patent portfolio reached 18 granted patents with 21 filed or pending.",
-        "Medium-term revenue CAGR guidance remains around 20%."
-      ],
-      "quote": "\"Affle continues to target 20% CAGR with disciplined profitability.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Zinka Logistics Solutions Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Total Income", "value": "715 Cr", "change": "+55%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "190 Cr", "change": "+84%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "160 Cr", "change": "Positive", "positive": 1 },
-        { "label": "Q4 Adjusted EBITDA", "value": "50.2 Cr", "change": "+30%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 total income grew around 55% to 715 Cr.",
-        "Adjusted EBITDA rose to around 190 Cr, while PAT turned positive at 160 Cr.",
-        "Q4 adjusted EBITDA grew 30% YoY to 50.2 Cr.",
-        "Tolling GTV grew 27% YoY, outperforming the broader NETC CV market.",
-        "Free cash flow from operations remained strong at around 185-190 Cr."
-      ],
-      "guidance": [
-        { "metric": "Vehicle Finance", "value": "Expected to exit investment mode by FY27-end" },
-        { "metric": "Power Users", "value": "+22% YoY" },
-        { "metric": "Tolling GTV", "value": "+27% YoY" }
-      ],
-      "highlights": [
-        "Transacting customers grew around 13% YoY.",
-        "Free cash flow from operations stood around 185-190 Cr.",
-        "Profitability turnaround continued from deep losses to full-year PAT profit.",
-        "Power users grew around 22% YoY.",
-        "Vehicle finance is expected to exit investment mode by FY27-end.",
-        "The core business delivered strong cash conversion."
-      ],
-      "quote": "\"The platform delivered scale growth with a sharp profitability turnaround.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "RateGain Travel Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "1,824 Cr", "change": "+69.4%", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "716 Cr", "change": "+175%", "positive": 1 },
-        { "label": "Q4 Adjusted EBITDA Margin", "value": "23.5%", "change": "+177%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "194.4 Cr", "change": "Positive", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 69.4% YoY to 1,824 Cr, ahead of revised guidance after the Sojern acquisition.",
-        "Q4FY26 revenue reached an all-time high of 716 Cr, with organic RateGain revenue up 19.3% YoY.",
-        "Adjusted PAT stood at 249.9 Cr for FY26, while reported PAT stood at 194.4 Cr.",
-        "Adjusted EBITDA margin stood at 23.5% in Q4FY26.",
-        "Annualized revenue run rate crossed 2,850 Cr."
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue", "value": "3,000-3,100 Cr" },
-        { "metric": "FY27 EBITDA", "value": "650-700 Cr" },
-        { "metric": "FY27 EBITDA Margin", "value": "21.5-22.5%" }
-      ],
-      "highlights": [
-        "Annualized revenue run rate crossed 2,850 Cr.",
-        "Sojern integration is ahead of plan, with annualized cost synergies at $15 Mn.",
-        "Management expects free cash flow to EBITDA conversion above 75% in FY27.",
-        "FY27 revenue guidance stands at 3,000-3,100 Cr.",
-        "FY27 EBITDA guidance stands at 650-700 Cr.",
-        "Management aims to build a $1 Bn revenue company by FY30-FY31."
-      ],
-      "quote": "\"The platform is built, the data is unmatched and the opportunity ahead is the largest in our history.\"",
-      "quotePerson": "Bhanu Chopra, Chairman & Managing Director"
-    },
-    "CarTrade Tech Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue Growth", "value": "22%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 EBITDA Growth", "value": "70%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 PAT", "value": "243 Cr", "change": "+68%", "positive": 1 },
-        { "label": "Cash Reserves", "value": "1,244 Cr", "change": "+300 Cr", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 22%, while EBITDA grew 70% with EBITDA margin at 33%.",
-        "Q4 EBITDA grew 55% and Q4 EBITDA margin expanded to 35%.",
-        "FY26 PAT grew 68% to 243 Cr, supported by strong operating leverage.",
-        "Cash reserves increased to 1,244 Cr after adding around 300 Cr during the year.",
-        "Consumer, Remarketing and OLX all delivered strong profit growth."
-      ],
-      "guidance": [
-        { "metric": "PAT Ambition", "value": "1,000 Cr in 4-5 years" },
-        { "metric": "Consumer Platform", "value": "Further margin expansion expected" },
-        { "metric": "Cash Position", "value": "1,244 Cr reserves" }
-      ],
-      "highlights": [
-        "Consumer group FY26 revenue grew 30% and EBITDA grew 96%.",
-        "Remarketing FY26 revenue grew 22% with EBITDA margin of 28%.",
-        "OLX FY26 EBITDA grew 54% and PAT grew 77%.",
-        "Three-year PAT CAGR stood at 82%.",
-        "Management targets PAT of 1,000 Cr over 4-5 years.",
-        "Cash reserves provide flexibility for organic and inorganic growth."
-      ],
-      "quote": "\"The company is targeting a much larger profit pool over the next 4-5 years.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "FSN E-Commerce Ventures Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "GMV",
+            "value": "₹5,590 Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Revenue",
+            "value": "₹2,782 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹236 Cr",
+            "change": "+68% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹80 Cr",
+            "change": "+226% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 GMV grew 34% YoY to ₹5,590 Cr and net revenue grew 29% to ₹2,782 Cr",
+          "Gross profit rose 33% with margin at 45.9%",
+          "EBITDA grew 68% to ₹236 Cr and margin expanded to 8.5%",
+          "PAT increased 226% to ₹80 Cr with margin at 2.9%",
+          "Beauty EBITDA reached ₹244 Cr while Fashion was nearly breakeven"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "House of Nykaa GMV",
+            "guided": "₹3,176 Cr",
+            "actual": "₹3,760 Cr annualised",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Retail Expansion",
+            "guided": "313 stores across 99 cities",
+            "actual": "324 stores across 105 cities",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Profitable Growth",
+            "guided": "Scale the platform profitably",
+            "actual": "EBITDA grew 68%; margin reached 8.5%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Beauty Growth",
+            "value": "Continue broad-based category growth"
+          },
+          {
+            "metric": "Retail Network",
+            "value": "Expand beyond 324 stores"
+          },
+          {
+            "metric": "Owned Brands",
+            "value": "Scale with improving profitability"
+          }
+        ],
+        "highlights": [
+          "House of Nykaa annualised GMV reached ₹3,760 Cr, up 39% YoY",
+          "Eleven stores were added during Q1",
+          "Retail delivered double-digit like-for-like sales growth",
+          "Beauty EBITDA margin improved to 10.3%",
+          "Fashion EBITDA margin improved to near breakeven",
+          "Half of the store network is now in tier-2 cities and beyond"
+        ],
+        "quote": "\"Growth accelerated across the platform while profitability improved sharply.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Net Revenue",
+            "value": "10,000+ Cr",
+            "change": "+26%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "752 Cr",
+            "change": "+59%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "204 Cr",
+            "change": "+183%",
+            "positive": 1
+          },
+          {
+            "label": "Q4FY26 EBITDA Margin",
+            "value": "8.4%",
+            "change": "+200 bps",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 GMV and net revenue grew 28% and 26% respectively, with net revenue crossing 10,000 Cr.",
+          "Q4FY26 net revenue grew 28% YoY to 2,648 Cr, while EBITDA rose 67% YoY to 223 Cr.",
+          "Beauty remained the core growth engine with FY26 GMV near 15,000 Cr and EBITDA margin of 9.6%.",
+          "Gross profit grew 30% YoY to 4,516 Cr with margin at 45.1%.",
+          "PAT improved sharply to around 204 Cr, showing better scale-led profitability."
+        ],
+        "guidance": [
+          {
+            "metric": "Retail Expansion",
+            "value": "313 stores across 99 cities"
+          },
+          {
+            "metric": "House of Nykaa GMV",
+            "value": "3,176 Cr, up around 50%"
+          },
+          {
+            "metric": "Focus",
+            "value": "Scale owned brands and beauty platform profitably"
+          }
+        ],
+        "highlights": [
+          "Gross profit grew 30% YoY in FY26 with gross margin at 45.1%.",
+          "PAT margin improved to around 2% of net revenue for FY26.",
+          "Dot & Key and Kay Beauty continued to scale as key owned brands.",
+          "Retail footprint reached 313 stores across 99 cities.",
+          "House of Nykaa GMV grew around 50% YoY to 3,176 Cr.",
+          "Owned brands supported both growth and margin expansion."
+        ],
+        "quote": "\"Growth remained broad-based across beauty, fashion and owned brands.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Eternal Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "QC Margin Guidance",
+            "value": "6%",
+            "change": "Long term",
+            "positive": 1
+          },
+          {
+            "label": "Food Adj. EBITDA",
+            "value": "~6%",
+            "change": "Long term",
+            "positive": 1
+          },
+          {
+            "label": "Stores Added",
+            "value": "~200",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Capex / Store",
+            "value": "<₹2.5 Cr",
+            "change": "Q1 average",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Management raised long-term quick-commerce margin guidance to around 6%",
+          "Blinkit added around 200 stores during the quarter",
+          "Customer growth was driven mainly by higher order frequency",
+          "Management said competitive intensity peaked in Q1 but became more predictable",
+          "Food delivery continued to add monthly transacting users"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Quick-Commerce Margin",
+            "guided": "3-3.5% earlier view",
+            "actual": "Long-term guidance raised to 6%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Dark Stores",
+            "guided": "3,000 by March",
+            "actual": "Around 200 stores added in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Food Delivery Margin",
+            "guided": "Around 5% steady state",
+            "actual": "Long-term adjusted EBITDA view near 6%",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Quick-Commerce Margin",
+            "value": "Around 6% long term"
+          },
+          {
+            "metric": "Food Delivery Margin",
+            "value": "Around 6% adjusted EBITDA long term"
+          },
+          {
+            "metric": "Dark Store Capex",
+            "value": "Around ₹2.5 Cr per store framework"
+          }
+        ],
+        "highlights": [
+          "Most Blinkit growth continued to come from existing cities",
+          "Larger stores are improving assortment and throughput potential",
+          "Management expects customer acquisition to remain frequency-led",
+          "Discount-led competition is viewed as structurally unsustainable",
+          "Store economics continue to be evaluated on return on capital",
+          "Margin visibility improved despite elevated competition"
+        ],
+        "quote": "\"Higher store productivity has improved visibility on long-term margins.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY29 EBITDA Goal",
+            "value": "$1 Bn",
+            "change": "Target",
+            "positive": 1
+          },
+          {
+            "label": "QC NOV CAGR",
+            "value": "60%",
+            "change": "3-year view",
+            "positive": 1
+          },
+          {
+            "label": "Dark Store Target",
+            "value": "3,000",
+            "change": "By March",
+            "positive": 1
+          },
+          {
+            "label": "Food Delivery Growth",
+            "value": "18-20%",
+            "change": "Medium-term",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Management reiterated a medium-term path toward $1 Bn EBITDA by FY29.",
+          "Quick commerce remains in expansion mode, with 60% NOV CAGR targeted over three years.",
+          "Food delivery is expected to grow 18-20% over the medium term with steady-state EBITDA margin of around 5%.",
+          "Dark store expansion remains a major growth driver for quick commerce.",
+          "Management maintained confidence in medium-term quick commerce margin potential."
+        ],
+        "guidance": [
+          {
+            "metric": "FY29 EBITDA",
+            "value": "$1 Bn ambition"
+          },
+          {
+            "metric": "Dark Stores",
+            "value": "3,000 target by March"
+          },
+          {
+            "metric": "Food Delivery Margin",
+            "value": "Around 5% steady-state EBITDA"
+          }
+        ],
+        "highlights": [
+          "Quick commerce store expansion remains the main investment area.",
+          "Management indicated QC margins can move toward 3-3.5% over time.",
+          "Food delivery remains a more mature profit pool within the platform.",
+          "The company is targeting 3,000 dark stores by March.",
+          "FY27 quick commerce growth may moderate from earlier high-growth expectations.",
+          "Integrated food and quick commerce scale remains the key platform advantage."
+        ],
+        "quote": "\"The medium-term growth and profitability ambition remains intact.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Swiggy Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Food Delivery Growth",
+            "value": "~18%",
+            "change": "Adjusted YoY",
+            "positive": 1
+          },
+          {
+            "label": "Food EBITDA Margin",
+            "value": "~3%",
+            "change": "Current",
+            "positive": 1
+          },
+          {
+            "label": "QC NOV Growth",
+            "value": "~3%",
+            "change": "QoQ",
+            "positive": 1
+          },
+          {
+            "label": "QC Contribution",
+            "value": "Breakeven",
+            "change": "Milestone",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Food delivery growth was around 18% YoY after adjusting for cancellations",
+          "Quick-commerce NOV grew around 3% QoQ while revenue grew around 13%",
+          "Quick commerce reached contribution-margin breakeven during the quarter",
+          "Food delivery EBITDA margin was around 3% and continued to improve",
+          "Quick-commerce network utilisation stood near 40%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Food Delivery Growth",
+            "guided": "18-20% YoY",
+            "actual": "Around 18% adjusted growth",
+            "status": "met"
+          },
+          {
+            "metric": "Food Delivery EBITDA",
+            "guided": "Around 5% steady state",
+            "actual": "Around 3%",
+            "status": "partial"
+          },
+          {
+            "metric": "Quick-Commerce Profitability",
+            "guided": "Improve contribution discipline",
+            "actual": "Contribution margin reached breakeven",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Food Delivery Growth",
+            "value": "18-20% YoY"
+          },
+          {
+            "metric": "Quick-Commerce Contribution",
+            "value": "0% to -1% near term"
+          },
+          {
+            "metric": "Cash Breakeven",
+            "value": "Expected over the next two quarters excluding innovations"
+          }
+        ],
+        "highlights": [
+          "Management plans to accelerate quick-commerce growth after reaching contribution breakeven",
+          "Quick-commerce investment will focus on stores, speed and selection",
+          "The latest four-week NOV run rate improved 10% over the prior four weeks",
+          "Food delivery remains underpenetrated with a multi-year growth opportunity",
+          "Food delivery is expected to offset more of quick-commerce cash burn",
+          "Growth is expected to come from users and frequency rather than AOV"
+        ],
+        "quote": "\"The contribution milestone gives us flexibility to press on growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Food Delivery Growth",
+            "value": "18-20%",
+            "change": "Medium-term",
+            "positive": 1
+          },
+          {
+            "label": "Food EBITDA Margin",
+            "value": "5%",
+            "change": "Steady-state",
+            "positive": 1
+          },
+          {
+            "label": "QC Ambition",
+            "value": "1 Lakh Cr",
+            "change": "GOV target",
+            "positive": 1
+          },
+          {
+            "label": "QC Growth View",
+            "value": "35-50%",
+            "change": "CAGR range",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Food delivery continues to be guided for 18-20% medium-term growth.",
+          "Management sees steady-state food delivery EBITDA margin potential of around 5%.",
+          "Quick commerce remains in investment mode, but contribution margin discipline is improving.",
+          "Management highlighted quick commerce contribution margin breakeven as an important milestone.",
+          "Platform initiatives remain focused on category expansion and better customer frequency."
+        ],
+        "guidance": [
+          {
+            "metric": "Quick Commerce GOV",
+            "value": "1 Lakh Cr ambition over 3.5-5 years"
+          },
+          {
+            "metric": "Quick Commerce CAGR",
+            "value": "35-50%"
+          },
+          {
+            "metric": "Food Delivery EBITDA",
+            "value": "Around 5% steady-state margin"
+          }
+        ],
+        "highlights": [
+          "Management emphasized profitable growth instead of chasing low-quality volume.",
+          "Quick commerce contribution margin breakeven was highlighted as an important milestone.",
+          "Platform innovation and category expansion remain key growth levers.",
+          "Food delivery remains the more mature earnings base.",
+          "Quick commerce ambition stands at 1 Lakh Cr GOV over 3.5-5 years.",
+          "Management expects growth to be balanced with improving contribution discipline."
+        ],
+        "quote": "\"The focus is on growth with improving contribution discipline.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Pine Labs Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue Growth",
+            "value": "~20%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹126 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "~₹20 Cr",
+            "change": "Positive",
+            "positive": 1
+          },
+          {
+            "label": "Terminals Deployed",
+            "value": "90-100K",
+            "change": "Q1 progress",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew around 20% YoY, in line with the expected softer Q1 seasonality",
+          "Adjusted EBITDA stood at ₹126 Cr despite early growth investments",
+          "PAT remained positive at close to ₹20 Cr",
+          "Around 90,000-100,000 terminals had been deployed against the annual plan",
+          "International flow-based services continued to scale across Asian markets"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "21-23.5%",
+            "actual": "Around 20% in seasonally softer Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Contribution Margin",
+            "guided": "Around 74-75%",
+            "actual": "Temporarily lower; full-year range retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Terminal Deployment",
+            "guided": "125,000-130,000",
+            "actual": "90,000-100,000 completed",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "21-23.5%"
+          },
+          {
+            "metric": "Contribution Margin",
+            "value": "Return to 74-75% for the full year"
+          },
+          {
+            "metric": "Terminal Deployment",
+            "value": "125,000-130,000"
+          }
+        ],
+        "highlights": [
+          "Management remains comfortable with full-year revenue guidance",
+          "Q1 contribution margin was affected by a higher distribution mix",
+          "Margins are expected to normalise in the second half",
+          "Technology investments were brought forward based on market confidence",
+          "Malaysia became the largest instalment-payments market for the company",
+          "The payments platform continues expanding across issuing and acquiring"
+        ],
+        "quote": "\"The first-quarter softness is seasonal and full-year guidance remains intact.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue Growth",
+            "value": "19%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "559 Cr",
+            "change": "+56%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "113 Cr",
+            "change": "Positive",
+            "positive": 1
+          },
+          {
+            "label": "Payment Volume",
+            "value": "$200 Bn",
+            "change": "Full year",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 19% while adjusted EBITDA rose sharply to 559 Cr.",
+          "PAT stood at 113 Cr, supported by margin expansion and operating leverage.",
+          "Full-year payment volume was close to $200 Bn across around 2 Mn touchpoints.",
+          "Adjusted EBITDA margin improved by around 500 bps through FY26.",
+          "Operating cash flow improved meaningfully, with Q4 operating cash flow at 676 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "21-23.5%"
+          },
+          {
+            "metric": "Contribution Margin",
+            "value": "Around 74-75%"
+          },
+          {
+            "metric": "Capex Run Rate",
+            "value": "Around 180-190 Cr"
+          }
+        ],
+        "highlights": [
+          "Adjusted EBITDA margin expanded by around 500 bps.",
+          "Q4 operating cash flow stood at 676 Cr.",
+          "Issuing and acquiring businesses continue to contribute meaningfully to revenue.",
+          "Management guided FY27 revenue growth at 21-23.5%.",
+          "Contribution margin remained strong at around 74-75%.",
+          "Capex intensity is expected to remain controlled."
+        ],
+        "quote": "\"Revenue growth is expected to accelerate with better EBITDA and cash flow.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "One97 Communications Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue Growth",
+            "value": "28%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "8%",
+            "change": "+7 pp YoY",
+            "positive": 1
+          },
+          {
+            "label": "Cash Balance",
+            "value": "₹13,500 Cr",
+            "change": "Net cash",
+            "positive": 1
+          },
+          {
+            "label": "Medium-Term Margin",
+            "value": "15-20%",
+            "change": "Target",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 28% YoY with broad-based momentum across business lines",
+          "EBITDA margin adjusted for PIDF improved from 1% to 8%",
+          "The company became free-cash-flow generating and ended with ₹13,500 Cr cash",
+          "Daily active-user metrics moved above their January 2024 benchmark",
+          "Payments market share improved with stronger consumer transaction frequency"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Medium-Term EBITDA Margin",
+            "guided": "15-20%",
+            "actual": "8% in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Cost Growth",
+            "guided": "Below revenue growth",
+            "actual": "Indirect expenses grew materially slower than 28% revenue growth",
+            "status": "met"
+          },
+          {
+            "metric": "Revenue Acceleration",
+            "guided": "Accelerate in FY27",
+            "actual": "28% YoY growth",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-Term EBITDA Margin",
+            "value": "15-20%"
+          },
+          {
+            "metric": "Timeline",
+            "value": "Around 2.5-3 years"
+          },
+          {
+            "metric": "Indirect Expenses",
+            "value": "Grow materially slower than revenue"
+          }
+        ],
+        "highlights": [
+          "Consumer payments grew faster than the UPI market",
+          "Financial services and wealth are priority monetisation areas",
+          "AI is expected to support both cost efficiency and new revenue",
+          "Sales and marketing investments continued while margins expanded",
+          "The company intends to preserve a large cash buffer",
+          "Management expects profitability to improve in coming quarters"
+        ],
+        "quote": "\"Revenue growth and operating leverage are now working together.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 EBITDA Margin",
+            "value": "~6%",
+            "change": "Exit base",
+            "positive": 1
+          },
+          {
+            "label": "Q4 GMV Growth",
+            "value": "27%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Payment Margin",
+            "value": ">4 bps",
+            "change": "Core",
+            "positive": 1
+          },
+          {
+            "label": "Medium-Term EBITDA Margin",
+            "value": "15-20%",
+            "change": "Aspiration",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Management expects FY27 revenue growth to accelerate across payments, marketing services and financial services.",
+          "Q4 GMV grew 27% YoY, with core net payment margin above 4 bps.",
+          "FY26 EBITDA margin ended around 6%, creating a base for operating leverage.",
+          "Merchant GMV growth remained healthy across offline and online use cases.",
+          "Management expects indirect cost growth to remain below revenue and contribution profit growth."
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-Term EBITDA Margin",
+            "value": "15-20%"
+          },
+          {
+            "metric": "Timeline",
+            "value": "Around 2.5-3 years"
+          },
+          {
+            "metric": "Cost Growth",
+            "value": "Expected below revenue and contribution profit growth"
+          }
+        ],
+        "highlights": [
+          "AI-led efficiencies are expected to control indirect cost growth.",
+          "Merchant GMV trends remain healthy across offline and online channels.",
+          "Financial services and marketing services are expected to support revenue acceleration.",
+          "Medium-term EBITDA margin aspiration remains 15-20%.",
+          "Management indicated a 2.5-3 year path toward margin targets.",
+          "Core net payment margin improved above earlier guidance."
+        ],
+        "quote": "\"Operating leverage should improve as revenue scales faster than indirect costs.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Urban Company Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "NTV",
+            "value": "₹1,465 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Revenue",
+            "value": "₹528 Cr",
+            "change": "+44% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Core Adj. EBITDA",
+            "value": "₹67 Cr",
+            "change": "+116% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "-₹65 Cr",
+            "change": "InstaHelp-led",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated NTV grew 42% to ₹1,465 Cr and revenue grew 44% to ₹528 Cr",
+          "Orders rose 79% to 13.2 Mn and annual transacting users reached 9.3 Mn",
+          "India Consumer Services excluding InstaHelp grew 29% with 6.9% EBITDA margin",
+          "International NTV grew 76% to ₹237 Cr with profitable growth",
+          "Core operations delivered ₹67 Cr adjusted EBITDA while InstaHelp invested ₹132 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Adjusted EBITDA Breakeven",
+            "guided": "By Q3FY28",
+            "actual": "Q1 loss of ₹65 Cr; core earned ₹67 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "FY31 Adjusted EBITDA",
+            "guided": "₹1,000 Cr",
+            "actual": "Guidance retained",
+            "status": "partial"
+          },
+          {
+            "metric": "India Consumer Services Margin",
+            "guided": "Around 10% of NTV long term",
+            "actual": "6.9% excluding InstaHelp",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Adjusted EBITDA Breakeven",
+            "value": "By Q3FY28"
+          },
+          {
+            "metric": "FY31 Adjusted EBITDA",
+            "value": "₹1,000 Cr"
+          },
+          {
+            "metric": "InstaHelp TAM",
+            "value": "₹7,000-12,000 Cr annual NTV in top 15 cities"
+          }
+        ],
+        "highlights": [
+          "The company added around 1.2 Mn new customers during Q1",
+          "India Consumer Services crossed ₹1,000 Cr quarterly NTV",
+          "Native revenue grew 60% and its EBITDA loss narrowed",
+          "InstaHelp orders grew 43% QoQ to 3.82 Mn",
+          "InstaHelp loss per order improved to ₹346 from ₹447",
+          "Cash and treasury investments stood at ₹2,019 Cr"
+        ],
+        "quote": "\"The core is scaling profitably while InstaHelp remains the principal investment.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 NTV",
+            "value": "4,290 Cr",
+            "change": "+33%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "426 Cr",
+            "change": "+43%",
+            "positive": 1
+          },
+          {
+            "label": "Users",
+            "value": "8.4 Mn",
+            "change": "+24%",
+            "positive": 1
+          },
+          {
+            "label": "International NTV",
+            "value": "700 Cr",
+            "change": "+75%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 consolidated NTV grew 33% YoY to 4,290 Cr.",
+          "Q4 revenue grew 43% YoY to 426 Cr, while Q4 consolidated NTV grew 42%.",
+          "International business grew 75% for the full year and turned adjusted EBITDA positive.",
+          "India Consumer Services generated 131 Cr adjusted EBITDA for FY26.",
+          "The transacting user base grew 24% to 8.4 Mn."
+        ],
+        "guidance": [
+          {
+            "metric": "Adjusted EBITDA Breakeven",
+            "value": "By Q3FY28"
+          },
+          {
+            "metric": "FY31 Adjusted EBITDA",
+            "value": "1,000 Cr ambition"
+          },
+          {
+            "metric": "India Consumer Services Margin",
+            "value": "Around 10% of NTV long term"
+          }
+        ],
+        "highlights": [
+          "India Consumer Services full-year adjusted EBITDA stood at 131 Cr.",
+          "83% of NTV came from retained users.",
+          "Native losses narrowed meaningfully as scale improved.",
+          "International NTV reached 700 Cr for FY26.",
+          "Management targets consolidated adjusted EBITDA breakeven by Q3FY28.",
+          "FY31 adjusted EBITDA ambition stands at 1,000 Cr."
+        ],
+        "quote": "\"The company is investing for growth while keeping a clear path to breakeven.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "PB Fintech Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,888 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹163 Cr",
+            "change": "+92% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Insurance Premium",
+            "value": "₹8,372 Cr",
+            "change": "+41% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Credit Disbursal",
+            "value": "₹4,366 Cr",
+            "change": "+33% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Operating revenue grew 40% YoY to ₹1,888 Cr",
+          "PAT increased 92% to ₹163 Cr and margin improved to 9%",
+          "Overall insurance premium grew 41% to ₹8,372 Cr",
+          "Renewal revenue grew 55% to ₹1,003 Cr on a trailing-twelve-month basis",
+          "Core credit disbursals grew 33% to ₹4,366 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Growth",
+            "guided": "Around 30%, with aim to outperform",
+            "actual": "Revenue grew 40%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Paisabazaar",
+            "guided": "Meaningfully EBITDA positive",
+            "actual": "Operating breakeven achieved",
+            "status": "partial"
+          },
+          {
+            "metric": "Operating Leverage",
+            "guided": "Stable cost base",
+            "actual": "PAT margin improved to 9%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Approach",
+            "value": "Continue aiming above 30%"
+          },
+          {
+            "metric": "Renewal Revenue",
+            "value": "Expected to outgrow fresh business"
+          },
+          {
+            "metric": "Paisabazaar",
+            "value": "Build profitability with engagement"
+          }
+        ],
+        "highlights": [
+          "Core insurance revenue grew 46% YoY",
+          "Core credit revenue grew 25% YoY",
+          "New insurance premium growth remained above 35% for a thirteenth quarter",
+          "UAE insurance premium grew 31%",
+          "Policybazaar renewal rates reached all-time highs",
+          "Paisabazaar reached operating breakeven"
+        ],
+        "quote": "\"Premium growth and renewals are translating into stronger operating leverage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Insurance Premium",
+            "value": "29,934 Cr",
+            "change": "+42%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "670 Cr",
+            "change": "Positive",
+            "positive": 1
+          },
+          {
+            "label": "Operating Revenue",
+            "value": "6,794 Cr",
+            "change": "+37%",
+            "positive": 1
+          },
+          {
+            "label": "New Protection Premium",
+            "value": "+57%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 insurance premium grew 42% to 29,934 Cr, with new protection premium up 57%.",
+          "Operating revenue grew 37% to 6,794 Cr, while Q4 operating revenue was nearly 2,000 Cr.",
+          "PAT stood at 670 Cr, showing strong operating leverage across the core business.",
+          "Q4 insurance premium grew 46% YoY, led by strong protection demand.",
+          "UAE business grew 54% YoY and continued to add a new growth vector."
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Approach",
+            "value": "Guides around 30%, aims to outperform"
+          },
+          {
+            "metric": "Paisabazaar",
+            "value": "Expected to be meaningfully EBITDA positive"
+          },
+          {
+            "metric": "Operating Leverage",
+            "value": "Cost base largely stabilized"
+          }
+        ],
+        "highlights": [
+          "Q4 insurance premium grew 46% YoY.",
+          "Core online insurance premium grew 39% for the year.",
+          "UAE business grew 54% YoY.",
+          "New protection premium grew 67% YoY in Q4.",
+          "Paisabazaar turned EBITDA positive in Q4.",
+          "Management continues to guide around 30% growth while aiming to outperform."
+        ],
+        "quote": "\"The business continues to compound with strong premium growth and operating leverage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "PhysicsWallah Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,054 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Reported EBITDA",
+            "value": "₹52 Cr",
+            "change": "vs -₹21 Cr",
+            "positive": 1
+          },
+          {
+            "label": "Pre-Ind AS EBITDA",
+            "value": "-₹44 Cr",
+            "change": "+624 bps YoY",
+            "positive": 0
+          },
+          {
+            "label": "Treasury",
+            "value": "₹5,600 Cr",
+            "change": "June 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew over 24% YoY to ₹1,054 Cr",
+          "Online revenue grew 33% while offline and other businesses grew 16%",
+          "Reported EBITDA turned positive at ₹52 Cr from a ₹21 Cr loss",
+          "Pre-Ind AS EBITDA loss narrowed to ₹44 Cr from ₹88 Cr",
+          "PBT loss improved to ₹84 Cr from ₹152 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 PAT",
+            "guided": "Full-year profitability",
+            "actual": "Q1 PBT loss narrowed to ₹84 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "Offline Business",
+            "guided": "Breakeven in FY27",
+            "actual": "Tracking toward centre-level cohort profitability",
+            "status": "partial"
+          },
+          {
+            "metric": "Online Revenue Mix",
+            "guided": "55% over three years",
+            "actual": "Online growth of 33% outpaced total growth",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Around 30%"
+          },
+          {
+            "metric": "FY27 Profitability",
+            "value": "Full-year PAT profitability retained"
+          },
+          {
+            "metric": "Offline Expansion",
+            "value": "Opportunistic and cohort-led"
+          }
+        ],
+        "highlights": [
+          "Online K-12 revenue grew 88% to ₹105 Cr",
+          "K-12 enrolments increased from 0.55 Mn to 0.78 Mn",
+          "NEET calendar changes delayed some enrolments and collections",
+          "Post-result collections improved around 50% YoY",
+          "Employee cost excluding ESOP declined 2.6%",
+          "New offline centres will be selected based on cohort economics"
+        ],
+        "quote": "\"Profitability improved despite academic seasonality and the NEET calendar shift.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "3,900 Cr",
+            "change": "+35%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "300 Cr",
+            "change": "3x",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "919 Cr",
+            "change": "+51%",
+            "positive": 1
+          },
+          {
+            "label": "Paid Enrolments",
+            "value": "10 Lakh+",
+            "change": "+20%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 35% to 3,900 Cr, while EBITDA rose around 3x to 300 Cr.",
+          "Q4 revenue grew 51% YoY to 919 Cr.",
+          "PAT loss narrowed sharply to 24 Cr, with management highlighting underlying profitability after one-off adjustments.",
+          "Paid enrolments crossed 10 lakh new enrolments, up 20% YoY.",
+          "Online revenue grew 39% and reached 50.1% of total revenue."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT",
+            "value": "Full-year profitability targeted"
+          },
+          {
+            "metric": "Offline Business",
+            "value": "Breakeven expected in FY27"
+          },
+          {
+            "metric": "Online Revenue Mix",
+            "value": "Targeting 55% over 3 years"
+          }
+        ],
+        "highlights": [
+          "Online revenues grew 39% and reached 50.1% of revenue.",
+          "PBT turned positive at 10 Cr versus a loss last year.",
+          "Paid enrolment growth remained strong across the platform.",
+          "Management targets full-year PAT profitability in FY27.",
+          "Offline business is expected to break even in FY27.",
+          "Online revenue mix is targeted to move toward 55% over three years."
+        ],
+        "quote": "\"FY27 is expected to be the year of full-year PAT profitability.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Affle (India) Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹747 Cr",
+            "change": "+20.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹168 Cr",
+            "change": "+20.0% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹128 Cr",
+            "change": "+21.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "22.4%",
+            "change": "+10 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 20.4% YoY to ₹747 Cr",
+          "EBITDA rose 20% to ₹168 Cr",
+          "PAT increased 21.7% to ₹128 Cr",
+          "PAT margin improved 60 bps QoQ to 16.6%",
+          "Both emerging and developed markets grew above 20%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Medium-Term Revenue CAGR",
+            "guided": "20%",
+            "actual": "Q1 revenue grew 20.4%",
+            "status": "met"
+          },
+          {
+            "metric": "Decadal Vision",
+            "guided": "10x growth ambition",
+            "actual": "Record quarter with 14 sequential growth quarters",
+            "status": "partial"
+          },
+          {
+            "metric": "Patent Portfolio",
+            "guided": "18 granted; 21 filed or pending",
+            "actual": "Portfolio now has 300+ enforceable claims",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-Term Growth",
+            "value": "Sustain 20% revenue growth"
+          },
+          {
+            "metric": "AdColony Reach",
+            "value": "100,000+ apps and 500 Mn devices"
+          },
+          {
+            "metric": "Large Acquisition",
+            "value": "Targeted by early 2027"
+          },
+          {
+            "metric": "Long-Term Vision",
+            "value": "10x growth ambition"
+          }
+        ],
+        "highlights": [
+          "Q1 marked the 14th straight quarter of sequential growth",
+          "Revenue, EBITDA, PAT and conversions hit records",
+          "India and emerging markets grew 20.2%",
+          "Developed markets grew 20.7%",
+          "AdColony assets expanded publisher reach",
+          "A larger acquisition entered due diligence"
+        ],
+        "quote": "\"Affle delivered record results while sustaining its 20% growth framework.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "27.1 Bn",
+            "change": "+19.5%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "6.10 Bn",
+            "change": "+26.3%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "4.55 Bn",
+            "change": "+19.1%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "7.24 Bn",
+            "change": "+20.3%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 19.5% to 27.1 Bn, with EBITDA margin expanding to 22.5%.",
+          "Q4 revenue and EBITDA both grew 20.3% YoY.",
+          "The company delivered its 13th consecutive quarter of sequential topline growth.",
+          "PAT grew 19.1% to 4.55 Bn with PAT margin at 16.3%.",
+          "Operating cash flow remained strong at 5.02 Bn for FY26."
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-Term Revenue CAGR",
+            "value": "20%"
+          },
+          {
+            "metric": "Decadal Vision",
+            "value": "10x growth ambition"
+          },
+          {
+            "metric": "Patent Portfolio",
+            "value": "18 granted, 21 filed or pending"
+          }
+        ],
+        "highlights": [
+          "FY26 operating cash flow stood at 5.02 Bn.",
+          "CPCU conversions reached 120.3 Mn in Q4 at a CPCU rate of 60.",
+          "Direct advertisers contributed around 75% of business.",
+          "EBITDA margin expanded by around 120 bps in FY26.",
+          "Patent portfolio reached 18 granted patents with 21 filed or pending.",
+          "Medium-term revenue CAGR guidance remains around 20%."
+        ],
+        "quote": "\"Affle continues to target 20% CAGR with disciplined profitability.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Zinka Logistics Solutions Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹55 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹42 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Monthly Users",
+            "value": "~9 Lakh",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Tolling GTV",
+            "value": "~₹6,000 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total income grew 38% YoY",
+          "Revenue from operations increased 42%",
+          "Adjusted EBITDA rose 16% to ₹55 Cr",
+          "PAT grew 25% to ₹42 Cr",
+          "Growth-business revenue increased 153% YoY"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Vehicle Finance",
+            "guided": "Profitability by FY27-end",
+            "actual": "Convergence remains on track",
+            "status": "partial"
+          },
+          {
+            "metric": "Power Users",
+            "guided": "+22% YoY",
+            "actual": "Deeper users grew around 20%",
+            "status": "partial"
+          },
+          {
+            "metric": "Tolling GTV",
+            "guided": "+27% YoY",
+            "actual": "Q1 GTV grew 16%",
+            "status": "missed"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Vehicle Finance",
+            "value": "Profitability by FY27-end"
+          },
+          {
+            "metric": "Core Operating Leverage",
+            "value": "60-85% conversion to EBITDA"
+          },
+          {
+            "metric": "Super Loads",
+            "value": "Continue investment across 14 cities"
+          }
+        ],
+        "highlights": [
+          "Core-business revenue grew 21% YoY",
+          "Growth businesses rose 44% QoQ",
+          "Contribution margin held at 93%",
+          "Telematics device sales reached a record",
+          "Tolling transactions grew 12% YoY",
+          "Fuel recovery remained uncertain"
+        ],
+        "quote": "\"Growth businesses accelerated while vehicle finance stayed on its profitability path.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Total Income",
+            "value": "715 Cr",
+            "change": "+55%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "190 Cr",
+            "change": "+84%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "160 Cr",
+            "change": "Positive",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Adjusted EBITDA",
+            "value": "50.2 Cr",
+            "change": "+30%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income grew around 55% to 715 Cr.",
+          "Adjusted EBITDA rose to around 190 Cr, while PAT turned positive at 160 Cr.",
+          "Q4 adjusted EBITDA grew 30% YoY to 50.2 Cr.",
+          "Tolling GTV grew 27% YoY, outperforming the broader NETC CV market.",
+          "Free cash flow from operations remained strong at around 185-190 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "Vehicle Finance",
+            "value": "Expected to exit investment mode by FY27-end"
+          },
+          {
+            "metric": "Power Users",
+            "value": "+22% YoY"
+          },
+          {
+            "metric": "Tolling GTV",
+            "value": "+27% YoY"
+          }
+        ],
+        "highlights": [
+          "Transacting customers grew around 13% YoY.",
+          "Free cash flow from operations stood around 185-190 Cr.",
+          "Profitability turnaround continued from deep losses to full-year PAT profit.",
+          "Power users grew around 22% YoY.",
+          "Vehicle finance is expected to exit investment mode by FY27-end.",
+          "The core business delivered strong cash conversion."
+        ],
+        "quote": "\"The platform delivered scale growth with a sharp profitability turnaround.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "RateGain Travel Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹785 Cr",
+            "change": "+188% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹193 Cr",
+            "change": "+89% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. EBITDA Margin",
+            "value": "24.6%",
+            "change": "Record",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹117 Cr",
+            "change": "+149% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue reached a quarterly high of ₹785 Cr, up 187.6% YoY",
+          "Combined organic revenue growth was 17.5% YoY",
+          "Adjusted EBITDA grew 89.3% to ₹193.4 Cr with 24.6% margin",
+          "Adjusted PAT increased 148.8% to ₹116.8 Cr",
+          "The company repaid 38% of its acquisition loan, reducing outstanding debt to $77.5 Mn"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue",
+            "guided": "₹3,000-3,100 Cr",
+            "actual": "₹785 Cr Q1; ₹3,140 Cr annualised",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "21.5-22.5%",
+            "actual": "24.6% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Free Cash Conversion",
+            "guided": "Above 75%",
+            "actual": "78.8%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Around ₹3,100 Cr"
+          },
+          {
+            "metric": "FY27 Adjusted EBITDA Margin",
+            "value": "22.5-23.5%"
+          },
+          {
+            "metric": "Near-to-Mid-Term Growth",
+            "value": "15-20% aspiration"
+          }
+        ],
+        "highlights": [
+          "FY27 revenue guidance was moved to the upper end of the prior range",
+          "Margin guidance was raised by around 100 bps",
+          "Q1 included a one-time $2.5 Mn FIFA World Cup revenue uplift",
+          "The one-time uplift is expected to normalise in Q2",
+          "DaaS revenue grew 22.7% YoY",
+          "Sojern integration moved from foundation building to monetisation"
+        ],
+        "quote": "\"The strong start and integration synergies supported an upward guidance revision.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "1,824 Cr",
+            "change": "+69.4%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "716 Cr",
+            "change": "+175%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Adjusted EBITDA Margin",
+            "value": "23.5%",
+            "change": "+177%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "194.4 Cr",
+            "change": "Positive",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 69.4% YoY to 1,824 Cr, ahead of revised guidance after the Sojern acquisition.",
+          "Q4FY26 revenue reached an all-time high of 716 Cr, with organic RateGain revenue up 19.3% YoY.",
+          "Adjusted PAT stood at 249.9 Cr for FY26, while reported PAT stood at 194.4 Cr.",
+          "Adjusted EBITDA margin stood at 23.5% in Q4FY26.",
+          "Annualized revenue run rate crossed 2,850 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "3,000-3,100 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA",
+            "value": "650-700 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "21.5-22.5%"
+          }
+        ],
+        "highlights": [
+          "Annualized revenue run rate crossed 2,850 Cr.",
+          "Sojern integration is ahead of plan, with annualized cost synergies at $15 Mn.",
+          "Management expects free cash flow to EBITDA conversion above 75% in FY27.",
+          "FY27 revenue guidance stands at 3,000-3,100 Cr.",
+          "FY27 EBITDA guidance stands at 650-700 Cr.",
+          "Management aims to build a $1 Bn revenue company by FY30-FY31."
+        ],
+        "quote": "\"The platform is built, the data is unmatched and the opportunity ahead is the largest in our history.\"",
+        "quotePerson": "Bhanu Chopra, Chairman & Managing Director",
+        "asOf": "May 2026"
+      }
+    ],
+    "CarTrade Tech Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹230 Cr",
+            "change": "Record quarter",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "~₹100 Cr",
+            "change": "+45% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹57 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Cash",
+            "value": "₹1,321 Cr",
+            "change": "Higher QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Quarterly revenue reached a record ₹230 Cr",
+          "Adjusted EBITDA was close to ₹100 Cr and grew 45% YoY",
+          "Consolidated EBITDA margin expanded to 31% from 25%",
+          "PAT grew 21% to ₹57 Cr despite higher deferred tax",
+          "Cash reserves increased to ₹1,321 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "PAT Ambition",
+            "guided": "₹1,000 Cr in 4-5 years",
+            "actual": "₹57 Cr in Q1; ambition reaffirmed",
+            "status": "partial"
+          },
+          {
+            "metric": "Consumer Platform Margin",
+            "guided": "Further expansion",
+            "actual": "EBITDA margin reached 33%",
+            "status": "met"
+          },
+          {
+            "metric": "Cash Position",
+            "guided": "₹1,244 Cr reserves",
+            "actual": "₹1,321 Cr",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "PAT Ambition",
+            "value": "₹1,000 Cr in 4-5 years"
+          },
+          {
+            "metric": "40-40 Goal",
+            "value": "40% profit growth and above 40% margin"
+          },
+          {
+            "metric": "Margin Direction",
+            "value": "Q1 margin expected to be surpassed later in FY27"
+          }
+        ],
+        "highlights": [
+          "EBITDA has grown more than 45% for sixteen consecutive quarters",
+          "Consumer platform EBITDA margin reached 33%",
+          "Remarketing profit grew 38% with 28% margin",
+          "OLX revenue grew 29% and EBITDA grew 76%",
+          "Total cost increased only 7%",
+          "Transaction-led revenue is expected to deepen monetisation"
+        ],
+        "quote": "\"The company is compounding profit faster than revenue while building cash.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue Growth",
+            "value": "22%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA Growth",
+            "value": "70%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "243 Cr",
+            "change": "+68%",
+            "positive": 1
+          },
+          {
+            "label": "Cash Reserves",
+            "value": "1,244 Cr",
+            "change": "+300 Cr",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 22%, while EBITDA grew 70% with EBITDA margin at 33%.",
+          "Q4 EBITDA grew 55% and Q4 EBITDA margin expanded to 35%.",
+          "FY26 PAT grew 68% to 243 Cr, supported by strong operating leverage.",
+          "Cash reserves increased to 1,244 Cr after adding around 300 Cr during the year.",
+          "Consumer, Remarketing and OLX all delivered strong profit growth."
+        ],
+        "guidance": [
+          {
+            "metric": "PAT Ambition",
+            "value": "1,000 Cr in 4-5 years"
+          },
+          {
+            "metric": "Consumer Platform",
+            "value": "Further margin expansion expected"
+          },
+          {
+            "metric": "Cash Position",
+            "value": "1,244 Cr reserves"
+          }
+        ],
+        "highlights": [
+          "Consumer group FY26 revenue grew 30% and EBITDA grew 96%.",
+          "Remarketing FY26 revenue grew 22% with EBITDA margin of 28%.",
+          "OLX FY26 EBITDA grew 54% and PAT grew 77%.",
+          "Three-year PAT CAGR stood at 82%.",
+          "Management targets PAT of 1,000 Cr over 4-5 years.",
+          "Cash reserves provide flexibility for organic and inorganic growth."
+        ],
+        "quote": "\"The company is targeting a much larger profit pool over the next 4-5 years.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

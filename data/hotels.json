@@ -17,323 +17,1252 @@
     "Samhi Hotels Ltd"
   ],
   "concall": {
-    "Indian Hotels Company Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹9,971 Cr", "change": "+16% YoY", "positive": 1 },
-        { "label": "EBITDA (FY26)", "value": "₹3,477 Cr", "change": "+16% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "35%", "change": "Consolidated", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "₹2,845 Cr", "change": "+14% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated FY26 revenue stood at ₹9,971 Cr (+16% YoY), while EBITDA stood at ₹3,477 Cr (+16% YoY)",
-        "Consolidated PAT crossed ₹2,000 Cr for the first time",
-        "Q4FY26 revenue stood at ₹2,845 Cr (+14% YoY), with EBITDA of ₹1,052 Cr (+15% YoY)",
-        "Q4FY26 EBITDA margin stood at 37%, while PAT before exceptional items stood at ₹600 Cr",
-        "Standalone FY26 revenue stood at ₹5,640 Cr and standalone PAT stood at ₹1,632 Cr"
-      ],
-      "guidance": [
-        { "metric": "Portfolio", "value": "630+ hotels and 64,000+ keys" },
-        { "metric": "Pipeline Mix", "value": "93% managed / asset-light" },
-        { "metric": "New Businesses", "value": "Expected to raise enterprise revenue contribution from current 10%" },
-        { "metric": "Growth Model", "value": "Multi-brand expansion across luxury, upscale, midscale and alternative stays" }
-      ],
-      "highlights": [
-        "FY26 was the 16th consecutive quarter of record performance",
-        "Standalone Q4FY26 RevPAR grew 12%, showing pricing strength in core assets",
-        "New businesses grew 25% in FY26 and delivered revenue of ₹753 Cr",
-        "Ginger Mumbai Airport crossed ₹100 Cr revenue with 56% EBITDA margin",
-        "Qmin crossed 100 outlets, while Ama crossed 375 bungalows",
-        "IHCL is outperforming on scale, brand depth, asset-light expansion and margin delivery"
-      ],
-      "quote": "\"IHCL is outperforming the sector on scale, portfolio depth, brand strength, new business growth, asset-light expansion and margin delivery.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "EIH Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "+8%", "change": "Consolidated", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "+3%", "change": "Consolidated", "positive": 1 },
-        { "label": "Cash Funds", "value": "₹1,335 Cr", "change": "vs ₹1,051 Cr earlier", "positive": 1 },
-        { "label": "CFO", "value": "₹993 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4FY26 consolidated revenue grew 10%, while EBITDA grew 1%",
-        "FY26 consolidated revenue grew 8%, while EBITDA grew 3%",
-        "FY26 PAT was impacted by one-time wage code and Mashobra fair value impacts",
-        "Cash funds stood at ₹1,335 Cr and cash flow from operations stood at ₹993 Cr",
-        "FY26 capex stood at ₹680 Cr, while dividend payout stood at ₹97 Cr"
-      ],
-      "outlook": "EIH expects hotel industry fundamentals to remain strong, while renovation disruption, international travel recovery and wage-code impact remain key monitorables.",
-      "highlights": [
-        "FY26 was challenging due to Operation Sindoor, West Asia conflict, heavy rains and airline disruptions",
-        "13 out of 15 hotels ranked 1st or 2nd in STR benchmarking",
-        "Oberoi FY26 RevPAR grew 10% vs Indian luxury segment growth of 6%",
-        "Oberoi Q4FY26 RGI stood at 204, while FY26 RGI stood at 191",
-        "Trident FY26 RevPAR grew 10% vs upper upscale segment growth of 5%",
-        "Renovation work is ongoing across Trident BKC, Trident Nariman Point and The Oberoi Mumbai"
-      ],
-      "quote": "\"EIH is outperforming the sector on luxury positioning, STR ranking, RevPAR leadership and balance sheet strength.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Leela Palaces Hotels & Resorts Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Operating Revenue", "value": "₹1,527 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "Operating EBITDA", "value": "₹743 Cr", "change": "+19% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "49%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹403 Cr", "change": "vs ₹48 Cr LY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 operating revenue stood at ₹1,527 Cr (+15% YoY), while operating EBITDA stood at ₹743 Cr (+19% YoY)",
-        "FY26 EBITDA margin stood at 49%, while PAT stood at ₹403 Cr vs ₹48 Cr last year",
-        "Q4FY26 operating revenue stood at ₹484 Cr (+12% YoY), with operating EBITDA of ₹266 Cr (+13% YoY)",
-        "Q4FY26 EBITDA margin stood at 55%, while Q4 PAT stood at ₹172 Cr vs ₹117 Cr last year",
-        "FY26 same-store RevPAR increased 14%, FY26 ADR increased 13% and Q4FY26 ADR increased 15%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Blended Occupancy", "value": "Early 70s" },
-        { "metric": "City Hotels Occupancy", "value": "Mid-70s" },
-        { "metric": "Resort Occupancy", "value": "Mid-60s to late-60s" },
-        { "metric": "Upcoming Openings", "value": "Jaisalmer, Mumbai residences and ARQ launches in FY27" }
-      ],
-      "highlights": [
-        "Domestic demand remained strong and offset international inbound weakness",
-        "Net Promoter Score stood at 86, 12 points above Asia Pacific luxury average",
-        "RevPAR index strengthened to 150 and market share improved by 11 points",
-        "F&B revenue grew 15% in FY26, driven by restaurants and banqueting",
-        "FY26 marked the fastest expansion phase, with 23% growth in keys",
-        "Net debt reduced by 50%, with net debt / EBITDA at 1.6x"
-      ],
-      "quote": "\"Leela is clearly outperforming the sector on luxury RevPAR, ADR growth, profitability, NPS, market share gains and balance sheet improvement.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Lemon Tree Hotels Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹1,453 Cr", "change": "+13% YoY", "positive": 1 },
-        { "label": "Net EBITDA", "value": "₹699 Cr", "change": "+10% YoY", "positive": 1 },
-        { "label": "PAT", "value": "₹288 Cr", "change": "+19% YoY", "positive": 1 },
-        { "label": "Occupancy", "value": "74%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,453 Cr (+13% YoY), while net EBITDA stood at ₹699 Cr (+10% YoY)",
-        "FY26 PAT stood at ₹288 Cr (+19% YoY) and cash profit stood at ₹443 Cr (+16% YoY)",
-        "FY26 gross ARR stood at ₹6,875 and occupancy stood at 74%",
-        "Q4FY26 revenue stood at ₹420 Cr (+11% YoY), with net EBITDA of ₹218 Cr (+7% YoY)",
-        "Q4FY26 PAT stood at ₹117 Cr (+8% YoY), occupancy stood at 79% and EBITDA margin stood at 52%"
-      ],
-      "guidance": [
-        { "metric": "Expense Drag", "value": "Renovation, tech and GST heads to reduce to ~4% of revenue by FY28" },
-        { "metric": "Opening Pace", "value": "Around 2,000 rooms" },
-        { "metric": "Aurika Naldehra", "value": "Two blocks planned by Q2FY27" },
-        { "metric": "Portfolio Pipeline", "value": "22,581 rooms across 268 hotels" }
-      ],
-      "highlights": [
-        "FY26 was the best year in Lemon Tree's history across occupancy, ARR, revenue, EBITDA, PBT, PAT and cash profit",
-        "Total borrowings reduced to ₹1,500 Cr vs ₹1,699 Cr last year",
-        "Cost of debt reduced to 7%",
-        "Operational portfolio stands at 131 hotels and 11,811 rooms",
-        "FY26 saw 55 managed / franchised hotels signed with 4,912 rooms",
-        "Third-party management and franchise fees stood at ₹74 Cr, up 23%"
-      ],
-      "quote": "\"Lemon Tree is outperforming the mid-market sector on occupancy, pipeline scale, management fees and asset-light growth.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Samhi Hotels Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Total Income", "value": "₹1,279 Cr", "change": "+12% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹463 Cr", "change": "+9% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "36%", "change": "FY26", "positive": 1 },
-        { "label": "Net Debt", "value": "₹1,450 Cr", "change": "~3x EBITDA", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 total income stood at ₹1,279 Cr (+12% YoY), ahead of original 9-11% revenue growth guidance",
-        "Same-store RevPAR grew 10%, while consolidated EBITDA stood at ₹463 Cr (+9% YoY)",
-        "PBT before exceptional items stood at ₹165 Cr vs ₹87 Cr last year",
-        "Reported PAT stood at ₹567 Cr, including deferred tax recognition and impairment reversals",
-        "Q4FY26 total income stood at ₹354 Cr (+9% YoY), while consolidated EBITDA stood at ₹120 Cr"
-      ],
-      "guidance": [
-        { "metric": "GIC Platform", "value": "₹750 Cr commitment for 35% stake in 1,000-room platform" },
-        { "metric": "GIC Funds Received", "value": "₹600 Cr" },
-        { "metric": "Noida Project", "value": "162-room upscale hotel with Ingka / IKEA Group" },
-        { "metric": "Hyderabad Project", "value": "260-room hotel at One Financial District" }
-      ],
-      "highlights": [
-        "One-time disruptions reduced FY26 growth from potential 16-17% to reported 12%",
-        "GST change impacted H2FY26 consolidated EBITDA by around ₹14 Cr",
-        "Adjusted FY26 EBITDA growth would have been around 19-20% with margin above 38%",
-        "Finance cost declined to ₹171 Cr vs ₹225 Cr last year due to deleveraging",
-        "Net debt reduced by around ₹516 Cr from ₹1,967 Cr last year",
-        "SAMHI has a fully committed pipeline of new openings"
-      ],
-      "quote": "\"SAMHI is outperforming the sector on balance sheet repair, RevPAR growth, deleveraging and growth optionality through GIC platform.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Juniper Hotels Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Operating Revenue", "value": "₹1,048 Cr", "change": "+11% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹444 Cr", "change": "+21% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "42%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹142 Cr", "change": "+99% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 operating revenue stood at ₹1,048 Cr (+11% YoY), while EBITDA stood at ₹444 Cr (+21% YoY)",
-        "FY26 PBT before exceptional items stood at ₹235 Cr (+57% YoY), while PAT stood at ₹142 Cr (+99% YoY)",
-        "Q4FY26 operating revenue stood at ₹302 Cr, with EBITDA of ₹138 Cr and PAT of ₹50 Cr",
-        "Q4FY26 ARR stood at ₹13,457 (+8% YoY), occupancy stood at 81% and EBITDA margin stood at 45%",
-        "Net debt stood at ₹625 Cr, with net debt / EBITDA at 1.4x"
-      ],
-      "guidance": [
-        { "metric": "Room Growth", "value": "1,895 rooms in FY26 to 3,320+ keys by FY30" },
-        { "metric": "Delhi + Bangalore", "value": "More than 1,000 keys to be added" },
-        { "metric": "Bangalore Phase 2", "value": "266 rooms expected to enter development in H2FY27" },
-        { "metric": "Northeast Expansion", "value": "Kaziranga resort and Guwahati project" }
-      ],
-      "highlights": [
-        "FY26 was a record year despite wars, airline disruption and commodity inflation",
-        "ARR-led growth was the key driver, with portfolio ARR up 9% in FY26",
-        "Grand Hyatt Mumbai, Andaz Delhi and Hyatt Regency Ahmedabad outperformed competitive sets on ARR growth",
-        "Q4FY26 F&B revenue stood at ₹85 Cr, forming 28% of total revenue",
-        "Annuity assets including apartments and lease rentals grew 18% YoY in Q4 to ₹43 Cr",
-        "Renewable energy share increased to 33% of overall unit consumption in Q4"
-      ],
-      "quote": "\"Juniper is outperforming the sector on EBITDA margin expansion, ARR growth, F&B monetisation, net debt comfort and luxury asset pipeline.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Chalet Hotels Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Consol. Revenue", "value": "₹2,812 Cr", "change": "+60% YoY", "positive": 1 },
-        { "label": "Consol. EBITDA", "value": "₹1,230 Cr", "change": "+59% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "44%", "change": "Consolidated", "positive": 1 },
-        { "label": "Hospitality Revenue", "value": "₹1,731 Cr", "change": "+14% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated FY26 revenue stood at ₹2,812 Cr (+60% YoY), while EBITDA stood at ₹1,230 Cr (+59% YoY)",
-        "Ex-residential revenue stood at ₹2,074 Cr (+18% YoY), with EBITDA of ₹957 Cr (+21% YoY)",
-        "Hospitality revenue stood at ₹1,731 Cr (+14% YoY), with EBITDA of ₹760 Cr (+12% YoY)",
-        "FY26 hospitality RevPAR stood at ₹9,226, up 5%",
-        "Q4FY26 consolidated revenue stood at ₹571 Cr (+6% YoY), with EBITDA margin of 49%"
-      ],
-      "guidance": [
-        { "metric": "Operating Keys", "value": "3,389" },
-        { "metric": "Pipeline", "value": "~1,655 keys" },
-        { "metric": "Taj Delhi Airport", "value": "70 rooms expected by Q4FY27" },
-        { "metric": "Powai Office Rentals", "value": "₹280 / sq ft run-rate with ~90% occupancy" }
-      ],
-      "highlights": [
-        "FY26 was a milestone year as revenue crossed ₹2,500 Cr and EBITDA crossed ₹1,000 Cr",
-        "Q4FY26 RevPAR declined 3% due to 8 percentage point occupancy decline",
-        "Mumbai underperformed in Q4 due to event absence, elections, long weekend and travel disruption",
-        "Powai property faced temporary constraints due to CIGNUS II construction",
-        "Resorts performed well in Q4 compared to business hotels",
-        "Management remains confident in structural demand and long-term hospitality fundamentals"
-      ],
-      "quote": "\"Chalet is outperforming the sector on diversified platform scale, EBITDA margin, commercial office monetisation and operating leverage.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Brigade Hotel Ventures Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Income", "value": "₹543 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹192 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "PAT", "value": "₹65 Cr", "change": "vs ₹24 Cr LY", "positive": 1 },
-        { "label": "Q4 EBITDA Margin", "value": "40%", "change": "Q4FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 consolidated income stood at ₹543 Cr (+15% YoY), while EBITDA stood at ₹192 Cr (+15% YoY)",
-        "FY26 PAT stood at ₹65 Cr vs ₹24 Cr last year",
-        "Q4FY26 total income stood at ₹146 Cr (+8% YoY), while EBITDA stood at ₹58 Cr (+13% YoY)",
-        "Q4FY26 PAT stood at ₹25 Cr vs ₹13 Cr last year",
-        "Q4FY26 ARR grew 7% and RevPAR grew 6%"
-      ],
-      "guidance": [
-        { "metric": "Chennai WTC", "value": "Courtyard by Marriott expected in Q3FY27" },
-        { "metric": "Kochi Upgrade", "value": "Four Points to Courtyard by Marriott" },
-        { "metric": "ARR Goal", "value": "Move sub-₹7,500 ARR hotels above ₹7,500" },
-        { "metric": "Renewable Energy", "value": "61% adoption across portfolio" }
-      ],
-      "highlights": [
-        "FY26 was supported by domestic demand, weddings, leisure travel and corporate activity",
-        "Q4FY26 occupancy remained relatively stable, while growth was driven by ARR improvement",
-        "GST 2.0 impacted Q4 EBITDA margin by around 1%",
-        "FY26 EBITDA was impacted by additional property tax expense of around ₹6 Cr",
-        "Interest cost reduced due to loan repayments, supporting PAT growth",
-        "Queries and bookings are returning as disruption normalizes"
-      ],
-      "quote": "\"Brigade is outperforming the sector on PAT growth, margin discipline, renewable energy adoption and balance sheet improvement.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Apeejay Surrendra Park Hotels Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Operating Revenue", "value": "₹707 Cr", "change": "+12% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹218 Cr", "change": "FY26", "positive": 1 },
-        { "label": "Occupancy", "value": "91%", "change": "FY26", "positive": 1 },
-        { "label": "RevPAR", "value": "₹7,584", "change": "+7% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 consolidated operating revenue stood at ₹707 Cr (+12% YoY)",
-        "FY26 EBITDA stood at ₹218 Cr, with EBITDA margin of 31%",
-        "FY26 PAT stood at ₹66 Cr, with PAT margin of 9%",
-        "FY26 occupancy stood at 91%, ARR stood at ₹8,304 (+9% YoY) and RevPAR stood at ₹7,584 (+7% YoY)",
-        "Q4FY26 operating revenue stood at ₹184 Cr (+4% YoY), with EBITDA margin of 29%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Launch Plan", "value": "12 hotels with 472 keys" },
-        { "metric": "FY27 Key Count", "value": "Expected to cross 3,000 keys" },
-        { "metric": "Long-Term Plan", "value": "85 hotels and 6,635 keys" },
-        { "metric": "Flurys Expansion", "value": "30+ outlets over next 10 months" }
-      ],
-      "highlights": [
-        "FY26 was significant as revenue crossed ₹700 Cr for the first time",
-        "The Park Calcutta achieved 100% occupancy in Q4 and for the full year",
-        "F&B revenue crossed ₹300 Cr in FY26 and contributed 43% of total revenue",
-        "Flurys delivered 29% revenue growth in FY26 and has 110 outlets",
-        "EM Bypass sales are expected to improve FY27 cash flows by around ₹70 Cr",
-        "FY26 saw 7 hospitality properties launched, adding 283 keys"
-      ],
-      "quote": "\"Apeejay is outperforming the sector on occupancy, RevPAR leadership, F&B contribution and asset-light expansion.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Indian Hotels Company Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,419 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹753 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹358 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "31.1%",
+            "change": "Expanded",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 15% YoY to ₹2,419 Cr",
+          "EBITDA rose 18% to ₹753 Cr with 31.1% margin",
+          "PAT increased 21% to ₹358 Cr",
+          "Hotel segment revenue and domestic RevPAR grew 17%",
+          "Standalone EBITDA grew 30% with margin of 41.8%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Portfolio",
+            "guided": "630+ hotels and 64,000+ keys",
+            "actual": "Portfolio approached 650 hotels",
+            "status": "met"
+          },
+          {
+            "metric": "Asset-light Pipeline",
+            "guided": "93% managed",
+            "actual": "New signings and openings remained management-led",
+            "status": "met"
+          },
+          {
+            "metric": "New Businesses",
+            "guided": "Increase contribution from 10%",
+            "actual": "Ginger revenue grew 20%; Qmin crossed 100 outlets",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth",
+            "value": "Double-digit revenue growth with sustained margins"
+          },
+          {
+            "metric": "Portfolio",
+            "value": "Continue multi-brand, asset-light expansion"
+          }
+        ],
+        "highlights": [
+          "RevPAR grew across all major brands",
+          "Ginger revenue reached ₹183 Cr with 39% EBITDA margin",
+          "Qmin expanded beyond 100 outlets",
+          "New businesses continued to gain scale",
+          "Management fees benefited from opening momentum",
+          "The balance sheet retained flexibility for growth investments"
+        ],
+        "quote": "\"IHCL sustained double-digit growth across revenue, earnings and RevPAR while approaching 650 hotels.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹9,971 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹3,477 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "35%",
+            "change": "Consolidated",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "₹2,845 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated FY26 revenue stood at ₹9,971 Cr (+16% YoY), while EBITDA stood at ₹3,477 Cr (+16% YoY)",
+          "Consolidated PAT crossed ₹2,000 Cr for the first time",
+          "Q4FY26 revenue stood at ₹2,845 Cr (+14% YoY), with EBITDA of ₹1,052 Cr (+15% YoY)",
+          "Q4FY26 EBITDA margin stood at 37%, while PAT before exceptional items stood at ₹600 Cr",
+          "Standalone FY26 revenue stood at ₹5,640 Cr and standalone PAT stood at ₹1,632 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "Portfolio",
+            "value": "630+ hotels and 64,000+ keys"
+          },
+          {
+            "metric": "Pipeline Mix",
+            "value": "93% managed / asset-light"
+          },
+          {
+            "metric": "New Businesses",
+            "value": "Expected to raise enterprise revenue contribution from current 10%"
+          },
+          {
+            "metric": "Growth Model",
+            "value": "Multi-brand expansion across luxury, upscale, midscale and alternative stays"
+          }
+        ],
+        "highlights": [
+          "FY26 was the 16th consecutive quarter of record performance",
+          "Standalone Q4FY26 RevPAR grew 12%, showing pricing strength in core assets",
+          "New businesses grew 25% in FY26 and delivered revenue of ₹753 Cr",
+          "Ginger Mumbai Airport crossed ₹100 Cr revenue with 56% EBITDA margin",
+          "Qmin crossed 100 outlets, while Ama crossed 375 bungalows",
+          "IHCL is outperforming on scale, brand depth, asset-light expansion and margin delivery"
+        ],
+        "quote": "\"IHCL is outperforming the sector on scale, portfolio depth, brand strength, new business growth, asset-light expansion and margin delivery.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "EIH Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹698 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹207 Cr",
+            "change": "+6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹120 Cr",
+            "change": "Positive",
+            "positive": 1
+          },
+          {
+            "label": "RevPAR",
+            "value": "₹12,801",
+            "change": "Higher YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 15% YoY to ₹698 Cr",
+          "EBITDA increased to ₹207 Cr from ₹195 Cr",
+          "PAT stood at ₹120 Cr",
+          "Group RevPAR increased to ₹12,801",
+          "Owned-hotel RevPAR approached ₹15,000 by quarter-end"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "ARR Growth",
+            "guided": "Continue positive growth in FY27",
+            "actual": "ARR rose across the portfolio",
+            "status": "met"
+          },
+          {
+            "metric": "Occupancy",
+            "guided": "Improve through domestic demand",
+            "actual": "Occupancy increased despite weak foreign arrivals",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Demand",
+            "value": "Domestic demand expected to support occupancy"
+          },
+          {
+            "metric": "ARR",
+            "value": "Further rate growth expected during FY27"
+          }
+        ],
+        "highlights": [
+          "Domestic demand offset weaker foreign tourist arrivals",
+          "Luxury Oberoi RevPAR grew 13.2%",
+          "RGI improved to 125 from 121",
+          "Mumbai hotels delivered strong occupancy and ARR growth",
+          "IT investments and renovation write-offs limited EBITDA growth",
+          "Management expects foreign arrivals to normalise later in the year"
+        ],
+        "quote": "\"EIH delivered healthy revenue and RevPAR growth despite softer international arrivals.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "+8%",
+            "change": "Consolidated",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "+3%",
+            "change": "Consolidated",
+            "positive": 1
+          },
+          {
+            "label": "Cash Funds",
+            "value": "₹1,335 Cr",
+            "change": "vs ₹1,051 Cr earlier",
+            "positive": 1
+          },
+          {
+            "label": "CFO",
+            "value": "₹993 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4FY26 consolidated revenue grew 10%, while EBITDA grew 1%",
+          "FY26 consolidated revenue grew 8%, while EBITDA grew 3%",
+          "FY26 PAT was impacted by one-time wage code and Mashobra fair value impacts",
+          "Cash funds stood at ₹1,335 Cr and cash flow from operations stood at ₹993 Cr",
+          "FY26 capex stood at ₹680 Cr, while dividend payout stood at ₹97 Cr"
+        ],
+        "outlook": "EIH expects hotel industry fundamentals to remain strong, while renovation disruption, international travel recovery and wage-code impact remain key monitorables.",
+        "highlights": [
+          "FY26 was challenging due to Operation Sindoor, West Asia conflict, heavy rains and airline disruptions",
+          "13 out of 15 hotels ranked 1st or 2nd in STR benchmarking",
+          "Oberoi FY26 RevPAR grew 10% vs Indian luxury segment growth of 6%",
+          "Oberoi Q4FY26 RGI stood at 204, while FY26 RGI stood at 191",
+          "Trident FY26 RevPAR grew 10% vs upper upscale segment growth of 5%",
+          "Renovation work is ongoing across Trident BKC, Trident Nariman Point and The Oberoi Mumbai"
+        ],
+        "quote": "\"EIH is outperforming the sector on luxury positioning, STR ranking, RevPAR leadership and balance sheet strength.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Leela Palaces Hotels & Resorts Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating Revenue",
+            "value": "₹352 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹143 Cr",
+            "change": "+41% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "41%",
+            "change": "Record Q1",
+            "positive": 1
+          },
+          {
+            "label": "RevPAR Growth",
+            "value": "+17%",
+            "change": "YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Operating revenue grew 28% YoY to ₹352 Cr",
+          "Operating EBITDA increased 41% to ₹143 Cr",
+          "EBITDA margin reached a record first-quarter level of 41%",
+          "RevPAR grew 17%, led by 10% ADR growth and occupancy gains",
+          "F&B revenue grew 25% to ₹132 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Occupancy",
+            "guided": "Blended occupancy in early 70s",
+            "actual": "Q1 occupancy recovered to 67.5%",
+            "status": "partial"
+          },
+          {
+            "metric": "City Hotels",
+            "guided": "Mid-70s occupancy",
+            "actual": "Owned palace hotels reached nearly 70%",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Openings",
+            "guided": "Jaisalmer, Mumbai residences and ARQ",
+            "actual": "Jaisalmer and other FY27 projects remain on track",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Openings",
+            "value": "Jaisalmer and other planned launches remain on track"
+          },
+          {
+            "metric": "Pipeline",
+            "value": "More than 1,000 keys under development"
+          }
+        ],
+        "highlights": [
+          "Domestic room revenue at five palace hotels grew 25%",
+          "City hotel RevPAR grew 14% and resort RevPAR grew 24%",
+          "Non-room businesses contributed more than half of operating revenue",
+          "Direct website booking contribution doubled to 16%",
+          "The portfolio reached 25 properties and 5,257 keys",
+          "The development pipeline includes more than 1,000 keys"
+        ],
+        "quote": "\"Leela delivered strong operating leverage as occupancy recovered and premium pricing remained resilient.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating Revenue",
+            "value": "₹1,527 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹743 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "49%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹403 Cr",
+            "change": "vs ₹48 Cr LY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 operating revenue stood at ₹1,527 Cr (+15% YoY), while operating EBITDA stood at ₹743 Cr (+19% YoY)",
+          "FY26 EBITDA margin stood at 49%, while PAT stood at ₹403 Cr vs ₹48 Cr last year",
+          "Q4FY26 operating revenue stood at ₹484 Cr (+12% YoY), with operating EBITDA of ₹266 Cr (+13% YoY)",
+          "Q4FY26 EBITDA margin stood at 55%, while Q4 PAT stood at ₹172 Cr vs ₹117 Cr last year",
+          "FY26 same-store RevPAR increased 14%, FY26 ADR increased 13% and Q4FY26 ADR increased 15%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Blended Occupancy",
+            "value": "Early 70s"
+          },
+          {
+            "metric": "City Hotels Occupancy",
+            "value": "Mid-70s"
+          },
+          {
+            "metric": "Resort Occupancy",
+            "value": "Mid-60s to late-60s"
+          },
+          {
+            "metric": "Upcoming Openings",
+            "value": "Jaisalmer, Mumbai residences and ARQ launches in FY27"
+          }
+        ],
+        "highlights": [
+          "Domestic demand remained strong and offset international inbound weakness",
+          "Net Promoter Score stood at 86, 12 points above Asia Pacific luxury average",
+          "RevPAR index strengthened to 150 and market share improved by 11 points",
+          "F&B revenue grew 15% in FY26, driven by restaurants and banqueting",
+          "FY26 marked the fastest expansion phase, with 23% growth in keys",
+          "Net debt reduced by 50%, with net debt / EBITDA at 1.6x"
+        ],
+        "quote": "\"Leela is clearly outperforming the sector on luxury RevPAR, ADR growth, profitability, NPS, market share gains and balance sheet improvement.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Lemon Tree Hotels Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹347 Cr",
+            "change": "+9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹163 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹57.3 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Occupancy",
+            "value": "75.7%",
+            "change": "+314 bps",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 9% YoY to ₹346.8 Cr",
+          "Adjusted EBITDA rose 14% to ₹162.5 Cr",
+          "PAT increased 19% to ₹57.3 Cr",
+          "Cash profit grew 17% to ₹96 Cr",
+          "ARR increased 2% to ₹6,361 while occupancy improved 314 bps"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Opening Pace",
+            "guided": "Around 2,000 rooms",
+            "actual": "334 rooms opened and 1,020 rooms signed in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Portfolio Pipeline",
+            "guided": "22,581 rooms across 268 hotels",
+            "actual": "Expanded to 23,381 rooms across 279 hotels",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Renovation Drag",
+            "guided": "Reduce to ~4% of revenue by FY28",
+            "actual": "Temporary costs remained elevated in Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Pipeline",
+            "value": "23,381 rooms across 279 hotels"
+          },
+          {
+            "metric": "Renovation",
+            "value": "Continue renovating around 300 rooms per quarter"
+          }
+        ],
+        "highlights": [
+          "Six managed and franchised hotels opened during Q1",
+          "Thirteen hotels with 1,020 rooms were signed",
+          "Operational network reached 11,946 rooms across 135 hotels",
+          "Network revenue grew 16% to ₹576 Cr",
+          "Keys portfolio RevPAR grew 19%",
+          "Renovation and GST effects reduced reported EBITDA margin"
+        ],
+        "quote": "\"Lemon Tree expanded its pipeline and delivered higher occupancy, while temporary costs moderated reported margins.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,453 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net EBITDA",
+            "value": "₹699 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹288 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Occupancy",
+            "value": "74%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,453 Cr (+13% YoY), while net EBITDA stood at ₹699 Cr (+10% YoY)",
+          "FY26 PAT stood at ₹288 Cr (+19% YoY) and cash profit stood at ₹443 Cr (+16% YoY)",
+          "FY26 gross ARR stood at ₹6,875 and occupancy stood at 74%",
+          "Q4FY26 revenue stood at ₹420 Cr (+11% YoY), with net EBITDA of ₹218 Cr (+7% YoY)",
+          "Q4FY26 PAT stood at ₹117 Cr (+8% YoY), occupancy stood at 79% and EBITDA margin stood at 52%"
+        ],
+        "guidance": [
+          {
+            "metric": "Expense Drag",
+            "value": "Renovation, tech and GST heads to reduce to ~4% of revenue by FY28"
+          },
+          {
+            "metric": "Opening Pace",
+            "value": "Around 2,000 rooms"
+          },
+          {
+            "metric": "Aurika Naldehra",
+            "value": "Two blocks planned by Q2FY27"
+          },
+          {
+            "metric": "Portfolio Pipeline",
+            "value": "22,581 rooms across 268 hotels"
+          }
+        ],
+        "highlights": [
+          "FY26 was the best year in Lemon Tree's history across occupancy, ARR, revenue, EBITDA, PBT, PAT and cash profit",
+          "Total borrowings reduced to ₹1,500 Cr vs ₹1,699 Cr last year",
+          "Cost of debt reduced to 7%",
+          "Operational portfolio stands at 131 hotels and 11,811 rooms",
+          "FY26 saw 55 managed / franchised hotels signed with 4,912 rooms",
+          "Third-party management and franchise fees stood at ₹74 Cr, up 23%"
+        ],
+        "quote": "\"Lemon Tree is outperforming the mid-market sector on occupancy, pipeline scale, management fees and asset-light growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Samhi Hotels Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹308 Cr",
+            "change": "+7.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Comparable Growth",
+            "value": "+10.8%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Same-store RevPAR",
+            "value": "₹5,220",
+            "change": "+9.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Occupancy",
+            "value": "79.3%",
+            "change": "Higher YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total income grew 7.3% YoY to ₹308.3 Cr",
+          "Comparable revenue growth was 10.8%",
+          "Same-store revenue grew about 9.1%",
+          "Same-store RevPAR increased 9.6% to around ₹5,220",
+          "PBT rose 26.4% to ₹32.7 Cr as finance cost declined 25.5%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Long-term Revenue Growth",
+            "guided": "9-11%",
+            "actual": "Comparable growth was 10.8%",
+            "status": "met"
+          },
+          {
+            "metric": "Committed Pipeline",
+            "guided": "1,000-room GIC platform",
+            "actual": "Committed pipeline expanded to 1,660 rooms across seven hotels",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Deleveraging",
+            "guided": "2.4-2.5x net debt/EBITDA",
+            "actual": "TTM leverage was 3.2x; FY28 target retained",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Scale",
+            "value": "Path from ₹1,200 Cr to ₹3,000 Cr"
+          },
+          {
+            "metric": "Leverage",
+            "value": "Target 2.4-2.5x net debt/EBITDA by FY28"
+          }
+        ],
+        "highlights": [
+          "Net debt stood at about ₹1,490 Cr",
+          "Comparable hotel EBITDA growth was around 12.5%",
+          "Upper upscale and upscale hotels generated nearly four times midscale revenue per key",
+          "The committed pipeline is concentrated in upscale categories",
+          "RARE expanded to 75 hotels with 1,046 rooms",
+          "July trends showed rate growth beginning to complement occupancy"
+        ],
+        "quote": "\"SAMHI stayed within its long-term growth range and expanded its upscale pipeline despite inbound travel disruption.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹1,279 Cr",
+            "change": "+12% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹463 Cr",
+            "change": "+9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "36%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Net Debt",
+            "value": "₹1,450 Cr",
+            "change": "~3x EBITDA",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income stood at ₹1,279 Cr (+12% YoY), ahead of original 9-11% revenue growth guidance",
+          "Same-store RevPAR grew 10%, while consolidated EBITDA stood at ₹463 Cr (+9% YoY)",
+          "PBT before exceptional items stood at ₹165 Cr vs ₹87 Cr last year",
+          "Reported PAT stood at ₹567 Cr, including deferred tax recognition and impairment reversals",
+          "Q4FY26 total income stood at ₹354 Cr (+9% YoY), while consolidated EBITDA stood at ₹120 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "GIC Platform",
+            "value": "₹750 Cr commitment for 35% stake in 1,000-room platform"
+          },
+          {
+            "metric": "GIC Funds Received",
+            "value": "₹600 Cr"
+          },
+          {
+            "metric": "Noida Project",
+            "value": "162-room upscale hotel with Ingka / IKEA Group"
+          },
+          {
+            "metric": "Hyderabad Project",
+            "value": "260-room hotel at One Financial District"
+          }
+        ],
+        "highlights": [
+          "One-time disruptions reduced FY26 growth from potential 16-17% to reported 12%",
+          "GST change impacted H2FY26 consolidated EBITDA by around ₹14 Cr",
+          "Adjusted FY26 EBITDA growth would have been around 19-20% with margin above 38%",
+          "Finance cost declined to ₹171 Cr vs ₹225 Cr last year due to deleveraging",
+          "Net debt reduced by around ₹516 Cr from ₹1,967 Cr last year",
+          "SAMHI has a fully committed pipeline of new openings"
+        ],
+        "quote": "\"SAMHI is outperforming the sector on balance sheet repair, RevPAR growth, deleveraging and growth optionality through GIC platform.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Juniper Hotels Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating Revenue",
+            "value": "₹1,048 Cr",
+            "change": "+11% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹444 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "42%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹142 Cr",
+            "change": "+99% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 operating revenue stood at ₹1,048 Cr (+11% YoY), while EBITDA stood at ₹444 Cr (+21% YoY)",
+          "FY26 PBT before exceptional items stood at ₹235 Cr (+57% YoY), while PAT stood at ₹142 Cr (+99% YoY)",
+          "Q4FY26 operating revenue stood at ₹302 Cr, with EBITDA of ₹138 Cr and PAT of ₹50 Cr",
+          "Q4FY26 ARR stood at ₹13,457 (+8% YoY), occupancy stood at 81% and EBITDA margin stood at 45%",
+          "Net debt stood at ₹625 Cr, with net debt / EBITDA at 1.4x"
+        ],
+        "guidance": [
+          {
+            "metric": "Room Growth",
+            "value": "1,895 rooms in FY26 to 3,320+ keys by FY30"
+          },
+          {
+            "metric": "Delhi + Bangalore",
+            "value": "More than 1,000 keys to be added"
+          },
+          {
+            "metric": "Bangalore Phase 2",
+            "value": "266 rooms expected to enter development in H2FY27"
+          },
+          {
+            "metric": "Northeast Expansion",
+            "value": "Kaziranga resort and Guwahati project"
+          }
+        ],
+        "highlights": [
+          "FY26 was a record year despite wars, airline disruption and commodity inflation",
+          "ARR-led growth was the key driver, with portfolio ARR up 9% in FY26",
+          "Grand Hyatt Mumbai, Andaz Delhi and Hyatt Regency Ahmedabad outperformed competitive sets on ARR growth",
+          "Q4FY26 F&B revenue stood at ₹85 Cr, forming 28% of total revenue",
+          "Annuity assets including apartments and lease rentals grew 18% YoY in Q4 to ₹43 Cr",
+          "Renewable energy share increased to 33% of overall unit consumption in Q4"
+        ],
+        "quote": "\"Juniper is outperforming the sector on EBITDA margin expansion, ARR growth, F&B monetisation, net debt comfort and luxury asset pipeline.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Chalet Hotels Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Core Revenue",
+            "value": "₹514 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Core EBITDA",
+            "value": "₹240 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Hospitality Revenue",
+            "value": "₹419 Cr",
+            "change": "+9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "RevPAR Growth",
+            "value": "+6.5%",
+            "change": "YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Core revenue excluding residential grew 10% to ₹514 Cr",
+          "Core EBITDA rose 15% to ₹240 Cr",
+          "Core EBITDA margin expanded 231 bps to 46.7%",
+          "Hospitality revenue grew 9% to ₹418.5 Cr",
+          "Hospitality EBITDA increased 11% to ₹178.4 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Taj Delhi Airport",
+            "guided": "70 rooms by Q4FY27",
+            "actual": "Project remains on track for Q4FY27",
+            "status": "partial"
+          },
+          {
+            "metric": "Powai Office Occupancy",
+            "guided": "Around 90%",
+            "actual": "Occupancy exceeded 90%",
+            "status": "met"
+          },
+          {
+            "metric": "Powai Rent Run-rate",
+            "guided": "₹280 per sq ft",
+            "actual": "June rental exit run-rate remained strong",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Taj Delhi Airport",
+            "value": "Minimum 70 rooms expected in Q4FY27"
+          },
+          {
+            "metric": "Commercial Portfolio",
+            "value": "Sustain high occupancy and rental growth"
+          }
+        ],
+        "highlights": [
+          "Leisure portfolio RevPAR grew 19%",
+          "Pune delivered high double-digit RevPAR growth",
+          "Foreign-arrival weakness affected Bengaluru and Hyderabad",
+          "MICE demand helped offset softer international travel",
+          "Bengaluru office occupancy reached 91% after new leasing",
+          "Commercial revenue grew 18% YoY"
+        ],
+        "quote": "\"Chalet combined resilient hotel pricing with strong commercial occupancy and continued project execution.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consol. Revenue",
+            "value": "₹2,812 Cr",
+            "change": "+60% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Consol. EBITDA",
+            "value": "₹1,230 Cr",
+            "change": "+59% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "44%",
+            "change": "Consolidated",
+            "positive": 1
+          },
+          {
+            "label": "Hospitality Revenue",
+            "value": "₹1,731 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated FY26 revenue stood at ₹2,812 Cr (+60% YoY), while EBITDA stood at ₹1,230 Cr (+59% YoY)",
+          "Ex-residential revenue stood at ₹2,074 Cr (+18% YoY), with EBITDA of ₹957 Cr (+21% YoY)",
+          "Hospitality revenue stood at ₹1,731 Cr (+14% YoY), with EBITDA of ₹760 Cr (+12% YoY)",
+          "FY26 hospitality RevPAR stood at ₹9,226, up 5%",
+          "Q4FY26 consolidated revenue stood at ₹571 Cr (+6% YoY), with EBITDA margin of 49%"
+        ],
+        "guidance": [
+          {
+            "metric": "Operating Keys",
+            "value": "3,389"
+          },
+          {
+            "metric": "Pipeline",
+            "value": "~1,655 keys"
+          },
+          {
+            "metric": "Taj Delhi Airport",
+            "value": "70 rooms expected by Q4FY27"
+          },
+          {
+            "metric": "Powai Office Rentals",
+            "value": "₹280 / sq ft run-rate with ~90% occupancy"
+          }
+        ],
+        "highlights": [
+          "FY26 was a milestone year as revenue crossed ₹2,500 Cr and EBITDA crossed ₹1,000 Cr",
+          "Q4FY26 RevPAR declined 3% due to 8 percentage point occupancy decline",
+          "Mumbai underperformed in Q4 due to event absence, elections, long weekend and travel disruption",
+          "Powai property faced temporary constraints due to CIGNUS II construction",
+          "Resorts performed well in Q4 compared to business hotels",
+          "Management remains confident in structural demand and long-term hospitality fundamentals"
+        ],
+        "quote": "\"Chalet is outperforming the sector on diversified platform scale, EBITDA margin, commercial office monetisation and operating leverage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Brigade Hotel Ventures Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹131 Cr",
+            "change": "+5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹46 Cr",
+            "change": "+9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹17 Cr",
+            "change": "+140% YoY",
+            "positive": 1
+          },
+          {
+            "label": "RevPAR",
+            "value": "₹5,479",
+            "change": "+9% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total income grew 5% YoY to ₹131 Cr",
+          "EBITDA increased 9% to ₹46 Cr with 34.8% margin",
+          "PAT rose 140% to ₹17 Cr",
+          "ARR grew 7% to ₹7,241",
+          "Occupancy stood at 75.7%, lifting RevPAR 9%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Chennai WTC Opening",
+            "guided": "Q3FY27",
+            "actual": "Courtyard by Marriott remains scheduled for FY27",
+            "status": "partial"
+          },
+          {
+            "metric": "ARR Improvement",
+            "guided": "Lift sub-₹7,500 hotels",
+            "actual": "Portfolio ARR increased 7% to ₹7,241",
+            "status": "partial"
+          },
+          {
+            "metric": "Development Pipeline",
+            "guided": "1,700 keys",
+            "actual": "Pipeline retained with ₹3,600 Cr total capex",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹500 Cr"
+          },
+          {
+            "metric": "Portfolio",
+            "value": "Expand from 1,600 to 3,300 keys by FY31"
+          }
+        ],
+        "highlights": [
+          "RevPAR growth was led by room rates",
+          "Finance cost fell more than 50% to ₹8.7 Cr",
+          "GST changes reduced EBITDA margin by 160 bps",
+          "The Kochi hotel is being upgraded to Courtyard by Marriott",
+          "About ₹400 Cr had been deployed on the expansion pipeline by FY26",
+          "The 1,700-key pipeline is anchored by global luxury brands"
+        ],
+        "quote": "\"Brigade delivered rate-led RevPAR growth and sharply higher PAT while investing in a major hotel pipeline.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Income",
+            "value": "₹543 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹192 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹65 Cr",
+            "change": "vs ₹24 Cr LY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "40%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 consolidated income stood at ₹543 Cr (+15% YoY), while EBITDA stood at ₹192 Cr (+15% YoY)",
+          "FY26 PAT stood at ₹65 Cr vs ₹24 Cr last year",
+          "Q4FY26 total income stood at ₹146 Cr (+8% YoY), while EBITDA stood at ₹58 Cr (+13% YoY)",
+          "Q4FY26 PAT stood at ₹25 Cr vs ₹13 Cr last year",
+          "Q4FY26 ARR grew 7% and RevPAR grew 6%"
+        ],
+        "guidance": [
+          {
+            "metric": "Chennai WTC",
+            "value": "Courtyard by Marriott expected in Q3FY27"
+          },
+          {
+            "metric": "Kochi Upgrade",
+            "value": "Four Points to Courtyard by Marriott"
+          },
+          {
+            "metric": "ARR Goal",
+            "value": "Move sub-₹7,500 ARR hotels above ₹7,500"
+          },
+          {
+            "metric": "Renewable Energy",
+            "value": "61% adoption across portfolio"
+          }
+        ],
+        "highlights": [
+          "FY26 was supported by domestic demand, weddings, leisure travel and corporate activity",
+          "Q4FY26 occupancy remained relatively stable, while growth was driven by ARR improvement",
+          "GST 2.0 impacted Q4 EBITDA margin by around 1%",
+          "FY26 EBITDA was impacted by additional property tax expense of around ₹6 Cr",
+          "Interest cost reduced due to loan repayments, supporting PAT growth",
+          "Queries and bookings are returning as disruption normalizes"
+        ],
+        "quote": "\"Brigade is outperforming the sector on PAT growth, margin discipline, renewable energy adoption and balance sheet improvement.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Apeejay Surrendra Park Hotels Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹172 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹52 Cr",
+            "change": "+8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹12 Cr",
+            "change": "-14% YoY",
+            "positive": -1
+          },
+          {
+            "label": "Occupancy",
+            "value": "92%",
+            "change": "Leadership",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 10% YoY to ₹172 Cr",
+          "Consolidated EBITDA rose 8% to ₹52 Cr",
+          "Operating revenue increased 8% to ₹167 Cr",
+          "Operating EBITDA stood at ₹47 Cr with 28.1% margin",
+          "PAT declined 14% to about ₹12 Cr due to finance cost and deferred tax"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Hotel Launches",
+            "guided": "12 hotels with 472 keys",
+            "actual": "Pipeline retained and openings remain on schedule",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Key Count",
+            "guided": "More than 3,000 keys",
+            "actual": "Target increased to 3,149 keys",
+            "status": "partial"
+          },
+          {
+            "metric": "Flurys Expansion",
+            "guided": "30+ outlets in 10 months",
+            "actual": "29 additional outlets targeted by year-end",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "ARR Growth",
+            "value": "High-single-digit growth expected"
+          },
+          {
+            "metric": "FY27 Portfolio",
+            "value": "42 hotels and 3,149 keys by year-end"
+          }
+        ],
+        "highlights": [
+          "Portfolio occupancy reached 92%",
+          "F&B contributed about 43% of revenue",
+          "Flurys expanded to 111 outlets",
+          "The first standalone Flurys cafe opened in Gurugram after quarter-end",
+          "Net debt-to-EBITDA remained low at 0.70x",
+          "New properties in Juhu, Kolkata and Visakhapatnam remain on schedule"
+        ],
+        "quote": "\"Apeejay maintained high occupancy and a strong expansion pipeline, though growth investment weighed on PAT.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating Revenue",
+            "value": "₹707 Cr",
+            "change": "+12% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹218 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Occupancy",
+            "value": "91%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "RevPAR",
+            "value": "₹7,584",
+            "change": "+7% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 consolidated operating revenue stood at ₹707 Cr (+12% YoY)",
+          "FY26 EBITDA stood at ₹218 Cr, with EBITDA margin of 31%",
+          "FY26 PAT stood at ₹66 Cr, with PAT margin of 9%",
+          "FY26 occupancy stood at 91%, ARR stood at ₹8,304 (+9% YoY) and RevPAR stood at ₹7,584 (+7% YoY)",
+          "Q4FY26 operating revenue stood at ₹184 Cr (+4% YoY), with EBITDA margin of 29%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Launch Plan",
+            "value": "12 hotels with 472 keys"
+          },
+          {
+            "metric": "FY27 Key Count",
+            "value": "Expected to cross 3,000 keys"
+          },
+          {
+            "metric": "Long-Term Plan",
+            "value": "85 hotels and 6,635 keys"
+          },
+          {
+            "metric": "Flurys Expansion",
+            "value": "30+ outlets over next 10 months"
+          }
+        ],
+        "highlights": [
+          "FY26 was significant as revenue crossed ₹700 Cr for the first time",
+          "The Park Calcutta achieved 100% occupancy in Q4 and for the full year",
+          "F&B revenue crossed ₹300 Cr in FY26 and contributed 43% of total revenue",
+          "Flurys delivered 29% revenue growth in FY26 and has 110 outlets",
+          "EM Bypass sales are expected to improve FY27 cash flows by around ₹70 Cr",
+          "FY26 saw 7 hospitality properties launched, adding 283 keys"
+        ],
+        "quote": "\"Apeejay is outperforming the sector on occupancy, RevPAR leadership, F&B contribution and asset-light expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

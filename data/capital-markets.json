@@ -21,412 +21,1731 @@
     "Prudent Corporate Advisory Services Ltd"
   ],
   "concall": {
-    "360 ONE WAM Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Total AUM", "value": "₹6.7 L Cr", "change": "FY26", "positive": 1 },
-        { "label": "ARR AUM", "value": "₹3,11,940 Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "ARR Revenue", "value": "₹2,289 Cr", "change": "+35% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹1,225 Cr", "change": "+21% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Total AUM stood at ₹6.7 lakh Cr; Total ARR AUM stood at ₹3,11,940 Cr (+26% YoY)",
-        "Wealth ARR AUM stood at ₹2,16,000 Cr and Asset Management ARR AUM stood at ₹95,000 Cr",
-        "FY26 ARR net flows stood at ₹55,875 Cr; organic ARR net flows stood at ₹35,199 Cr (+36% YoY)",
-        "FY26 ARR revenue stood at ₹2,289 Cr (+35% YoY), now forming 75% of operating revenue",
-        "FY26 PAT stood at ₹1,225 Cr (+21% YoY); Q4FY26 ARR revenue stood at ₹605 Cr (+20% YoY)"
-      ],
-      "outlook": "FY26 was a landmark year despite volatile markets. Wealth and Asset Management remained resilient, supported by SIPs, IPO monetisation, block deals, PE exits and rising alternatives demand. B&K integration is complete, UBS collaboration is showing early traction, and investment banking is expected to contribute meaningfully over the next 12-18 months.",
-      "highlights": [
-        "ARR retention stood at 78 bps, with Wealth at 76 bps and Asset Management at 83 bps",
-        "Wealth net flows stood at ₹25,900 Cr, while Asset Management net flows stood at ₹9,299 Cr",
-        "HNI Reserve program has around 60 RMs across 12 locations, managing nearly ₹4,000 Cr AUM for 650+ clients",
-        "ET Money business is expected to move towards breakeven in the near term",
-        "360 ONE Capital covers 500+ mid and small-cap companies and serves 300+ institutional clients",
-        "UBS collaboration can help alternatives and listed strategies access offshore capital"
-      ],
-      "quote": "\"360 ONE is outperforming the sector on ARR AUM growth, UHNI franchise strength, net flows and platform expansion.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Anand Rathi Wealth Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹1,198 Cr", "change": "+22% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹386 Cr", "change": "+28% YoY", "positive": 1 },
-        { "label": "Net Flows", "value": "₹13,457 Cr", "change": "+7% YoY", "positive": 1 },
-        { "label": "PAT Margin (Q4)", "value": "31%", "change": "Q4FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,198 Cr (+22% YoY) and FY26 PAT stood at ₹386 Cr (+28% YoY)",
-        "Reported FY26 revenue stood at ₹1,253 Cr (+28% YoY) and reported PAT stood at ₹397 Cr (+32% YoY)",
-        "Q4FY26 adjusted revenue stood at ₹302 Cr (+25% YoY), while adjusted PAT stood at ₹92 Cr (+25% YoY)",
-        "FY26 mutual fund distribution revenue stood at ₹494 Cr (+22% YoY)",
-        "FY26 net flows stood at ₹13,457 Cr (+7% YoY)"
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Guidance", "value": "₹1,415 Cr" },
-        { "metric": "FY27 PAT Guidance", "value": "₹460 Cr" },
-        { "metric": "FY27 AUM Guidance", "value": "₹1,20,000 Cr" },
-        { "metric": "Long-Term PAT Growth", "value": "20-25%" }
-      ],
-      "highlights": [
-        "AUM crossed ₹1 lakh Cr after March-end, supported by market recovery",
-        "Client families increased by 1,872 on net basis to 13,395",
-        "AUM lost due to client attrition remained very low at 0.54%",
-        "Digital wealth / B2B2C AUM stood at ₹2,218 Cr, up 22%",
-        "OFA SaaS platform crossed 6,900+ subscribers and platform assets stood at ₹1.47 lakh Cr",
-        "Management highlighted the 18th consecutive quarter of 20%+ YoY PAT growth"
-      ],
-      "quote": "\"Anand Rathi is outperforming the sector on PAT consistency, client retention, AUM growth and market-agnostic wealth model.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Nuvama Wealth Management Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Client Assets", "value": "₹4.5 L Cr", "change": "FY26", "positive": 1 },
-        { "label": "Op. PAT (FY26)", "value": "₹1,000 Cr+", "change": "Crossed", "positive": 1 },
-        { "label": "ROE (FY26)", "value": "28%", "change": "FY26", "positive": 1 },
-        { "label": "Wealth Assets", "value": "₹1.1 L Cr", "change": "+14% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Total client assets stood at ₹4.5 lakh Cr and FY26 operating PAT crossed ₹1,000 Cr",
-        "Q4FY26 revenue stood at ₹825 Cr (+7% YoY); Q4FY26 operating PAT stood at ₹269 Cr (+5% YoY)",
-        "FY26 ROE stood at 28%",
-        "Wealth client assets stood at ₹1.1 lakh Cr (+14% YoY)",
-        "MPIS assets stood at ₹39,000 Cr and FY26 net new money stood at ₹8,900 Cr"
-      ],
-      "outlook": "FY26 was resilient despite market volatility and moderation in institutional equities and investment banking. FY27 will see incremental investments in Asset Management, new strategies, MF licence and SIF business, while recurring revenue mix continues to improve.",
-      "highlights": [
-        "Excluding IE and IB, Q4FY26 revenue grew 13% and FY26 revenue grew 17%",
-        "Wealth and Private together grew 20% YoY",
-        "Wealth, Asset Management and Asset Services now contribute around 80% of firm revenue vs 74% last year",
-        "Wealth retention remained stable around 90 bps",
-        "Private client assets / ARR grew 22%, net new money grew 24% and revenue grew 24%",
-        "Asset Management management fee income grew 31%"
-      ],
-      "quote": "\"Nuvama is outperforming the sector on wealth/private growth, recurring revenue mix, ROE and operating leverage.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Prudent Corporate Advisory Services Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Avg Daily AUM", "value": "₹1.21 L Cr", "change": "FY26", "positive": 1 },
-        { "label": "Q4 Avg AUM", "value": "₹1,28,000 Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "Monthly SIP Book", "value": "₹1,188 Cr", "change": "FY26", "positive": 1 },
-        { "label": "SIP Market Share", "value": "3.65%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 average daily AUM stood at ₹1.21 lakh Cr; closing AUM on 31 March stood at ₹1.19 lakh Cr",
-        "AUM on 5 May stood at ₹1.33 lakh Cr, around 10% higher than FY26 average AUM",
-        "Q4FY26 average AUM stood at ₹1,28,000 Cr (+26% YoY)",
-        "FY26 equity net sales stood at ₹13,900 Cr",
-        "MF revenue grew 21%, total revenue from operations grew 19%, operating profit grew 18% and PAT grew 14%"
-      ],
-      "outlook": "AUM recovery after March gives a strong FY27 revenue tailwind. Management remains confident in SIP behaviour despite higher cancellations during weak markets, while insurance, SIF, AI-led partner tools and B2B2C distribution remain key growth levers.",
-      "highlights": [
-        "Q4 saw highest-ever quarterly equity net sales of ₹4,300 Cr",
-        "New SIP registrations were the highest-ever on annual basis",
-        "Added around 5,100 new partners during the year",
-        "Indus acquisition integration progressed well, with 100% manpower retention",
-        "Prudent Edge AI platform launched for mutual fund distribution partners",
-        "Insurance business continues to scale, especially health insurance"
-      ],
-      "quote": "\"Prudent is outperforming the sector on B2B2C distribution, partner network, SIP book, equity net sales and technology-led scale.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Edelweiss Financial Services Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Consol. PAT", "value": "₹547 Cr", "change": "+27% YoY", "positive": 1 },
-        { "label": "Alt AM FPAUM", "value": "₹44,000 Cr", "change": "+32% YoY", "positive": 1 },
-        { "label": "MF Equity AUM", "value": "₹78,000 Cr", "change": "+25% YoY", "positive": 1 },
-        { "label": "ARC Recoveries", "value": "₹8,590 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated PAT stood at ₹547 Cr (+27% YoY)",
-        "Alternative Asset Management FPAUM stood at ₹44,000 Cr (+32% YoY)",
-        "Mutual Fund equity AUM stood at ₹78,000 Cr (+25% YoY)",
-        "ARC recoveries stood at ₹8,590 Cr",
-        "MSME disbursements grew around 200%, Housing Finance disbursements grew 27% and General Insurance GWP grew 28%"
-      ],
-      "outlook": "Edelweiss is improving due to growth in alternatives, EAAA IPO optionality, ARC recovery and debt reduction triggers. Corporate debt reduction remains a key focus, with expected cash realisations from IPO, stake sales and dividends.",
-      "highlights": [
-        "EAAA received SEBI approval for IPO and completed 4.4% placement, raising ₹375 Cr",
-        "Citius transportation InvIT listed with portfolio value around ₹11,000 Cr",
-        "Carlyle investment in Nido has received CCI approval, RBI approval awaited",
-        "ARC recoveries remain strong and management expects ARC opportunity to improve again",
-        "Private credit FPAUM is around ₹20,000 Cr, with nearly 65% in special situations",
-        "Special situations products target 18%+ rupee yield"
-      ],
-      "quote": "\"Edelweiss is improving due to growth in alternatives, EAAA IPO optionality, ARC recovery and debt reduction triggers.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "JM Financial Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "PAT after Minority", "value": "₹1,202 Cr", "change": "+46% YoY", "positive": 1 },
-        { "label": "Adj. Op. PAT", "value": "₹1,133 Cr", "change": "+38% YoY", "positive": 1 },
-        { "label": "ROE", "value": "12%", "change": "FY26", "positive": 1 },
-        { "label": "Net Worth", "value": "₹10,605 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Reported PAT after minority stood at ₹1,202 Cr (+46% YoY)",
-        "Adjusted operating PAT stood at ₹1,133 Cr (+38% YoY); ROE stood at 12%",
-        "CACM FY26 net revenue stood at ₹789 Cr (+11% YoY) and operating PAT stood at ₹347 Cr",
-        "Private Markets operating PAT after minority stood at ₹543 Cr, up 3.6x",
-        "Wealth FY26 net revenue stood at ₹775 Cr (+9% YoY) and operating PAT stood at ₹132 Cr"
-      ],
-      "outlook": "FY26 was the second year after JM Financial's strategic pivot. Management expects CACM execution to improve once markets become more receptive, and wants Private Markets to evolve towards a fee-based, syndication-led and liquidity-provider model.",
-      "highlights": [
-        "Corporate Advisory and Capital Markets closed 41 capital market transactions worth around ₹95,000 Cr in FY26",
-        "IPO pipeline remains strong, with documents filed for 55 IPOs aggregating ₹1,40,000 Cr issue size",
-        "Private Markets loan book reduced from ₹10,000 Cr in FY24 to around ₹4,000 Cr in FY26",
-        "Private Markets loan book is expected to remain around ₹4,000-5,000 Cr and grow 15-20% YoY",
-        "Wealth sales and RM strength increased 30% YoY to 1,046 employees",
-        "Recurring AUM across wealth businesses grew 10% YoY to around ₹31,000 Cr"
-      ],
-      "quote": "\"JM Financial is improving on strategic pivot, CACM pipeline, Private Markets profitability and wealth franchise expansion.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Motilal Oswal Financial Services Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Operating PAT", "value": "₹2,360 Cr", "change": "+16% YoY", "positive": 1 },
-        { "label": "Q4 Op. PAT Growth", "value": "25%", "change": "YoY", "positive": 1 },
-        { "label": "Asset & Wealth AUM", "value": "₹3.7 L Cr", "change": "+34% YoY", "positive": 1 },
-        { "label": "Net Flows", "value": "₹70,000 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Operating PAT stood at ₹2,360 Cr (+16% YoY), while Q4 operating PAT grew 25%",
-        "Q4 exit operating PAT run-rate stood at ₹661 Cr",
-        "Asset & Private Wealth profits grew 33%",
-        "Asset & Private Wealth now contribute around 50% of operating PAT",
-        "Asset & Private Wealth AUM stood at ₹3.7 lakh Cr (+34% YoY), with net flows of ₹70,000 Cr"
-      ],
-      "outlook": "FY26 growth was led by annuity businesses, mainly Asset Management and Private Wealth. Management expects annuity businesses, which now contribute over 60% of group revenue, to keep rising as a share of the business.",
-      "highlights": [
-        "AMC AUM crossed ₹1.5 lakh Cr across active, passive, AIF and PMS",
-        "AMC average AUM moved from ₹1.57 lakh Cr to ₹1.8 lakh Cr in April after market recovery",
-        "AMC unique PAN crossed 1 Cr vs 77 lakh last year",
-        "AMC has around 16% client share of the MF industry",
-        "Wealth business serves around 9,000 families, with around 50% having UHNI potential",
-        "Long-term credit rating was upgraded to AA+ stable"
-      ],
-      "quote": "\"Motilal Oswal is outperforming the sector on annuity business growth, Asset & Private Wealth scale, net flows and operating PAT resilience.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Nippon Life India Asset Management Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Total AUM", "value": "₹7.73 L Cr", "change": "FY26", "positive": 1 },
-        { "label": "MF QAAUM", "value": "₹7.25 L Cr", "change": "+30% YoY", "positive": 1 },
-        { "label": "Op. Profit", "value": "₹1,748 Cr", "change": "+24% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹1,529 Cr", "change": "+19% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Total AUM stood at ₹7.73 lakh Cr and MF QAAUM stood at ₹7.25 lakh Cr (+30% YoY)",
-        "Overall AUM market share stood at 8.89%",
-        "FY26 operating profit stood at ₹1,748 Cr (+24% YoY); FY26 PAT stood at ₹1,529 Cr (+19% YoY)",
-        "Q4FY26 revenue stood at ₹739 Cr (+30% YoY), operating profit stood at ₹493 Cr and PAT stood at ₹385 Cr (+29% YoY)",
-        "Dividend payout stood at 91.5% of net profit"
-      ],
-      "outlook": "NAM India was the fastest-growing AMC among Top-10 AMCs in Q4FY26 and FY26, with the highest increase in AUM market share in the industry. SIP, ETF, investor base and digital transaction scale remain core advantages.",
-      "highlights": [
-        "Market share of 8.89% is the highest since June 2019",
-        "Monthly systematic book stood at ₹3,720 Cr in March 2026, up 17%",
-        "SIP market share stood around 9.84%",
-        "NAM India remains the largest MF investor base with 23.8 mn unique investors",
-        "ETF AUM stood at ₹2.42 lakh Cr with ETF market share of 21.4%",
-        "Digital channel contributed 77% of new purchase transactions"
-      ],
-      "quote": "\"NAM India is outperforming the sector on market share gains, ETF leadership, investor base, SIP scale and digital transactions.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "HDFC Asset Management Company Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "QAAUM", "value": "₹9.3 L Cr", "change": "+20% YoY", "positive": 1 },
-        { "label": "Revenue from Ops", "value": "₹4,120 Cr", "change": "+18% YoY", "positive": 1 },
-        { "label": "Op. Profit", "value": "₹3,210 Cr", "change": "+18% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹2,860 Cr", "change": "+16% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Overall QAAUM stood at ₹9.3 lakh Cr (+20% YoY), with equity-oriented AUM at ₹6 lakh Cr",
-        "SIP + STP flows in March stood at ₹4,880 Cr (+33% YoY)",
-        "Total accounts crossed 30 mn and unique investors stood at 16.7 mn",
-        "FY26 total revenue stood at ₹4,620 Cr; revenue from operations stood at ₹4,120 Cr (+18% YoY)",
-        "Operating profit stood at ₹3,210 Cr (+18% YoY) and PAT stood at ₹2,860 Cr (+16% YoY)"
-      ],
-      "outlook": "HDFC AMC continues to benefit from financialisation, SIP growth, digital adoption and scale. Management's digital strategy is to become a digital AI wealth creator for every Indian, with AI embedded across marketing, client engagement, investments, risk and compliance.",
-      "highlights": [
-        "Industry added 7.2 mn new MF investors during the year, while HDFC AMC alone added 3.5 mn unique investors",
-        "Direct plans now form around 31% of equity AUM",
-        "97% of transactions are digital vs 81% three years ago and 69% six years ago",
-        "HDFC AMC launched 7 new schemes during FY26",
-        "Alternatives business saw first close of private credit fund with IFC as anchor and partner",
-        "Operating margin stood at 35 bps of AUM and dividend payout ratio stood at 81%"
-      ],
-      "quote": "\"HDFC AMC is outperforming the sector on scale, unique investor addition, digital adoption, operating profit and PAT delivery.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "ICICI Prudential Asset Management Company Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "MF QAAUM", "value": "₹11.05 L Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "Active QAAUM", "value": "₹9.21 L Cr", "change": "FY26", "positive": 1 },
-        { "label": "Q4 Op. Revenue", "value": "₹1,517 Cr", "change": "+20% YoY", "positive": 1 },
-        { "label": "ROE (FY26)", "value": "86%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Total MF QAAUM stood at ₹11.05 lakh Cr (+26% YoY); active schemes QAAUM stood at ₹9.21 lakh Cr",
-        "Equity + equity-oriented QAAUM stood at ₹6.2 lakh Cr, while equity-oriented hybrid QAAUM stood at ₹2.18 lakh Cr",
-        "Debt QAAUM stood at ₹1.99 lakh Cr and passive QAAUM stood at ₹1.84 lakh Cr",
-        "Unique customer base stood at 17 mn; March systematic transactions stood at ₹5,104 Cr (+31% YoY)",
-        "Q4 operating revenue stood at ₹1,517 Cr (+20% YoY); Q4 PAT stood at ₹763 Cr (+10% YoY)"
-      ],
-      "outlook": "ICICI Prudential AMC remains one of the largest AMCs in India and leads active, equity-oriented and equity-oriented hybrid categories. SIF, alternatives, GIFT City and Dubai presence are being scaled for domestic and offshore opportunities.",
-      "highlights": [
-        "Total MF market share stood around 13.5%",
-        "Active schemes market share stood around 13.7%, where company is the largest",
-        "Equity and equity-oriented market share stood around 14.2%, where company is the largest",
-        "Equity-oriented hybrid market share stood around 26.7%, where company is the largest",
-        "Passive AUM grew strongly, up 48% YoY",
-        "FY26 gross yield stood at 52 bps, net yield at 48 bps and operating margin improved to 38 bps"
-      ],
-      "quote": "\"ICICI Prudential AMC is outperforming the sector on active AUM scale, hybrid leadership, operating margins, ROE and SIF / alternatives build-out.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Aditya Birla Sun Life AMC Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Avg AUM", "value": "₹4.74 L Cr", "change": "+17% YoY", "positive": 1 },
-        { "label": "MF QAAUM", "value": "₹4.36 L Cr", "change": "+14% YoY", "positive": 1 },
-        { "label": "Op. Profit", "value": "₹1,015 Cr", "change": "FY26", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹975 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Overall average AUM stood at ₹4.74 lakh Cr (+17% YoY)",
-        "MF QAAUM stood at ₹4.36 lakh Cr (+14% YoY), with equity MF QAAUM at ₹1.97 lakh Cr (+17% YoY)",
-        "March SIP contribution stood at ₹1,204 Cr (+11% QoQ), while Q4 SIP flows stood at ₹3,600 Cr",
-        "FY26 revenue from operations stood at ₹1,845 Cr; operating profit stood at ₹1,015 Cr; PAT stood at ₹975 Cr",
-        "Q4 revenue from operations stood at ₹458 Cr, operating profit at ₹252 Cr and PAT at ₹187 Cr"
-      ],
-      "outlook": "ABSL AMC is improving with passive growth, SIP pickup, alternatives scale-up and SIF launch. The company is building GIFT City, passive, PMS/AIF, real estate and SIF platforms alongside the core MF franchise.",
-      "highlights": [
-        "Q4 new SIP registrations stood around 6 lakh, up 16% QoQ",
-        "Company is present across 19,000+ pin codes",
-        "PMS + AIF assets grew to ₹32,570 Cr, nearly 3x YoY",
-        "Passive QAAUM crossed ₹41,200 Cr, up 25%, while ETF QAAUM grew 68% YoY",
-        "GIFT City subsidiary has been incorporated and retail licence received",
-        "SIF vertical was launched under APEX SIF brand"
-      ],
-      "quote": "\"ABSL AMC is improving with strong passive growth, SIP pickup, alternatives scale-up and SIF launch.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Angel One Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Orders", "value": "431 Mn", "change": "6-quarter high", "positive": 1 },
-        { "label": "Retail Turnover Share", "value": "20.4%", "change": "Q4FY26", "positive": 1 },
-        { "label": "Q4 Net Income", "value": "₹1,130 Cr", "change": "+10% QoQ", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹320 Cr", "change": "+19% QoQ", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 orders stood at 431 mn, a 6-quarter high",
-        "Average daily orders stood at 7.4 mn in March 2026",
-        "Retail equity turnover share stood at 20.4% and demat market share stood at 16.7%",
-        "Q4 gross income stood at ₹1,470 Cr (+10% QoQ), while Q4 net income stood at ₹1,130 Cr (+10% QoQ)",
-        "Q4 PAT stood at ₹320 Cr (+19% QoQ), with EBIDAT margin of 42%"
-      ],
-      "outlook": "Angel One is moving from pure broking towards a broader financial services platform. FY27 focus remains on wealth expansion, NBFC and distribution platforms, AMC products and AI-led productivity.",
-      "highlights": [
-        "Average daily orders recovered strongly from 5 mn in February 2025 to 7.4 mn in March 2026",
-        "Ionic Wealth AUM crossed ₹10,000 Cr, up 23% QoQ",
-        "UHNI wealth business doubled over the last 12 months and wealth client base crossed 1,900+",
-        "More than 45% of wealth clients are from non-metros",
-        "AMC now has 11 schemes and folios grew 28% QoQ to 2.46 lakh+",
-        "More than 50% of development work is AI-augmented and 80% of Ionic Wealth codebase is AI-generated"
-      ],
-      "quote": "\"Angel One is outperforming the sector on order recovery, market share, digital scale, wealth expansion and AI-led productivity.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Billionbrains Garage Ventures Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "AMC AUM", "value": "2.5x", "change": "Grew in one year", "positive": 1 },
-        { "label": "Investor Runway", "value": "70-80 Mn", "change": "Stocks + MF users", "positive": 1 },
-        { "label": "Active Internet Users", "value": "500-600 Mn", "change": "India runway", "positive": 1 },
-        { "label": "Disclosure", "value": "No Rev/PAT", "change": "Transcript", "positive": 0 }
-      ],
-      "fyPerformance": [
-        "Management did not disclose detailed FY26 revenue or PAT numbers in the transcript",
-        "FY26 was an important year as Groww became a public company",
-        "AMC AUM grew around 2.5x in one year",
-        "Company scaled MTF meaningfully",
-        "Market share improved across equity, MF and F&O"
-      ],
-      "outlook": "Groww continues to see a long runway for financialisation in India. FY27 focus will remain on scaling wealth, growing market share, launching new products and using AI for customer experience and internal productivity.",
-      "highlights": [
-        "FY26 saw regulatory changes in broking like True to Label and F&O changes, but company managed the transition well",
-        "Company launched new products like commodities and bonds",
-        "Wealth management foray was made through Fisdom acquisition",
-        "Groww launched W for affluent / HNI customers and Groww Prime for mass affluent customers",
-        "Customer acquisition funnel shifted more towards MF and ETFs due to weak markets",
-        "Management said most customer cohorts remain profitable after market recovery post March correction"
-      ],
-      "quote": "\"Groww is outperforming on digital scale, customer acquisition, market share gains and multi-product expansion, but detailed profitability needs to be tracked once disclosed.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "360 ONE WAM Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "ARR AUM",
+            "value": "₹3.42 Lakh Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Flows",
+            "value": "₹10,815 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Revenue",
+            "value": "₹870 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹330 Cr",
+            "change": "+14.8% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total AUM grew 17% to ₹7.8 lakh Cr",
+          "ARR AUM increased 19% to ₹3.42 lakh Cr",
+          "Wealth ARR AUM grew 24.2%",
+          "Revenue increased 20% to ₹870 Cr",
+          "PAT rose 14.8% to ₹330 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "ARR Net Flows",
+            "guided": "12-15% of opening AUM",
+            "actual": "₹10,815 Cr in Q1; annual plan retained",
+            "status": "partial"
+          },
+          {
+            "metric": "ARR Mix",
+            "guided": "Raise recurring revenue share",
+            "actual": "ARR reached 75% of operating revenue",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 ARR Net Flows",
+            "value": "₹35,000-40,000 Cr framework"
+          },
+          {
+            "metric": "Flow Mix",
+            "value": "Around 70:30 through the year"
+          },
+          {
+            "metric": "Growth",
+            "value": "Deepen wallet share and expand beyond top cities"
+          }
+        ],
+        "highlights": [
+          "Asset-management AUM crossed ₹1 lakh Cr",
+          "ARR revenue grew 20.3% to ₹614 Cr",
+          "ARR retention was 74 bps",
+          "International business crossed ₹5,000 Cr AUM",
+          "Broking income from UHNI clients improved",
+          "Technology and RM capacity remain investment priorities"
+        ],
+        "quote": "\"Recurring flows and revenue continued to compound across wealth and asset management.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total AUM",
+            "value": "₹6.7 L Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "ARR AUM",
+            "value": "₹3,11,940 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ARR Revenue",
+            "value": "₹2,289 Cr",
+            "change": "+35% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹1,225 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total AUM stood at ₹6.7 lakh Cr; Total ARR AUM stood at ₹3,11,940 Cr (+26% YoY)",
+          "Wealth ARR AUM stood at ₹2,16,000 Cr and Asset Management ARR AUM stood at ₹95,000 Cr",
+          "FY26 ARR net flows stood at ₹55,875 Cr; organic ARR net flows stood at ₹35,199 Cr (+36% YoY)",
+          "FY26 ARR revenue stood at ₹2,289 Cr (+35% YoY), now forming 75% of operating revenue",
+          "FY26 PAT stood at ₹1,225 Cr (+21% YoY); Q4FY26 ARR revenue stood at ₹605 Cr (+20% YoY)"
+        ],
+        "outlook": "FY26 was a landmark year despite volatile markets. Wealth and Asset Management remained resilient, supported by SIPs, IPO monetisation, block deals, PE exits and rising alternatives demand. B&K integration is complete, UBS collaboration is showing early traction, and investment banking is expected to contribute meaningfully over the next 12-18 months.",
+        "highlights": [
+          "ARR retention stood at 78 bps, with Wealth at 76 bps and Asset Management at 83 bps",
+          "Wealth net flows stood at ₹25,900 Cr, while Asset Management net flows stood at ₹9,299 Cr",
+          "HNI Reserve program has around 60 RMs across 12 locations, managing nearly ₹4,000 Cr AUM for 650+ clients",
+          "ET Money business is expected to move towards breakeven in the near term",
+          "360 ONE Capital covers 500+ mid and small-cap companies and serves 300+ institutional clients",
+          "UBS collaboration can help alternatives and listed strategies access offshore capital"
+        ],
+        "quote": "\"360 ONE is outperforming the sector on ARR AUM growth, UHNI franchise strength, net flows and platform expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Anand Rathi Wealth Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹1,06,300 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Flows",
+            "value": "₹2,743 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Revenue",
+            "value": "₹336 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹116 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "AUM grew 21% to ₹1,06,300 Cr",
+          "Net flows stood at ₹2,743 Cr",
+          "Revenue increased 18% to ₹336 Cr",
+          "PAT grew 24% to ₹116 Cr",
+          "Client families increased to 13,941 with only 0.09% AUM attrition"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue",
+            "guided": "₹1,415 Cr",
+            "actual": "₹336 Cr, or 24% achieved in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 PAT",
+            "guided": "₹460 Cr",
+            "actual": "₹116 Cr, or 25% achieved",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 AUM",
+            "guided": "₹1,20,000 Cr",
+            "actual": "₹1,06,300 Cr",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹1,415 Cr"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "₹460 Cr"
+          },
+          {
+            "metric": "FY27 AUM",
+            "value": "₹1,20,000 Cr"
+          }
+        ],
+        "highlights": [
+          "PAT margin improved to 34.4%",
+          "More than 1,600 client families were added over 12 months",
+          "RM attrition remained negligible",
+          "AUM per relationship manager continued to rise",
+          "Platinum and Gold client segmentation is scaling",
+          "Management retained full-year guidance"
+        ],
+        "quote": "\"First-quarter revenue and PAT progressed almost exactly in line with guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,198 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹386 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Flows",
+            "value": "₹13,457 Cr",
+            "change": "+7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT Margin (Q4)",
+            "value": "31%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,198 Cr (+22% YoY) and FY26 PAT stood at ₹386 Cr (+28% YoY)",
+          "Reported FY26 revenue stood at ₹1,253 Cr (+28% YoY) and reported PAT stood at ₹397 Cr (+32% YoY)",
+          "Q4FY26 adjusted revenue stood at ₹302 Cr (+25% YoY), while adjusted PAT stood at ₹92 Cr (+25% YoY)",
+          "FY26 mutual fund distribution revenue stood at ₹494 Cr (+22% YoY)",
+          "FY26 net flows stood at ₹13,457 Cr (+7% YoY)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Guidance",
+            "value": "₹1,415 Cr"
+          },
+          {
+            "metric": "FY27 PAT Guidance",
+            "value": "₹460 Cr"
+          },
+          {
+            "metric": "FY27 AUM Guidance",
+            "value": "₹1,20,000 Cr"
+          },
+          {
+            "metric": "Long-Term PAT Growth",
+            "value": "20-25%"
+          }
+        ],
+        "highlights": [
+          "AUM crossed ₹1 lakh Cr after March-end, supported by market recovery",
+          "Client families increased by 1,872 on net basis to 13,395",
+          "AUM lost due to client attrition remained very low at 0.54%",
+          "Digital wealth / B2B2C AUM stood at ₹2,218 Cr, up 22%",
+          "OFA SaaS platform crossed 6,900+ subscribers and platform assets stood at ₹1.47 lakh Cr",
+          "Management highlighted the 18th consecutive quarter of 20%+ YoY PAT growth"
+        ],
+        "quote": "\"Anand Rathi is outperforming the sector on PAT consistency, client retention, AUM growth and market-agnostic wealth model.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Nuvama Wealth Management Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Client Assets",
+            "value": ">₹5 Lakh Cr",
+            "change": "Milestone",
+            "positive": 1
+          },
+          {
+            "label": "Revenue",
+            "value": ">₹900 Cr",
+            "change": "Record",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": ">₹300 Cr",
+            "change": "Record",
+            "positive": 1
+          },
+          {
+            "label": "ROE",
+            "value": "~30%",
+            "change": "Sustained",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Client assets crossed ₹5 lakh Cr",
+          "Quarterly revenue exceeded ₹900 Cr",
+          "PAT crossed ₹300 Cr for the first time",
+          "ROE remained near 30%",
+          "ARR assets grew around 20% to ₹58,000 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "ARR Growth",
+            "guided": "Increase recurring assets",
+            "actual": "ARR assets grew around 20%",
+            "status": "met"
+          },
+          {
+            "metric": "Offshore Allocation",
+            "guided": "Build global offering",
+            "actual": "15-20% client allocation possible over 3-4 years",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Managed Accounts",
+            "value": "Continue strong net new money"
+          },
+          {
+            "metric": "Offshore",
+            "value": "Build toward 15-20% client allocation"
+          },
+          {
+            "metric": "New Fund",
+            "value": "Deploy around 70% AUM in 2-3 months"
+          }
+        ],
+        "highlights": [
+          "Managed-account net new money was around ₹1,800 Cr",
+          "AI tools are being deployed for RMs and supervisors",
+          "Offshore capabilities are expanding",
+          "Institutional equities client assets recovered",
+          "Recurring assets are improving earnings resilience",
+          "The platform continues to invest in talent and technology"
+        ],
+        "quote": "\"Client assets, revenue and profit all reached new quarterly highs.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Client Assets",
+            "value": "₹4.5 L Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Op. PAT (FY26)",
+            "value": "₹1,000 Cr+",
+            "change": "Crossed",
+            "positive": 1
+          },
+          {
+            "label": "ROE (FY26)",
+            "value": "28%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Wealth Assets",
+            "value": "₹1.1 L Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total client assets stood at ₹4.5 lakh Cr and FY26 operating PAT crossed ₹1,000 Cr",
+          "Q4FY26 revenue stood at ₹825 Cr (+7% YoY); Q4FY26 operating PAT stood at ₹269 Cr (+5% YoY)",
+          "FY26 ROE stood at 28%",
+          "Wealth client assets stood at ₹1.1 lakh Cr (+14% YoY)",
+          "MPIS assets stood at ₹39,000 Cr and FY26 net new money stood at ₹8,900 Cr"
+        ],
+        "outlook": "FY26 was resilient despite market volatility and moderation in institutional equities and investment banking. FY27 will see incremental investments in Asset Management, new strategies, MF licence and SIF business, while recurring revenue mix continues to improve.",
+        "highlights": [
+          "Excluding IE and IB, Q4FY26 revenue grew 13% and FY26 revenue grew 17%",
+          "Wealth and Private together grew 20% YoY",
+          "Wealth, Asset Management and Asset Services now contribute around 80% of firm revenue vs 74% last year",
+          "Wealth retention remained stable around 90 bps",
+          "Private client assets / ARR grew 22%, net new money grew 24% and revenue grew 24%",
+          "Asset Management management fee income grew 31%"
+        ],
+        "quote": "\"Nuvama is outperforming the sector on wealth/private growth, recurring revenue mix, ROE and operating leverage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Prudent Corporate Advisory Services Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Average AUM",
+            "value": "₹1.33 Lakh Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Equity AUM",
+            "value": "₹1.34 Lakh Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹89 Cr",
+            "change": "+32.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹74.8 Cr",
+            "change": "+44.4% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Average AUM reached ₹1.33 lakh Cr",
+          "Current AUM was around ₹1.40 lakh Cr",
+          "Equity AUM grew 18% to ₹1.34 lakh Cr",
+          "Operating profit rose 32.4% to ₹89.1 Cr",
+          "PAT increased 44.4% to ₹74.8 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "AUM Momentum",
+            "guided": "Grow ahead of industry",
+            "actual": "QAAUM grew 20.8%",
+            "status": "met"
+          },
+          {
+            "metric": "Margin Normalisation",
+            "guided": "Reflect GST transition",
+            "actual": "Transition completed and Q1 margin is representative",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "AUM",
+            "value": "Current base supports FY27 revenue growth"
+          },
+          {
+            "metric": "SIF",
+            "value": "Scale newly launched products"
+          },
+          {
+            "metric": "MFD Network",
+            "value": "Continue partner-led expansion"
+          }
+        ],
+        "highlights": [
+          "Net flows were around ₹3,700 Cr",
+          "PMS average AUM grew 37%",
+          "Sixty percent of AUM was mobilised by GST-compliant partners",
+          "Current AUM is 16% above FY26 average",
+          "Higher operating leverage supported profit growth",
+          "The completed GST transition improves comparability"
+        ],
+        "quote": "\"AUM growth and operating leverage produced a sharp increase in profit.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Avg Daily AUM",
+            "value": "₹1.21 L Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Avg AUM",
+            "value": "₹1,28,000 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Monthly SIP Book",
+            "value": "₹1,188 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "SIP Market Share",
+            "value": "3.65%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 average daily AUM stood at ₹1.21 lakh Cr; closing AUM on 31 March stood at ₹1.19 lakh Cr",
+          "AUM on 5 May stood at ₹1.33 lakh Cr, around 10% higher than FY26 average AUM",
+          "Q4FY26 average AUM stood at ₹1,28,000 Cr (+26% YoY)",
+          "FY26 equity net sales stood at ₹13,900 Cr",
+          "MF revenue grew 21%, total revenue from operations grew 19%, operating profit grew 18% and PAT grew 14%"
+        ],
+        "outlook": "AUM recovery after March gives a strong FY27 revenue tailwind. Management remains confident in SIP behaviour despite higher cancellations during weak markets, while insurance, SIF, AI-led partner tools and B2B2C distribution remain key growth levers.",
+        "highlights": [
+          "Q4 saw highest-ever quarterly equity net sales of ₹4,300 Cr",
+          "New SIP registrations were the highest-ever on annual basis",
+          "Added around 5,100 new partners during the year",
+          "Indus acquisition integration progressed well, with 100% manpower retention",
+          "Prudent Edge AI platform launched for mutual fund distribution partners",
+          "Insurance business continues to scale, especially health insurance"
+        ],
+        "quote": "\"Prudent is outperforming the sector on B2B2C distribution, partner network, SIP book, equity net sales and technology-led scale.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Edelweiss Financial Services Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Fee-Paying AUM",
+            "value": "₹48,623 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹81 Cr",
+            "change": "+45% YoY",
+            "positive": 1
+          },
+          {
+            "label": "MF Equity AUM",
+            "value": "₹96,000 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Housing AUM",
+            "value": "₹4,900 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Fee-paying alternatives AUM grew 27%",
+          "Quarterly PAT increased 45% to ₹81 Cr",
+          "Mutual-fund equity AUM grew 32% to ₹96,000 Cr",
+          "Housing-finance AUM grew 14%",
+          "MSME AUM grew 94% from a small base"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Capital-Light Transition",
+            "guided": "Grow fee businesses",
+            "actual": "Fee-paying AUM grew 27%",
+            "status": "met"
+          },
+          {
+            "metric": "Retail Credit",
+            "guided": "Scale carefully",
+            "actual": "Housing +14%; MSME +94%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Alternatives",
+            "value": "Compound fee-paying AUM"
+          },
+          {
+            "metric": "Housing Finance",
+            "value": "Scale with 24%+ PAT margin"
+          },
+          {
+            "metric": "MSME Finance",
+            "value": "Calibrated growth"
+          }
+        ],
+        "highlights": [
+          "Alternatives benefited from vintage and carry income",
+          "Housing finance reached around ₹4,900 Cr AUM",
+          "MSME finance remained small at around ₹1,700 Cr",
+          "Fee businesses continued to strengthen group profitability",
+          "Asset-quality and returns remain the filters for growth",
+          "Management avoided issuing a specific AUM target"
+        ],
+        "quote": "\"Fee-paying assets and retail credit both contributed to faster profit growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consol. PAT",
+            "value": "₹547 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Alt AM FPAUM",
+            "value": "₹44,000 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "MF Equity AUM",
+            "value": "₹78,000 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ARC Recoveries",
+            "value": "₹8,590 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated PAT stood at ₹547 Cr (+27% YoY)",
+          "Alternative Asset Management FPAUM stood at ₹44,000 Cr (+32% YoY)",
+          "Mutual Fund equity AUM stood at ₹78,000 Cr (+25% YoY)",
+          "ARC recoveries stood at ₹8,590 Cr",
+          "MSME disbursements grew around 200%, Housing Finance disbursements grew 27% and General Insurance GWP grew 28%"
+        ],
+        "outlook": "Edelweiss is improving due to growth in alternatives, EAAA IPO optionality, ARC recovery and debt reduction triggers. Corporate debt reduction remains a key focus, with expected cash realisations from IPO, stake sales and dividends.",
+        "highlights": [
+          "EAAA received SEBI approval for IPO and completed 4.4% placement, raising ₹375 Cr",
+          "Citius transportation InvIT listed with portfolio value around ₹11,000 Cr",
+          "Carlyle investment in Nido has received CCI approval, RBI approval awaited",
+          "ARC recoveries remain strong and management expects ARC opportunity to improve again",
+          "Private credit FPAUM is around ₹20,000 Cr, with nearly 65% in special situations",
+          "Special situations products target 18%+ rupee yield"
+        ],
+        "quote": "\"Edelweiss is improving due to growth in alternatives, EAAA IPO optionality, ARC recovery and debt reduction triggers.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "JM Financial Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Net Revenue",
+            "value": "₹883 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹292 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Recurring Wealth AUM",
+            "value": "₹33,400 Cr",
+            "change": "Growth",
+            "positive": 1
+          },
+          {
+            "label": "Private Markets Revenue",
+            "value": "₹462 Cr",
+            "change": "2x YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Net revenue grew 13% to ₹883 Cr",
+          "Reported PAT stood at ₹292 Cr",
+          "Recurring wealth AUM increased to ₹33,400 Cr",
+          "Private Markets revenue doubled to ₹462 Cr",
+          "Mortgage AUM grew 28% to ₹3,715 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Private Markets",
+            "guided": "Meet recovery and profitability plan",
+            "actual": "Revenue doubled and PPOP rose 2.3x",
+            "status": "met"
+          },
+          {
+            "metric": "Wealth Mix",
+            "guided": "Raise recurring AUM",
+            "actual": "Recurring share increased to 30%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Private Markets",
+            "value": "Continue monetising recoveries"
+          },
+          {
+            "metric": "Wealth",
+            "value": "Improve productivity and recurring mix"
+          },
+          {
+            "metric": "Mortgage",
+            "value": "Scale with controlled risk"
+          }
+        ],
+        "highlights": [
+          "Investment-banking activity remained subdued",
+          "Wealth PAT was affected by slower transaction revenue",
+          "Private-market recoveries exceeded ₹1,200 Cr",
+          "Mortgage customer base reached around 36,000",
+          "Non-liquid mutual-fund AUM began recovering",
+          "The group retained confidence in its private-markets guidance"
+        ],
+        "quote": "\"Private-market recoveries offset softer capital-markets and wealth transaction income.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "PAT after Minority",
+            "value": "₹1,202 Cr",
+            "change": "+46% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. Op. PAT",
+            "value": "₹1,133 Cr",
+            "change": "+38% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROE",
+            "value": "12%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Net Worth",
+            "value": "₹10,605 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Reported PAT after minority stood at ₹1,202 Cr (+46% YoY)",
+          "Adjusted operating PAT stood at ₹1,133 Cr (+38% YoY); ROE stood at 12%",
+          "CACM FY26 net revenue stood at ₹789 Cr (+11% YoY) and operating PAT stood at ₹347 Cr",
+          "Private Markets operating PAT after minority stood at ₹543 Cr, up 3.6x",
+          "Wealth FY26 net revenue stood at ₹775 Cr (+9% YoY) and operating PAT stood at ₹132 Cr"
+        ],
+        "outlook": "FY26 was the second year after JM Financial's strategic pivot. Management expects CACM execution to improve once markets become more receptive, and wants Private Markets to evolve towards a fee-based, syndication-led and liquidity-provider model.",
+        "highlights": [
+          "Corporate Advisory and Capital Markets closed 41 capital market transactions worth around ₹95,000 Cr in FY26",
+          "IPO pipeline remains strong, with documents filed for 55 IPOs aggregating ₹1,40,000 Cr issue size",
+          "Private Markets loan book reduced from ₹10,000 Cr in FY24 to around ₹4,000 Cr in FY26",
+          "Private Markets loan book is expected to remain around ₹4,000-5,000 Cr and grow 15-20% YoY",
+          "Wealth sales and RM strength increased 30% YoY to 1,046 employees",
+          "Recurring AUM across wealth businesses grew 10% YoY to around ₹31,000 Cr"
+        ],
+        "quote": "\"JM Financial is improving on strategic pivot, CACM pipeline, Private Markets profitability and wealth franchise expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Motilal Oswal Financial Services Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "PAT",
+            "value": "₹609 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          },
+          {
+            "label": "AMC AUM",
+            "value": ">₹2 Lakh Cr",
+            "change": "Milestone",
+            "positive": 1
+          },
+          {
+            "label": "AMC Net Flows",
+            "value": "₹10,325 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Wealth ARR Revenue",
+            "value": "₹157 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "PAT grew 14% to ₹609 Cr",
+          "Asset-management AUM crossed ₹2 lakh Cr",
+          "AMC net flows reached ₹10,325 Cr",
+          "Average AMC AUM increased to ₹1.81 lakh Cr",
+          "Private-wealth ARR revenue grew 42%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "ARR Mix",
+            "guided": "Increase recurring revenue",
+            "actual": "Capital-markets ARR reached 57% of segment revenue",
+            "status": "met"
+          },
+          {
+            "metric": "Fund Vintage",
+            "guided": "Expand eligible distribution universe",
+            "actual": "Two more funds expected to cross three years by March",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "AMC",
+            "value": "Use fund performance and distribution to grow AUM"
+          },
+          {
+            "metric": "Private Wealth ARR AUM",
+            "value": "Scale from around ₹52,000 Cr"
+          },
+          {
+            "metric": "Fund Vintage",
+            "value": "Reach 75% industry AUM coverage"
+          }
+        ],
+        "highlights": [
+          "Current AMC AUM is more than 15% above FY26 average",
+          "SIP AUM reached ₹38,643 Cr",
+          "Flow market share remained above AUM share",
+          "Private-wealth net flows grew 37% to around ₹4,000 Cr",
+          "Carry income is expected to rise with fund maturity",
+          "Recurring revenue is improving earnings quality"
+        ],
+        "quote": "\"Asset management and recurring wealth revenue remained the group’s strongest growth engines.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating PAT",
+            "value": "₹2,360 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Op. PAT Growth",
+            "value": "25%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Asset & Wealth AUM",
+            "value": "₹3.7 L Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Flows",
+            "value": "₹70,000 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Operating PAT stood at ₹2,360 Cr (+16% YoY), while Q4 operating PAT grew 25%",
+          "Q4 exit operating PAT run-rate stood at ₹661 Cr",
+          "Asset & Private Wealth profits grew 33%",
+          "Asset & Private Wealth now contribute around 50% of operating PAT",
+          "Asset & Private Wealth AUM stood at ₹3.7 lakh Cr (+34% YoY), with net flows of ₹70,000 Cr"
+        ],
+        "outlook": "FY26 growth was led by annuity businesses, mainly Asset Management and Private Wealth. Management expects annuity businesses, which now contribute over 60% of group revenue, to keep rising as a share of the business.",
+        "highlights": [
+          "AMC AUM crossed ₹1.5 lakh Cr across active, passive, AIF and PMS",
+          "AMC average AUM moved from ₹1.57 lakh Cr to ₹1.8 lakh Cr in April after market recovery",
+          "AMC unique PAN crossed 1 Cr vs 77 lakh last year",
+          "AMC has around 16% client share of the MF industry",
+          "Wealth business serves around 9,000 families, with around 50% having UHNI potential",
+          "Long-term credit rating was upgraded to AA+ stable"
+        ],
+        "quote": "\"Motilal Oswal is outperforming the sector on annuity business growth, Asset & Private Wealth scale, net flows and operating PAT resilience.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Nippon Life India Asset Management Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "MF QAAUM",
+            "value": "₹7.52 Lakh Cr",
+            "change": "+22.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Revenue",
+            "value": "₹767 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹494 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹504 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Mutual-fund QAAUM grew 22.7% to ₹7.52 lakh Cr",
+          "Revenue increased 26% to ₹767 Cr",
+          "Operating profit rose 31% to ₹494 Cr",
+          "PAT grew 27% to ₹504 Cr",
+          "Total managed assets reached ₹8.62 lakh Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Market Share",
+            "guided": "Gain share",
+            "actual": "MF share rose 54 bps YoY to 9.04%",
+            "status": "met"
+          },
+          {
+            "metric": "Systematic Book",
+            "guided": "Deepen SIP franchise",
+            "actual": "Monthly book grew 12% to ₹3,720 Cr",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Expenses",
+            "value": "Around 15% growth framework"
+          },
+          {
+            "metric": "Digital Investment",
+            "value": "Continue for 6-8 quarters"
+          },
+          {
+            "metric": "AUM",
+            "value": "Sustain share gains across equity and ETFs"
+          }
+        ],
+        "highlights": [
+          "Nippon was the fastest-growing top-ten AMC in Q1",
+          "Equity market share rose to 7.38%",
+          "SIP market share stood at 9.84%",
+          "ETF AUM reached ₹2.43 lakh Cr",
+          "Digital transactions grew 26%",
+          "AIF commitments increased 18%"
+        ],
+        "quote": "\"AUM share gains translated into faster revenue and operating-profit growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total AUM",
+            "value": "₹7.73 L Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "MF QAAUM",
+            "value": "₹7.25 L Cr",
+            "change": "+30% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Op. Profit",
+            "value": "₹1,748 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹1,529 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total AUM stood at ₹7.73 lakh Cr and MF QAAUM stood at ₹7.25 lakh Cr (+30% YoY)",
+          "Overall AUM market share stood at 8.89%",
+          "FY26 operating profit stood at ₹1,748 Cr (+24% YoY); FY26 PAT stood at ₹1,529 Cr (+19% YoY)",
+          "Q4FY26 revenue stood at ₹739 Cr (+30% YoY), operating profit stood at ₹493 Cr and PAT stood at ₹385 Cr (+29% YoY)",
+          "Dividend payout stood at 91.5% of net profit"
+        ],
+        "outlook": "NAM India was the fastest-growing AMC among Top-10 AMCs in Q4FY26 and FY26, with the highest increase in AUM market share in the industry. SIP, ETF, investor base and digital transaction scale remain core advantages.",
+        "highlights": [
+          "Market share of 8.89% is the highest since June 2019",
+          "Monthly systematic book stood at ₹3,720 Cr in March 2026, up 17%",
+          "SIP market share stood around 9.84%",
+          "NAM India remains the largest MF investor base with 23.8 mn unique investors",
+          "ETF AUM stood at ₹2.42 lakh Cr with ETF market share of 21.4%",
+          "Digital channel contributed 77% of new purchase transactions"
+        ],
+        "quote": "\"NAM India is outperforming the sector on market share gains, ETF leadership, investor base, SIP scale and digital transactions.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "HDFC Asset Management Company Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "QAAUM",
+            "value": "₹9.35 Lakh Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Equity QAAUM",
+            "value": "+16%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹840 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Margin",
+            "value": "35 bps",
+            "change": "Of AUM",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Quarterly average AUM grew 13% to ₹9.35 lakh Cr",
+          "Active equity QAAUM grew 16%",
+          "PAT increased 10% to ₹840 Cr",
+          "Operating margin remained 35 bps of AUM",
+          "Debt QAAUM stood at ₹1.66 lakh Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Margin Discipline",
+            "guided": "Maintain decent margins",
+            "actual": "Operating margin held at 35 bps",
+            "status": "met"
+          },
+          {
+            "metric": "Equity Market Share",
+            "guided": "Improve through flows",
+            "actual": "Flow share remained above outstanding AUM share",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Margins",
+            "value": "Maintain through scale and product mix"
+          },
+          {
+            "metric": "Equity",
+            "value": "Focus on long-duration flows"
+          },
+          {
+            "metric": "Alternatives",
+            "value": "Continue selective expansion"
+          }
+        ],
+        "highlights": [
+          "Equity mix remained above the industry average",
+          "Liquid QAAUM reached ₹85,100 Cr",
+          "Alternatives AUM continued to build",
+          "SIPs remained the principal source of long-term flows",
+          "Distribution partnerships continued to widen",
+          "The company retained pricing discipline"
+        ],
+        "quote": "\"AUM and profit growth continued with stable operating yield.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "QAAUM",
+            "value": "₹9.3 L Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Revenue from Ops",
+            "value": "₹4,120 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Op. Profit",
+            "value": "₹3,210 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹2,860 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Overall QAAUM stood at ₹9.3 lakh Cr (+20% YoY), with equity-oriented AUM at ₹6 lakh Cr",
+          "SIP + STP flows in March stood at ₹4,880 Cr (+33% YoY)",
+          "Total accounts crossed 30 mn and unique investors stood at 16.7 mn",
+          "FY26 total revenue stood at ₹4,620 Cr; revenue from operations stood at ₹4,120 Cr (+18% YoY)",
+          "Operating profit stood at ₹3,210 Cr (+18% YoY) and PAT stood at ₹2,860 Cr (+16% YoY)"
+        ],
+        "outlook": "HDFC AMC continues to benefit from financialisation, SIP growth, digital adoption and scale. Management's digital strategy is to become a digital AI wealth creator for every Indian, with AI embedded across marketing, client engagement, investments, risk and compliance.",
+        "highlights": [
+          "Industry added 7.2 mn new MF investors during the year, while HDFC AMC alone added 3.5 mn unique investors",
+          "Direct plans now form around 31% of equity AUM",
+          "97% of transactions are digital vs 81% three years ago and 69% six years ago",
+          "HDFC AMC launched 7 new schemes during FY26",
+          "Alternatives business saw first close of private credit fund with IFC as anchor and partner",
+          "Operating margin stood at 35 bps of AUM and dividend payout ratio stood at 81%"
+        ],
+        "quote": "\"HDFC AMC is outperforming the sector on scale, unique investor addition, digital adoption, operating profit and PAT delivery.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "ICICI Prudential Asset Management Company Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,564 Cr",
+            "change": "+17.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating PBT",
+            "value": "₹1,100 Cr",
+            "change": "+20.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹965 Cr",
+            "change": "+23.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Margin",
+            "value": "36.9 bps",
+            "change": "+0.8 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Operating revenue grew 17.6% to ₹1,564 Cr",
+          "Operating PBT increased 20.2% to ₹1,100 Cr",
+          "PAT rose 23.1% to ₹965 Cr",
+          "Operating margin improved to 36.9 bps",
+          "Mutual-fund QAAUM reached ₹9.25 lakh Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Operating Leverage",
+            "guided": "Grow profit ahead of cost",
+            "actual": "PBT +20.2% versus opex +11.7%",
+            "status": "met"
+          },
+          {
+            "metric": "Product Diversification",
+            "guided": "Scale alternatives and SIF",
+            "actual": "Alternatives QAAUM reached ₹79,446 Cr",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Core Yield",
+            "value": "Protect through mix and scale"
+          },
+          {
+            "metric": "Alternatives",
+            "value": "Expand PMS, AIF and SIF"
+          },
+          {
+            "metric": "Digital",
+            "value": "Increase self-service adoption"
+          }
+        ],
+        "highlights": [
+          "Total mutual-fund market share reached 13.5%",
+          "Equity-oriented QAAUM reached ₹6.31 lakh Cr",
+          "Passive AUM grew 25.3%",
+          "PMS AUM grew 8.1% sequentially",
+          "Sixty percent of customer interactions were digital",
+          "ESOP expense began in Q1"
+        ],
+        "quote": "\"Revenue growth converted into faster core profit growth and a higher operating margin.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "MF QAAUM",
+            "value": "₹11.05 L Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Active QAAUM",
+            "value": "₹9.21 L Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Op. Revenue",
+            "value": "₹1,517 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROE (FY26)",
+            "value": "86%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total MF QAAUM stood at ₹11.05 lakh Cr (+26% YoY); active schemes QAAUM stood at ₹9.21 lakh Cr",
+          "Equity + equity-oriented QAAUM stood at ₹6.2 lakh Cr, while equity-oriented hybrid QAAUM stood at ₹2.18 lakh Cr",
+          "Debt QAAUM stood at ₹1.99 lakh Cr and passive QAAUM stood at ₹1.84 lakh Cr",
+          "Unique customer base stood at 17 mn; March systematic transactions stood at ₹5,104 Cr (+31% YoY)",
+          "Q4 operating revenue stood at ₹1,517 Cr (+20% YoY); Q4 PAT stood at ₹763 Cr (+10% YoY)"
+        ],
+        "outlook": "ICICI Prudential AMC remains one of the largest AMCs in India and leads active, equity-oriented and equity-oriented hybrid categories. SIF, alternatives, GIFT City and Dubai presence are being scaled for domestic and offshore opportunities.",
+        "highlights": [
+          "Total MF market share stood around 13.5%",
+          "Active schemes market share stood around 13.7%, where company is the largest",
+          "Equity and equity-oriented market share stood around 14.2%, where company is the largest",
+          "Equity-oriented hybrid market share stood around 26.7%, where company is the largest",
+          "Passive AUM grew strongly, up 48% YoY",
+          "FY26 gross yield stood at 52 bps, net yield at 48 bps and operating margin improved to 38 bps"
+        ],
+        "quote": "\"ICICI Prudential AMC is outperforming the sector on active AUM scale, hybrid leadership, operating margins, ROE and SIF / alternatives build-out.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Aditya Birla Sun Life AMC Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total AUM",
+            "value": ">₹10 Lakh Cr",
+            "change": "Milestone",
+            "positive": 1
+          },
+          {
+            "label": "MF QAAUM",
+            "value": "₹4.28 Lakh Cr",
+            "change": "+6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Revenue",
+            "value": "₹625 Cr",
+            "change": "+11% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹309 Cr",
+            "change": "Growth",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Group-managed assets crossed ₹10 lakh Cr",
+          "Overall average AUM including alternatives surpassed ₹6 lakh Cr",
+          "Mutual-fund QAAUM grew 6% to ₹4.28 lakh Cr",
+          "Revenue grew 11% to ₹625 Cr",
+          "PBT increased 9% to ₹406 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Yield Stability",
+            "guided": "Maintain yields",
+            "actual": "Similar range with only minor variation expected",
+            "status": "met"
+          },
+          {
+            "metric": "Passive Growth",
+            "guided": "Scale passive franchise",
+            "actual": "ETF QAAUM grew around 47%",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Yield",
+            "value": "Broadly stable"
+          },
+          {
+            "metric": "Equity Franchise",
+            "value": "Improve flows and performance"
+          },
+          {
+            "metric": "Alternatives",
+            "value": "Scale domestic and offshore products"
+          }
+        ],
+        "highlights": [
+          "SIP AUM stood around ₹87,000 Cr",
+          "Passive QAAUM was around ₹47,000 Cr",
+          "B30 industry AUM grew 13%",
+          "Real-estate and alternatives continued to expand",
+          "NRI feeder-fund initiatives are being developed",
+          "Management prioritised absolute profit over headline margin"
+        ],
+        "quote": "\"AUM scale expanded across mutual funds, passives and alternatives.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Avg AUM",
+            "value": "₹4.74 L Cr",
+            "change": "+17% YoY",
+            "positive": 1
+          },
+          {
+            "label": "MF QAAUM",
+            "value": "₹4.36 L Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Op. Profit",
+            "value": "₹1,015 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹975 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Overall average AUM stood at ₹4.74 lakh Cr (+17% YoY)",
+          "MF QAAUM stood at ₹4.36 lakh Cr (+14% YoY), with equity MF QAAUM at ₹1.97 lakh Cr (+17% YoY)",
+          "March SIP contribution stood at ₹1,204 Cr (+11% QoQ), while Q4 SIP flows stood at ₹3,600 Cr",
+          "FY26 revenue from operations stood at ₹1,845 Cr; operating profit stood at ₹1,015 Cr; PAT stood at ₹975 Cr",
+          "Q4 revenue from operations stood at ₹458 Cr, operating profit at ₹252 Cr and PAT at ₹187 Cr"
+        ],
+        "outlook": "ABSL AMC is improving with passive growth, SIP pickup, alternatives scale-up and SIF launch. The company is building GIFT City, passive, PMS/AIF, real estate and SIF platforms alongside the core MF franchise.",
+        "highlights": [
+          "Q4 new SIP registrations stood around 6 lakh, up 16% QoQ",
+          "Company is present across 19,000+ pin codes",
+          "PMS + AIF assets grew to ₹32,570 Cr, nearly 3x YoY",
+          "Passive QAAUM crossed ₹41,200 Cr, up 25%, while ETF QAAUM grew 68% YoY",
+          "GIFT City subsidiary has been incorporated and retail licence received",
+          "SIF vertical was launched under APEX SIF brand"
+        ],
+        "quote": "\"ABSL AMC is improving with strong passive growth, SIP pickup, alternatives scale-up and SIF launch.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Angel One Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,430 Cr",
+            "change": "+25.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹230 Cr",
+            "change": "+102% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Normalised EBDAT Margin",
+            "value": "43.6%",
+            "change": "Within band",
+            "positive": 1
+          },
+          {
+            "label": "Total AUM",
+            "value": "₹13,440 Cr",
+            "change": "+33.3% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 25.4% to ₹1,430 Cr",
+          "PAT more than doubled to ₹230 Cr",
+          "Normalised EBDAT margin remained strong at 43.6%",
+          "Client-funding book reached a record ₹7,150 Cr at quarter-end",
+          "Total wealth and asset-management AUM grew 33.3%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Operating Margin",
+            "guided": "Maintain normalised band",
+            "actual": "43.6%",
+            "status": "met"
+          },
+          {
+            "metric": "Revenue Diversification",
+            "guided": "Scale non-broking lines",
+            "actual": "Complementary businesses reached 40% of revenue",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Operating Margin",
+            "value": "Maintain normalised range"
+          },
+          {
+            "metric": "Platform Strategy",
+            "value": "Deepen multi-product adoption"
+          },
+          {
+            "metric": "New Businesses",
+            "value": "Scale wealth, AMC and distribution responsibly"
+          }
+        ],
+        "highlights": [
+          "Registered users crossed 38 Mn",
+          "Equity derivatives turnover share was 22.2%",
+          "Cash equity share improved to 17.4%",
+          "Credit distribution grew 130%",
+          "Ionic and UHNI AUM continued to scale",
+          "AI tools served more than 1.1 Mn users"
+        ],
+        "quote": "\"Diversification allowed profit to grow sharply despite softer trading activity.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Orders",
+            "value": "431 Mn",
+            "change": "6-quarter high",
+            "positive": 1
+          },
+          {
+            "label": "Retail Turnover Share",
+            "value": "20.4%",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Net Income",
+            "value": "₹1,130 Cr",
+            "change": "+10% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹320 Cr",
+            "change": "+19% QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 orders stood at 431 mn, a 6-quarter high",
+          "Average daily orders stood at 7.4 mn in March 2026",
+          "Retail equity turnover share stood at 20.4% and demat market share stood at 16.7%",
+          "Q4 gross income stood at ₹1,470 Cr (+10% QoQ), while Q4 net income stood at ₹1,130 Cr (+10% QoQ)",
+          "Q4 PAT stood at ₹320 Cr (+19% QoQ), with EBIDAT margin of 42%"
+        ],
+        "outlook": "Angel One is moving from pure broking towards a broader financial services platform. FY27 focus remains on wealth expansion, NBFC and distribution platforms, AMC products and AI-led productivity.",
+        "highlights": [
+          "Average daily orders recovered strongly from 5 mn in February 2025 to 7.4 mn in March 2026",
+          "Ionic Wealth AUM crossed ₹10,000 Cr, up 23% QoQ",
+          "UHNI wealth business doubled over the last 12 months and wealth client base crossed 1,900+",
+          "More than 45% of wealth clients are from non-metros",
+          "AMC now has 11 schemes and folios grew 28% QoQ to 2.46 lakh+",
+          "More than 50% of development work is AI-augmented and 80% of Ionic Wealth codebase is AI-generated"
+        ],
+        "quote": "\"Angel One is outperforming the sector on order recovery, market share, digital scale, wealth expansion and AI-led productivity.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Billionbrains Garage Ventures Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Commodity Share",
+            "value": ">28%",
+            "change": "Retail ADTO",
+            "positive": 1
+          },
+          {
+            "label": "LAS Share",
+            "value": "34%",
+            "change": "Of disbursement",
+            "positive": 1
+          },
+          {
+            "label": "Product Breadth",
+            "value": "Rising",
+            "change": "Bonds added",
+            "positive": 1
+          },
+          {
+            "label": "Wealth Focus",
+            "value": "Expanded",
+            "change": "MF Prime and W",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Groww crossed ten years with continued multi-product expansion",
+          "Commodities reached more than 28% retail notional ADTO share",
+          "Loan-against-securities reached 34% of credit disbursements",
+          "Bonds scaled after launch",
+          "MF Prime and W broadened the wealth proposition"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Multi-Product Adoption",
+            "guided": "Add products beyond broking",
+            "actual": "Commodities, bonds, wealth and LAS scaled",
+            "status": "met"
+          },
+          {
+            "metric": "AMC Partnership",
+            "guided": "Complete State Street transaction approvals",
+            "actual": "SEBI and CCI approvals received",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Wealth",
+            "value": "Build an AI-led advice platform"
+          },
+          {
+            "metric": "Credit",
+            "value": "Continue compounding with LAS"
+          },
+          {
+            "metric": "AMC",
+            "value": "Progress State Street partnership"
+          }
+        ],
+        "highlights": [
+          "Headcount growth remains technology-led rather than RM-heavy",
+          "AI is being used across investing and product development",
+          "Fisdom capabilities are being integrated",
+          "Derivative activity moderated with the market",
+          "MTF growth was supported by higher ticket sizes",
+          "Customer experience remains the primary operating priority"
+        ],
+        "quote": "\"The platform is moving from execution toward broader wealth management.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AMC AUM",
+            "value": "2.5x",
+            "change": "Grew in one year",
+            "positive": 1
+          },
+          {
+            "label": "Investor Runway",
+            "value": "70-80 Mn",
+            "change": "Stocks + MF users",
+            "positive": 1
+          },
+          {
+            "label": "Active Internet Users",
+            "value": "500-600 Mn",
+            "change": "India runway",
+            "positive": 1
+          },
+          {
+            "label": "Disclosure",
+            "value": "No Rev/PAT",
+            "change": "Transcript",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "Management did not disclose detailed FY26 revenue or PAT numbers in the transcript",
+          "FY26 was an important year as Groww became a public company",
+          "AMC AUM grew around 2.5x in one year",
+          "Company scaled MTF meaningfully",
+          "Market share improved across equity, MF and F&O"
+        ],
+        "outlook": "Groww continues to see a long runway for financialisation in India. FY27 focus will remain on scaling wealth, growing market share, launching new products and using AI for customer experience and internal productivity.",
+        "highlights": [
+          "FY26 saw regulatory changes in broking like True to Label and F&O changes, but company managed the transition well",
+          "Company launched new products like commodities and bonds",
+          "Wealth management foray was made through Fisdom acquisition",
+          "Groww launched W for affluent / HNI customers and Groww Prime for mass affluent customers",
+          "Customer acquisition funnel shifted more towards MF and ETFs due to weak markets",
+          "Management said most customer cohorts remain profitable after market recovery post March correction"
+        ],
+        "quote": "\"Groww is outperforming on digital scale, customer acquisition, market share gains and multi-product expansion, but detailed profitability needs to be tracked once disclosed.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

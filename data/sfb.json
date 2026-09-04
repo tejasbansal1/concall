@@ -15,255 +15,1114 @@
     "Utkarsh Small Finance Bank Ltd"
   ],
   "concall": {
-    "Capital Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Gross Advances", "value": "₹8,687 Cr", "change": "+21% YoY", "positive": 1 },
-        { "label": "Deposits", "value": "₹10,018 Cr", "change": "+20% YoY", "positive": 1 },
-        { "label": "PPOP (FY26)", "value": "₹223 Cr", "change": "+19% YoY", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹40 Cr", "change": "+17% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Gross advances stood at ₹8,687 Cr (+21% YoY); deposits stood at ₹10,018 Cr (+20% YoY)",
-        "FY26 NII stood at ₹463 Cr (+13% YoY); FY26 non-interest income stood at ₹99 Cr (+16% YoY)",
-        "FY26 PPOP stood at ₹223 Cr (+19% YoY); FY26 PAT stood at ₹141 Cr",
-        "Q4FY26 disbursement stood at ₹919 Cr (+20% YoY); Q4FY26 NII stood at ₹122 Cr (+19% YoY)",
-        "Q4FY26 NIM stood at 4.06% vs 4.01% QoQ; FY26 NIM stood at 4.04%; FY26 ROA stood at 1.23%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Secured Loan Growth", "value": "22%+" },
-        { "metric": "FY29 Gross Advances Target", "value": "₹16,000 Cr+" },
-        { "metric": "FY27 Branch Network Target", "value": "235 branches" },
-        { "metric": "FY29 Branch Network Target", "value": "300+ branches" },
-        { "metric": "FY27 / FY29 ROTA Target", "value": "1.35-1.40% / 1.6%+" }
-      ],
-      "highlights": [
-        "Capital SFB remains focused on secured, granular and relationship-led lending",
-        "Around 98% of the loan book is secured, with 89% of non-corporate portfolio collateralised by immovable property or bank FDRs",
-        "MSME / business segment was the key growth driver, growing 46% YoY and 9% QoQ",
-        "GNPA stood at 2.54% and NNPA stood at 1.24%; credit cost stood at 0.26% for Q4FY26",
-        "CASA stood at 34.7%, while retail deposits remained above 90% of deposits",
-        "53% of current high-cost term deposits are due for repricing in the next 2 quarters"
-      ],
-      "quote": "\"Capital SFB is outperforming the sector on secured book quality, low credit cost, deposit granularity and asset quality.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Jana Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Gross Advances", "value": "₹36,289 Cr", "change": "FY26", "positive": 1 },
-        { "label": "Deposits", "value": "₹35,784 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹140 Cr", "change": "Q4FY26", "positive": 1 },
-        { "label": "ROA / ROE (Q4)", "value": "1.3% / 13%", "change": "Q4FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Gross advances stood at ₹36,289 Cr; deposits stood at ₹35,784 Cr (+23% YoY)",
-        "Q4FY26 PAT stood at ₹140 Cr, with ROA of 1.3% and ROE of 13%",
-        "Gross NPA stood at 2.33%, Net NPA stood at 0.87% and SMA stood at 3.66%",
-        "Q4FY26 net credit cost stood at ₹156 Cr and gross credit cost stood at ₹192 Cr",
-        "Secured asset book grew 28% YoY and secured asset mix stood at 72.6%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Deposit Growth Guidance", "value": "23-25%" },
-        { "metric": "FY27 CASA Growth Expectation", "value": "27-30%" },
-        { "metric": "Gross Asset Growth Guidance", "value": "19-21%" },
-        { "metric": "Secured / Unsecured Growth", "value": "25-30% / 10-12%" },
-        { "metric": "FY27 PAT Growth Guidance", "value": "~80%" }
-      ],
-      "highlights": [
-        "Management said Q4FY26 clearly showed that MFI stress is now behind the bank",
-        "Bank met Q4 guidance on PAT, credit cost and SMA",
-        "SMA at 3.66% is lower than March 2024 level of 3.99%, showing better exit quality than pre-stress period",
-        "Net credit cost declined to 0.47% for Q4FY26 and management expects it to sustain",
-        "Secured disbursement in Q4FY26 was the highest ever at ₹5,372 Cr",
-        "Management plans to resubmit universal banking application after audited results"
-      ],
-      "quote": "\"Jana is outperforming the sector on credit cost normalisation, secured book growth, MFI recovery and PAT guidance.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "ESAF Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Total Business", "value": "₹48,276 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "Gross Advances", "value": "₹22,426 Cr", "change": "+19% YoY", "positive": 1 },
-        { "label": "Deposits", "value": "₹25,850 Cr", "change": "+11% YoY", "positive": 1 },
-        { "label": "PPOP (Q4FY26)", "value": "₹241 Cr", "change": "+166% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Total business stood at ₹48,276 Cr (+15% YoY); gross advances stood at ₹22,426 Cr (+19% YoY)",
-        "Deposits stood at ₹25,850 Cr (+11% YoY); retail deposits stood at ₹23,674 Cr (+9% YoY)",
-        "FY26 disbursement stood at ₹42,530 Cr (+103% YoY); Q4FY26 disbursement stood at ₹12,926 Cr (+88% YoY)",
-        "Q4FY26 NII stood at ₹518 Cr vs ₹432 Cr QoQ; Q4FY26 NIM improved to 7.3% vs 6.6% QoQ",
-        "GNPA improved to 5.4% vs 6.9% YoY and NNPA improved to 1.8% vs 3.0% YoY"
-      ],
-      "guidance": [
-        { "metric": "Secured Asset Share Target", "value": "70% by Mar 2027" },
-        { "metric": "Steady-State Growth Outlook", "value": "20-25%" },
-        { "metric": "NIM Guidance", "value": "~7% +/- 50 bps" },
-        { "metric": "Cost-to-Income Guidance", "value": "~55% +/- 2%" },
-        { "metric": "FY28 ROA Target", "value": "~2%" }
-      ],
-      "highlights": [
-        "Management's focus remains on building a granular, diversified and increasingly secured lending portfolio",
-        "MARG strategy stands for MSME, Agriculture, Retail and Gold loans and is central to reducing dependence on unsecured loans",
-        "Secured lending constituted 78% of Q4FY26 disbursements",
-        "Secured portfolio mix improved to 61% vs 53% last year",
-        "MARG advances grew 47% YoY and MARG portfolio grew 133% during FY26",
-        "FY26 credit cost declined to 4.7% vs 6.7% in FY25"
-      ],
-      "quote": "\"ESAF can outperform the sector if secured transition, asset quality improvement and credit cost normalisation continue.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Suryoday Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Deposits", "value": "₹13,994 Cr", "change": "+32% YoY", "positive": 1 },
-        { "label": "Net Total Income", "value": "₹1,458 Cr", "change": "+10% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹152 Cr", "change": "vs ₹115 Cr LY", "positive": 1 },
-        { "label": "Capital Adequacy", "value": "20.5%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Deposits stood at ₹13,994 Cr (+32% YoY), with retail deposit share improving to 86%",
-        "CASA ratio stood at 22.6%; FY26 net total income stood at ₹1,458 Cr (+10% YoY)",
-        "FY26 PAT stood at ₹152 Cr vs ₹115 Cr last year",
-        "Commercial vehicle finance portfolio stood at ₹1,819 Cr (+36% YoY)",
-        "Mortgage book including micro home loans stood at ₹3,013 Cr (+38% YoY)"
-      ],
-      "guidance": [
-        { "metric": "FY27 PAT Guidance", "value": "~₹300 Cr" },
-        { "metric": "Inclusive Finance Run-Rate", "value": "~₹500 Cr monthly disbursements" },
-        { "metric": "FY27 Focus", "value": "Momentum and consistency" },
-        { "metric": "Digital Strategy", "value": "Credit on UPI, secured cards, digital MSME loans and deposits" }
-      ],
-      "highlights": [
-        "Management said FY26 was a year of disciplined execution and gradual stabilisation",
-        "Q4FY26 was encouraging as collections, borrower behaviour and business momentum improved",
-        "Inclusive finance slippages reduced to around ₹74 Cr vs ₹116 Cr QoQ",
-        "Current book collection efficiency in inclusive finance moved towards 99.7%",
-        "Around 99% of the inclusive finance portfolio is covered under CGFMU",
-        "Credit on UPI is emerging as a customer acquisition engine, with more than 90% of onboarded customers having CIBIL score above 725"
-      ],
-      "quote": "\"Suryoday can outperform the sector if inclusive finance slippages keep falling and FY27 PAT guidance is delivered.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Equitas Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Gross Advances", "value": "₹46,165 Cr", "change": "+22% YoY", "positive": 1 },
-        { "label": "Deposits", "value": "₹46,533 Cr", "change": "+8% YoY", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹213 Cr", "change": "+406% YoY", "positive": 1 },
-        { "label": "ROA / ROE (Q4)", "value": "1.46% / 14.1%", "change": "Q4FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Gross advances stood at ₹46,165 Cr (+22% YoY and +7% QoQ); deposits stood at ₹46,533 Cr (+8% YoY)",
-        "Q4FY26 total net income stood at ₹1,239 Cr (+18% YoY and +9% QoQ)",
-        "Q4FY26 NIM improved to 7.29% vs 6.72% QoQ",
-        "Q4FY26 PAT stood at ₹213 Cr (+406% YoY and +136% QoQ), the highest ever quarterly PAT for the bank",
-        "GNPA stood at 2.49% vs 2.62% QoQ and NNPA stood at 0.68% vs 0.88% QoQ"
-      ],
-      "guidance": [
-        { "metric": "FY27 Advance Growth Visibility", "value": "~20%" },
-        { "metric": "FY27 Credit Cost Guidance", "value": "~1.5%" },
-        { "metric": "FY27 Q4 Exit ROA Target", "value": "~1.5%" },
-        { "metric": "Microfinance Share", "value": "Remain around 10% of advances" }
-      ],
-      "highlights": [
-        "Q4FY26 was a strong quarter across business growth, asset quality and profitability",
-        "Gross disbursement stood at ₹7,347 Cr, the highest ever quarterly disbursement",
-        "Secured disbursement stood at ₹5,835 Cr, also the highest ever",
-        "Non-MFI secured book stood at ₹40,409 Cr, up 21% YoY",
-        "Net slippages reduced to 0.79%, lowest in the last 10 quarters",
-        "Deposit growth was muted at 8% YoY, which remains the key monitorable"
-      ],
-      "quote": "\"Equitas is outperforming the sector on Q4 profitability, asset quality recovery, disbursement momentum and diversified secured lending.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Utkarsh Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Net Loss (Q4)", "value": "₹188 Cr", "change": "Legacy provisioning", "positive": -1 },
-        { "label": "GNPA", "value": "7.7%", "change": "Improved 330 bps QoQ", "positive": 1 },
-        { "label": "CASA Ratio", "value": "24%", "change": "Improved", "positive": 1 },
-        { "label": "Capital Adequacy", "value": "17.7%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4FY26 net loss stood at ₹188 Cr due to legacy provisioning",
-        "GNPA improved by around 330 bps QoQ to 7.7%",
-        "JLG X-bucket collection efficiency improved to 99.7% in March 2026 vs 98.5% in April 2025",
-        "Fresh NPA slippages net of recoveries and upgrades reduced to around ₹170 Cr vs ₹710 Cr YoY",
-        "JLG share reduced to around 28% of gross loan book, while secured lending share improved to 51% vs 43% last year"
-      ],
-      "outlook": "Management said FY26 was about stability over speed and quality over quantity. Q4FY26 started showing green shoots with better disbursements, lower SMA, lower fresh slippages and higher recoveries. Utkarsh remains in recovery mode, and rerating depends on GNPA improvement, MBBL scaling, higher secured mix and reduction in legacy stress.",
-      "highlights": [
-        "Bank is structurally reducing cyclicality by moving away from unsecured JLG dependence",
-        "JLG exposure reduced from nearly 88% in March 2020 to around 28% in March 2026",
-        "MBBL grew 122% YoY and 40% QoQ and now forms 27% of micro-banking loan book",
-        "Around 70% of microfinance book is covered under CGFMU after including Q4 disbursements",
-        "Retail term deposits grew 20% YoY; CASA deposits grew 11% YoY and 13% QoQ",
-        "Reverse merger with holding company is expected to complete in the next few months, subject to NCLT approval"
-      ],
-      "quote": "\"Utkarsh can rerate if GNPA keeps improving, MBBL scales, secured mix rises and legacy stress reduces.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Ujjivan Small Finance Bank Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Deposits", "value": "₹45,668 Cr", "change": "+21% YoY", "positive": 1 },
-        { "label": "Gross Loan Book", "value": "₹40,655 Cr", "change": "+27% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹693 Cr", "change": "Full Year", "positive": 1 },
-        { "label": "PAT (Q4FY26)", "value": "₹282 Cr", "change": "Q4FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Deposits stood at ₹45,668 Cr (+21% YoY and +8% QoQ); gross loan book stood at ₹40,655 Cr (+27% YoY and +10% QoQ)",
-        "Q4FY26 disbursement stood at ₹9,811 Cr (+32% YoY and +18% QoQ)",
-        "Secured portfolio stood at ₹20,079 Cr (+44% YoY and +13% QoQ), with secured portfolio share at 49.4%",
-        "Q4FY26 NII stood at ₹1,092 Cr (+26% YoY and +9% QoQ); Q4FY26 NIM stood at 8.5%",
-        "FY26 PAT stood at ₹693 Cr; Q4FY26 PAT stood at ₹282 Cr; Q4FY26 ROA stood at 2.1% and ROE stood at 17.2%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Advances Growth", "value": "~25%" },
-        { "metric": "FY27 Secured Asset Share Target", "value": "~56% by FY27-end" },
-        { "metric": "FY27 Credit Cost Guidance", "value": "1.4-1.5% of average GLB" },
-        { "metric": "FY27 ROA Guidance", "value": "~1.6%" },
-        { "metric": "CASA Ratio Target", "value": "~30%" }
-      ],
-      "highlights": [
-        "Ujjivan crossed multiple milestones in FY26, with deposits and gross loan book both crossing ₹40,000 Cr",
-        "Balance sheet crossed ₹50,000 Cr, retail deposits crossed ₹30,000 Cr and savings accounts crossed ₹10,000 Cr",
-        "Housing vertical crossed ₹10,000 Cr, while MSME and FIG crossed ₹3,000 Cr each",
-        "RBI returned the universal bank application but acknowledged Ujjivan's ongoing diversification efforts",
-        "Bank continues to build a more balanced and diversified loan book",
-        "Board approved equity capital raise of up to ₹2,000 Cr to support medium-term growth"
-      ],
-      "quote": "\"Ujjivan is outperforming the sector on deposit growth, Q4 profitability, NIM, secured book expansion and operating momentum.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Capital Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹9,074 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹10,596 Cr",
+            "change": "+16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹41.3 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "CASA",
+            "value": "36.7%",
+            "change": "+200 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances grew 22% YoY to ₹9,074 Cr",
+          "Deposits increased 16% to ₹10,596 Cr",
+          "PAT rose 29% to ₹41.3 Cr",
+          "NII grew 22% to ₹134 Cr",
+          "ROA improved to 1.3%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Secured Loan Growth",
+            "guided": "22%+",
+            "actual": "Q1 advances grew 22% with 97.4% secured mix",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 Branches",
+            "guided": "235",
+            "actual": "Network reached 216 branches",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 ROTA",
+            "guided": "1.35-1.40%",
+            "actual": "Q1 ROA was 1.3%",
+            "status": "partial"
+          },
+          {
+            "metric": "FY29 Advances",
+            "guided": "₹16,000 Cr+",
+            "actual": "Q1 advances reached ₹9,074 Cr",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 ROTA",
+            "value": "Around 1.4%"
+          },
+          {
+            "metric": "FY29",
+            "value": "₹16,000 Cr+ advances and 300+ branches"
+          }
+        ],
+        "highlights": [
+          "Disbursements grew 17% to ₹1,009 Cr",
+          "GNPA improved to 2.47% and NNPA to 1.14%",
+          "Credit cost remained low at 0.31%",
+          "Cost of deposits declined 20 bps QoQ",
+          "Non-Punjab advances grew more than 30%",
+          "Capital adequacy remained strong at 21.6%"
+        ],
+        "quote": "\"Capital SFB met its secured growth goal while improving margins, asset quality and CASA.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹8,687 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹10,018 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PPOP (FY26)",
+            "value": "₹223 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹40 Cr",
+            "change": "+17% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances stood at ₹8,687 Cr (+21% YoY); deposits stood at ₹10,018 Cr (+20% YoY)",
+          "FY26 NII stood at ₹463 Cr (+13% YoY); FY26 non-interest income stood at ₹99 Cr (+16% YoY)",
+          "FY26 PPOP stood at ₹223 Cr (+19% YoY); FY26 PAT stood at ₹141 Cr",
+          "Q4FY26 disbursement stood at ₹919 Cr (+20% YoY); Q4FY26 NII stood at ₹122 Cr (+19% YoY)",
+          "Q4FY26 NIM stood at 4.06% vs 4.01% QoQ; FY26 NIM stood at 4.04%; FY26 ROA stood at 1.23%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Secured Loan Growth",
+            "value": "22%+"
+          },
+          {
+            "metric": "FY29 Gross Advances Target",
+            "value": "₹16,000 Cr+"
+          },
+          {
+            "metric": "FY27 Branch Network Target",
+            "value": "235 branches"
+          },
+          {
+            "metric": "FY29 Branch Network Target",
+            "value": "300+ branches"
+          },
+          {
+            "metric": "FY27 / FY29 ROTA Target",
+            "value": "1.35-1.40% / 1.6%+"
+          }
+        ],
+        "highlights": [
+          "Capital SFB remains focused on secured, granular and relationship-led lending",
+          "Around 98% of the loan book is secured, with 89% of non-corporate portfolio collateralised by immovable property or bank FDRs",
+          "MSME / business segment was the key growth driver, growing 46% YoY and 9% QoQ",
+          "GNPA stood at 2.54% and NNPA stood at 1.24%; credit cost stood at 0.26% for Q4FY26",
+          "CASA stood at 34.7%, while retail deposits remained above 90% of deposits",
+          "53% of current high-cost term deposits are due for repricing in the next 2 quarters"
+        ],
+        "quote": "\"Capital SFB is outperforming the sector on secured book quality, low credit cost, deposit granularity and asset quality.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Jana Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "PAT",
+            "value": "₹155 Cr",
+            "change": "Strong Q1",
+            "positive": 1
+          },
+          {
+            "label": "NIM",
+            "value": "7.5%",
+            "change": "Recovered",
+            "positive": 1
+          },
+          {
+            "label": "Credit Cost",
+            "value": "0.45%",
+            "change": "Stable QoQ",
+            "positive": 1
+          },
+          {
+            "label": "ROA",
+            "value": "1.4%",
+            "change": "Improved",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "PAT reached ₹155 Cr",
+          "NIM recovered to 7.5%",
+          "Net credit cost remained low at 0.45%",
+          "Secured assets grew 29% YoY",
+          "ROA improved to 1.4% and ROE to 13.6%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Gross Asset Growth",
+            "guided": "19-21%",
+            "actual": "Secured growth was 29%; full-year guidance retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Deposit Growth",
+            "guided": "23-25%",
+            "actual": "Deposits were flat QoQ but strong YoY",
+            "status": "partial"
+          },
+          {
+            "metric": "CASA Growth",
+            "guided": "27-30%",
+            "actual": "CASA growth remained strong",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "guided": "Around 80%",
+            "actual": "Q1 PAT recovery supports guidance",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Gross Loan Growth",
+            "value": "19-21%"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "value": "80%+"
+          }
+        ],
+        "highlights": [
+          "GNPA improved to 2.24% and NNPA to 0.85%",
+          "Provision coverage reached 62.4%",
+          "Unsecured slippages declined around 20% QoQ",
+          "Nearly 80% of unsecured loans are guarantee-covered",
+          "Retail deposits increased to 64.9% of deposits",
+          "Management said the worst of MFI stress is behind the bank"
+        ],
+        "quote": "\"Jana’s profitability and NIM normalised as unsecured stress eased and secured assets grew strongly.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹36,289 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹35,784 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹140 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "ROA / ROE (Q4)",
+            "value": "1.3% / 13%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances stood at ₹36,289 Cr; deposits stood at ₹35,784 Cr (+23% YoY)",
+          "Q4FY26 PAT stood at ₹140 Cr, with ROA of 1.3% and ROE of 13%",
+          "Gross NPA stood at 2.33%, Net NPA stood at 0.87% and SMA stood at 3.66%",
+          "Q4FY26 net credit cost stood at ₹156 Cr and gross credit cost stood at ₹192 Cr",
+          "Secured asset book grew 28% YoY and secured asset mix stood at 72.6%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Deposit Growth Guidance",
+            "value": "23-25%"
+          },
+          {
+            "metric": "FY27 CASA Growth Expectation",
+            "value": "27-30%"
+          },
+          {
+            "metric": "Gross Asset Growth Guidance",
+            "value": "19-21%"
+          },
+          {
+            "metric": "Secured / Unsecured Growth",
+            "value": "25-30% / 10-12%"
+          },
+          {
+            "metric": "FY27 PAT Growth Guidance",
+            "value": "~80%"
+          }
+        ],
+        "highlights": [
+          "Management said Q4FY26 clearly showed that MFI stress is now behind the bank",
+          "Bank met Q4 guidance on PAT, credit cost and SMA",
+          "SMA at 3.66% is lower than March 2024 level of 3.99%, showing better exit quality than pre-stress period",
+          "Net credit cost declined to 0.47% for Q4FY26 and management expects it to sustain",
+          "Secured disbursement in Q4FY26 was the highest ever at ₹5,372 Cr",
+          "Management plans to resubmit universal banking application after audited results"
+        ],
+        "quote": "\"Jana is outperforming the sector on credit cost normalisation, secured book growth, MFI recovery and PAT guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "ESAF Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹23,216 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹26,924 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹80 Cr",
+            "change": "Vs ₹24 Cr QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Secured Mix",
+            "value": "62%",
+            "change": "+35% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances grew 27% to ₹23,216 Cr",
+          "Deposits increased 19% to ₹26,924 Cr",
+          "PAT rose sequentially to ₹80 Cr",
+          "Secured loan book grew 35% to ₹14,465 Cr",
+          "ROA reached 1% and ROE 17.5%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Secured Asset Share",
+            "guided": "70% by March 2027",
+            "actual": "Q1 secured share was 62%",
+            "status": "partial"
+          },
+          {
+            "metric": "Steady-state Growth",
+            "guided": "20-25%",
+            "actual": "Q1 advances grew 27%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "NIM",
+            "guided": "Around 7% plus or minus 50 bps",
+            "actual": "Management now expects above 7.5%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY28 ROA",
+            "guided": "Around 2%",
+            "actual": "Exit FY27 ROA target advanced to 2%",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Exit FY27 ROA",
+            "value": "Around 2%"
+          },
+          {
+            "metric": "Exit FY27 Credit Cost",
+            "value": "Around 2%"
+          }
+        ],
+        "highlights": [
+          "Emerging-household portfolio grew 185%",
+          "CASA deposits grew 12% to ₹6,297 Cr",
+          "GNPA improved to 5.4% and NNPA to 0.8%",
+          "Slippages fell sharply to ₹75 Cr",
+          "Provision coverage increased to 86%",
+          "An additional ₹65 Cr provision strengthened the balance sheet"
+        ],
+        "quote": "\"ESAF’s secured pivot accelerated and profitability normalised, allowing management to advance its ROA target.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Business",
+            "value": "₹48,276 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gross Advances",
+            "value": "₹22,426 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹25,850 Cr",
+            "change": "+11% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PPOP (Q4FY26)",
+            "value": "₹241 Cr",
+            "change": "+166% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total business stood at ₹48,276 Cr (+15% YoY); gross advances stood at ₹22,426 Cr (+19% YoY)",
+          "Deposits stood at ₹25,850 Cr (+11% YoY); retail deposits stood at ₹23,674 Cr (+9% YoY)",
+          "FY26 disbursement stood at ₹42,530 Cr (+103% YoY); Q4FY26 disbursement stood at ₹12,926 Cr (+88% YoY)",
+          "Q4FY26 NII stood at ₹518 Cr vs ₹432 Cr QoQ; Q4FY26 NIM improved to 7.3% vs 6.6% QoQ",
+          "GNPA improved to 5.4% vs 6.9% YoY and NNPA improved to 1.8% vs 3.0% YoY"
+        ],
+        "guidance": [
+          {
+            "metric": "Secured Asset Share Target",
+            "value": "70% by Mar 2027"
+          },
+          {
+            "metric": "Steady-State Growth Outlook",
+            "value": "20-25%"
+          },
+          {
+            "metric": "NIM Guidance",
+            "value": "~7% +/- 50 bps"
+          },
+          {
+            "metric": "Cost-to-Income Guidance",
+            "value": "~55% +/- 2%"
+          },
+          {
+            "metric": "FY28 ROA Target",
+            "value": "~2%"
+          }
+        ],
+        "highlights": [
+          "Management's focus remains on building a granular, diversified and increasingly secured lending portfolio",
+          "MARG strategy stands for MSME, Agriculture, Retail and Gold loans and is central to reducing dependence on unsecured loans",
+          "Secured lending constituted 78% of Q4FY26 disbursements",
+          "Secured portfolio mix improved to 61% vs 53% last year",
+          "MARG advances grew 47% YoY and MARG portfolio grew 133% during FY26",
+          "FY26 credit cost declined to 4.7% vs 6.7% in FY25"
+        ],
+        "quote": "\"ESAF can outperform the sector if secured transition, asset quality improvement and credit cost normalisation continue.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Suryoday Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹14,376 Cr",
+            "change": "+32.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹14,634 Cr",
+            "change": "+29.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Credit Cost",
+            "value": "0.8%",
+            "change": "Within guidance",
+            "positive": 1
+          },
+          {
+            "label": "GNPA",
+            "value": "6.5%",
+            "change": "2.9% adjusted",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances grew 32.5% YoY to ₹14,376 Cr",
+          "Deposits increased 29.4% to ₹14,634 Cr",
+          "Retail deposits formed 87.3% of deposits",
+          "Credit cost remained controlled at 0.8%",
+          "Adjusted GNPA and NNPA were 2.9% and 0.3% after guarantee receivables"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 PAT",
+            "guided": "Around ₹300 Cr",
+            "actual": "Q1 profit was around ₹69 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "Inclusive Finance Run-rate",
+            "guided": "Around ₹500 Cr monthly",
+            "actual": "Collections remained strong while growth stayed calibrated",
+            "status": "partial"
+          },
+          {
+            "metric": "Credit Cost",
+            "guided": "0.8-1.0%",
+            "actual": "Q1 was 0.8%",
+            "status": "met"
+          },
+          {
+            "metric": "Q4FY27 ROA",
+            "guided": "Around 1.6%",
+            "actual": "Q1 reached about 1.6%; guidance retained",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Credit Cost",
+            "value": "0.8-1.0%"
+          },
+          {
+            "metric": "Q4FY27 ROA",
+            "value": "Around 1.6%"
+          }
+        ],
+        "highlights": [
+          "Current-bucket collection efficiency was 99.2%",
+          "Digital deposits reached ₹2,222 Cr",
+          "Credit-on-UPI customers crossed 900,000",
+          "Digital MSME disbursements were ₹59 Cr",
+          "CASA ratio stood at 21%",
+          "Management remains cautious on accelerating microfinance growth"
+        ],
+        "quote": "\"Suryoday delivered rapid balance-sheet growth and met credit-cost guidance, while legacy GNPA remains the key watchpoint.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Deposits",
+            "value": "₹13,994 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Total Income",
+            "value": "₹1,458 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹152 Cr",
+            "change": "vs ₹115 Cr LY",
+            "positive": 1
+          },
+          {
+            "label": "Capital Adequacy",
+            "value": "20.5%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Deposits stood at ₹13,994 Cr (+32% YoY), with retail deposit share improving to 86%",
+          "CASA ratio stood at 22.6%; FY26 net total income stood at ₹1,458 Cr (+10% YoY)",
+          "FY26 PAT stood at ₹152 Cr vs ₹115 Cr last year",
+          "Commercial vehicle finance portfolio stood at ₹1,819 Cr (+36% YoY)",
+          "Mortgage book including micro home loans stood at ₹3,013 Cr (+38% YoY)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT Guidance",
+            "value": "~₹300 Cr"
+          },
+          {
+            "metric": "Inclusive Finance Run-Rate",
+            "value": "~₹500 Cr monthly disbursements"
+          },
+          {
+            "metric": "FY27 Focus",
+            "value": "Momentum and consistency"
+          },
+          {
+            "metric": "Digital Strategy",
+            "value": "Credit on UPI, secured cards, digital MSME loans and deposits"
+          }
+        ],
+        "highlights": [
+          "Management said FY26 was a year of disciplined execution and gradual stabilisation",
+          "Q4FY26 was encouraging as collections, borrower behaviour and business momentum improved",
+          "Inclusive finance slippages reduced to around ₹74 Cr vs ₹116 Cr QoQ",
+          "Current book collection efficiency in inclusive finance moved towards 99.7%",
+          "Around 99% of the inclusive finance portfolio is covered under CGFMU",
+          "Credit on UPI is emerging as a customer acquisition engine, with more than 90% of onboarded customers having CIBIL score above 725"
+        ],
+        "quote": "\"Suryoday can outperform the sector if inclusive finance slippages keep falling and FY27 PAT guidance is delivered.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Equitas Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹47,641 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹48,976 Cr",
+            "change": "+10% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹184 Cr",
+            "change": "Vs ₹224 Cr loss",
+            "positive": 1
+          },
+          {
+            "label": "ROA",
+            "value": "1.18%",
+            "change": "Turnaround YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances grew 27% YoY to ₹47,641 Cr",
+          "Deposits rose 10% to ₹48,976 Cr",
+          "PAT recovered to ₹184 Cr",
+          "ROA improved to 1.18%",
+          "Credit cost declined to 1.37%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Advance Growth",
+            "guided": "Around 20%",
+            "actual": "Q1 advances grew 27% YoY",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Credit Cost",
+            "guided": "Around 1.5%",
+            "actual": "Q1 credit cost was 1.37%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Q4FY27 Exit ROA",
+            "guided": "Around 1.5%",
+            "actual": "Q1 ROA reached 1.18%; target retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Microfinance Share",
+            "guided": "Around 10%",
+            "actual": "Organic mix was around 11%",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Advance Growth",
+            "value": "20%+"
+          },
+          {
+            "metric": "FY27 ROA",
+            "value": "Above 1.2% expected"
+          },
+          {
+            "metric": "Q4FY27 Exit ROA",
+            "value": "Around 1.5%"
+          },
+          {
+            "metric": "Near-Term NIM",
+            "value": "Around 7.1%"
+          },
+          {
+            "metric": "Microfinance Mix",
+            "value": "Around 10%"
+          }
+        ],
+        "highlights": [
+          "Q1 disbursements reached a record ₹6,784 Cr",
+          "Gross NPA improved to 2.36%",
+          "Microfinance collection efficiency was 99.7%",
+          "Non-MFI advances grew 22% YoY",
+          "Management expects to beat FY27 guidance",
+          "The Q4FY27 exit ROA target remains intact"
+        ],
+        "quote": "\"Q1 momentum supports performance beyond the FY27 growth and ROA guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Advances",
+            "value": "₹46,165 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹46,533 Cr",
+            "change": "+8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹213 Cr",
+            "change": "+406% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROA / ROE (Q4)",
+            "value": "1.46% / 14.1%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances stood at ₹46,165 Cr (+22% YoY and +7% QoQ); deposits stood at ₹46,533 Cr (+8% YoY)",
+          "Q4FY26 total net income stood at ₹1,239 Cr (+18% YoY and +9% QoQ)",
+          "Q4FY26 NIM improved to 7.29% vs 6.72% QoQ",
+          "Q4FY26 PAT stood at ₹213 Cr (+406% YoY and +136% QoQ), the highest ever quarterly PAT for the bank",
+          "GNPA stood at 2.49% vs 2.62% QoQ and NNPA stood at 0.68% vs 0.88% QoQ"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Advance Growth Visibility",
+            "value": "~20%"
+          },
+          {
+            "metric": "FY27 Credit Cost Guidance",
+            "value": "~1.5%"
+          },
+          {
+            "metric": "FY27 Q4 Exit ROA Target",
+            "value": "~1.5%"
+          },
+          {
+            "metric": "Microfinance Share",
+            "value": "Remain around 10% of advances"
+          }
+        ],
+        "highlights": [
+          "Q4FY26 was a strong quarter across business growth, asset quality and profitability",
+          "Gross disbursement stood at ₹7,347 Cr, the highest ever quarterly disbursement",
+          "Secured disbursement stood at ₹5,835 Cr, also the highest ever",
+          "Non-MFI secured book stood at ₹40,409 Cr, up 21% YoY",
+          "Net slippages reduced to 0.79%, lowest in the last 10 quarters",
+          "Deposit growth was muted at 8% YoY, which remains the key monitorable"
+        ],
+        "quote": "\"Equitas is outperforming the sector on Q4 profitability, asset quality recovery, disbursement momentum and diversified secured lending.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Utkarsh Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "GNPA",
+            "value": "5.9%",
+            "change": "-550 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Loss",
+            "value": "₹34 Cr",
+            "change": "Improved >80%",
+            "positive": 1
+          },
+          {
+            "label": "Secured Mix",
+            "value": "51%",
+            "change": "+600 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "Credit Cost",
+            "value": "2.3%",
+            "change": "Vs 5.3% QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Net loss narrowed more than 80% YoY and QoQ to ₹34 Cr",
+          "GNPA improved 550 bps YoY to 5.9%",
+          "Secured lending increased to 51% of the loan book",
+          "Credit cost declined to 2.3% from 5.3% in Q4",
+          "Total disbursements grew 49% YoY"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Loan Growth",
+            "guided": "25-30%",
+            "actual": "Q1 growth remained modest while disbursements accelerated",
+            "status": "partial"
+          },
+          {
+            "metric": "Secured Mix",
+            "guided": "Around 55%",
+            "actual": "Q1 mix reached 51%",
+            "status": "partial"
+          },
+          {
+            "metric": "NIM",
+            "guided": "Around 8%",
+            "actual": "Deposit repricing is supporting margin stability",
+            "status": "partial"
+          },
+          {
+            "metric": "FY28 ROE",
+            "guided": "Around 15%",
+            "actual": "Bank remains loss-making but recovery is progressing",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth",
+            "value": "Target 25-30% loan-book growth"
+          },
+          {
+            "metric": "FY28",
+            "value": "Around 55% secured mix, 8% NIM and 15% ROE"
+          }
+        ],
+        "highlights": [
+          "JLG collection efficiency improved to 99.7%",
+          "Fresh NPA slippages fell to around ₹125 Cr",
+          "MBBL portfolio grew 147%",
+          "CASA ratio improved to 22%",
+          "Cost of funds declined to 7.7%",
+          "About 80% of the microfinance book is now guarantee-covered"
+        ],
+        "quote": "\"Utkarsh’s loss and credit cost fell sharply, but delivery of its growth and return goals remains an early-stage recovery.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Net Loss (Q4)",
+            "value": "₹188 Cr",
+            "change": "Legacy provisioning",
+            "positive": -1
+          },
+          {
+            "label": "GNPA",
+            "value": "7.7%",
+            "change": "Improved 330 bps QoQ",
+            "positive": 1
+          },
+          {
+            "label": "CASA Ratio",
+            "value": "24%",
+            "change": "Improved",
+            "positive": 1
+          },
+          {
+            "label": "Capital Adequacy",
+            "value": "17.7%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4FY26 net loss stood at ₹188 Cr due to legacy provisioning",
+          "GNPA improved by around 330 bps QoQ to 7.7%",
+          "JLG X-bucket collection efficiency improved to 99.7% in March 2026 vs 98.5% in April 2025",
+          "Fresh NPA slippages net of recoveries and upgrades reduced to around ₹170 Cr vs ₹710 Cr YoY",
+          "JLG share reduced to around 28% of gross loan book, while secured lending share improved to 51% vs 43% last year"
+        ],
+        "outlook": "Management said FY26 was about stability over speed and quality over quantity. Q4FY26 started showing green shoots with better disbursements, lower SMA, lower fresh slippages and higher recoveries. Utkarsh remains in recovery mode, and rerating depends on GNPA improvement, MBBL scaling, higher secured mix and reduction in legacy stress.",
+        "highlights": [
+          "Bank is structurally reducing cyclicality by moving away from unsecured JLG dependence",
+          "JLG exposure reduced from nearly 88% in March 2020 to around 28% in March 2026",
+          "MBBL grew 122% YoY and 40% QoQ and now forms 27% of micro-banking loan book",
+          "Around 70% of microfinance book is covered under CGFMU after including Q4 disbursements",
+          "Retail term deposits grew 20% YoY; CASA deposits grew 11% YoY and 13% QoQ",
+          "Reverse merger with holding company is expected to complete in the next few months, subject to NCLT approval"
+        ],
+        "quote": "\"Utkarsh can rerate if GNPA keeps improving, MBBL scales, secured mix rises and legacy stress reduces.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Ujjivan Small Finance Bank Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross Loan Book",
+            "value": "₹42,903 Cr",
+            "change": "+28.9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹48,129 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹317 Cr",
+            "change": "Strong",
+            "positive": 1
+          },
+          {
+            "label": "ROA",
+            "value": "2.2%",
+            "change": "Above guidance",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Gross loan book grew 28.9% YoY to ₹42,903 Cr",
+          "Disbursements increased 41.4% to ₹9,245 Cr",
+          "Deposits grew 25% to ₹48,129 Cr",
+          "PAT reached ₹317 Cr",
+          "ROA was 2.2% and ROE was 18.2%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Advances Growth",
+            "guided": "Around 25%",
+            "actual": "Q1 loan growth was 28.9%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Secured Asset Share",
+            "guided": "Around 56% by year-end",
+            "actual": "Q1 secured mix reached 50.4%",
+            "status": "partial"
+          },
+          {
+            "metric": "Credit Cost",
+            "guided": "1.4-1.5% of average GLB",
+            "actual": "Revised to 0.9-1.0% of average assets",
+            "status": "exceeded"
+          },
+          {
+            "metric": "ROA",
+            "guided": "Around 1.6%",
+            "actual": "Raised to 1.8-2.0% after Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "CASA Ratio",
+            "guided": "Around 30%",
+            "actual": "CASA deposits grew strongly but ratio remains below target",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 ROA",
+            "value": "Raised to 1.8-2.0%"
+          },
+          {
+            "metric": "FY27 Credit Cost",
+            "value": "Revised to 0.9-1.0% of average assets"
+          }
+        ],
+        "highlights": [
+          "Secured book grew 42.7% to ₹21,638 Cr",
+          "GNPA improved 10 bps to 2.17%",
+          "Provision coverage strengthened to 85%",
+          "Gold, vehicle and agri formed 7% of the loan book",
+          "CASA deposits reached ₹12,930 Cr",
+          "Liquidity coverage ratio remained healthy at 132%"
+        ],
+        "quote": "\"Ujjivan exceeded growth and return expectations, prompting better credit-cost and ROA guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Deposits",
+            "value": "₹45,668 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gross Loan Book",
+            "value": "₹40,655 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹693 Cr",
+            "change": "Full Year",
+            "positive": 1
+          },
+          {
+            "label": "PAT (Q4FY26)",
+            "value": "₹282 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Deposits stood at ₹45,668 Cr (+21% YoY and +8% QoQ); gross loan book stood at ₹40,655 Cr (+27% YoY and +10% QoQ)",
+          "Q4FY26 disbursement stood at ₹9,811 Cr (+32% YoY and +18% QoQ)",
+          "Secured portfolio stood at ₹20,079 Cr (+44% YoY and +13% QoQ), with secured portfolio share at 49.4%",
+          "Q4FY26 NII stood at ₹1,092 Cr (+26% YoY and +9% QoQ); Q4FY26 NIM stood at 8.5%",
+          "FY26 PAT stood at ₹693 Cr; Q4FY26 PAT stood at ₹282 Cr; Q4FY26 ROA stood at 2.1% and ROE stood at 17.2%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Advances Growth",
+            "value": "~25%"
+          },
+          {
+            "metric": "FY27 Secured Asset Share Target",
+            "value": "~56% by FY27-end"
+          },
+          {
+            "metric": "FY27 Credit Cost Guidance",
+            "value": "1.4-1.5% of average GLB"
+          },
+          {
+            "metric": "FY27 ROA Guidance",
+            "value": "~1.6%"
+          },
+          {
+            "metric": "CASA Ratio Target",
+            "value": "~30%"
+          }
+        ],
+        "highlights": [
+          "Ujjivan crossed multiple milestones in FY26, with deposits and gross loan book both crossing ₹40,000 Cr",
+          "Balance sheet crossed ₹50,000 Cr, retail deposits crossed ₹30,000 Cr and savings accounts crossed ₹10,000 Cr",
+          "Housing vertical crossed ₹10,000 Cr, while MSME and FIG crossed ₹3,000 Cr each",
+          "RBI returned the universal bank application but acknowledged Ujjivan's ongoing diversification efforts",
+          "Bank continues to build a more balanced and diversified loan book",
+          "Board approved equity capital raise of up to ₹2,000 Cr to support medium-term growth"
+        ],
+        "quote": "\"Ujjivan is outperforming the sector on deposit growth, Q4 profitability, NIM, secured book expansion and operating momentum.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

@@ -16,292 +16,1237 @@
     "Virtuoso Optoelectronics Ltd"
   ],
   "concall": {
-    "Amber Enterprises India Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹12,186 Cr", "change": "+22% YoY", "positive": 1 },
-        { "label": "Op. EBITDA", "value": "₹970 Cr", "change": "+22% YoY", "positive": 1 },
-        { "label": "Adj. PAT", "value": "₹338 Cr", "change": "+22% YoY", "positive": 1 },
-        { "label": "Electronics Rev", "value": "₹3,268 Cr", "change": "+49% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹12,186 Cr (+22% YoY), while operating EBITDA stood at ₹970 Cr (+22% YoY)",
-        "Adjusted PAT stood at ₹338 Cr (+22% YoY)",
-        "Consumer Durable revenue stood at ₹8,383 Cr (+14% YoY), despite a largely flat RAC industry",
-        "Electronics revenue stood at ₹3,268 Cr (+49% YoY), while operating EBITDA grew 89%",
-        "Railway Systems & Defence revenue stood at ₹535 Cr (+19% YoY)"
-      ],
-      "guidance": [
-        { "metric": "FY27 Electronics Growth", "value": "~40%" },
-        { "metric": "Railway & Defence Growth", "value": "30-35% in FY27 and FY28" },
-        { "metric": "Railway & Defence Order Visibility", "value": "₹2,600 Cr+" },
-        { "metric": "FY27 RAC Industry Growth", "value": "12-13%" }
-      ],
-      "highlights": [
-        "FY26 was strong despite a challenging RAC industry",
-        "Electronics was the key outperformer, supported by PCBA, bare PCB and acquisitions",
-        "Power-One, Unitronics and Shogini were acquired during FY26",
-        "Amber received more than ₹4,500 Cr investment approvals under ECMS for PCB expansion",
-        "Ascent-K HDI PCB facility trial production is expected in Q3FY28",
-        "Net debt reduced to ₹511 Cr vs ₹780 Cr last year"
-      ],
-      "quote": "\"Amber is outperforming the sector on diversification, PCB expansion, Electronics growth, Railways & Defence order visibility and balance sheet improvement.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Dixon Technologies India Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹48,893 Cr", "change": "+26% YoY", "positive": 1 },
-        { "label": "EBITDA ex-EI", "value": "₹1,887 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PAT ex-EI", "value": "₹845 Cr", "change": "+20% YoY", "positive": 1 },
-        { "label": "Smartphone Volume", "value": "~33 Mn", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹48,893 Cr (+26% YoY)",
-        "EBITDA excluding exceptional gain stood at ₹1,887 Cr (+23% YoY)",
-        "PAT after minority interest excluding exceptional gain stood at ₹845 Cr (+20% YoY)",
-        "Q4FY26 revenue stood at ₹10,520 Cr, while EBITDA excluding exceptional gain stood at ₹418 Cr",
-        "FY26 smartphone exports stood around 4-4.5 Mn units"
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Target ex-Vivo", "value": "~₹56,000 Cr" },
-        { "metric": "FY27 Growth ex-Vivo", "value": "15-17%" },
-        { "metric": "Mobile Volume Growth", "value": "High double-digit teen growth" },
-        { "metric": "Camera Module Benefit", "value": "Expected from H2FY27" }
-      ],
-      "highlights": [
-        "Q4 revenue was flat due to geopolitics, soft demand, inventory rationalisation and input cost pressure",
-        "Smartphone and IT hardware segments were most impacted in Q4",
-        "Management is accelerating backward integration and localisation",
-        "Q Tech camera module capacity is being expanded to around 180-190 Mn units",
-        "Display backward integration is expected to play out more meaningfully in FY27-FY28",
-        "Company is exploring server manufacturing and industrial EMS as future adjacencies"
-      ],
-      "quote": "\"Dixon is outperforming the sector on scale, customer depth, mobile EMS leadership, backward integration and multiple growth engines.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Kaynes Technology India Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹3,626 Cr", "change": "+33% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹574 Cr", "change": "+40% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "16%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹364 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹3,626 Cr (+33% YoY), while EBITDA stood at ₹574 Cr (+40% YoY)",
-        "FY26 EBITDA margin stood at 16%, while PAT stood at ₹364 Cr",
-        "Q4FY26 revenue stood at ₹1,243 Cr (+26% YoY), while EBITDA stood at ₹194 Cr",
-        "Q4FY26 EBITDA margin stood at 16%, while PAT stood at ₹91 Cr",
-        "Core EMS working capital days reduced from 83 days in FY24 to 53 days in FY26"
-      ],
-      "guidance": [
-        { "metric": "EMS Market Growth", "value": "16-18%" },
-        { "metric": "Company Aim", "value": "Outgrow EMS market and double market growth rate" },
-        { "metric": "OSAT Revenue Visibility", "value": "₹2,500 Cr+ over next 5 years" },
-        { "metric": "NPD / Value-Added Share", "value": "Target near 30% of revenue over coming years" }
-      ],
-      "highlights": [
-        "FY26 was a consolidation year focused on execution capability",
-        "Topline was below expectations due to disruptions, deferments and supply-chain delays",
-        "Order book remains healthy, diversified and non-cancellable",
-        "Core EMS growth is broad-based across automotive, EV, industrial, aerospace and railways",
-        "OSAT Unit 1 is fully operational and Unit 2 is moving towards commercialisation",
-        "Company is moving from traditional EMS to ESDM and product-driven enterprise"
-      ],
-      "quote": "\"Kaynes is outperforming the sector on margin profile, OSAT optionality, PCB pipeline, product-led transition and high-value EMS positioning.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Syrma SGS Technology Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹4,857 Cr", "change": "+27% YoY", "positive": 1 },
-        { "label": "Op. EBITDA", "value": "₹545 Cr", "change": "+68% YoY", "positive": 1 },
-        { "label": "PAT", "value": "₹346 Cr", "change": "+87% YoY", "positive": 1 },
-        { "label": "OCF", "value": "₹290 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹4,857 Cr (+27% YoY), while operating EBITDA stood at ₹545 Cr (+68% YoY)",
-        "Operating EBITDA margin stood at 11%, while reported EBITDA margin stood at 12%",
-        "PAT stood at ₹346 Cr (+87% YoY), with PAT margin of 7%",
-        "Q4FY26 revenue stood at ₹1,477 Cr (+56% YoY and +16% QoQ)",
-        "Q4FY26 PAT stood at ₹119 Cr (+67% YoY), with PAT margin of 8%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Export Run-rate Target", "value": "~₹1,500 Cr" },
-        { "metric": "Q4 Exit Run-rate", "value": "~₹500 Cr monthly revenue" },
-        { "metric": "FY27 View", "value": "Confident of sustaining or exceeding FY26 revenue, EBITDA and OCF" },
-        { "metric": "Consumer Mix Guardrail", "value": "Kept below 35%" }
-      ],
-      "highlights": [
-        "FY26 was a landmark year with strong execution, margin expansion and balance sheet improvement",
-        "Company exceeded initial guidance on EBITDA, revenue growth, exports and operating cash flow",
-        "Exports crossed ₹1,200 Cr and contributed 24-25% of operating revenue",
-        "ODM revenue increased to ₹825 Cr and contributed 17% of revenue",
-        "Automotive grew 39%, industrial grew 30% and healthcare grew 36%",
-        "Working capital cycle improved from 69 days to 63 days"
-      ],
-      "quote": "\"Syrma is outperforming the sector on PAT growth, margin expansion, exports, ODM mix, working capital discipline and diversified vertical mix.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Avalon Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹1,603 Cr", "change": "+46% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹173 Cr", "change": "+51% YoY", "positive": 1 },
-        { "label": "PAT", "value": "₹113 Cr", "change": "+78% YoY", "positive": 1 },
-        { "label": "ROCE", "value": "21%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,603 Cr (+46% YoY), with gross margin of 34%",
-        "FY26 EBITDA stood at ₹173 Cr (+51% YoY), while PAT stood at ₹113 Cr (+78% YoY)",
-        "Q4FY26 revenue stood at ₹480 Cr (+40% YoY and +15% QoQ)",
-        "Q4FY26 EBITDA stood at ₹57 Cr (+38% YoY), while PAT stood at ₹41 Cr (+70% YoY)",
-        "Net working capital stood at 112 days vs guided range of 120-130 days"
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth", "value": "24-27%" },
-        { "metric": "FY29 Revenue Target", "value": "~₹3,200 Cr" },
-        { "metric": "Order Book", "value": "₹3,441 Cr" },
-        { "metric": "US Breakeven", "value": "Expected in later part of FY27" }
-      ],
-      "highlights": [
-        "FY26 was Avalon's best year and Q4 was the 7th consecutive quarter of growth",
-        "India manufacturing contributed 77% of Q4 revenue with 16.7% EBITDA margin",
-        "Industrial contributed 34% of revenue and grew 65%",
-        "Box-build share increased to 56% in Q4FY26",
-        "Kavach anti-collision system has completed testing and is on track for commercial production",
-        "Semiconductor equipment volume production is expected in FY27"
-      ],
-      "quote": "\"Avalon is outperforming the sector on order book visibility, working capital improvement, ROCE, mission-critical box-builds and global manufacturing flexibility.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "PG Electroplast Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Revenue", "value": "₹5,288 Cr", "change": "vs ₹4,869 Cr LY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹442 Cr", "change": "vs ₹519 Cr LY", "positive": 0 },
-        { "label": "PAT", "value": "₹194 Cr", "change": "vs ₹291 Cr LY", "positive": 0 },
-        { "label": "Washing Machine", "value": "+52%", "change": "FY26 growth", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 consolidated revenue stood at ₹5,288 Cr vs ₹4,869 Cr last year",
-        "FY26 EBITDA stood at ₹442 Cr vs ₹519 Cr last year",
-        "FY26 PAT stood at ₹194 Cr vs ₹291 Cr last year",
-        "RAC revenue grew 9% in FY26 but declined 12% in Q4FY26",
-        "Washing machine business grew 52% in FY26 and around 70% in Q4FY26"
-      ],
-      "guidance": [
-        { "metric": "Inventory Reduction", "value": "Expected below ₹900 Cr by June-end" },
-        { "metric": "Washing Machine FY27 Growth", "value": "30-35%" },
-        { "metric": "Refrigerant Facility", "value": "Commercial production expected by Q4FY27" },
-        { "metric": "Compressor Facility", "value": "2 Mn units Phase 1, expandable to 4 Mn" }
-      ],
-      "highlights": [
-        "FY26 was difficult for RAC-led consumer durable manufacturing",
-        "RAC industry declined around 15% during FY26",
-        "Q4FY26 was impacted by truck shortage and deferment of dispatches into April",
-        "Management estimated Q4 revenue loss of around ₹420 Cr from disruptions",
-        "Commodity inflation and currency depreciation led to around 250 bps gross margin impact in Q4",
-        "Moulding facility consolidation at Salarpur should improve cost structure over FY27-FY28"
-      ],
-      "quote": "\"PG is not outperforming the sector on FY26 profitability, but it remains a strong recovery candidate if RAC demand normalises and backward integration ramps up.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Epack Durable Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Revenue", "value": "₹1,894 Cr", "change": "-13% YoY", "positive": 0 },
-        { "label": "EBITDA", "value": "₹114 Cr", "change": "-28% YoY", "positive": 0 },
-        { "label": "EBITDA Margin", "value": "6%", "change": "FY26", "positive": 0 },
-        { "label": "Net Profit", "value": "₹3 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,894 Cr, down 13% YoY",
-        "FY26 EBITDA stood at ₹114 Cr, down 28% YoY, with EBITDA margin of 6%",
-        "Net profit stood at ₹3 Cr",
-        "Q4FY26 revenue stood at ₹591 Cr, down 8% YoY",
-        "Q4FY26 EBITDA stood at ₹26 Cr, down 64% YoY"
-      ],
-      "guidance": [
-        { "metric": "Revenue Target", "value": "~₹5,000 Cr over next 2-3 years" },
-        { "metric": "Asset Turn Target", "value": "~4x over medium to long term" },
-        { "metric": "Front-load Washing Machine", "value": "Expected around mid-Q2FY27" },
-        { "metric": "FY27 View", "value": "Better trends as customer conditions and inventory normalize" }
-      ],
-      "highlights": [
-        "FY26 was challenging due to temporary RAC industry headwinds",
-        "EPACK added 5 new customers in Q4FY26 and 17 customers in FY26",
-        "Total active customer base reached 72",
-        "SDA and LDA segment grew around 53% YoY in Q4FY26",
-        "Component business grew around 50% YoY in Q4FY26",
-        "Hisense partnership became operational in Q4FY26"
-      ],
-      "quote": "\"EPACK is building strong triggers through customer additions, non-RAC growth, components, Hisense ramp-up and Bhiwadi utilisation.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Virtuoso Optoelectronics Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue", "value": "₹823 Cr", "change": "+18% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹86 Cr", "change": "FY26", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "10%", "change": "FY26", "positive": 1 },
-        { "label": "PAT", "value": "₹15 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹823 Cr (+18% YoY), while EBITDA stood at ₹86 Cr",
-        "FY26 EBITDA margin stood at 10%, while PAT stood at ₹15 Cr",
-        "Q4FY26 revenue stood at ₹317 Cr vs ₹240 Cr last year",
-        "Revenue CAGR since FY21 stood at 49%",
-        "EBITDA CAGR since FY21 stood at 47% and PAT CAGR stood at 52%"
-      ],
-      "guidance": [
-        { "metric": "Growth Expectation", "value": "35-40% CAGR over next 3-5 years" },
-        { "metric": "AC Capacity", "value": "1 Mn to 1.8 Mn units before next season" },
-        { "metric": "Compressor Capacity", "value": "2.8 Mn to 6 Mn units by March" },
-        { "metric": "Capex", "value": "₹150 Cr compressors and ₹25 Cr EMS" }
-      ],
-      "highlights": [
-        "FY26 was a year of resilience after a difficult H1",
-        "Strong H2 and Q4 helped the company recover for the full year",
-        "Company has built capacity across EMS & lighting, AC, refrigeration and compressors",
-        "AC dependence reduced from 70-75% earlier to around 60%",
-        "New tool room in Nashik is operational and should support faster product development",
-        "EMS new facility is expected to come online in around 3 months"
-      ],
-      "quote": "\"Virtuoso is outperforming smaller peers on diversification, capacity creation, compressor optionality and H2 recovery, but PAT margin remains a key monitorable.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Amber Enterprises India Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹3,888 Cr",
+            "change": "+13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹337 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹126 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Electronics Revenue",
+            "value": "₹985 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 13% to ₹3,888 Cr",
+          "Operating EBITDA rose 28% to ₹337 Cr",
+          "Adjusted PAT increased 19% to ₹126 Cr",
+          "Electronics revenue grew 29% and EBITDA more than doubled",
+          "Consumer durables revenue grew 8%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Electronics Growth",
+            "guided": "Around 40%",
+            "actual": "29% in Q1; full-year target retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Railway and Defence Growth",
+            "guided": "30-35%",
+            "actual": "Around 30% full-year growth expected",
+            "status": "met"
+          },
+          {
+            "metric": "RAC Industry Growth",
+            "guided": "12-13%",
+            "actual": "Inventory correction constrained Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Electronics Growth",
+            "value": "Around 40% FY27 retained"
+          },
+          {
+            "metric": "Railway and Defence",
+            "value": "Around 30% FY27"
+          },
+          {
+            "metric": "Consumer Durables Margin",
+            "value": "No percentage guidance due to input volatility"
+          }
+        ],
+        "highlights": [
+          "Electronics EBITDA grew 117%",
+          "Consumer-durable input costs are recovered with a quarterly lag",
+          "Railway and defence margins faced wage and material pressure",
+          "PCB margins remain below their earlier 16% level",
+          "EMS order visibility remains healthy",
+          "Management retained its electronics growth target"
+        ],
+        "quote": "\"Electronics drove profit growth while consumer durables absorbed temporary cost pressure.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹12,186 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Op. EBITDA",
+            "value": "₹970 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹338 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Electronics Rev",
+            "value": "₹3,268 Cr",
+            "change": "+49% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹12,186 Cr (+22% YoY), while operating EBITDA stood at ₹970 Cr (+22% YoY)",
+          "Adjusted PAT stood at ₹338 Cr (+22% YoY)",
+          "Consumer Durable revenue stood at ₹8,383 Cr (+14% YoY), despite a largely flat RAC industry",
+          "Electronics revenue stood at ₹3,268 Cr (+49% YoY), while operating EBITDA grew 89%",
+          "Railway Systems & Defence revenue stood at ₹535 Cr (+19% YoY)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Electronics Growth",
+            "value": "~40%"
+          },
+          {
+            "metric": "Railway & Defence Growth",
+            "value": "30-35% in FY27 and FY28"
+          },
+          {
+            "metric": "Railway & Defence Order Visibility",
+            "value": "₹2,600 Cr+"
+          },
+          {
+            "metric": "FY27 RAC Industry Growth",
+            "value": "12-13%"
+          }
+        ],
+        "highlights": [
+          "FY26 was strong despite a challenging RAC industry",
+          "Electronics was the key outperformer, supported by PCBA, bare PCB and acquisitions",
+          "Power-One, Unitronics and Shogini were acquired during FY26",
+          "Amber received more than ₹4,500 Cr investment approvals under ECMS for PCB expansion",
+          "Ascent-K HDI PCB facility trial production is expected in Q3FY28",
+          "Net debt reduced to ₹511 Cr vs ₹780 Cr last year"
+        ],
+        "quote": "\"Amber is outperforming the sector on diversification, PCB expansion, Electronics growth, Railways & Defence order visibility and balance sheet improvement.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Dixon Technologies India Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹15,557 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹472 Cr",
+            "change": "Ex-fair value",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹218 Cr",
+            "change": "After minority",
+            "positive": 1
+          },
+          {
+            "label": "Mobile Revenue",
+            "value": "₹14,179 Cr",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Quarterly revenue reached ₹15,557 Cr",
+          "EBITDA excluding fair-value gain was ₹472 Cr",
+          "PAT after minority and excluding fair-value gain was ₹218 Cr",
+          "Mobile and EMS revenue reached ₹14,179 Cr",
+          "Telecom revenue was around ₹2,100 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue ex-Vivo",
+            "guided": "Around ₹56,000 Cr",
+            "actual": "Q1 revenue scale and order book remain supportive",
+            "status": "partial"
+          },
+          {
+            "metric": "Mobile Volume",
+            "guided": "High-teen growth",
+            "actual": "32 Mn full-year unit guidance retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Camera Modules",
+            "guided": "Benefit from H2FY27",
+            "actual": "Capacity creation and customer tests underway",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Mobile Volume",
+            "value": "Around 32 Mn units ex-Vivo"
+          },
+          {
+            "metric": "IT Hardware",
+            "value": "Strong order-led growth"
+          },
+          {
+            "metric": "Refrigerator Capacity",
+            "value": "Expand to around 3.2 Mn units by Q4"
+          }
+        ],
+        "highlights": [
+          "Mobile PLI-1 expiry compressed percentage margins",
+          "Cost-plus structures protected absolute earnings",
+          "Telecom operating margin reached around 5.1%",
+          "A Chennai IT-hardware facility starts in August",
+          "Refrigerator capacity is being more than doubled",
+          "Q1 capex stood at around ₹335 Cr"
+        ],
+        "quote": "\"Revenue scale stayed strong while backward integration prepares the next margin phase.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹48,893 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA ex-EI",
+            "value": "₹1,887 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT ex-EI",
+            "value": "₹845 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Smartphone Volume",
+            "value": "~33 Mn",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹48,893 Cr (+26% YoY)",
+          "EBITDA excluding exceptional gain stood at ₹1,887 Cr (+23% YoY)",
+          "PAT after minority interest excluding exceptional gain stood at ₹845 Cr (+20% YoY)",
+          "Q4FY26 revenue stood at ₹10,520 Cr, while EBITDA excluding exceptional gain stood at ₹418 Cr",
+          "FY26 smartphone exports stood around 4-4.5 Mn units"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Target ex-Vivo",
+            "value": "~₹56,000 Cr"
+          },
+          {
+            "metric": "FY27 Growth ex-Vivo",
+            "value": "15-17%"
+          },
+          {
+            "metric": "Mobile Volume Growth",
+            "value": "High double-digit teen growth"
+          },
+          {
+            "metric": "Camera Module Benefit",
+            "value": "Expected from H2FY27"
+          }
+        ],
+        "highlights": [
+          "Q4 revenue was flat due to geopolitics, soft demand, inventory rationalisation and input cost pressure",
+          "Smartphone and IT hardware segments were most impacted in Q4",
+          "Management is accelerating backward integration and localisation",
+          "Q Tech camera module capacity is being expanded to around 180-190 Mn units",
+          "Display backward integration is expected to play out more meaningfully in FY27-FY28",
+          "Company is exploring server manufacturing and industrial EMS as future adjacencies"
+        ],
+        "quote": "\"Dixon is outperforming the sector on scale, customer depth, mobile EMS leadership, backward integration and multiple growth engines.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Kaynes Technology India Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹946 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹148 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "15.6%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": ">₹8,900 Cr",
+            "change": "Record visibility",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 40% to ₹946 Cr",
+          "EBITDA increased 31% to ₹147.6 Cr",
+          "EBITDA margin stood at 15.6%",
+          "Standalone EMS revenue grew 53%",
+          "Order book exceeded ₹8,900 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Market Outgrowth",
+            "guided": "Double 16-18% EMS market growth",
+            "actual": "40% consolidated growth",
+            "status": "exceeded"
+          },
+          {
+            "metric": "OSAT Revenue",
+            "guided": "₹2,500 Cr+ over five years",
+            "actual": "Commercial billing is being initiated",
+            "status": "partial"
+          },
+          {
+            "metric": "Value-Added Mix",
+            "guided": "Move toward 30%",
+            "actual": "Higher-value programmes supported 15.6% margin",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "New Businesses",
+            "value": "Around ₹500 Cr FY27 revenue"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹300 Cr each for OSAT and PCB plus ₹250 Cr EMS"
+          },
+          {
+            "metric": "Order Book",
+            "value": "Continue intake ahead of execution"
+          }
+        ],
+        "highlights": [
+          "Q1 order intake exceeded revenue execution",
+          "PCB building construction was 65-70% complete",
+          "PCB equipment installation begins from October",
+          "OSAT commercial billing is starting",
+          "Q1 capex was around ₹180 Cr",
+          "Metering revenue grew 28%"
+        ],
+        "quote": "\"Growth exceeded the market by a wide margin while the order book expanded further.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹3,626 Cr",
+            "change": "+33% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹574 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "16%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹364 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹3,626 Cr (+33% YoY), while EBITDA stood at ₹574 Cr (+40% YoY)",
+          "FY26 EBITDA margin stood at 16%, while PAT stood at ₹364 Cr",
+          "Q4FY26 revenue stood at ₹1,243 Cr (+26% YoY), while EBITDA stood at ₹194 Cr",
+          "Q4FY26 EBITDA margin stood at 16%, while PAT stood at ₹91 Cr",
+          "Core EMS working capital days reduced from 83 days in FY24 to 53 days in FY26"
+        ],
+        "guidance": [
+          {
+            "metric": "EMS Market Growth",
+            "value": "16-18%"
+          },
+          {
+            "metric": "Company Aim",
+            "value": "Outgrow EMS market and double market growth rate"
+          },
+          {
+            "metric": "OSAT Revenue Visibility",
+            "value": "₹2,500 Cr+ over next 5 years"
+          },
+          {
+            "metric": "NPD / Value-Added Share",
+            "value": "Target near 30% of revenue over coming years"
+          }
+        ],
+        "highlights": [
+          "FY26 was a consolidation year focused on execution capability",
+          "Topline was below expectations due to disruptions, deferments and supply-chain delays",
+          "Order book remains healthy, diversified and non-cancellable",
+          "Core EMS growth is broad-based across automotive, EV, industrial, aerospace and railways",
+          "OSAT Unit 1 is fully operational and Unit 2 is moving towards commercialisation",
+          "Company is moving from traditional EMS to ESDM and product-driven enterprise"
+        ],
+        "quote": "\"Kaynes is outperforming the sector on margin profile, OSAT optionality, PCB pipeline, product-led transition and high-value EMS positioning.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Syrma SGS Technology Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,604 Cr",
+            "change": "+67% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹162 Cr",
+            "change": "+69% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹106 Cr",
+            "change": "+112% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹6,770 Cr",
+            "change": "+6% QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 67% to ₹1,604 Cr",
+          "Operating EBITDA increased 69% to ₹162 Cr",
+          "PAT more than doubled to ₹106 Cr",
+          "Consumer and automotive represented 34% and 25% of revenue",
+          "Order book rose to ₹6,770 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Performance",
+            "guided": "Sustain or exceed FY26 revenue and EBITDA",
+            "actual": "Management expects to exceed prior guidance",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Export Run Rate",
+            "guided": "Around ₹1,500 Cr FY27",
+            "actual": "Exports accelerated in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "Consumer Mix",
+            "guided": "Below 35%",
+            "actual": "34%",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Above prior 35% guidance"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "10.5-11%"
+          },
+          {
+            "metric": "PCB",
+            "value": "Equipment power-on in Q4FY27"
+          }
+        ],
+        "highlights": [
+          "Total EBITDA including other income was ₹177 Cr",
+          "Automotive growth benefited from EV penetration",
+          "Healthcare, IT and railways continued to scale",
+          "PCB construction reached 65-70% completion",
+          "Order intake exceeded Q1 execution",
+          "Consumer concentration stayed within the stated guardrail"
+        ],
+        "quote": "\"A 67% revenue increase led management to expect an FY27 guidance beat.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹4,857 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Op. EBITDA",
+            "value": "₹545 Cr",
+            "change": "+68% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹346 Cr",
+            "change": "+87% YoY",
+            "positive": 1
+          },
+          {
+            "label": "OCF",
+            "value": "₹290 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹4,857 Cr (+27% YoY), while operating EBITDA stood at ₹545 Cr (+68% YoY)",
+          "Operating EBITDA margin stood at 11%, while reported EBITDA margin stood at 12%",
+          "PAT stood at ₹346 Cr (+87% YoY), with PAT margin of 7%",
+          "Q4FY26 revenue stood at ₹1,477 Cr (+56% YoY and +16% QoQ)",
+          "Q4FY26 PAT stood at ₹119 Cr (+67% YoY), with PAT margin of 8%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Export Run-rate Target",
+            "value": "~₹1,500 Cr"
+          },
+          {
+            "metric": "Q4 Exit Run-rate",
+            "value": "~₹500 Cr monthly revenue"
+          },
+          {
+            "metric": "FY27 View",
+            "value": "Confident of sustaining or exceeding FY26 revenue, EBITDA and OCF"
+          },
+          {
+            "metric": "Consumer Mix Guardrail",
+            "value": "Kept below 35%"
+          }
+        ],
+        "highlights": [
+          "FY26 was a landmark year with strong execution, margin expansion and balance sheet improvement",
+          "Company exceeded initial guidance on EBITDA, revenue growth, exports and operating cash flow",
+          "Exports crossed ₹1,200 Cr and contributed 24-25% of operating revenue",
+          "ODM revenue increased to ₹825 Cr and contributed 17% of revenue",
+          "Automotive grew 39%, industrial grew 30% and healthcare grew 36%",
+          "Working capital cycle improved from 69 days to 63 days"
+        ],
+        "quote": "\"Syrma is outperforming the sector on PAT growth, margin expansion, exports, ODM mix, working capital discipline and diversified vertical mix.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Avalon Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹484 Cr",
+            "change": "+50% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹58 Cr",
+            "change": "12% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹35 Cr",
+            "change": "+145% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹2,208 Cr",
+            "change": "+23.4% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 49.8% to ₹484 Cr",
+          "Gross margin held at 34.7%",
+          "EBITDA margin improved to 12%",
+          "PAT increased 145.3% to ₹35 Cr",
+          "Net working capital improved to 117 days"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "24-27%",
+            "actual": "Guidance raised to 26-30% after 50% Q1 growth",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Gross Margin",
+            "guided": "33-35%",
+            "actual": "34.7%",
+            "status": "met"
+          },
+          {
+            "metric": "US Breakeven",
+            "guided": "Later FY27",
+            "actual": "US PAT loss narrowed to around ₹4 Cr",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "26-30%"
+          },
+          {
+            "metric": "Gross Margin",
+            "value": "33-35%"
+          },
+          {
+            "metric": "Annual Capex",
+            "value": "Around ₹50-60 Cr"
+          }
+        ],
+        "highlights": [
+          "India generated 72% of revenue with 16.7% EBITDA margin",
+          "US operations contributed 28% of revenue",
+          "Order book remained diversified",
+          "Orders beyond 15 months were ₹1,256 Cr",
+          "Q1 capex was ₹16 Cr",
+          "Asset turns remained strong at 9.9x"
+        ],
+        "quote": "\"A strong first quarter prompted an upward revision to revenue guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,603 Cr",
+            "change": "+46% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹173 Cr",
+            "change": "+51% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹113 Cr",
+            "change": "+78% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROCE",
+            "value": "21%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,603 Cr (+46% YoY), with gross margin of 34%",
+          "FY26 EBITDA stood at ₹173 Cr (+51% YoY), while PAT stood at ₹113 Cr (+78% YoY)",
+          "Q4FY26 revenue stood at ₹480 Cr (+40% YoY and +15% QoQ)",
+          "Q4FY26 EBITDA stood at ₹57 Cr (+38% YoY), while PAT stood at ₹41 Cr (+70% YoY)",
+          "Net working capital stood at 112 days vs guided range of 120-130 days"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "24-27%"
+          },
+          {
+            "metric": "FY29 Revenue Target",
+            "value": "~₹3,200 Cr"
+          },
+          {
+            "metric": "Order Book",
+            "value": "₹3,441 Cr"
+          },
+          {
+            "metric": "US Breakeven",
+            "value": "Expected in later part of FY27"
+          }
+        ],
+        "highlights": [
+          "FY26 was Avalon's best year and Q4 was the 7th consecutive quarter of growth",
+          "India manufacturing contributed 77% of Q4 revenue with 16.7% EBITDA margin",
+          "Industrial contributed 34% of revenue and grew 65%",
+          "Box-build share increased to 56% in Q4FY26",
+          "Kavach anti-collision system has completed testing and is on track for commercial production",
+          "Semiconductor equipment volume production is expected in FY27"
+        ],
+        "quote": "\"Avalon is outperforming the sector on order book visibility, working capital improvement, ROCE, mission-critical box-builds and global manufacturing flexibility.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "PG Electroplast Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,034 Cr",
+            "change": "+35.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹156 Cr",
+            "change": "+12.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹75 Cr",
+            "change": "+12.9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Product Mix",
+            "value": "80%",
+            "change": "Of sales",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 35.2% to ₹2,034 Cr",
+          "EBITDA rose 12.1% to ₹156.2 Cr",
+          "PAT increased 12.9% to ₹75.3 Cr",
+          "Product business contributed 80% of sales",
+          "EBITDA margin moderated to 7.7%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Washing Machine Growth",
+            "guided": "30-35%",
+            "actual": "Management expects around 15-20% in FY27",
+            "status": "missed"
+          },
+          {
+            "metric": "Refrigerant Facility",
+            "guided": "Production by Q4FY27",
+            "actual": "Project progressing for FY27 start",
+            "status": "partial"
+          },
+          {
+            "metric": "Compressor Phase 1",
+            "guided": "2 Mn units",
+            "actual": "Capacity commitment secured for around 30%",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Volume Growth",
+            "value": "Around 20%+ overall aspiration"
+          },
+          {
+            "metric": "Compressor",
+            "value": "2 Mn units Phase 1"
+          },
+          {
+            "metric": "Revenue Guidance",
+            "value": "No formal full-year guidance"
+          }
+        ],
+        "highlights": [
+          "A 1.8 Mn-unit washing-machine plant is operational",
+          "A 1.2 Mn-unit additional facility is planned",
+          "Compressor production is expected within FY27",
+          "Current order books remain healthy",
+          "Input inflation was passed through to customers",
+          "Management has stopped issuing formal revenue guidance"
+        ],
+        "quote": "\"Growth remained strong, though mix and investment moderated margins.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹5,288 Cr",
+            "change": "vs ₹4,869 Cr LY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹442 Cr",
+            "change": "vs ₹519 Cr LY",
+            "positive": 0
+          },
+          {
+            "label": "PAT",
+            "value": "₹194 Cr",
+            "change": "vs ₹291 Cr LY",
+            "positive": 0
+          },
+          {
+            "label": "Washing Machine",
+            "value": "+52%",
+            "change": "FY26 growth",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 consolidated revenue stood at ₹5,288 Cr vs ₹4,869 Cr last year",
+          "FY26 EBITDA stood at ₹442 Cr vs ₹519 Cr last year",
+          "FY26 PAT stood at ₹194 Cr vs ₹291 Cr last year",
+          "RAC revenue grew 9% in FY26 but declined 12% in Q4FY26",
+          "Washing machine business grew 52% in FY26 and around 70% in Q4FY26"
+        ],
+        "guidance": [
+          {
+            "metric": "Inventory Reduction",
+            "value": "Expected below ₹900 Cr by June-end"
+          },
+          {
+            "metric": "Washing Machine FY27 Growth",
+            "value": "30-35%"
+          },
+          {
+            "metric": "Refrigerant Facility",
+            "value": "Commercial production expected by Q4FY27"
+          },
+          {
+            "metric": "Compressor Facility",
+            "value": "2 Mn units Phase 1, expandable to 4 Mn"
+          }
+        ],
+        "highlights": [
+          "FY26 was difficult for RAC-led consumer durable manufacturing",
+          "RAC industry declined around 15% during FY26",
+          "Q4FY26 was impacted by truck shortage and deferment of dispatches into April",
+          "Management estimated Q4 revenue loss of around ₹420 Cr from disruptions",
+          "Commodity inflation and currency depreciation led to around 250 bps gross margin impact in Q4",
+          "Moulding facility consolidation at Salarpur should improve cost structure over FY27-FY28"
+        ],
+        "quote": "\"PG is not outperforming the sector on FY26 profitability, but it remains a strong recovery candidate if RAC demand normalises and backward integration ramps up.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Epack Durable Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹886 Cr",
+            "change": "Record quarter",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹55 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "6.21%",
+            "change": "Stable underlying",
+            "positive": 1
+          },
+          {
+            "label": "RAC Growth",
+            "value": "44%",
+            "change": "YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue reached a record ₹886 Cr",
+          "EBITDA stood at ₹55 Cr",
+          "Underlying EBITDA margin remained near 6.4%",
+          "RAC revenue grew 44%, including around 30% volume growth",
+          "Domestic-appliance revenue grew 68%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Revenue Scale",
+            "guided": "₹5,000 Cr in 2-3 years",
+            "actual": "Record quarterly revenue of ₹886 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Normalisation",
+            "guided": "Better customer inventory trends",
+            "actual": "RAC volume grew around 30%",
+            "status": "met"
+          },
+          {
+            "metric": "Asset Turns",
+            "guided": "Around 4x medium term",
+            "actual": "Capacity utilisation improved at key plants",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹450 Cr total programme"
+          },
+          {
+            "metric": "Remaining Capex",
+            "value": "Around ₹60 Cr additional"
+          },
+          {
+            "metric": "Product Growth",
+            "value": "Expand RAC and domestic appliances"
+          }
+        ],
+        "highlights": [
+          "Dehradun and Bhiwadi utilisation was near 90%",
+          "Around ₹10 Cr capex was spent in Q1",
+          "Most planned capex is already booked",
+          "Front-load washing-machine launch is progressing",
+          "The order book remains robust across product lines",
+          "Customer inventory conditions improved"
+        ],
+        "quote": "\"Record revenue reflected a strong RAC recovery and expanding appliance mix.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,894 Cr",
+            "change": "-13% YoY",
+            "positive": 0
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹114 Cr",
+            "change": "-28% YoY",
+            "positive": 0
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "6%",
+            "change": "FY26",
+            "positive": 0
+          },
+          {
+            "label": "Net Profit",
+            "value": "₹3 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,894 Cr, down 13% YoY",
+          "FY26 EBITDA stood at ₹114 Cr, down 28% YoY, with EBITDA margin of 6%",
+          "Net profit stood at ₹3 Cr",
+          "Q4FY26 revenue stood at ₹591 Cr, down 8% YoY",
+          "Q4FY26 EBITDA stood at ₹26 Cr, down 64% YoY"
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Target",
+            "value": "~₹5,000 Cr over next 2-3 years"
+          },
+          {
+            "metric": "Asset Turn Target",
+            "value": "~4x over medium to long term"
+          },
+          {
+            "metric": "Front-load Washing Machine",
+            "value": "Expected around mid-Q2FY27"
+          },
+          {
+            "metric": "FY27 View",
+            "value": "Better trends as customer conditions and inventory normalize"
+          }
+        ],
+        "highlights": [
+          "FY26 was challenging due to temporary RAC industry headwinds",
+          "EPACK added 5 new customers in Q4FY26 and 17 customers in FY26",
+          "Total active customer base reached 72",
+          "SDA and LDA segment grew around 53% YoY in Q4FY26",
+          "Component business grew around 50% YoY in Q4FY26",
+          "Hisense partnership became operational in Q4FY26"
+        ],
+        "quote": "\"EPACK is building strong triggers through customer additions, non-RAC growth, components, Hisense ramp-up and Bhiwadi utilisation.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Virtuoso Optoelectronics Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹377 Cr",
+            "change": "+85% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "9.3%",
+            "change": "Stable QoQ",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹9 Cr",
+            "change": "+103% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Target Utilisation",
+            "value": ">75%",
+            "change": "Aggregate",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew around 85% to ₹376.6 Cr",
+          "Revenue increased 18.7% sequentially",
+          "EBITDA margin held near 9.3%",
+          "PAT more than doubled to around ₹9 Cr",
+          "Q1 growth was in line with the operating plan"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Growth",
+            "guided": "35-40% CAGR",
+            "actual": "85% Q1 growth; guidance retained",
+            "status": "exceeded"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "9-10%",
+            "actual": "9.3%",
+            "status": "met"
+          },
+          {
+            "metric": "AC Capacity",
+            "guided": "1.0 Mn to 1.8 Mn",
+            "actual": "Expansion remains on track before next season",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth",
+            "value": "35-40%"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "9-10%"
+          },
+          {
+            "metric": "Aggregate Utilisation",
+            "value": "Above 75%"
+          }
+        ],
+        "highlights": [
+          "SMT capacity is moving from 0.4 Mn to 1.2 Mn CPH",
+          "Commercial-refrigeration capacity rises to 0.25 Mn units",
+          "Compressor capacity is planned to reach 6 Mn units",
+          "A 22-acre parcel was acquired for expansion",
+          "Raw-material pricing remains a margin risk",
+          "The company retained guidance despite the strong start"
+        ],
+        "quote": "\"Q1 growth far exceeded the annual range while margins stayed within target.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹823 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹86 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "10%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹15 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹823 Cr (+18% YoY), while EBITDA stood at ₹86 Cr",
+          "FY26 EBITDA margin stood at 10%, while PAT stood at ₹15 Cr",
+          "Q4FY26 revenue stood at ₹317 Cr vs ₹240 Cr last year",
+          "Revenue CAGR since FY21 stood at 49%",
+          "EBITDA CAGR since FY21 stood at 47% and PAT CAGR stood at 52%"
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Expectation",
+            "value": "35-40% CAGR over next 3-5 years"
+          },
+          {
+            "metric": "AC Capacity",
+            "value": "1 Mn to 1.8 Mn units before next season"
+          },
+          {
+            "metric": "Compressor Capacity",
+            "value": "2.8 Mn to 6 Mn units by March"
+          },
+          {
+            "metric": "Capex",
+            "value": "₹150 Cr compressors and ₹25 Cr EMS"
+          }
+        ],
+        "highlights": [
+          "FY26 was a year of resilience after a difficult H1",
+          "Strong H2 and Q4 helped the company recover for the full year",
+          "Company has built capacity across EMS & lighting, AC, refrigeration and compressors",
+          "AC dependence reduced from 70-75% earlier to around 60%",
+          "New tool room in Nashik is operational and should support faster product development",
+          "EMS new facility is expected to come online in around 3 months"
+        ],
+        "quote": "\"Virtuoso is outperforming smaller peers on diversification, capacity creation, compressor optionality and H2 recovery, but PAT margin remains a key monitorable.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

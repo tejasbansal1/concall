@@ -21,447 +21,1871 @@
     "Shankara Building Products Ltd"
   ],
   "concall": {
-    "Kajaria Ceramics Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Revenue", "value": "1,373 Cr", "change": "+12%", "positive": 1 },
-        { "label": "Q4 Volume Growth", "value": "11%", "change": "Tiles", "positive": 1 },
-        { "label": "Q4 EBITDA Margin", "value": "19.19%", "change": "Improved", "positive": 1 },
-        { "label": "Q4 PAT", "value": "136 Cr", "change": "vs 43 Cr", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 consolidated revenue grew 12% YoY to 1,373 Cr.",
-        "Tiles segment grew 11% YoY to 1,212 Cr in Q4.",
-        "Q4 volume growth stood at 11%, supported by sales unification efforts.",
-        "EBITDA improved to 228 Cr in Q4 from 85 Cr in the previous year.",
-        "PAT grew sharply to 136 Cr in Q4 from 43 Cr in Q4FY25."
-      ],
-      "guidance": [
-        { "metric": "EBITDA Margin", "value": "19% achievable next year" },
-        { "metric": "Outsourcing", "value": "Around 27% currently" },
-        { "metric": "Demand", "value": "Q1 seasonally softer than Q4" }
-      ],
-      "highlights": [
-        "Bathware revenue grew 6% to 117 Cr in Q4.",
-        "Management cited price hikes and efficiencies as margin drivers.",
-        "Volume growth was steady across Jan-Feb-March.",
-        "Morbi export weakness supported domestic outsourcing availability.",
-        "Gas price movement remains a key margin variable.",
-        "The company continues to focus on production, sales and supply-chain efficiencies."
-      ],
-      "quote": "\"This quarter we achieved a volume growth of 11%.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Somany Ceramics Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Q4 Sales Growth", "value": "6%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 Sales Growth", "value": "5%", "change": "YoY", "positive": 1 },
-        { "label": "Q4 EBITDA Margin", "value": "9.3%", "change": "Improved", "positive": 1 },
-        { "label": "Capacity Utilization", "value": "79%", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 sales grew around 6% and FY26 sales grew around 5%.",
-        "EBITDA margin improved meaningfully in Q4 and by around 1% for the year.",
-        "Capacity utilization remained broadly stable around 79%.",
-        "GVT sales mix improved during the year.",
-        "The company turned around from a Q4 loss in the previous year."
-      ],
-      "guidance": [
-        { "metric": "Margin Improvement", "value": "At least 150 bps targeted" },
-        { "metric": "FY27 Revenue Growth", "value": "Mid-20s possible with price and volume" },
-        { "metric": "Utilization", "value": "Plants currently running near full capacity" }
-      ],
-      "highlights": [
-        "Management expects high single-digit volume growth with price hikes.",
-        "Gas price volatility remains a key cost factor.",
-        "Morbi capacity discipline may support pricing.",
-        "Brand spend is expected to continue.",
-        "Outsourcing exposure remains part of the capacity mix.",
-        "Demand recovery and price hikes are key margin levers."
-      ],
-      "quote": "\"Our guidance is to improve EBITDA margin from here by at least 1.5%.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Cera Sanitaryware Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Revenue", "value": "644 Cr", "change": "+11.4%", "positive": 1 },
-        { "label": "Q4 EBITDA", "value": "98 Cr", "change": "15.2% margin", "positive": 1 },
-        { "label": "Q4 PAT", "value": "77 Cr", "change": "vs 86 Cr", "positive": 0 },
-        { "label": "Cash", "value": "853 Cr", "change": "FY26 end", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 revenue grew to 644 Cr from 578 Cr in Q4FY25.",
-        "Q4 EBITDA stood at 98 Cr with margin at 15.2%.",
-        "Sanitaryware revenue grew 10.7% YoY.",
-        "Faucetware revenue grew 24.3% YoY.",
-        "Cash and cash equivalents stood at 853 Cr at FY26 end."
-      ],
-      "guidance": [
-        { "metric": "Dealer Network", "value": "2,000 dealers by FY27-end" },
-        { "metric": "Distributor Network", "value": "200 distributors by FY27-end" },
-        { "metric": "Capacity", "value": "5 lakh pieces/month from Q4FY27" }
-      ],
-      "highlights": [
-        "Premium segment formed 41% of sales.",
-        "Tier-3 markets contributed 40% of sales.",
-        "Sanitaryware utilization stood at 70%.",
-        "Faucetware utilization stood at 106%.",
-        "Marketing and publicity spends were around 49 Cr in FY26.",
-        "Capacity enhancement requires minimal capex of around 5 Cr."
-      ],
-      "quote": "\"FY26 has been an important year in strengthening our portfolio.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Carysil Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Income Growth", "value": "14%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 EBITDA Growth", "value": "31%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 PAT Growth", "value": "54%", "change": "YoY", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "237 Cr", "change": "+16%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 total income grew 14%, EBITDA grew 31% and PAT grew 54%.",
-        "Q4 consolidated total income grew 16% YoY to 237 Cr.",
-        "Q4 EBITDA grew 33% YoY to 48 Cr with margin at 20.3%.",
-        "Q4 PAT after minority interest grew 42% to 27 Cr.",
-        "Quartz sink sales volume stood at 195.5K units in Q4."
-      ],
-      "guidance": [
-        { "metric": "Quartz Capacity", "value": "250,000 units by Q4FY27" },
-        { "metric": "Steel Sink Capacity", "value": "250,000 units per year" },
-        { "metric": "Online Business", "value": "2x-3x sales targeted" }
-      ],
-      "highlights": [
-        "Domestic traction improved along with resilient export demand.",
-        "Stainless steel volume stood at 44.6K in Q4.",
-        "Faucet volume stood at 10.2K units in Q4.",
-        "USA operations achieved operational momentum.",
-        "B2B architect and builder channel is a focus area.",
-        "FY27 is positioned as an execution and capacity expansion year."
-      ],
-      "quote": "\"FY26 marks an important inflection point in the company's evolution.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Astral Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Paint Growth", "value": "23%", "change": "FY26", "positive": 1 },
-        { "label": "Paint Q4 Growth", "value": "31%", "change": "YoY", "positive": 1 },
-        { "label": "FY27 Pipe Volume", "value": "10-15%", "change": "Target", "positive": 1 },
-        { "label": "Adhesive Growth", "value": "Double digit", "change": "FY27 view", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Paint business delivered 23% growth for FY26 and 31% growth in Q4.",
-        "Bond product in the UK delivered 22.9% growth.",
-        "Export volumes doubled and channel partner additions remained strong.",
-        "The company added around 80 distributors and 2,500 dealers.",
-        "Construction chemical demand remained healthy across the portfolio."
-      ],
-      "guidance": [
-        { "metric": "FY27 Pipe Volume", "value": "10-15%" },
-        { "metric": "Paint Growth", "value": "25-30% run rate targeted" },
-        { "metric": "Construction Chemicals", "value": "15-20% growth targeted" }
-      ],
-      "highlights": [
-        "Management expects FY27 value growth to exceed volume growth due to polymer pricing.",
-        "Adhesives are expected to grow at least double digits in FY27.",
-        "Three premium products were added.",
-        "New capacity is expected to support commercial production by Q4.",
-        "Paint business is expected to move toward positive EBITDA.",
-        "Management expects 8-10% margin in the full year for the relevant growth segment."
-      ],
-      "quote": "\"FY27 we are expecting the volume should be in the range of 10 to 15%.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Prince Pipes and Fittings Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Revenue", "value": "850 Cr", "change": "+18%", "positive": 1 },
-        { "label": "Q4 Volume", "value": "62,167 MT", "change": "+23%", "positive": 1 },
-        { "label": "Q4 EBITDA", "value": "110 Cr", "change": "+100%", "positive": 1 },
-        { "label": "Q4 PAT", "value": "56 Cr", "change": "+133%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 delivered highest-ever quarterly volumes with 23% YoY growth.",
-        "Q4 revenue grew 18% YoY to 850 Cr.",
-        "Q4 EBITDA doubled YoY to 110 Cr with 13% margin.",
-        "FY26 revenue grew 3% to 2,598 Cr.",
-        "FY26 EBITDA grew 43% to 232 Cr, while PAT grew 70% to 73 Cr."
-      ],
-      "guidance": [
-        { "metric": "Operating Margin", "value": "11-13% annualized" },
-        { "metric": "Volume Growth", "value": "12-15% targeted" },
-        { "metric": "Working Capital", "value": "Efficiency improved in FY26" }
-      ],
-      "highlights": [
-        "FY26 volume grew 8% to 191,238 MT.",
-        "Q4 PAT margin improved to 7%.",
-        "Inventory gains were close to zero in Q4.",
-        "Volume growth was supported by passing price benefits to channel.",
-        "PVC price volatility remains a key near-term factor.",
-        "Management expects margin normalization from Q2 onward."
-      ],
-      "quote": "\"We delivered our highest ever quarterly volumes.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Greenlam Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "3,046 Cr", "change": "+18.6%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "334 Cr", "change": "+21%", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "858 Cr", "change": "+26%", "positive": 1 },
-        { "label": "Q4 EBITDA", "value": "107 Cr", "change": "+57%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue crossed 3,000 Cr with 18.6% growth.",
-        "FY26 EBITDA before forex grew 21% to 334 Cr.",
-        "Q4 revenue grew 26% YoY to 858 Cr, the highest-ever quarterly revenue.",
-        "Q4 EBITDA before forex grew 57% to 107 Cr.",
-        "PAT was impacted by losses in new businesses."
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth", "value": "Around 18%" },
-        { "metric": "New Businesses", "value": "Breakeven targeted in FY27" },
-        { "metric": "Laminates", "value": "2 new AP lines in FY27" }
-      ],
-      "highlights": [
-        "Gross margin improved 130 bps to 53.6% in FY26.",
-        "Q4 EBITDA margin before forex stood at 12.5%.",
-        "Laminate portfolio continues to add premium items.",
-        "Company consolidated its growth platform during FY26.",
-        "Input cost rise pressured sequential gross margin.",
-        "Management expects growth to continue for the next few years."
-      ],
-      "quote": "\"The company crossed annual revenue of 3,000 Cr in FY26.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Greenply Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "2,739 Cr", "change": "+10.1%", "positive": 1 },
-        { "label": "FY26 Core EBITDA", "value": "270.5 Cr", "change": "+13.8%", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "776.2 Cr", "change": "+19.6%", "positive": 1 },
-        { "label": "Q4 Core EBITDA Margin", "value": "12%", "change": "+150 bps", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 consolidated revenue grew 19.6% YoY to 776.2 Cr.",
-        "Q4 consolidated core EBITDA was 93.2 Cr with margin at 12%.",
-        "FY26 consolidated revenue grew 10.1% to 2,739 Cr.",
-        "FY26 core EBITDA grew 13.8% to 270.5 Cr.",
-        "MDF achieved highest-ever quarterly revenue of 189.4 Cr."
-      ],
-      "guidance": [
-        { "metric": "FY27 Start", "value": "Strong start highlighted" },
-        { "metric": "Plywood Growth", "value": "In line with expectations" },
-        { "metric": "MDF", "value": "Operating leverage to support margins" }
-      ],
-      "highlights": [
-        "Plywood Q4 volume grew 15.6%.",
-        "Plywood FY26 revenue grew 7.5% to 2,105.7 Cr.",
-        "MDF Q4 revenue grew 39.6% and volume grew 45.3%.",
-        "MDF Q4 margin stood at 17%.",
-        "Furniture and fittings JV remains in investment phase.",
-        "Management delivered on H2FY26 guidance."
-      ],
-      "quote": "\"We have successfully delivered on our H2 FY26 guidance.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Century Plyboards (India) Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Revenue", "value": "1,492 Cr", "change": "Highest ever", "positive": 1 },
-        { "label": "FY26 Topline Growth", "value": "19.2%", "change": "YoY", "positive": 1 },
-        { "label": "FY26 PAT", "value": "268 Cr", "change": "+44%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "702 Cr", "change": "ex forex", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 revenue reached the highest-ever quarterly level of 1,492 Cr.",
-        "FY26 topline grew 19.2%.",
-        "EBITDA excluding forex loss increased from 502 Cr to 702 Cr.",
-        "PAT grew 44% to 268 Cr.",
-        "ROCE and ROE improved excluding forex losses."
-      ],
-      "guidance": [
-        { "metric": "Port Business", "value": "Cash positive from Q1FY27" },
-        { "metric": "Badvel Plant", "value": "Capacity increase by 20%" },
-        { "metric": "Capacity Utilization", "value": "Around 80-85%" }
-      ],
-      "highlights": [
-        "Plywood segment Q4 revenue grew 17.9% YoY.",
-        "Laminate Q4 revenue grew 16.3% YoY.",
-        "MDF Q4 revenue grew 31% YoY.",
-        "Particle board Q4 revenue grew 108.3% YoY.",
-        "FY26 MDF revenue grew 25.5%.",
-        "Kolkata port operation started commercial operations in Q4."
-      ],
-      "quote": "\"FY26 reflects a year of strong execution and improved profitability.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Stylam Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY27 Growth", "value": "20-25%", "change": "Guided", "positive": 1 },
-        { "label": "New Plant Revenue", "value": "300-400 Cr", "change": "FY27 potential", "positive": 1 },
-        { "label": "FY26 Utilization", "value": "74%", "change": "Laminate", "positive": 1 },
-        { "label": "Target Margin", "value": "22-24%", "change": "New plant", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Laminate division operated at around 74% capacity utilization in FY26.",
-        "Management highlighted healthy margin performance in Q4.",
-        "Existing plant sales momentum remained strong into April.",
-        "The new plant can materially expand capacity.",
-        "Acrylics and export mix remain important growth drivers."
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth", "value": "20-25%" },
-        { "metric": "FY27 New Plant Revenue", "value": "300-400 Cr" },
-        { "metric": "FY28 Utilization", "value": "Around 80% for new plant targeted" }
-      ],
-      "highlights": [
-        "New plant capacity is more than 100% of existing capacity.",
-        "Initial utilization of 30-40% is expected after ramp-up.",
-        "New plant margin profile is guided around 22-24%.",
-        "Management expects 80% plus utilization of the new plant over time.",
-        "Exports remain a key part of the business mix.",
-        "Growth guidance remains broad due to macro uncertainty."
-      ],
-      "quote": "\"We would be targeting around 80% utilization.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Supreme Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Volume", "value": "753,907 MT", "change": "+12%", "positive": 1 },
-        { "label": "FY26 Revenue", "value": "11,218 Cr", "change": "+7%", "positive": 1 },
-        { "label": "Piping Volume", "value": "+14%", "change": "FY26", "positive": 1 },
-        { "label": "FY27 Growth", "value": "15-17%", "change": "Anticipated", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 plastic goods volume grew 12% to 753,907 MT.",
-        "FY26 revenue grew 7% to 11,218 Cr.",
-        "Plastic piping volume grew 14% and value grew 11%.",
-        "Packaging volume grew 5% and value grew 3%.",
-        "Consumer products volume grew 4% despite value decline."
-      ],
-      "guidance": [
-        { "metric": "FY27 Growth", "value": "15-17%" },
-        { "metric": "Capacity Addition", "value": "1.10 lakh MT" },
-        { "metric": "Piping Capacity", "value": "1.00 lakh MT of addition" }
-      ],
-      "highlights": [
-        "Industrial products volume declined 1%.",
-        "Value-added products remain a key profitability driver.",
-        "Capacity addition is expected to complete in FY27.",
-        "PVC resin volatility impacted demand patterns.",
-        "CPVC business grew strongly during the year.",
-        "Management expects channel inventory to normalize with demand recovery."
-      ],
-      "quote": "\"We anticipate growth of 15% to 17%.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Finolex Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Cautiously Optimistic",
-      "toneColor": "#D97706",
-      "metrics": [
-        { "label": "Q4 Revenue", "value": "1,314 Cr", "change": "+12%", "positive": 1 },
-        { "label": "Q4 PAT", "value": "306 Cr", "change": "+112%", "positive": 1 },
-        { "label": "FY26 Revenue", "value": "4,113 Cr", "change": "Flat", "positive": 0 },
-        { "label": "FY26 EBITDA", "value": "679 Cr", "change": "+43%", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 revenue grew 12% YoY to 1,314 Cr.",
-        "Q4 PAT rose to 306 Cr from 144 Cr in Q4FY25.",
-        "FY26 revenue was flat at 4,113 Cr.",
-        "FY26 EBITDA grew 43% to 679 Cr.",
-        "FY26 sales volume stood at 332,736 MT versus 347,982 MT last year."
-      ],
-      "guidance": [
-        { "metric": "Volume Growth", "value": "7-8% range expected" },
-        { "metric": "EBITDA Margin", "value": "Sub-15% sustainable focus" },
-        { "metric": "Agri Share", "value": "Around 63% in FY26" }
-      ],
-      "highlights": [
-        "Q4 volume stood at 101,772 MT.",
-        "Agri demand was weak in Q4.",
-        "Fittings share improved to 11% of full-year volume.",
-        "EBIT grew 55% to 572 Cr in FY26.",
-        "PVC price movement drove margin volatility.",
-        "Management remains focused on maintaining margins in a dynamic environment."
-      ],
-      "quote": "\"We are trying to maintain our margin sub-15% level.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Shankara Building Products Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "6,826 Cr", "change": "+30%", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "228 Cr", "change": "+51%", "positive": 1 },
-        { "label": "FY26 PAT", "value": "128 Cr", "change": "+64%", "positive": 1 },
-        { "label": "FY26 ROCE", "value": "36%", "change": "Strong", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 30% YoY to 6,826 Cr.",
-        "Steel marketplace revenue grew 33% YoY to 6,220 Cr.",
-        "Steel volumes grew 32% YoY and crossed 10.16 lakh tonnes.",
-        "FY26 EBITDA grew 51% to 228 Cr, with margin expanding to 3.35%.",
-        "FY26 PAT grew 64% to 128 Cr, despite one-time provisioning."
-      ],
-      "guidance": [
-        { "metric": "FY27 Steel Volume", "value": "1.2 Mn tonnes targeted" },
-        { "metric": "FY27 Non-Steel Revenue", "value": "750 Cr targeted" },
-        { "metric": "Medium-Term EBITDA Margin", "value": "Around 4% aspiration" }
-      ],
-      "highlights": [
-        "Q4 revenue stood at 1,996 Cr.",
-        "Q4 steel volume stood at 2.89 lakh tonnes, up 19% YoY and 11% QoQ.",
-        "Non-steel revenue stood at 606 Cr in FY26 and 161 Cr in Q4.",
-        "Working capital cycle improved to 25 days.",
-        "E-commerce division grew substantially to 22 Cr in FY26.",
-        "Management plans to add 7-10 fulfilment centers or stores in FY27."
-      ],
-      "quote": "\"We have closed FY26 with a record performance.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Kajaria Ceramics Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,328 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Tile Volume",
+            "value": "+6%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "19.6%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹169 Cr",
+            "change": "Growth",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 20% to ₹1,328 Cr",
+          "Tile volume increased 6% despite a soft April",
+          "EBITDA margin reached 19.6%",
+          "PAT increased to ₹169 Cr",
+          "Bathware revenue grew 33% to ₹122 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "EBITDA Margin",
+            "guided": "19% achievable",
+            "actual": "19.6%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Volume Growth",
+            "guided": "No earlier formal target",
+            "actual": "Double-digit full-year guidance introduced",
+            "status": "met"
+          },
+          {
+            "metric": "Capex",
+            "guided": "Selective brownfield expansion",
+            "actual": "Around ₹400 Cr planned in FY27",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "Double digit"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "18-19%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹400 Cr"
+          }
+        ],
+        "highlights": [
+          "Srikalahasti and Gailpur brownfield projects are underway",
+          "New projects are expected to generate more than 2x asset turns",
+          "July volume momentum remained healthy",
+          "Outsourcing will remain a balancing tool",
+          "Price and mix supported revenue growth ahead of volume",
+          "Management expects Q1 margin strength to remain sustainable"
+        ],
+        "quote": "\"Volume guidance returned after Q1 margins moved above the earlier target.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "1,373 Cr",
+            "change": "+12%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Volume Growth",
+            "value": "11%",
+            "change": "Tiles",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "19.19%",
+            "change": "Improved",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "136 Cr",
+            "change": "vs 43 Cr",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 consolidated revenue grew 12% YoY to 1,373 Cr.",
+          "Tiles segment grew 11% YoY to 1,212 Cr in Q4.",
+          "Q4 volume growth stood at 11%, supported by sales unification efforts.",
+          "EBITDA improved to 228 Cr in Q4 from 85 Cr in the previous year.",
+          "PAT grew sharply to 136 Cr in Q4 from 43 Cr in Q4FY25."
+        ],
+        "guidance": [
+          {
+            "metric": "EBITDA Margin",
+            "value": "19% achievable next year"
+          },
+          {
+            "metric": "Outsourcing",
+            "value": "Around 27% currently"
+          },
+          {
+            "metric": "Demand",
+            "value": "Q1 seasonally softer than Q4"
+          }
+        ],
+        "highlights": [
+          "Bathware revenue grew 6% to 117 Cr in Q4.",
+          "Management cited price hikes and efficiencies as margin drivers.",
+          "Volume growth was steady across Jan-Feb-March.",
+          "Morbi export weakness supported domestic outsourcing availability.",
+          "Gas price movement remains a key margin variable.",
+          "The company continues to focus on production, sales and supply-chain efficiencies."
+        ],
+        "quote": "\"This quarter we achieved a volume growth of 11%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Somany Ceramics Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Value Growth",
+            "value": "24%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Volume Growth",
+            "value": "3%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11.6%",
+            "change": "+360 bps",
+            "positive": 1
+          },
+          {
+            "label": "Working Capital",
+            "value": "12 days",
+            "change": "vs 17",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Value sales grew 24% while volume grew 3%",
+          "EBITDA margin expanded 360 bps to 11.6%",
+          "Morbi shutdown constrained April supply",
+          "Working-capital days improved to 12 from 17",
+          "Sanitaryware, bath fittings and construction chemicals grew healthily"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Margin Improvement",
+            "guided": "At least 150 bps",
+            "actual": "360 bps in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "Mid-20s possible",
+            "actual": "24% value growth",
+            "status": "met"
+          },
+          {
+            "metric": "Plant Utilisation",
+            "guided": "Near full capacity",
+            "actual": "Plants and JVs returned toward full utilisation",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "Mid-to-high single digits"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Maintain or improve 11.6%"
+          },
+          {
+            "metric": "South Plant",
+            "value": "9+ Mn sq m in 12-15 months"
+          }
+        ],
+        "highlights": [
+          "Gas-price increases were passed through",
+          "Morbi production has fully resumed",
+          "A South India plant offers around ₹350 Cr revenue potential",
+          "Existing lines will add 4-5 Mn sq m by Q4",
+          "Joint-venture performance improved",
+          "A ₹220 Cr greenfield investment is planned in the South"
+        ],
+        "quote": "\"Better utilisation delivered the margin improvement management had targeted.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q4 Sales Growth",
+            "value": "6%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Sales Growth",
+            "value": "5%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "9.3%",
+            "change": "Improved",
+            "positive": 1
+          },
+          {
+            "label": "Capacity Utilization",
+            "value": "79%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 sales grew around 6% and FY26 sales grew around 5%.",
+          "EBITDA margin improved meaningfully in Q4 and by around 1% for the year.",
+          "Capacity utilization remained broadly stable around 79%.",
+          "GVT sales mix improved during the year.",
+          "The company turned around from a Q4 loss in the previous year."
+        ],
+        "guidance": [
+          {
+            "metric": "Margin Improvement",
+            "value": "At least 150 bps targeted"
+          },
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Mid-20s possible with price and volume"
+          },
+          {
+            "metric": "Utilization",
+            "value": "Plants currently running near full capacity"
+          }
+        ],
+        "highlights": [
+          "Management expects high single-digit volume growth with price hikes.",
+          "Gas price volatility remains a key cost factor.",
+          "Morbi capacity discipline may support pricing.",
+          "Brand spend is expected to continue.",
+          "Outsourcing exposure remains part of the capacity mix.",
+          "Demand recovery and price hikes are key margin levers."
+        ],
+        "quote": "\"Our guidance is to improve EBITDA margin from here by at least 1.5%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Cera Sanitaryware Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹486 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹49.2 Cr",
+            "change": "Ex-other income",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "~10%",
+            "change": "One-off affected",
+            "positive": 0
+          },
+          {
+            "label": "Faucet Utilisation",
+            "value": "96%",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue reached ₹486 Cr with broad-based retail and project growth",
+          "Sanitaryware and faucetware contributed 47% and 40% of revenue",
+          "EBITDA excluding other income was ₹49.2 Cr",
+          "One-off settlements and brand investment reduced Q1 margin",
+          "Sanitaryware and faucet capacity utilisation stood at 61% and 96%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "18-20%",
+            "actual": "Guidance retained",
+            "status": "partial"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "13.5-14%",
+            "actual": "Around 10% in Q1 due to one-offs",
+            "status": "partial"
+          },
+          {
+            "metric": "Capacity",
+            "guided": "5 lakh pieces/month from Q4FY27",
+            "actual": "Expansion remains on schedule",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "18-20%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "13.5-14%"
+          },
+          {
+            "metric": "New Capacity",
+            "value": "Commission from Q4FY27"
+          }
+        ],
+        "highlights": [
+          "Cumulative price increases reached 12% in sanitaryware and 16% in faucets",
+          "Growth was predominantly volume-led",
+          "Project demand remained healthy",
+          "Retail demand continued gradual improvement",
+          "Operational sanitaryware utilisation recovered toward 80% from June",
+          "The dealer-management system was extended to retailer loyalty"
+        ],
+        "quote": "\"The growth outlook remains intact despite one-off pressure on Q1 margins.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "644 Cr",
+            "change": "+11.4%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "98 Cr",
+            "change": "15.2% margin",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "77 Cr",
+            "change": "vs 86 Cr",
+            "positive": 0
+          },
+          {
+            "label": "Cash",
+            "value": "853 Cr",
+            "change": "FY26 end",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 revenue grew to 644 Cr from 578 Cr in Q4FY25.",
+          "Q4 EBITDA stood at 98 Cr with margin at 15.2%.",
+          "Sanitaryware revenue grew 10.7% YoY.",
+          "Faucetware revenue grew 24.3% YoY.",
+          "Cash and cash equivalents stood at 853 Cr at FY26 end."
+        ],
+        "guidance": [
+          {
+            "metric": "Dealer Network",
+            "value": "2,000 dealers by FY27-end"
+          },
+          {
+            "metric": "Distributor Network",
+            "value": "200 distributors by FY27-end"
+          },
+          {
+            "metric": "Capacity",
+            "value": "5 lakh pieces/month from Q4FY27"
+          }
+        ],
+        "highlights": [
+          "Premium segment formed 41% of sales.",
+          "Tier-3 markets contributed 40% of sales.",
+          "Sanitaryware utilization stood at 70%.",
+          "Faucetware utilization stood at 106%.",
+          "Marketing and publicity spends were around 49 Cr in FY26.",
+          "Capacity enhancement requires minimal capex of around 5 Cr."
+        ],
+        "quote": "\"FY26 has been an important year in strengthening our portfolio.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Carysil Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "EBITDA",
+            "value": "₹56 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Quartz Utilisation",
+            "value": "88%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Steel Utilisation",
+            "value": "94%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "India Sales",
+            "value": "₹56 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "EBITDA rose to ₹56 Cr from ₹44.1 Cr",
+          "Domestic sales grew around 40% to ₹56 Cr",
+          "Quartz-sink capacity operated at 88%",
+          "Steel-sink volume grew 16.3% and capacity utilisation reached 94%",
+          "Faucet volume grew 33.4%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "15-18%",
+            "actual": "Tracking toward upper end",
+            "status": "met"
+          },
+          {
+            "metric": "Quartz Capacity",
+            "guided": "250,000 additional units by Q4FY27",
+            "actual": "Expansion remains on track for March 2027",
+            "status": "partial"
+          },
+          {
+            "metric": "Steel Capacity",
+            "guided": "250,000 units",
+            "actual": "Reached 250,000 units and 94% utilisation",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "15-18%, upper-end bias"
+          },
+          {
+            "metric": "FY27 Margin",
+            "value": "Existing range retained with upper-end bias"
+          },
+          {
+            "metric": "Quartz Expansion",
+            "value": "Complete by FY27-end"
+          }
+        ],
+        "highlights": [
+          "Home Depot partnership was extended in the US and Canada",
+          "New agreements were signed with Hafele Australia and New Zealand",
+          "Initial Amazon US orders were secured",
+          "A new steel-sink factory is under construction",
+          "Domestic volume grew 25% with 12% price realisation",
+          "Export order bookings reached a record level"
+        ],
+        "quote": "\"Capacity utilisation and export wins support the upper end of guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Income Growth",
+            "value": "14%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA Growth",
+            "value": "31%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT Growth",
+            "value": "54%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "237 Cr",
+            "change": "+16%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income grew 14%, EBITDA grew 31% and PAT grew 54%.",
+          "Q4 consolidated total income grew 16% YoY to 237 Cr.",
+          "Q4 EBITDA grew 33% YoY to 48 Cr with margin at 20.3%.",
+          "Q4 PAT after minority interest grew 42% to 27 Cr.",
+          "Quartz sink sales volume stood at 195.5K units in Q4."
+        ],
+        "guidance": [
+          {
+            "metric": "Quartz Capacity",
+            "value": "250,000 units by Q4FY27"
+          },
+          {
+            "metric": "Steel Sink Capacity",
+            "value": "250,000 units per year"
+          },
+          {
+            "metric": "Online Business",
+            "value": "2x-3x sales targeted"
+          }
+        ],
+        "highlights": [
+          "Domestic traction improved along with resilient export demand.",
+          "Stainless steel volume stood at 44.6K in Q4.",
+          "Faucet volume stood at 10.2K units in Q4.",
+          "USA operations achieved operational momentum.",
+          "B2B architect and builder channel is a focus area.",
+          "FY27 is positioned as an execution and capacity expansion year."
+        ],
+        "quote": "\"FY26 marks an important inflection point in the company's evolution.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Astral Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Pipe Volume Growth",
+            "value": "Flat",
+            "change": "vs weak market",
+            "positive": 1
+          },
+          {
+            "label": "Pipe EBITDA Margin",
+            "value": "15.5%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Paint Growth",
+            "value": "48.7%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q1 Capex",
+            "value": "₹137 Cr",
+            "change": "Invested",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Pipe volumes were flat while the broader market declined around 10%",
+          "Pipe EBITDA margin stood at 15.5%",
+          "India adhesives grew 24.9%",
+          "Paint revenue grew 48.7% and reached EBITDA breakeven",
+          "UK adhesives grew 26% with margin improving to 4.9%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Pipe Volume",
+            "guided": "10-15% FY27",
+            "actual": "Flat in Q1; minimum double-digit guidance retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Paint Growth",
+            "guided": "25-30%",
+            "actual": "48.7%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Construction Chemicals",
+            "guided": "15-20%",
+            "actual": "Guidance retained",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Plumbing Volume",
+            "value": "Minimum double-digit FY27 growth"
+          },
+          {
+            "metric": "Plumbing EBITDA Margin",
+            "value": "16-18%"
+          },
+          {
+            "metric": "Paint Growth",
+            "value": "Prior guidance retained"
+          }
+        ],
+        "highlights": [
+          "Kanpur and Hyderabad plants supported market-share gains",
+          "CPVC resin plant completion is targeted by December",
+          "PEX-aluminium-PEX commercial production is planned by September-end",
+          "Bathware grew 18.1%",
+          "New products are improving mix",
+          "Management expects stronger growth after Q1"
+        ],
+        "quote": "\"Astral gained share in pipes while newer verticals accelerated.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Paint Growth",
+            "value": "23%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Paint Q4 Growth",
+            "value": "31%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY27 Pipe Volume",
+            "value": "10-15%",
+            "change": "Target",
+            "positive": 1
+          },
+          {
+            "label": "Adhesive Growth",
+            "value": "Double digit",
+            "change": "FY27 view",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Paint business delivered 23% growth for FY26 and 31% growth in Q4.",
+          "Bond product in the UK delivered 22.9% growth.",
+          "Export volumes doubled and channel partner additions remained strong.",
+          "The company added around 80 distributors and 2,500 dealers.",
+          "Construction chemical demand remained healthy across the portfolio."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Pipe Volume",
+            "value": "10-15%"
+          },
+          {
+            "metric": "Paint Growth",
+            "value": "25-30% run rate targeted"
+          },
+          {
+            "metric": "Construction Chemicals",
+            "value": "15-20% growth targeted"
+          }
+        ],
+        "highlights": [
+          "Management expects FY27 value growth to exceed volume growth due to polymer pricing.",
+          "Adhesives are expected to grow at least double digits in FY27.",
+          "Three premium products were added.",
+          "New capacity is expected to support commercial production by Q4.",
+          "Paint business is expected to move toward positive EBITDA.",
+          "Management expects 8-10% margin in the full year for the relevant growth segment."
+        ],
+        "quote": "\"FY27 we are expecting the volume should be in the range of 10 to 15%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Prince Pipes and Fittings Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹609 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹77 Cr",
+            "change": "+93% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "12.6%",
+            "change": "Within guidance",
+            "positive": 1
+          },
+          {
+            "label": "Bathware Revenue",
+            "value": "₹13 Cr",
+            "change": "Early stage",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "Revenue stood at ₹609 Cr",
+          "EBITDA grew 93% to ₹77 Cr",
+          "Operating margin returned to the guided 11-13% band",
+          "Bathware remained in investment mode with a ₹5 Cr EBITDA loss",
+          "Recently added capacity remains underutilised"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Operating Margin",
+            "guided": "11-13%",
+            "actual": "Around 12.6%",
+            "status": "met"
+          },
+          {
+            "metric": "Volume Growth",
+            "guided": "12-15%",
+            "actual": "Full-year target retained after a softer Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Working Capital",
+            "guided": "Maintain efficiency",
+            "actual": "Around 100 days versus 65-75 day target",
+            "status": "missed"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "12-15%"
+          },
+          {
+            "metric": "Operating Margin",
+            "value": "11-13%"
+          },
+          {
+            "metric": "Working Capital",
+            "value": "65-75 days"
+          }
+        ],
+        "highlights": [
+          "Channel restocking and lower polymer prices supported margins",
+          "Jaipur and Telangana capacity provide growth headroom",
+          "Most of the large capex cycle is complete",
+          "Management continues to target industry-leading growth",
+          "Bathware is being scaled as a new category",
+          "Working capital is expected to normalise through the year"
+        ],
+        "quote": "\"Margins recovered strongly, while volume and working capital remain the key execution tests.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "850 Cr",
+            "change": "+18%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Volume",
+            "value": "62,167 MT",
+            "change": "+23%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "110 Cr",
+            "change": "+100%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "56 Cr",
+            "change": "+133%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 delivered highest-ever quarterly volumes with 23% YoY growth.",
+          "Q4 revenue grew 18% YoY to 850 Cr.",
+          "Q4 EBITDA doubled YoY to 110 Cr with 13% margin.",
+          "FY26 revenue grew 3% to 2,598 Cr.",
+          "FY26 EBITDA grew 43% to 232 Cr, while PAT grew 70% to 73 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "Operating Margin",
+            "value": "11-13% annualized"
+          },
+          {
+            "metric": "Volume Growth",
+            "value": "12-15% targeted"
+          },
+          {
+            "metric": "Working Capital",
+            "value": "Efficiency improved in FY26"
+          }
+        ],
+        "highlights": [
+          "FY26 volume grew 8% to 191,238 MT.",
+          "Q4 PAT margin improved to 7%.",
+          "Inventory gains were close to zero in Q4.",
+          "Volume growth was supported by passing price benefits to channel.",
+          "PVC price volatility remains a key near-term factor.",
+          "Management expects margin normalization from Q2 onward."
+        ],
+        "quote": "\"We delivered our highest ever quarterly volumes.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Greenlam Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "~₹800 Cr",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹81 Cr",
+            "change": "Pre-forex",
+            "positive": 1
+          },
+          {
+            "label": "Plywood Growth",
+            "value": "20%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Chipboard Revenue",
+            "value": "₹95 Cr",
+            "change": "~3x YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue approached ₹800 Cr",
+          "EBITDA before forex stood at ₹81 Cr with gross margin near 53%",
+          "Plywood revenue grew 20% and its EBITDA loss narrowed",
+          "Chipboard revenue nearly tripled to ₹95 Cr",
+          "Chipboard volume grew 167%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "Around 18%",
+            "actual": "Growth remained around the guided trajectory",
+            "status": "met"
+          },
+          {
+            "metric": "New Businesses",
+            "guided": "Breakeven in FY27",
+            "actual": "Plywood loss narrowed; chipboard is ramping",
+            "status": "partial"
+          },
+          {
+            "metric": "AP Laminate Lines",
+            "guided": "Two lines in FY27",
+            "actual": "Capacity addition remains on schedule",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Laminate Volume Growth",
+            "value": "10-12%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹125-130 Cr"
+          },
+          {
+            "metric": "Chipboard Utilisation",
+            "value": "Improve from 61%"
+          }
+        ],
+        "highlights": [
+          "Laminate utilisation stood at 80%",
+          "Plywood sales volume grew 19%",
+          "Two laminate lines will ease premium-category constraints",
+          "No major capex is planned after current projects",
+          "Chipboard margin can reach 18-20% at mature utilisation",
+          "Export reach supports laminate demand"
+        ],
+        "quote": "\"New wood-panel businesses are scaling toward breakeven while laminates fund expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "3,046 Cr",
+            "change": "+18.6%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "334 Cr",
+            "change": "+21%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "858 Cr",
+            "change": "+26%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "107 Cr",
+            "change": "+57%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue crossed 3,000 Cr with 18.6% growth.",
+          "FY26 EBITDA before forex grew 21% to 334 Cr.",
+          "Q4 revenue grew 26% YoY to 858 Cr, the highest-ever quarterly revenue.",
+          "Q4 EBITDA before forex grew 57% to 107 Cr.",
+          "PAT was impacted by losses in new businesses."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Around 18%"
+          },
+          {
+            "metric": "New Businesses",
+            "value": "Breakeven targeted in FY27"
+          },
+          {
+            "metric": "Laminates",
+            "value": "2 new AP lines in FY27"
+          }
+        ],
+        "highlights": [
+          "Gross margin improved 130 bps to 53.6% in FY26.",
+          "Q4 EBITDA margin before forex stood at 12.5%.",
+          "Laminate portfolio continues to add premium items.",
+          "Company consolidated its growth platform during FY26.",
+          "Input cost rise pressured sequential gross margin.",
+          "Management expects growth to continue for the next few years."
+        ],
+        "quote": "\"The company crossed annual revenue of 3,000 Cr in FY26.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Greenply Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹725 Cr",
+            "change": "+20.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Core EBITDA",
+            "value": "₹78 Cr",
+            "change": "10.8% margin",
+            "positive": 1
+          },
+          {
+            "label": "Plywood Volume",
+            "value": "+13.8%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Debt-Equity",
+            "value": "0.57x",
+            "change": "Below guidance",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 20.7% to ₹725 Cr",
+          "Core EBITDA was ₹78.3 Cr with margin at 10.8%",
+          "Plywood revenue grew 16% on 13.8% volume growth",
+          "Plywood EBITDA margin improved 50 bps to 8.4%",
+          "MDF revenue reached ₹196 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Plywood Growth",
+            "guided": "10% volume",
+            "actual": "13.8%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "MDF Growth",
+            "guided": "25-30% volume",
+            "actual": "Double-digit Q1 growth; target retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Core EBITDA Margin",
+            "guided": "10%",
+            "actual": "10.8% consolidated",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Plywood Volume",
+            "value": "Around 10% FY27"
+          },
+          {
+            "metric": "MDF Volume",
+            "value": "25-30% FY27"
+          },
+          {
+            "metric": "Plywood EBITDA Margin",
+            "value": "Around 10%"
+          }
+        ],
+        "highlights": [
+          "Both core segments delivered double-digit volume growth",
+          "MDF operating leverage is expected to improve margins",
+          "New MDF capacity will support the next growth phase",
+          "Debt-equity remained below the 0.7-0.75x ceiling",
+          "Plywood utilisation was above 90%",
+          "The company is prioritising asset turns on new capacity"
+        ],
+        "quote": "\"Plywood growth exceeded target and leverage stayed comfortably within guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "2,739 Cr",
+            "change": "+10.1%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Core EBITDA",
+            "value": "270.5 Cr",
+            "change": "+13.8%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "776.2 Cr",
+            "change": "+19.6%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Core EBITDA Margin",
+            "value": "12%",
+            "change": "+150 bps",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 consolidated revenue grew 19.6% YoY to 776.2 Cr.",
+          "Q4 consolidated core EBITDA was 93.2 Cr with margin at 12%.",
+          "FY26 consolidated revenue grew 10.1% to 2,739 Cr.",
+          "FY26 core EBITDA grew 13.8% to 270.5 Cr.",
+          "MDF achieved highest-ever quarterly revenue of 189.4 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Start",
+            "value": "Strong start highlighted"
+          },
+          {
+            "metric": "Plywood Growth",
+            "value": "In line with expectations"
+          },
+          {
+            "metric": "MDF",
+            "value": "Operating leverage to support margins"
+          }
+        ],
+        "highlights": [
+          "Plywood Q4 volume grew 15.6%.",
+          "Plywood FY26 revenue grew 7.5% to 2,105.7 Cr.",
+          "MDF Q4 revenue grew 39.6% and volume grew 45.3%.",
+          "MDF Q4 margin stood at 17%.",
+          "Furniture and fittings JV remains in investment phase.",
+          "Management delivered on H2FY26 guidance."
+        ],
+        "quote": "\"We have successfully delivered on our H2 FY26 guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Century Plyboards (India) Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,561 Cr",
+            "change": "+33.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "13.0%",
+            "change": "Ex-forest losses",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹83 Cr",
+            "change": "+57% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Plywood Margin",
+            "value": "16.9%",
+            "change": "Industry-leading",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue reached a record ₹1,561 Cr, up 33.5%",
+          "PAT increased 57% to ₹83.3 Cr",
+          "Plywood revenue grew 32.4% and margin reached 16.9%",
+          "MDF revenue grew nearly 29% despite an expansion shutdown",
+          "Particle-board revenue grew 155.7% YoY"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Port Business",
+            "guided": "Cash positive from Q1FY27",
+            "actual": "Operations stabilised and contributed positively",
+            "status": "met"
+          },
+          {
+            "metric": "Badvel Capacity",
+            "guided": "Increase by 20%",
+            "actual": "MDF capacity rose from 700 to 950 CBM/day",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Capacity Utilisation",
+            "guided": "80-85%",
+            "actual": "Improving across plywood, MDF and particle board",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Hoshiarpur Plywood",
+            "value": "Commission in Q3FY27"
+          },
+          {
+            "metric": "Chennai Capacity",
+            "value": "12,500 CBM/month from Q3"
+          },
+          {
+            "metric": "Near-Term Capex",
+            "value": "No large project beyond committed expansion"
+          }
+        ],
+        "highlights": [
+          "A 7% plywood price increase passed through chemical inflation",
+          "A third laminate press was commissioned in July",
+          "Khidderpore terminal operations turned positive",
+          "Andhra MDF capacity increased by 36%",
+          "Particle-board utilisation and mix are improving",
+          "Management paused formal guidance due to geopolitical volatility"
+        ],
+        "quote": "\"Record revenue and profit were backed by broad capacity utilisation gains.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "1,492 Cr",
+            "change": "Highest ever",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Topline Growth",
+            "value": "19.2%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "268 Cr",
+            "change": "+44%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "702 Cr",
+            "change": "ex forex",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 revenue reached the highest-ever quarterly level of 1,492 Cr.",
+          "FY26 topline grew 19.2%.",
+          "EBITDA excluding forex loss increased from 502 Cr to 702 Cr.",
+          "PAT grew 44% to 268 Cr.",
+          "ROCE and ROE improved excluding forex losses."
+        ],
+        "guidance": [
+          {
+            "metric": "Port Business",
+            "value": "Cash positive from Q1FY27"
+          },
+          {
+            "metric": "Badvel Plant",
+            "value": "Capacity increase by 20%"
+          },
+          {
+            "metric": "Capacity Utilization",
+            "value": "Around 80-85%"
+          }
+        ],
+        "highlights": [
+          "Plywood segment Q4 revenue grew 17.9% YoY.",
+          "Laminate Q4 revenue grew 16.3% YoY.",
+          "MDF Q4 revenue grew 31% YoY.",
+          "Particle board Q4 revenue grew 108.3% YoY.",
+          "FY26 MDF revenue grew 25.5%.",
+          "Kolkata port operation started commercial operations in Q4."
+        ],
+        "quote": "\"FY26 reflects a year of strong execution and improved profitability.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Stylam Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "EBITDA Margin",
+            "value": ">21%",
+            "change": "Q1",
+            "positive": 1
+          },
+          {
+            "label": "Sustainable Margin",
+            "value": "19-20%+",
+            "change": "Guidance",
+            "positive": 1
+          },
+          {
+            "label": "New Plant Start",
+            "value": "Aug-Sep",
+            "change": "FY27",
+            "positive": 1
+          },
+          {
+            "label": "Year-1 Utilisation",
+            "value": ">30%",
+            "change": "Target",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 EBITDA margin moved above 21%",
+          "Management attributed the margin to utilisation and efficiency rather than inventory gains",
+          "Existing capacity remained near full utilisation",
+          "The new plant is expected to begin production around August-end",
+          "Export demand remains important for the ramp-up"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "20-25%",
+            "actual": "Management retained a strong growth outlook",
+            "status": "partial"
+          },
+          {
+            "metric": "New Plant Revenue",
+            "guided": "₹300-400 Cr",
+            "actual": "Around ₹300 Cr expected as capacity ramps",
+            "status": "met"
+          },
+          {
+            "metric": "FY28 Utilisation",
+            "guided": "Around 80%",
+            "actual": "Above 30% targeted in first year",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Sustainable EBITDA Margin",
+            "value": "19-20%+"
+          },
+          {
+            "metric": "New Plant Revenue",
+            "value": "Around ₹300 Cr"
+          },
+          {
+            "metric": "First-Year Utilisation",
+            "value": "Above 30%"
+          }
+        ],
+        "highlights": [
+          "The new plant starts commercial ramp-up in September",
+          "Customers are awaiting additional capacity",
+          "Management may announce the next capex after stabilisation",
+          "Future expansion may extend beyond laminates",
+          "Month-by-month orders determine the ramp profile",
+          "Higher scale is expected to preserve margin"
+        ],
+        "quote": "\"The capacity constraint is easing with margins already above the sustainable range.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY27 Growth",
+            "value": "20-25%",
+            "change": "Guided",
+            "positive": 1
+          },
+          {
+            "label": "New Plant Revenue",
+            "value": "300-400 Cr",
+            "change": "FY27 potential",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Utilization",
+            "value": "74%",
+            "change": "Laminate",
+            "positive": 1
+          },
+          {
+            "label": "Target Margin",
+            "value": "22-24%",
+            "change": "New plant",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Laminate division operated at around 74% capacity utilization in FY26.",
+          "Management highlighted healthy margin performance in Q4.",
+          "Existing plant sales momentum remained strong into April.",
+          "The new plant can materially expand capacity.",
+          "Acrylics and export mix remain important growth drivers."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "20-25%"
+          },
+          {
+            "metric": "FY27 New Plant Revenue",
+            "value": "300-400 Cr"
+          },
+          {
+            "metric": "FY28 Utilization",
+            "value": "Around 80% for new plant targeted"
+          }
+        ],
+        "highlights": [
+          "New plant capacity is more than 100% of existing capacity.",
+          "Initial utilization of 30-40% is expected after ramp-up.",
+          "New plant margin profile is guided around 22-24%.",
+          "Management expects 80% plus utilization of the new plant over time.",
+          "Exports remain a key part of the business mix.",
+          "Growth guidance remains broad due to macro uncertainty."
+        ],
+        "quote": "\"We would be targeting around 80% utilization.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Supreme Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,718 Cr",
+            "change": "+4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Volume",
+            "value": "157,536 MT",
+            "change": "-14% YoY",
+            "positive": 0
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹398 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹208 Cr",
+            "change": "+17% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 4% despite a 14% volume decline",
+          "Operating profit increased 25% to ₹398 Cr",
+          "PAT grew 17% to ₹208 Cr",
+          "Value-added product turnover rose 22% to ₹1,142 Cr",
+          "Polymer volatility caused channel inventory correction"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Volume Growth",
+            "guided": "15-17%",
+            "actual": "Q1 volume declined 14%; guidance retained",
+            "status": "missed"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "14-14.5%",
+            "actual": "Operating profit improved despite volume decline",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Capex",
+            "guided": "Around ₹1,000 Cr",
+            "actual": "Expansion projects continue",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "15-17% retained"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "14-14.5%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹1,000 Cr"
+          }
+        ],
+        "highlights": [
+          "Piping volume declined 15% on inventory correction",
+          "Industrial value sales grew 24%",
+          "Wavin integration and new products broaden the platform",
+          "New facilities are planned in Bihar, Jammu and Malanpur",
+          "Polymer prices stabilised after April volatility",
+          "Internal accruals will fund expansion"
+        ],
+        "quote": "\"Profit held up, but a sharp second-half volume recovery is needed to meet guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Volume",
+            "value": "753,907 MT",
+            "change": "+12%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "11,218 Cr",
+            "change": "+7%",
+            "positive": 1
+          },
+          {
+            "label": "Piping Volume",
+            "value": "+14%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "FY27 Growth",
+            "value": "15-17%",
+            "change": "Anticipated",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 plastic goods volume grew 12% to 753,907 MT.",
+          "FY26 revenue grew 7% to 11,218 Cr.",
+          "Plastic piping volume grew 14% and value grew 11%.",
+          "Packaging volume grew 5% and value grew 3%.",
+          "Consumer products volume grew 4% despite value decline."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth",
+            "value": "15-17%"
+          },
+          {
+            "metric": "Capacity Addition",
+            "value": "1.10 lakh MT"
+          },
+          {
+            "metric": "Piping Capacity",
+            "value": "1.00 lakh MT of addition"
+          }
+        ],
+        "highlights": [
+          "Industrial products volume declined 1%.",
+          "Value-added products remain a key profitability driver.",
+          "Capacity addition is expected to complete in FY27.",
+          "PVC resin volatility impacted demand patterns.",
+          "CPVC business grew strongly during the year.",
+          "Management expects channel inventory to normalize with demand recovery."
+        ],
+        "quote": "\"We anticipate growth of 15% to 17%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Finolex Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹884 Cr",
+            "change": "-15% YoY",
+            "positive": 0
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹107 Cr",
+            "change": "+14% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "12%",
+            "change": "vs 9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹107 Cr",
+            "change": "Q1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue declined to ₹884 Cr from ₹1,043 Cr",
+          "Total volume declined 27% amid weak agricultural demand",
+          "EBITDA improved to ₹107 Cr from ₹94 Cr",
+          "EBITDA margin expanded to 12% from 9%",
+          "PAT stood at around ₹107 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Volume Growth",
+            "guided": "7-8%",
+            "actual": "Q1 volume declined 27%",
+            "status": "missed"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "Below 15% sustainable",
+            "actual": "12%",
+            "status": "met"
+          },
+          {
+            "metric": "Capacity",
+            "guided": "Maintain growth headroom",
+            "actual": "520 KT installed versus 333 KT FY26 volume",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Volume Guidance",
+            "value": "To be reassessed after Q2"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Below 15% sustainable range"
+          },
+          {
+            "metric": "Capacity Expansion",
+            "value": "Debottlenecking and extruder upgrades continue"
+          }
+        ],
+        "highlights": [
+          "Agriculture remained around 70% of pipe mix",
+          "Management expects demand to improve after channel normalisation",
+          "CPVC extrusion capacity is adequate for growth",
+          "Capex plans remain unchanged despite short-term weakness",
+          "Higher realisations supported margin",
+          "The company deferred a full-year volume reset until more visibility emerges"
+        ],
+        "quote": "\"Margins improved, but first-quarter volume was well below the earlier growth plan.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "1,314 Cr",
+            "change": "+12%",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "306 Cr",
+            "change": "+112%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "4,113 Cr",
+            "change": "Flat",
+            "positive": 0
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "679 Cr",
+            "change": "+43%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 revenue grew 12% YoY to 1,314 Cr.",
+          "Q4 PAT rose to 306 Cr from 144 Cr in Q4FY25.",
+          "FY26 revenue was flat at 4,113 Cr.",
+          "FY26 EBITDA grew 43% to 679 Cr.",
+          "FY26 sales volume stood at 332,736 MT versus 347,982 MT last year."
+        ],
+        "guidance": [
+          {
+            "metric": "Volume Growth",
+            "value": "7-8% range expected"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Sub-15% sustainable focus"
+          },
+          {
+            "metric": "Agri Share",
+            "value": "Around 63% in FY26"
+          }
+        ],
+        "highlights": [
+          "Q4 volume stood at 101,772 MT.",
+          "Agri demand was weak in Q4.",
+          "Fittings share improved to 11% of full-year volume.",
+          "EBIT grew 55% to 572 Cr in FY26.",
+          "PVC price movement drove margin volatility.",
+          "Management remains focused on maintaining margins in a dynamic environment."
+        ],
+        "quote": "\"We are trying to maintain our margin sub-15% level.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Shankara Building Products Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "6,826 Cr",
+            "change": "+30%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "228 Cr",
+            "change": "+51%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "128 Cr",
+            "change": "+64%",
+            "positive": 1
+          },
+          {
+            "label": "FY26 ROCE",
+            "value": "36%",
+            "change": "Strong",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 30% YoY to 6,826 Cr.",
+          "Steel marketplace revenue grew 33% YoY to 6,220 Cr.",
+          "Steel volumes grew 32% YoY and crossed 10.16 lakh tonnes.",
+          "FY26 EBITDA grew 51% to 228 Cr, with margin expanding to 3.35%.",
+          "FY26 PAT grew 64% to 128 Cr, despite one-time provisioning."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Steel Volume",
+            "value": "1.2 Mn tonnes targeted"
+          },
+          {
+            "metric": "FY27 Non-Steel Revenue",
+            "value": "750 Cr targeted"
+          },
+          {
+            "metric": "Medium-Term EBITDA Margin",
+            "value": "Around 4% aspiration"
+          }
+        ],
+        "highlights": [
+          "Q4 revenue stood at 1,996 Cr.",
+          "Q4 steel volume stood at 2.89 lakh tonnes, up 19% YoY and 11% QoQ.",
+          "Non-steel revenue stood at 606 Cr in FY26 and 161 Cr in Q4.",
+          "Working capital cycle improved to 25 days.",
+          "E-commerce division grew substantially to 22 Cr in FY26.",
+          "Management plans to add 7-10 fulfilment centers or stores in FY27."
+        ],
+        "quote": "\"We have closed FY26 with a record performance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

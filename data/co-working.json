@@ -13,182 +13,551 @@
     "Wework India Management Ltd"
   ],
   "concall": {
-    "AWFIS Space Solutions Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹1,493 Cr", "change": "+24% YoY", "positive": 1 },
-        { "label": "Op. EBITDA", "value": "₹550 Cr", "change": "+37% YoY", "positive": 1 },
-        { "label": "PAT Before EI", "value": "₹71 Cr", "change": "+66% YoY", "positive": 1 },
-        { "label": "ROCE", "value": "60%+", "change": "Sustained", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,493 Cr (+24% YoY); co-working and allied services revenue stood at ₹1,237 Cr (+35% YoY)",
-        "Operating EBITDA stood at ₹550 Cr (+37% YoY), with operating EBITDA margin of 37%",
-        "PAT before exceptional items stood at ₹71 Cr (+66% YoY)",
-        "Normalized EBITDA stood at ₹213 Cr (+27% YoY), with normalized EBITDA margin of 14%",
-        "Q4FY26 revenue stood at ₹410 Cr (+21% YoY); Q4FY26 PAT stood at ₹23 Cr (+107% YoY)"
-      ],
-      "guidance": [
-        { "metric": "FY27 Co-working & Allied Growth", "value": "25-27%" },
-        { "metric": "FY27 Awfis Transform Growth", "value": "22-25%" },
-        { "metric": "Overall FY27 Revenue Growth", "value": "25-27%" },
-        { "metric": "Transform Mandates Won", "value": "₹130 Cr under delivery for next 6-7 months" }
-      ],
-      "highlights": [
-        "FY26 was a defining year marked by strong execution, enterprise adoption, premiumization and capital discipline",
-        "Awfis is focusing on 5 growth engines: premiumization, multi-format supply, GCC demand, organic growth and adjacencies",
-        "100% of new supply signed in FY26 was in Grade A / A+ assets",
-        "Partial Managed Office model is gaining traction, where 40-70% seats are already anchored at signing stage",
-        "GCC business now has 100+ unique GCC clients across 9 cities and contributes around 23% of rental revenue",
-        "Awfis Transform third-party revenue grew from ₹95 Cr in FY25 to ₹152 Cr in FY26"
-      ],
-      "quote": "\"Awfis is outperforming the sector on capital efficiency, ROCE, GCC traction, premiumization and asset-light managed aggregation model.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "EFC (I) Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹1,037 Cr", "change": "+58% YoY", "positive": 1 },
-        { "label": "EBITDA (FY26)", "value": "₹468 Cr", "change": "+43% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹235 Cr", "change": "+67% YoY", "positive": 1 },
-        { "label": "ROCE", "value": "33%", "change": "vs 30% LY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,037 Cr (+58% YoY); EBITDA stood at ₹468 Cr (+43% YoY)",
-        "FY26 PAT stood at ₹235 Cr (+67% YoY), with PAT margin of 23%",
-        "Q4FY26 revenue stood at ₹293 Cr (+39% YoY); Q4FY26 EBITDA stood at ₹144 Cr (+32% YoY)",
-        "Q4FY26 PAT stood at ₹69 Cr (+45% YoY), with Q4 PAT margin of 24%",
-        "Leasing revenue stood at ₹536 Cr (+44% YoY), Design & Build revenue at ₹438 Cr (+66% YoY), and Furniture revenue at ₹63 Cr (+202% YoY)"
-      ],
-      "outlook": "EFC is positioning itself as an integrated real estate-as-a-service platform across Leasing, Design & Build and Furniture. Working capital efficiency and collections are key priorities for FY27, while Furniture is viewed as margin-accretive backward integration.",
-      "highlights": [
-        "Leasing provides recurring revenue and client stickiness, while Design & Build provides execution capability and growth momentum",
-        "Leasing business has presence across 25 cities and serves 750+ clients across multiple sectors",
-        "Average enterprise client tenure is around 51 months",
-        "Top 10 client contribution reduced to around 24%, showing lower concentration risk",
-        "Design & Build has 80+ designers and engineers, 45+ reputed clients and design footprint around 5.5 mn sq ft",
-        "Furniture business has a 1.2 lakh sq ft manufacturing facility in Pune, 1,500+ SKUs and 60,000+ delivered units"
-      ],
-      "quote": "\"EFC is outperforming the sector on PAT growth, high PAT margin, integrated model, D&B scaling and Furniture-led backward integration.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Indiqube Spaces Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹1,469 Cr", "change": "+37% YoY", "positive": 1 },
-        { "label": "EBITDA", "value": "₹300 Cr+", "change": "+60% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹125 Cr", "change": "+145% YoY", "positive": 1 },
-        { "label": "CFO", "value": "₹304 Cr", "change": "+147% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹1,469 Cr (+37% YoY)",
-        "EBITDA crossed ₹300 Cr (+60% YoY), with EBITDA margin of 21% vs 18% last year",
-        "PAT stood at ₹125 Cr (+145% YoY), with PAT margin of 9% vs 5% last year",
-        "Cash flow from operations stood at ₹304 Cr (+147% YoY)",
-        "Added 1.6 mn sq ft rent-paying area and launched 15 new centers in FY26"
-      ],
-      "guidance": [
-        { "metric": "Annual Area Addition Target", "value": "1.5-2 mn sq ft" },
-        { "metric": "Annual Seat Addition Implied", "value": "33,000-44,000 seats" },
-        { "metric": "Portfolio Occupancy Target", "value": "80-85%" },
-        { "metric": "Mature Center Occupancy Target", "value": "85-90%" },
-        { "metric": "Top-line Growth / EBITDA Margin", "value": "25-30% / 18-21%" }
-      ],
-      "highlights": [
-        "FY26 was a landmark year with record revenue, margin expansion and strong cash generation",
-        "Area under management stood around 9.66 mn sq ft; rent-paying area stood around 7.84 mn sq ft",
-        "Average occupancy for FY26 stood around 84%, while steady-state occupancy improved to 88%",
-        "Value-added services contribution increased to 15% vs 12% last year and is expected to move to 17-18%",
-        "Solar investments are expected to generate ₹22-23 Cr annual savings",
-        "GCC demand remains strong across BFSI, healthcare, logistics, manufacturing and global services"
-      ],
-      "quote": "\"IndiQube is outperforming the sector on revenue growth, PAT growth, margin expansion, solar-led cost savings and VAS scale-up.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Smartworks Coworking Spaces Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "~₹1,800 Cr", "change": "+31% YoY", "positive": 1 },
-        { "label": "Norm. EBITDA", "value": "₹314 Cr", "change": "+75%+ YoY", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "₹520 Cr", "change": "+45% YoY", "positive": 1 },
-        { "label": "ROCE", "value": "16%", "change": "vs 7% LY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood around ₹1,800 Cr (+31% YoY)",
-        "Normalized EBITDA stood at ₹314 Cr (+75%+ YoY), with normalized EBITDA margin of 17.5%",
-        "Q4FY26 revenue stood at ₹520 Cr (+45% YoY and +10% QoQ)",
-        "Q4FY26 normalized EBITDA stood at ₹99 Cr (+71% YoY), with normalized EBITDA margin of 19%",
-        "FY26 was the first full year of Ind AS PAT profitability and net debt turned negative by ₹56 Cr"
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth Guidance", "value": "28-30%" },
-        { "metric": "FY27 Normalized EBITDA Margin", "value": "19-20%" },
-        { "metric": "Operational Area Target", "value": "12.5-13 mn sq ft by Mar 2027" },
-        { "metric": "FY27 Supply Visibility", "value": "100% secured" },
-        { "metric": "FY28 Supply Visibility", "value": "Over 80%" }
-      ],
-      "highlights": [
-        "Company crossed 10 mn sq ft operational area in Q4FY26",
-        "Contracted rental revenue crossed ₹5,200 Cr, with signed annuity-like contracts from large enterprises",
-        "Contracted revenue locks in 82.5% of FY27 revenue",
-        "Enterprise revenue remains above 90% and average tenure is over 44 months",
-        "Overall occupancy stood at 82%, impacted by around 1 mn sq ft new operational area in Q4",
-        "1,000+ seat cohort contributed 37% of rental revenue vs 29% last year"
-      ],
-      "quote": "\"Smartworks is outperforming the sector on contracted revenue visibility, enterprise concentration, operational scale, margin expansion and ROCE improvement.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Wework India Management Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹2,477 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "EBITDA (FY26)", "value": "₹499 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹179-180 Cr", "change": "+134% YoY", "positive": 1 },
-        { "label": "Occupancy", "value": "86.9%", "change": "Portfolio", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹2,477 Cr (+23% YoY), while revenue from operations stood at ₹2,454 Cr (+24% YoY)",
-        "Core operations revenue stood at ₹2,077 Cr (+23% YoY); VAS revenue stood at ₹295 Cr (+36% YoY)",
-        "EBITDA stood at ₹499 Cr (+23% YoY), with EBITDA margin of 20%",
-        "PAT stood at ₹179-180 Cr (+134% YoY)",
-        "Free operating cash stood at ₹586 Cr (+44% YoY); net debt turned negative at ₹12 Cr"
-      ],
-      "guidance": [
-        { "metric": "FY27 Operational Area Target", "value": "10.3-10.4 mn sq ft by FY27-end" },
-        { "metric": "FY27 Desk Capacity Target", "value": "~1.55 lakh desks" },
-        { "metric": "FY27 New Seats Planned", "value": "~28,000 seats" },
-        { "metric": "Visible Seats Over 18 Months", "value": "~46,000 seats" },
-        { "metric": "Occupancy Goal", "value": "Above 85% while adding capacity" }
-      ],
-      "highlights": [
-        "FY26 was the strongest year in WeWork India's history across occupancy, revenue, EBITDA, PAT and cash",
-        "Company has 76 centers, 8.6 mn sq ft operational area and 11.6 mn sq ft AUM",
-        "Portfolio occupancy improved from 76.8% to 86.9%, while mature center occupancy stood at 88.9%",
-        "FY26 desk sales stood close to 48,000 desks, equivalent to 3.3 mn sq ft leasing",
-        "77% of core revenue comes from enterprises and 65% comes from global members headquartered outside India",
-        "FY27 opens with ₹1,885 Cr of core revenue already locked in"
-      ],
-      "quote": "\"WeWork India is outperforming the sector on occupancy, cash generation, enterprise mix, pricing power, net cash position and ROCE.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "AWFIS Space Solutions Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹425 Cr", "change": "+27% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹162 Cr", "change": "+28% YoY", "positive": 1 },
+          { "label": "Cash EBITDA", "value": "₹44 Cr", "change": "+34% YoY", "positive": 1 },
+          { "label": "ROCE", "value": "55%", "change": "Sustained", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue grew 27% YoY to ₹425 Cr; normalized revenue grew 35% to ₹437 Cr",
+          "Reported EBITDA rose 28% YoY to ₹162 Cr, while cash EBITDA increased 34% to ₹44 Cr",
+          "Co-working and Allied Services revenue grew 27% to ₹352 Cr",
+          "Awfis Transform revenue grew 25% to ₹73 Cr and operating PBT rose 135% to ₹24 Cr",
+          "The company sustained 55% ROCE and remained net cash with net debt-to-equity of -0.08x"
+        ],
+        "guidanceTracking": [
+          { "metric": "Co-working & Allied Growth", "guided": "25-27%", "actual": "27% YoY in Q1FY27", "status": "met" },
+          { "metric": "Awfis Transform Growth", "guided": "22-25%", "actual": "25% YoY in Q1FY27", "status": "met" },
+          { "metric": "Overall Revenue Growth", "guided": "25-27%", "actual": "27% YoY in Q1FY27", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Revenue", "value": "Above ₹1,800 Cr" },
+          { "metric": "FY27 Co-working Growth", "value": "23-25%" },
+          { "metric": "FY27 Transform Growth", "value": "Around 20%" },
+          { "metric": "FY27 Gross Seat Addition", "value": "22,000-25,000 seats" },
+          { "metric": "FY27 Cash EBITDA", "value": "₹190-200 Cr" },
+          { "metric": "FY27 Capex", "value": "₹200-210 Cr" }
+        ],
+        "highlights": [
+          "The network reached 242 operating centers and 159,000 operational seats, with total signed supply above 185,000 seats",
+          "Awfis sold 13,000 seats in Q1 and remains on course to meet its full-year supply plan",
+          "More than 100 GCC clients contributed 24% of rental revenue across nine cities",
+          "Premium Gold and Elite centers reached 37, supporting better pricing and longer client tenures",
+          "Overall occupancy held at 76% despite a one-off 3,000-seat enterprise consolidation; mature-center occupancy was 83%",
+          "About 80% of external Design & Build revenue comes from clients first acquired through the flex portfolio"
+        ],
+        "quote": "\"We remain on track to add 22,000 to 25,000 seats and take overall revenue past ₹1,800 crores for the full year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,493 Cr",
+            "change": "+24% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Op. EBITDA",
+            "value": "₹550 Cr",
+            "change": "+37% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT Before EI",
+            "value": "₹71 Cr",
+            "change": "+66% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROCE",
+            "value": "60%+",
+            "change": "Sustained",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,493 Cr (+24% YoY); co-working and allied services revenue stood at ₹1,237 Cr (+35% YoY)",
+          "Operating EBITDA stood at ₹550 Cr (+37% YoY), with operating EBITDA margin of 37%",
+          "PAT before exceptional items stood at ₹71 Cr (+66% YoY)",
+          "Normalized EBITDA stood at ₹213 Cr (+27% YoY), with normalized EBITDA margin of 14%",
+          "Q4FY26 revenue stood at ₹410 Cr (+21% YoY); Q4FY26 PAT stood at ₹23 Cr (+107% YoY)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Co-working & Allied Growth",
+            "value": "25-27%"
+          },
+          {
+            "metric": "FY27 Awfis Transform Growth",
+            "value": "22-25%"
+          },
+          {
+            "metric": "Overall FY27 Revenue Growth",
+            "value": "25-27%"
+          },
+          {
+            "metric": "Transform Mandates Won",
+            "value": "₹130 Cr under delivery for next 6-7 months"
+          }
+        ],
+        "highlights": [
+          "FY26 was a defining year marked by strong execution, enterprise adoption, premiumization and capital discipline",
+          "Awfis is focusing on 5 growth engines: premiumization, multi-format supply, GCC demand, organic growth and adjacencies",
+          "100% of new supply signed in FY26 was in Grade A / A+ assets",
+          "Partial Managed Office model is gaining traction, where 40-70% seats are already anchored at signing stage",
+          "GCC business now has 100+ unique GCC clients across 9 cities and contributes around 23% of rental revenue",
+          "Awfis Transform third-party revenue grew from ₹95 Cr in FY25 to ₹152 Cr in FY26"
+        ],
+        "quote": "\"Awfis is outperforming the sector on capital efficiency, ROCE, GCC traction, premiumization and asset-light managed aggregation model.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "EFC (I) Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹283 Cr", "change": "+29% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹123 Cr", "change": "+20% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹70.9 Cr", "change": "+52% YoY", "positive": 1 },
+          { "label": "PAT Margin", "value": "25.1%", "change": "vs 21.3%", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue from operations grew 29% YoY to ₹282.9 Cr",
+          "EBITDA increased 20% to ₹123 Cr with EBITDA margin of 43.5%",
+          "PAT rose 52% to ₹70.9 Cr and PAT margin expanded to 25.1% from 21.3%",
+          "Leasing revenue grew 26% to ₹153.9 Cr, supported by 68,000-plus billed seats",
+          "Furniture revenue increased 124% YoY to ₹28.6 Cr, while Design & Build revenue was ₹100.4 Cr"
+        ],
+        "guidance": [
+          { "metric": "FY27 Billable Seat Addition", "value": "18,000-20,000 seats" },
+          { "metric": "FY27 Design & Build Growth", "value": "Around 50% YoY" },
+          { "metric": "FY27 Furniture Growth", "value": "Around 50% YoY" },
+          { "metric": "Furniture EBITDA Margin", "value": "Above 25% at optimal utilization" }
+        ],
+        "highlights": [
+          "The managed workspace platform spans 25 cities, more than 84,000 seats and over 780 clients",
+          "Design & Build order book increased to more than ₹228 Cr, providing healthy execution visibility",
+          "Furniture order book exceeded ₹53 Cr and the catalog expanded beyond 2,200 SKUs",
+          "Enterprise, GCC, BFSI, technology and consulting clients continue to drive demand",
+          "The integrated Leasing, Design & Build and Furniture model is improving cross-selling and execution control",
+          "Management remains focused on collections, working capital discipline and asset utilization while scaling"
+        ],
+        "quote": "\"We are absolutely confident on achieving the targets that we have set for ourselves for this financial year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,037 Cr",
+            "change": "+58% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹468 Cr",
+            "change": "+43% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹235 Cr",
+            "change": "+67% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROCE",
+            "value": "33%",
+            "change": "vs 30% LY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,037 Cr (+58% YoY); EBITDA stood at ₹468 Cr (+43% YoY)",
+          "FY26 PAT stood at ₹235 Cr (+67% YoY), with PAT margin of 23%",
+          "Q4FY26 revenue stood at ₹293 Cr (+39% YoY); Q4FY26 EBITDA stood at ₹144 Cr (+32% YoY)",
+          "Q4FY26 PAT stood at ₹69 Cr (+45% YoY), with Q4 PAT margin of 24%",
+          "Leasing revenue stood at ₹536 Cr (+44% YoY), Design & Build revenue at ₹438 Cr (+66% YoY), and Furniture revenue at ₹63 Cr (+202% YoY)"
+        ],
+        "outlook": "EFC is positioning itself as an integrated real estate-as-a-service platform across Leasing, Design & Build and Furniture. Working capital efficiency and collections are key priorities for FY27, while Furniture is viewed as margin-accretive backward integration.",
+        "highlights": [
+          "Leasing provides recurring revenue and client stickiness, while Design & Build provides execution capability and growth momentum",
+          "Leasing business has presence across 25 cities and serves 750+ clients across multiple sectors",
+          "Average enterprise client tenure is around 51 months",
+          "Top 10 client contribution reduced to around 24%, showing lower concentration risk",
+          "Design & Build has 80+ designers and engineers, 45+ reputed clients and design footprint around 5.5 mn sq ft",
+          "Furniture business has a 1.2 lakh sq ft manufacturing facility in Pune, 1,500+ SKUs and 60,000+ delivered units"
+        ],
+        "quote": "\"EFC is outperforming the sector on PAT growth, high PAT margin, integrated model, D&B scaling and Furniture-led backward integration.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Indiqube Spaces Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹428 Cr", "change": "+37% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹87 Cr", "change": "+34% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹35 Cr", "change": "+91% YoY", "positive": 1 },
+          { "label": "EBITDA Margin", "value": "20%", "change": "Healthy", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "IndiQube recorded its highest quarterly revenue of ₹428 Cr, up 37% YoY",
+          "EBITDA grew 34% to ₹87 Cr and EBITDA margin remained healthy at 20%",
+          "PAT increased 91% to ₹35 Cr, with PAT margin expanding to 8% from 6%",
+          "EBIT rose 59% to ₹55 Cr and EBIT margin improved to 13% from 11%",
+          "The platform served 855 clients, with GCCs contributing 53% of quarterly revenue"
+        ],
+        "guidanceTracking": [
+          { "metric": "Top-line Growth", "guided": "25-30%", "actual": "37% YoY in Q1FY27", "status": "exceeded" },
+          { "metric": "EBITDA Margin", "guided": "18-21%", "actual": "20% in Q1FY27", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Annual Rent-paying Area Addition", "value": "Close to 2 mn sq ft" },
+          { "metric": "Portfolio Occupancy", "value": "80-85%" },
+          { "metric": "Mature Center Occupancy", "value": "85-90%" },
+          { "metric": "EBIT Margin", "value": "11-13% annually" },
+          { "metric": "PAT Margin", "value": "8-10% annually" }
+        ],
+        "highlights": [
+          "Area under management stood at 10.61 mn sq ft, including 7.8 mn sq ft of rent-paying area",
+          "The signed pipeline provides 3.9 mn sq ft of headroom, fully covering the annual addition plan",
+          "Value-added services reached around 17% of revenue and are expected to rise over time",
+          "Nearly 30 MW of solar capacity is operational, with project IRRs of about 18-22%",
+          "Multi-center clients contributed 41% of revenue and customer renewal rates remained around 90%",
+          "New centers typically break even within five to six months and reach around 90% occupancy within 9-12 months"
+        ],
+        "quote": "\"On an overall annual basis we would be as per our guidance, and we are seeing no slowing here.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹1,469 Cr",
+            "change": "+37% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹300 Cr+",
+            "change": "+60% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹125 Cr",
+            "change": "+145% YoY",
+            "positive": 1
+          },
+          {
+            "label": "CFO",
+            "value": "₹304 Cr",
+            "change": "+147% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹1,469 Cr (+37% YoY)",
+          "EBITDA crossed ₹300 Cr (+60% YoY), with EBITDA margin of 21% vs 18% last year",
+          "PAT stood at ₹125 Cr (+145% YoY), with PAT margin of 9% vs 5% last year",
+          "Cash flow from operations stood at ₹304 Cr (+147% YoY)",
+          "Added 1.6 mn sq ft rent-paying area and launched 15 new centers in FY26"
+        ],
+        "guidance": [
+          {
+            "metric": "Annual Area Addition Target",
+            "value": "1.5-2 mn sq ft"
+          },
+          {
+            "metric": "Annual Seat Addition Implied",
+            "value": "33,000-44,000 seats"
+          },
+          {
+            "metric": "Portfolio Occupancy Target",
+            "value": "80-85%"
+          },
+          {
+            "metric": "Mature Center Occupancy Target",
+            "value": "85-90%"
+          },
+          {
+            "metric": "Top-line Growth / EBITDA Margin",
+            "value": "25-30% / 18-21%"
+          }
+        ],
+        "highlights": [
+          "FY26 was a landmark year with record revenue, margin expansion and strong cash generation",
+          "Area under management stood around 9.66 mn sq ft; rent-paying area stood around 7.84 mn sq ft",
+          "Average occupancy for FY26 stood around 84%, while steady-state occupancy improved to 88%",
+          "Value-added services contribution increased to 15% vs 12% last year and is expected to move to 17-18%",
+          "Solar investments are expected to generate ₹22-23 Cr annual savings",
+          "GCC demand remains strong across BFSI, healthcare, logistics, manufacturing and global services"
+        ],
+        "quote": "\"IndiQube is outperforming the sector on revenue growth, PAT growth, margin expansion, solar-led cost savings and VAS scale-up.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Smartworks Coworking Spaces Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹546 Cr", "change": "+44% YoY", "positive": 1 },
+          { "label": "Norm. EBITDA", "value": "₹107 Cr", "change": "+74% YoY", "positive": 1 },
+          { "label": "Norm. PAT", "value": "₹39 Cr", "change": "Nearly 3x YoY", "positive": 1 },
+          { "label": "EBITDA Margin", "value": "19.6%", "change": "vs 16.2%", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue grew 44% YoY and 5% QoQ to ₹546 Cr",
+          "Normalized EBITDA increased 74% YoY and 8% QoQ to ₹107 Cr",
+          "Normalized EBITDA margin expanded to 19.6% from 16.2% a year ago",
+          "Normalized PAT nearly tripled to ₹39 Cr and rose 11% sequentially",
+          "Normalized operating cash flow was ₹95 Cr, equal to 0.9x EBITDA"
+        ],
+        "guidanceTracking": [
+          { "metric": "Revenue Growth", "guided": "28-30%", "actual": "44% YoY in Q1FY27", "status": "exceeded" },
+          { "metric": "Normalized EBITDA Margin", "guided": "19-20%", "actual": "19.6% in Q1FY27", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Revenue Growth", "value": "28-30%" },
+          { "metric": "FY27 Normalized EBITDA Margin", "value": "19-20%" },
+          { "metric": "Operational Footprint", "value": "Above 13 mn sq ft by Mar 2027" },
+          { "metric": "FY27 Area Addition", "value": "2.5-3 mn sq ft" }
+        ],
+        "highlights": [
+          "Committed contracted revenue reached about ₹5,400 Cr, covering 87% of FY27 revenue",
+          "Operational area stood at 10.4 mn sq ft, with mature-center committed occupancy around 92%",
+          "GCC contribution increased to 21% of revenue from 15% in FY26",
+          "Clients taking more than 1,000 seats contributed over 41% of revenue, up from 37%",
+          "Another 3 mn sq ft is scheduled to become operational over nine months, including Eastbridge and Eastside",
+          "ROCE held at 21.5% through the heaviest investment quarter in the company’s history"
+        ],
+        "quote": "\"We reaffirm our guidance of 28% to 30% revenue growth and normalized EBITDA margins between 19% to 20%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Jul 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "~₹1,800 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Norm. EBITDA",
+            "value": "₹314 Cr",
+            "change": "+75%+ YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "₹520 Cr",
+            "change": "+45% YoY",
+            "positive": 1
+          },
+          {
+            "label": "ROCE",
+            "value": "16%",
+            "change": "vs 7% LY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood around ₹1,800 Cr (+31% YoY)",
+          "Normalized EBITDA stood at ₹314 Cr (+75%+ YoY), with normalized EBITDA margin of 17.5%",
+          "Q4FY26 revenue stood at ₹520 Cr (+45% YoY and +10% QoQ)",
+          "Q4FY26 normalized EBITDA stood at ₹99 Cr (+71% YoY), with normalized EBITDA margin of 19%",
+          "FY26 was the first full year of Ind AS PAT profitability and net debt turned negative by ₹56 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth Guidance",
+            "value": "28-30%"
+          },
+          {
+            "metric": "FY27 Normalized EBITDA Margin",
+            "value": "19-20%"
+          },
+          {
+            "metric": "Operational Area Target",
+            "value": "12.5-13 mn sq ft by Mar 2027"
+          },
+          {
+            "metric": "FY27 Supply Visibility",
+            "value": "100% secured"
+          },
+          {
+            "metric": "FY28 Supply Visibility",
+            "value": "Over 80%"
+          }
+        ],
+        "highlights": [
+          "Company crossed 10 mn sq ft operational area in Q4FY26",
+          "Contracted rental revenue crossed ₹5,200 Cr, with signed annuity-like contracts from large enterprises",
+          "Contracted revenue locks in 82.5% of FY27 revenue",
+          "Enterprise revenue remains above 90% and average tenure is over 44 months",
+          "Overall occupancy stood at 82%, impacted by around 1 mn sq ft new operational area in Q4",
+          "1,000+ seat cohort contributed 37% of rental revenue vs 29% last year"
+        ],
+        "quote": "\"Smartworks is outperforming the sector on contracted revenue visibility, enterprise concentration, operational scale, margin expansion and ROCE improvement.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Wework India Management Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹698 Cr", "change": "+28.5% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹138.3 Cr", "change": "+69% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹53.2 Cr", "change": "6.5x YoY", "positive": 1 },
+          { "label": "Occupancy", "value": "84.9%", "change": "vs 76.5%", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Q1FY27 revenue grew 28.5% YoY to ₹698 Cr, with core workspace revenue up 30% to ₹603 Cr",
+          "EBITDA rose 69% to ₹138.3 Cr and margin expanded to 19.8% from 15%",
+          "PAT increased to ₹53.2 Cr from ₹8.4 Cr and PAT margin improved to 7.6%",
+          "Free cash from operations grew 176% to ₹141.9 Cr despite ₹188 Cr of growth capex",
+          "ROCE rose to 28.6% from 9.1%, while net debt declined 89% to ₹31.6 Cr"
+        ],
+        "guidanceTracking": [
+          { "metric": "Revenue Growth", "guided": "Above 20%", "actual": "28.5% YoY in Q1FY27", "status": "exceeded" },
+          { "metric": "EBITDA Growth", "guided": "Above 20%", "actual": "69% YoY in Q1FY27", "status": "exceeded" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Operating Area", "value": "Around 10.3 mn sq ft" },
+          { "metric": "FY27 Desk Capacity", "value": "Around 155,000 desks" },
+          { "metric": "FY27 Capex", "value": "₹500-600 Cr" },
+          { "metric": "FY27 EBITDA Growth", "value": "20%+" },
+          { "metric": "EBITDA Margin", "value": "19-20% through expansion" }
+        ],
+        "highlights": [
+          "Operating footprint reached 9.1 mn sq ft, with total contracted capacity of about 12 mn sq ft and 179,000 desks",
+          "Locked-in future revenue increased 60% to ₹3,363 Cr, twice the growth in contracted rent obligations",
+          "The company sold 12,700 desks in Q1, up 28%, with 52% sold to existing members",
+          "Enterprise members contributed 77% of revenue and global companies contributed 65%",
+          "Growth-center occupancy improved to 65% from 45%, while mature centers operated at 87.5%",
+          "Member Services launched in July to monetize admin, IT, HR and GCC support needs across the member base"
+        ],
+        "quote": "\"We will definitely meet the guidance of 20% plus revenue and EBITDA growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Jul 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹2,477 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹499 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹179-180 Cr",
+            "change": "+134% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Occupancy",
+            "value": "86.9%",
+            "change": "Portfolio",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹2,477 Cr (+23% YoY), while revenue from operations stood at ₹2,454 Cr (+24% YoY)",
+          "Core operations revenue stood at ₹2,077 Cr (+23% YoY); VAS revenue stood at ₹295 Cr (+36% YoY)",
+          "EBITDA stood at ₹499 Cr (+23% YoY), with EBITDA margin of 20%",
+          "PAT stood at ₹179-180 Cr (+134% YoY)",
+          "Free operating cash stood at ₹586 Cr (+44% YoY); net debt turned negative at ₹12 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Operational Area Target",
+            "value": "10.3-10.4 mn sq ft by FY27-end"
+          },
+          {
+            "metric": "FY27 Desk Capacity Target",
+            "value": "~1.55 lakh desks"
+          },
+          {
+            "metric": "FY27 New Seats Planned",
+            "value": "~28,000 seats"
+          },
+          {
+            "metric": "Visible Seats Over 18 Months",
+            "value": "~46,000 seats"
+          },
+          {
+            "metric": "Occupancy Goal",
+            "value": "Above 85% while adding capacity"
+          }
+        ],
+        "highlights": [
+          "FY26 was the strongest year in WeWork India's history across occupancy, revenue, EBITDA, PAT and cash",
+          "Company has 76 centers, 8.6 mn sq ft operational area and 11.6 mn sq ft AUM",
+          "Portfolio occupancy improved from 76.8% to 86.9%, while mature center occupancy stood at 88.9%",
+          "FY26 desk sales stood close to 48,000 desks, equivalent to 3.3 mn sq ft leasing",
+          "77% of core revenue comes from enterprises and 65% comes from global members headquartered outside India",
+          "FY27 opens with ₹1,885 Cr of core revenue already locked in"
+        ],
+        "quote": "\"WeWork India is outperforming the sector on occupancy, cash generation, enterprise mix, pricing power, net cash position and ROCE.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

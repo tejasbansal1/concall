@@ -13,187 +13,531 @@
     "Muthoot Finance Ltd"
   ],
   "concall": {
-    "Capri Global Capital Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "AUM (FY26)", "value": "₹36,623 Cr", "change": "+60% YoY", "positive": 1 },
-        { "label": "NII (FY26)", "value": "₹1,998 Cr", "change": "+50% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹949 Cr", "change": "+98% YoY", "positive": 1 },
-        { "label": "Gold Loan AUM", "value": "₹16,965 Cr", "change": "+111% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 AUM stood at ₹36,623 Cr (+60% YoY); FY26 NII stood at ₹1,998 Cr (+50% YoY)",
-        "FY26 PAT stood at ₹949 Cr (+98% YoY)",
-        "Q4FY26 disbursement stood at ₹18,145 Cr (+116% YoY); Q4FY26 NII stood at ₹596 Cr (+56% YoY)",
-        "Q4FY26 PAT stood at ₹283 Cr (+59% YoY)",
-        "FY26 ROA stood at 3.5% and ROE stood at 16.5%; Gross Stage 3 improved to 0.9%, while Net Stage 3 stood at 0.5%"
-      ],
-      "guidance": [
-        { "metric": "FY27 AUM Guidance", "value": "₹46,000 Cr" },
-        { "metric": "FY28 AUM Guidance", "value": "₹57,000 Cr" },
-        { "metric": "FY27 PAT Guidance", "value": "~₹1,300 Cr" },
-        { "metric": "FY27 ROA Target", "value": "~4%" },
-        { "metric": "FY27 Gold Branch Additions", "value": "~350 branches" }
-      ],
-      "highlights": [
-        "Gold loan AUM stood at ₹16,965 Cr, up 111% YoY and 33% QoQ",
-        "Gold loan mix stood around 46% of AUM and management expects it to move closer to 50%",
-        "Branch network stood at 1,429 branches after adding 318 branches in FY26",
-        "Company added 98 branches in Q4FY26, including 89 gold loan branches",
-        "Gold loan branch productivity improved from ₹14 Cr to ₹17 Cr per branch; 90% of gold loan branches are above breakeven AUM of ₹5 Cr per branch",
-        "Gold loan GNPA stood at 0.3%, among the best in the industry",
-        "Co-lending AUM stood at ₹7,783 Cr, up 91% YoY and around 21% of total AUM"
-      ],
-      "quote": "\"Capri is outperforming the sector on AUM growth, PAT growth, gold loan scale-up and operating leverage.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Fedbank Financial Services Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "AUM (FY26)", "value": "₹20,153 Cr", "change": "+28% YoY", "positive": 1 },
-        { "label": "Disbursement (FY26)", "value": "₹31,410 Cr", "change": "+67% YoY", "positive": 1 },
-        { "label": "NII (FY26)", "value": "₹1,230 Cr", "change": "+15% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹344 Cr", "change": "+53% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 AUM stood at ₹20,153 Cr (+28% YoY); AUM excluding business loans grew 41% YoY",
-        "FY26 disbursement stood at ₹31,410 Cr (+67% YoY); Q4FY26 disbursement stood at ₹11,665 Cr (+109% YoY)",
-        "FY26 NII stood at ₹1,230 Cr (+15% YoY); Q4FY26 NII stood at ₹349 Cr (+23% YoY)",
-        "FY26 PAT stood at ₹344 Cr (+53% YoY); Q4FY26 PAT stood at ₹101 Cr (+40% YoY)",
-        "FY26 ROA stood at 2.4% and ROE stood at 12.6%; Q4FY26 ROA stood at 2.6% and ROE stood at 14%"
-      ],
-      "guidance": [
-        { "metric": "Overall AUM Growth Guidance", "value": "20-25%" },
-        { "metric": "Gold Loan AUM Growth", "value": "20-22% even with flat gold prices" },
-        { "metric": "Credit Cost Expectation", "value": "~1% +/- 10 bps" },
-        { "metric": "Strategic Focus", "value": "Gold loans and LAP twin-engine strategy" }
-      ],
-      "highlights": [
-        "Gold loan AUM crossed ₹10,000 Cr and stood at ₹10,352 Cr, up 76% YoY",
-        "Gold loans now contribute around 51% of total AUM; gold tonnage grew 12% YoY to 12.6 tons",
-        "Mortgage AUM stood at ₹9,362 Cr, up 16% YoY; doorstep gold loan AUM stood at ₹1,730 Cr, up 108% YoY",
-        "Branch network stood at 757 branches across 17 states and UTs after adding 148 branches in FY26",
-        "Company assigned and derecognized ₹886 Cr business loan portfolio, reducing unsecured exposure",
-        "Secured on-book ratio now stands above 99.5%; Gross Stage 3 stood at 1.9%, while Net Stage 3 stood at 1.3%"
-      ],
-      "quote": "\"Fedbank is outperforming the sector on gold loan growth, secured portfolio shift and PAT growth, but LAP execution remains a key monitorable.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "IIFL Finance Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Loan AUM (FY26)", "value": "₹1,08,180 Cr", "change": "+38% YoY", "positive": 1 },
-        { "label": "Total Income (FY26)", "value": "₹7,626 Cr", "change": "+38% YoY", "positive": 1 },
-        { "label": "PAT Pre-NCI (FY26)", "value": "₹1,817 Cr", "change": "+214% YoY", "positive": 1 },
-        { "label": "Gold Loan AUM", "value": "₹52,581 Cr", "change": "+150% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Loan AUM stood at ₹1,08,180 Cr (+38% YoY and +10% QoQ)",
-        "FY26 total income stood at ₹7,626 Cr (+38% YoY); Q4FY26 total income stood at ₹2,090 Cr (+51% YoY)",
-        "FY26 PAT pre-NCI stood at ₹1,817 Cr (+214% YoY)",
-        "Q4FY26 PAT pre-NCI stood at ₹623 Cr (+148% YoY and +24% QoQ)",
-        "Q4FY26 PPOP stood at ₹1,173 Cr (+80% YoY); Q4FY26 ROA stood at 3% and ROE stood at 18%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Gold Loan AUM Growth", "value": "20-25% assuming stable gold prices" },
-        { "metric": "Housing Finance AUM Growth", "value": "18-20%" },
-        { "metric": "Housing Finance Disbursement Growth", "value": "25-27%" },
-        { "metric": "FY27 Credit Cost Expectation", "value": "1.5-1.7%" },
-        { "metric": "Off-Book AUM Target", "value": "40-45% of total AUM" }
-      ],
-      "highlights": [
-        "Management said the company is now anchored on secured lending, co-lending/off-book growth and an AI-led operating model",
-        "Gold loan AUM stood at ₹52,581 Cr, up 150% YoY and 21% QoQ",
-        "Gold loan book forms around 91% of standalone AUM; gold tonnage stood around 60 MT and LTV stood at 63%",
-        "Core product AUM stood at ₹1,04,198 Cr and formed around 96% of total AUM",
-        "Assigned loan book stood at ₹23,704 Cr, up 85% YoY; co-lending book stood at ₹14,384 Cr, up 36% YoY",
-        "Gross NPA stood at 1.5%, Net NPA stood at 0.7% and provision coverage stood at 93%"
-      ],
-      "quote": "\"IIFL is outperforming the sector on gold loan rebound, AUM growth, PAT recovery and co-lending scale-up.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Manappuram Finance Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Consol. AUM (FY26)", "value": "₹63,798 Cr", "change": "+48% YoY", "positive": 1 },
-        { "label": "Revenue (FY26)", "value": "₹9,509 Cr", "change": "Operations", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹993 Cr", "change": "Consolidated", "positive": 1 },
-        { "label": "Gold Loan AUM", "value": "₹50,953 Cr", "change": "+99% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated AUM stood at ₹63,798 Cr (+48% YoY); standalone AUM stood at ₹55,952 Cr (+69% YoY)",
-        "Consolidated revenue from operations stood at ₹9,509 Cr; Q4FY26 revenue from operations stood at ₹2,614 Cr (+11% YoY and +11% QoQ)",
-        "Q4FY26 PAT stood at ₹405 Cr vs loss in Q4FY25; FY26 PAT stood at ₹993 Cr",
-        "Q4FY26 ROA stood at 2.8% and ROE stood at 12.3%; FY26 ROA stood at 2% and ROE stood at 7.7%",
-        "Standalone PAT stood at ₹1,525 Cr; capital adequacy stood at 21.3%"
-      ],
-      "guidance": [
-        { "metric": "FY27 Gold Branch Additions", "value": "500-550 branches" },
-        { "metric": "FY27 Gold Loan Volume Growth", "value": "Expected to be better than FY26" },
-        { "metric": "ROE Target", "value": ">15% over next 2 years" },
-        { "metric": "MFI Outlook", "value": "Gradual improvement in asset quality and collections" }
-      ],
-      "highlights": [
-        "Gold loan remained the core growth driver in Q4FY26",
-        "Consolidated gold loan AUM stood at ₹50,953 Cr, up 99% YoY and 32% QoQ",
-        "Gold loans formed 80% of consolidated AUM vs 59% last year; standalone gold loan AUM stood at ₹48,814 Cr, up 98% YoY",
-        "Gold loan LTV remained stable at 57%; gold tonnage stood at around 63 MT",
-        "New gold loan regulations allow the company to launch consumption loans and income-generating loans",
-        "Microfinance remains in recovery phase, but management expects gradual improvement in asset quality and collections"
-      ],
-      "quote": "\"Manappuram is outperforming the sector on gold loan AUM growth, but consolidated profitability is still impacted by MFI and non-gold stress.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Muthoot Finance Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Consol. AUM (FY26)", "value": "₹1,81,916 Cr", "change": "+49% YoY", "positive": 1 },
-        { "label": "Gold Loan AUM", "value": "₹1,65,000 Cr", "change": "+54% YoY", "positive": 1 },
-        { "label": "Standalone PAT", "value": "₹10,134 Cr", "change": "+95% YoY", "positive": 1 },
-        { "label": "Consol. PAT", "value": "₹10,607 Cr", "change": "+98% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Consolidated AUM stood at ₹1,81,916 Cr (+49% YoY)",
-        "Consolidated gold loan AUM stood at ₹1,65,000 Cr (+54% YoY)",
-        "Standalone loan book stood at ₹1,64,000 Cr",
-        "Standalone PAT stood at ₹10,134 Cr (+95% YoY); consolidated PAT stood at ₹10,607 Cr (+98% YoY)",
-        "Dividend declared stood at ₹30 per share; group opened 177 branches during FY26"
-      ],
-      "guidance": [
-        { "metric": "Standalone AUM Growth Guidance", "value": "15% at start of year" },
-        { "metric": "FY27 Muthoot Branch Additions", "value": "200-300 branches" },
-        { "metric": "Belstar Gold Branch Additions", "value": "~200 branches" },
-        { "metric": "Profit Growth View", "value": "Should follow AUM growth" }
-      ],
-      "highlights": [
-        "Management highlighted that FY26 saw the highest-ever consolidated gold loan AUM",
-        "Consolidated gold loan AUM increased by ₹57,000 Cr during FY26",
-        "Muthoot remains the largest gold loan franchise in India",
-        "India still has around 25,000-30,000 tons of household gold, giving long-term growth runway for gold loans",
-        "Muthoot Money gold loan AUM stood at ₹9,794 Cr, up 151% YoY; customer base increased from 2.74 lakh to 4.6 lakh",
-        "Average gold loan LTV stood around 57%"
-      ],
-      "quote": "\"Muthoot is outperforming the sector on scale, profitability, balance sheet strength and gold loan franchise depth.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Capri Global Capital Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "AUM", "value": "₹40,112 Cr", "change": "+62% YoY", "positive": 1 },
+          { "label": "Gold Loan AUM", "value": "₹19,179 Cr", "change": "+111% YoY", "positive": 1 },
+          { "label": "NII", "value": "₹736 Cr", "change": "+79% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹353 Cr", "change": "+102% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM grew 62% YoY and 10% QoQ to ₹40,112 Cr",
+          "Gold loan AUM rose 111% YoY and 13% QoQ to ₹19,179 Cr despite lower gold prices",
+          "Q1 disbursements increased 31% YoY to ₹11,114 Cr",
+          "NII grew 79% to ₹736 Cr and pre-provision profit increased 71% to ₹532 Cr",
+          "PAT reached a record ₹353 Cr, up 102%, with ROA of 4.1% and ROE of 19.1%"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 AUM", "guided": "₹46,000-47,000 Cr", "actual": "₹40,112 Cr in Q1; target raised to ₹50,000 Cr", "status": "partial" },
+          { "metric": "ROA", "guided": "Around 4%", "actual": "4.1% in Q1FY27", "status": "met" },
+          { "metric": "Gold Branch Additions", "guided": "Around 350", "actual": "Target raised to 400; rollout begins in Q2", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 AUM", "value": "₹50,000 Cr" },
+          { "metric": "FY28 AUM", "value": "₹65,000 Cr" },
+          { "metric": "FY27 Branch Additions", "value": "400 by December 2026" },
+          { "metric": "Medium-term ROA", "value": "4.2-4.7% by FY28" },
+          { "metric": "Medium-term ROE", "value": "19-21% by FY28" }
+        ],
+        "highlights": [
+          "Gold branch productivity improved to ₹19 Cr AUM per branch from ₹17 Cr in Q4",
+          "MSME AUM grew 24% to ₹6,779 Cr and housing AUM grew 42% to ₹7,815 Cr",
+          "Construction finance AUM increased 40% to ₹6,332 Cr across 291 active projects",
+          "Co-lending and direct-assignment AUM rose 74% to ₹8,126 Cr, or 20% of total AUM",
+          "Cost-to-income improved sharply to 44.2% from 49.4% in Q4",
+          "Gold loan GNPA remained low at 0.3%, while the customer base crossed 7.6 lakh"
+        ],
+        "quote": "\"For FY27, we are on course to achieve ₹50,000 crores and by FY28, ₹65,000 crores.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Jul 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM (FY26)",
+            "value": "₹36,623 Cr",
+            "change": "+60% YoY",
+            "positive": 1
+          },
+          {
+            "label": "NII (FY26)",
+            "value": "₹1,998 Cr",
+            "change": "+50% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹949 Cr",
+            "change": "+98% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gold Loan AUM",
+            "value": "₹16,965 Cr",
+            "change": "+111% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 AUM stood at ₹36,623 Cr (+60% YoY); FY26 NII stood at ₹1,998 Cr (+50% YoY)",
+          "FY26 PAT stood at ₹949 Cr (+98% YoY)",
+          "Q4FY26 disbursement stood at ₹18,145 Cr (+116% YoY); Q4FY26 NII stood at ₹596 Cr (+56% YoY)",
+          "Q4FY26 PAT stood at ₹283 Cr (+59% YoY)",
+          "FY26 ROA stood at 3.5% and ROE stood at 16.5%; Gross Stage 3 improved to 0.9%, while Net Stage 3 stood at 0.5%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM Guidance",
+            "value": "₹46,000 Cr"
+          },
+          {
+            "metric": "FY28 AUM Guidance",
+            "value": "₹57,000 Cr"
+          },
+          {
+            "metric": "FY27 PAT Guidance",
+            "value": "~₹1,300 Cr"
+          },
+          {
+            "metric": "FY27 ROA Target",
+            "value": "~4%"
+          },
+          {
+            "metric": "FY27 Gold Branch Additions",
+            "value": "~350 branches"
+          }
+        ],
+        "highlights": [
+          "Gold loan AUM stood at ₹16,965 Cr, up 111% YoY and 33% QoQ",
+          "Gold loan mix stood around 46% of AUM and management expects it to move closer to 50%",
+          "Branch network stood at 1,429 branches after adding 318 branches in FY26",
+          "Company added 98 branches in Q4FY26, including 89 gold loan branches",
+          "Gold loan branch productivity improved from ₹14 Cr to ₹17 Cr per branch; 90% of gold loan branches are above breakeven AUM of ₹5 Cr per branch",
+          "Gold loan GNPA stood at 0.3%, among the best in the industry",
+          "Co-lending AUM stood at ₹7,783 Cr, up 91% YoY and around 21% of total AUM"
+        ],
+        "quote": "\"Capri is outperforming the sector on AUM growth, PAT growth, gold loan scale-up and operating leverage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Fedbank Financial Services Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "AUM", "value": "₹21,136 Cr", "change": "+34.7% YoY", "positive": 1 },
+          { "label": "Gold Loan AUM", "value": "₹11,191 Cr", "change": "+77% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹114.4 Cr", "change": "+52.5% YoY", "positive": 1 },
+          { "label": "ROE", "value": "15.4%", "change": "+380 bps YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "AUM crossed ₹21,000 Cr at ₹21,136 Cr, growing 34.7% YoY and about 5% QoQ",
+          "Gold loan AUM increased 77% YoY and 8.1% QoQ to ₹11,191 Cr despite lower gold prices",
+          "Mortgage AUM grew around 15% to ₹9,777 Cr",
+          "Core NII grew 40.6% YoY and PPOP increased 50% to ₹187.5 Cr",
+          "PAT rose 52.5% to ₹114.4 Cr, with ROA of 2.6% and ROE of 15.4%"
+        ],
+        "guidanceTracking": [
+          { "metric": "Overall AUM Growth", "guided": "20-25%", "actual": "34.7% YoY in Q1FY27", "status": "exceeded" },
+          { "metric": "Gold Loan AUM Growth", "guided": "20-22%", "actual": "77% YoY in Q1FY27", "status": "exceeded" },
+          { "metric": "Credit Cost", "guided": "Around 1%", "actual": "0.8% in Q1FY27", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Entity AUM Growth", "value": "20-22%" },
+          { "metric": "FY27 Gold AUM Growth", "value": "25-30% with flat gold prices" },
+          { "metric": "FY27 Mortgage Growth", "value": "15-20%" },
+          { "metric": "FY27 Credit Cost", "value": "Below 1%" },
+          { "metric": "FY27 Branch Additions", "value": "200 branches" },
+          { "metric": "FY27 ROA", "value": "20-30 bps expansion over FY26 average" }
+        ],
+        "highlights": [
+          "Gold tonnage grew 1% QoQ while gold prices declined, showing volume-led resilience",
+          "GNPA improved to 1.6% from 1.9% and net NPA fell below 1%",
+          "Operating expenses declined 2.4% QoQ and cost-to-income improved to 52.8%",
+          "Doorstep gold loan AUM grew 96.5% YoY to ₹1,787 Cr",
+          "The company shifted gold loans toward periodic interest servicing under the new RBI framework",
+          "Management retained all growth, tonnage, credit-cost and ROA guidance despite Q1 regulatory disruption"
+        ],
+        "quote": "\"All our guidances on growth, tonnage, credit cost and ROA remain intact.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Jul 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM (FY26)",
+            "value": "₹20,153 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Disbursement (FY26)",
+            "value": "₹31,410 Cr",
+            "change": "+67% YoY",
+            "positive": 1
+          },
+          {
+            "label": "NII (FY26)",
+            "value": "₹1,230 Cr",
+            "change": "+15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹344 Cr",
+            "change": "+53% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 AUM stood at ₹20,153 Cr (+28% YoY); AUM excluding business loans grew 41% YoY",
+          "FY26 disbursement stood at ₹31,410 Cr (+67% YoY); Q4FY26 disbursement stood at ₹11,665 Cr (+109% YoY)",
+          "FY26 NII stood at ₹1,230 Cr (+15% YoY); Q4FY26 NII stood at ₹349 Cr (+23% YoY)",
+          "FY26 PAT stood at ₹344 Cr (+53% YoY); Q4FY26 PAT stood at ₹101 Cr (+40% YoY)",
+          "FY26 ROA stood at 2.4% and ROE stood at 12.6%; Q4FY26 ROA stood at 2.6% and ROE stood at 14%"
+        ],
+        "guidance": [
+          {
+            "metric": "Overall AUM Growth Guidance",
+            "value": "20-25%"
+          },
+          {
+            "metric": "Gold Loan AUM Growth",
+            "value": "20-22% even with flat gold prices"
+          },
+          {
+            "metric": "Credit Cost Expectation",
+            "value": "~1% +/- 10 bps"
+          },
+          {
+            "metric": "Strategic Focus",
+            "value": "Gold loans and LAP twin-engine strategy"
+          }
+        ],
+        "highlights": [
+          "Gold loan AUM crossed ₹10,000 Cr and stood at ₹10,352 Cr, up 76% YoY",
+          "Gold loans now contribute around 51% of total AUM; gold tonnage grew 12% YoY to 12.6 tons",
+          "Mortgage AUM stood at ₹9,362 Cr, up 16% YoY; doorstep gold loan AUM stood at ₹1,730 Cr, up 108% YoY",
+          "Branch network stood at 757 branches across 17 states and UTs after adding 148 branches in FY26",
+          "Company assigned and derecognized ₹886 Cr business loan portfolio, reducing unsecured exposure",
+          "Secured on-book ratio now stands above 99.5%; Gross Stage 3 stood at 1.9%, while Net Stage 3 stood at 1.3%"
+        ],
+        "quote": "\"Fedbank is outperforming the sector on gold loan growth, secured portfolio shift and PAT growth, but LAP execution remains a key monitorable.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "IIFL Finance Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Loan AUM", "value": "₹1,15,523 Cr", "change": "+38% YoY", "positive": 1 },
+          { "label": "Gold Loan AUM", "value": "₹58,406 Cr", "change": "+11% QoQ", "positive": 1 },
+          { "label": "PAT Pre-NCI", "value": "₹713 Cr", "change": "+14% QoQ", "positive": 1 },
+          { "label": "PPOP", "value": "₹1,252 Cr", "change": "+50% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated loan AUM grew 38% YoY and 7% QoQ to ₹1,15,523 Cr",
+          "Core product AUM increased 43% YoY to ₹1,11,717 Cr and formed 96.7% of total AUM",
+          "Gold loan AUM reached ₹58,406 Cr, growing about 11% sequentially",
+          "PAT before non-controlling interest rose 14% QoQ to ₹713 Cr",
+          "PPOP grew 50% YoY and 7% QoQ to ₹1,252 Cr; ROA was 3.1% and ROE was 19.5%"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Credit Cost", "guided": "1.5-1.7%", "actual": "1.6% in Q1FY27", "status": "met" },
+          { "metric": "Gold Loan AUM Growth", "guided": "20-25% for FY27", "actual": "11% QoQ in Q1FY27", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Credit Cost", "value": "1.5-1.7%" },
+          { "metric": "Opex to AUM", "value": "Around 3.3-3.4%" },
+          { "metric": "FY27 Branch Additions", "value": "500 branches" },
+          { "metric": "Medium-term ROE", "value": "Mid-teens within about three years" },
+          { "metric": "Microfinance ROA", "value": "2.5-3% by year-end" }
+        ],
+        "highlights": [
+          "The secured portfolio is approaching 90% of AUM, reducing structural credit risk",
+          "Liquidity of ₹7,148 Cr and positive ALM provide funding support for growth",
+          "Co-lending was slower than planned in Q1 but is expected to improve with 15 active bank partners",
+          "AI deployment is moving from pilots into collections, fraud detection and frontline productivity",
+          "Management expects margins to remain stable, with profitability gains from lower credit cost and operating leverage",
+          "The company expects profitability to improve faster than loan growth quarter by quarter"
+        ],
+        "quote": "\"From here on, we expect organic growth and operating leverage to support profitability acceleration.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Jul 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Loan AUM (FY26)",
+            "value": "₹1,08,180 Cr",
+            "change": "+38% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Total Income (FY26)",
+            "value": "₹7,626 Cr",
+            "change": "+38% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT Pre-NCI (FY26)",
+            "value": "₹1,817 Cr",
+            "change": "+214% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gold Loan AUM",
+            "value": "₹52,581 Cr",
+            "change": "+150% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Loan AUM stood at ₹1,08,180 Cr (+38% YoY and +10% QoQ)",
+          "FY26 total income stood at ₹7,626 Cr (+38% YoY); Q4FY26 total income stood at ₹2,090 Cr (+51% YoY)",
+          "FY26 PAT pre-NCI stood at ₹1,817 Cr (+214% YoY)",
+          "Q4FY26 PAT pre-NCI stood at ₹623 Cr (+148% YoY and +24% QoQ)",
+          "Q4FY26 PPOP stood at ₹1,173 Cr (+80% YoY); Q4FY26 ROA stood at 3% and ROE stood at 18%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Gold Loan AUM Growth",
+            "value": "20-25% assuming stable gold prices"
+          },
+          {
+            "metric": "Housing Finance AUM Growth",
+            "value": "18-20%"
+          },
+          {
+            "metric": "Housing Finance Disbursement Growth",
+            "value": "25-27%"
+          },
+          {
+            "metric": "FY27 Credit Cost Expectation",
+            "value": "1.5-1.7%"
+          },
+          {
+            "metric": "Off-Book AUM Target",
+            "value": "40-45% of total AUM"
+          }
+        ],
+        "highlights": [
+          "Management said the company is now anchored on secured lending, co-lending/off-book growth and an AI-led operating model",
+          "Gold loan AUM stood at ₹52,581 Cr, up 150% YoY and 21% QoQ",
+          "Gold loan book forms around 91% of standalone AUM; gold tonnage stood around 60 MT and LTV stood at 63%",
+          "Core product AUM stood at ₹1,04,198 Cr and formed around 96% of total AUM",
+          "Assigned loan book stood at ₹23,704 Cr, up 85% YoY; co-lending book stood at ₹14,384 Cr, up 36% YoY",
+          "Gross NPA stood at 1.5%, Net NPA stood at 0.7% and provision coverage stood at 93%"
+        ],
+        "quote": "\"IIFL is outperforming the sector on gold loan rebound, AUM growth, PAT recovery and co-lending scale-up.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Manappuram Finance Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          { "label": "Consol. AUM", "value": "₹69,635 Cr", "change": "+57% YoY", "positive": 1 },
+          { "label": "Gold Loan AUM", "value": "₹57,006 Cr", "change": "+98% YoY", "positive": 1 },
+          { "label": "Revenue", "value": "₹3,033 Cr", "change": "+34% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹585 Cr", "change": "+47% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM grew 57% YoY and 9% QoQ to ₹69,635 Cr",
+          "Consolidated gold loan AUM increased about 98% YoY and 12% QoQ to ₹57,006 Cr",
+          "Revenue from operations rose 34% YoY and 16% QoQ to ₹3,033 Cr",
+          "PAT increased 47% YoY and 45% QoQ to ₹585 Cr",
+          "Standalone PAT grew 41% YoY to ₹552 Cr, while GNPA improved to 1.56% from 1.8%"
+        ],
+        "guidanceTracking": [
+          { "metric": "Gold Loan Yield Improvement", "guided": "Improvement from pricing actions", "actual": "+59 bps in Q1FY27", "status": "met" },
+          { "metric": "FY27 Gold Branch Additions", "guided": "500-550", "actual": "10 added in Q1; 500 target retained", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Gold Loan Growth", "value": "Around 30%" },
+          { "metric": "FY27 Gold Branch Additions", "value": "500 branches" },
+          { "metric": "Gold Loan Yield", "value": "Around 18% ±25 bps" },
+          { "metric": "Long-term Gold Mix", "value": "75-80% of consolidated AUM" },
+          { "metric": "ROA / ROE Target", "value": "3.5-4% / 15-18%" }
+        ],
+        "highlights": [
+          "Gold loans increased to 82% of consolidated AUM from 65% a year ago",
+          "Standalone gold loan AUM reached ₹54,655 Cr and the customer base rose to 26.5 lakh",
+          "Asirvad returned to profit with PAT of ₹21 Cr versus a ₹269 Cr loss a year earlier",
+          "Vehicle finance remains stressed with GNPA of 13.3%, while management prioritizes collections",
+          "Management intends to keep microfinance below 10% of consolidated AUM",
+          "The company remains well capitalized with capital adequacy of 21.29%"
+        ],
+        "quote": "\"We have grown nearly 12% in Q1 and expect gold loan growth of around 30% this year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "Aug 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consol. AUM (FY26)",
+            "value": "₹63,798 Cr",
+            "change": "+48% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹9,509 Cr",
+            "change": "Operations",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹993 Cr",
+            "change": "Consolidated",
+            "positive": 1
+          },
+          {
+            "label": "Gold Loan AUM",
+            "value": "₹50,953 Cr",
+            "change": "+99% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM stood at ₹63,798 Cr (+48% YoY); standalone AUM stood at ₹55,952 Cr (+69% YoY)",
+          "Consolidated revenue from operations stood at ₹9,509 Cr; Q4FY26 revenue from operations stood at ₹2,614 Cr (+11% YoY and +11% QoQ)",
+          "Q4FY26 PAT stood at ₹405 Cr vs loss in Q4FY25; FY26 PAT stood at ₹993 Cr",
+          "Q4FY26 ROA stood at 2.8% and ROE stood at 12.3%; FY26 ROA stood at 2% and ROE stood at 7.7%",
+          "Standalone PAT stood at ₹1,525 Cr; capital adequacy stood at 21.3%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Gold Branch Additions",
+            "value": "500-550 branches"
+          },
+          {
+            "metric": "FY27 Gold Loan Volume Growth",
+            "value": "Expected to be better than FY26"
+          },
+          {
+            "metric": "ROE Target",
+            "value": ">15% over next 2 years"
+          },
+          {
+            "metric": "MFI Outlook",
+            "value": "Gradual improvement in asset quality and collections"
+          }
+        ],
+        "highlights": [
+          "Gold loan remained the core growth driver in Q4FY26",
+          "Consolidated gold loan AUM stood at ₹50,953 Cr, up 99% YoY and 32% QoQ",
+          "Gold loans formed 80% of consolidated AUM vs 59% last year; standalone gold loan AUM stood at ₹48,814 Cr, up 98% YoY",
+          "Gold loan LTV remained stable at 57%; gold tonnage stood at around 63 MT",
+          "New gold loan regulations allow the company to launch consumption loans and income-generating loans",
+          "Microfinance remains in recovery phase, but management expects gradual improvement in asset quality and collections"
+        ],
+        "quote": "\"Manappuram is outperforming the sector on gold loan AUM growth, but consolidated profitability is still impacted by MFI and non-gold stress.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Muthoot Finance Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consol. AUM (FY26)",
+            "value": "₹1,81,916 Cr",
+            "change": "+49% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gold Loan AUM",
+            "value": "₹1,65,000 Cr",
+            "change": "+54% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Standalone PAT",
+            "value": "₹10,134 Cr",
+            "change": "+95% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Consol. PAT",
+            "value": "₹10,607 Cr",
+            "change": "+98% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM stood at ₹1,81,916 Cr (+49% YoY)",
+          "Consolidated gold loan AUM stood at ₹1,65,000 Cr (+54% YoY)",
+          "Standalone loan book stood at ₹1,64,000 Cr",
+          "Standalone PAT stood at ₹10,134 Cr (+95% YoY); consolidated PAT stood at ₹10,607 Cr (+98% YoY)",
+          "Dividend declared stood at ₹30 per share; group opened 177 branches during FY26"
+        ],
+        "guidance": [
+          {
+            "metric": "Standalone AUM Growth Guidance",
+            "value": "15% at start of year"
+          },
+          {
+            "metric": "FY27 Muthoot Branch Additions",
+            "value": "200-300 branches"
+          },
+          {
+            "metric": "Belstar Gold Branch Additions",
+            "value": "~200 branches"
+          },
+          {
+            "metric": "Profit Growth View",
+            "value": "Should follow AUM growth"
+          }
+        ],
+        "highlights": [
+          "Management highlighted that FY26 saw the highest-ever consolidated gold loan AUM",
+          "Consolidated gold loan AUM increased by ₹57,000 Cr during FY26",
+          "Muthoot remains the largest gold loan franchise in India",
+          "India still has around 25,000-30,000 tons of household gold, giving long-term growth runway for gold loans",
+          "Muthoot Money gold loan AUM stood at ₹9,794 Cr, up 151% YoY; customer base increased from 2.74 lakh to 4.6 lakh",
+          "Average gold loan LTV stood around 57%"
+        ],
+        "quote": "\"Muthoot is outperforming the sector on scale, profitability, balance sheet strength and gold loan franchise depth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

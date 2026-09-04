@@ -13,185 +13,541 @@
     "R R Kabel Ltd"
   ],
   "concall": {
-    "Polycab India Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹28,500 Cr+", "change": "+29% YoY", "positive": 1 },
-        { "label": "EBITDA Margin", "value": "14%", "change": "FY26", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹2,700 Cr+", "change": "+32% YoY", "positive": 1 },
-        { "label": "Net Cash", "value": "₹4,190 Cr", "change": "FY26", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue crossed ₹28,500 Cr (+29% YoY); EBITDA grew 35% YoY with 14% margin",
-        "FY26 PAT crossed ₹2,700 Cr (+32% YoY), with PAT margin of 9%",
-        "Q4FY26 consolidated revenue grew 27% YoY; Q4FY26 EBITDA grew 13% YoY with 13% margin",
-        "Q4FY26 PAT stood at ₹790 Cr (+7% YoY)",
-        "FY26 capex stood around ₹1,480 Cr and net cash stood at ₹4,190 Cr"
-      ],
-      "guidance": [
-        { "metric": "Project Spring Capex Plan", "value": "₹6,000-8,000 Cr over 5 years" },
-        { "metric": "Annual Capex Plan", "value": "₹1,200-1,600 Cr" },
-        { "metric": "FY30 Export Target", "value": "10%+ of total revenue" },
-        { "metric": "Normalised Working Capital", "value": "45-50 days" }
-      ],
-      "highlights": [
-        "Polycab delivered its highest-ever annual and quarterly revenue in FY26",
-        "Domestic W&C organised market share improved to 30-31% vs 26-27% in FY25 and 18-19% in FY19",
-        "FY26 W&C volume growth stood around 18%, ahead of industry growth of around 11-12%",
-        "Capacity utilisation stood around 70-75%, giving room for growth",
-        "North America contributed around 40% of FY26 exports; South America contributed around 20%",
-        "FMEG business remained profitable, with solar products delivering 2x YoY growth"
-      ],
-      "quote": "\"Polycab continues to outperform the sector on scale, market share gains, volume growth, profitability, balance sheet strength and capex execution.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "KEI Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹11,746 Cr", "change": "+21% YoY", "positive": 1 },
-        { "label": "EBITDA (FY26)", "value": "₹1,387 Cr", "change": "+31% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹918 Cr", "change": "FY26", "positive": 1 },
-        { "label": "Order Book", "value": "₹3,585 Cr", "change": "Mar 2026", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹11,746 Cr (+21% YoY); Wires & Cable segment grew 22% YoY",
-        "FY26 EBITDA stood at ₹1,387 Cr (+31% YoY), with EBITDA margin of 12% vs 11% last year",
-        "FY26 PAT stood at ₹918 Cr, with PAT margin of 8%",
-        "Q4FY26 net sales stood at ₹3,476 Cr (+19% YoY); Q4FY26 PAT stood at ₹284 Cr (+26% YoY)",
-        "Distribution sales stood at ₹6,349 Cr (+25% YoY) and dealer sales contributed 54% of total sales"
-      ],
-      "guidance": [
-        { "metric": "FY27 Volume Growth Expectation", "value": "17-18%" },
-        { "metric": "FY27 Export Mix Expectation", "value": "~20% of total sales" },
-        { "metric": "Sanand Phase 2 Commissioning", "value": "Q4FY27" },
-        { "metric": "Sanand Ramp-Up Margin Benefit", "value": "~50 bps EBITDA margin from FY28" }
-      ],
-      "highlights": [
-        "FY26 growth was supported by W&C demand, distribution growth, EHV cables and exports",
-        "Rajasthan cable plants were already operating at peak capacity",
-        "FY26 copper cable volume grew 15%, while aluminium volume remained flat",
-        "Sanand Phase 1 was commissioned in December 2025 after a delay of around 6 months",
-        "Domestic EHV cable sales stood at ₹559 Cr, up 82%",
-        "Export sales stood at ₹1,833 Cr, up 45%; US exports have restarted after a tariff-related lull"
-      ],
-      "quote": "\"KEI is outperforming the sector on exports, EHV cables, distribution growth and capacity-led FY27 visibility.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "R R Kabel Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹9,722 Cr", "change": "+28% YoY", "positive": 1 },
-        { "label": "EBITDA (FY26)", "value": "₹789 Cr", "change": "+62% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹492 Cr", "change": "+58% YoY", "positive": 1 },
-        { "label": "W&C Revenue", "value": "₹8,764 Cr", "change": "+31% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹9,722 Cr (+28% YoY); EBITDA stood at ₹789 Cr (+62% YoY)",
-        "FY26 PAT stood at ₹492 Cr (+58% YoY)",
-        "Q4FY26 revenue stood at ₹2,964 Cr (+34% YoY); Q4FY26 EBITDA stood at ₹264 Cr (+35% YoY)",
-        "Q4FY26 PAT stood at ₹168 Cr (+30% YoY)",
-        "Wires & Cables FY26 revenue stood at ₹8,764 Cr (+31% YoY), contributing around 90% of FY26 revenue"
-      ],
-      "guidance": [
-        { "metric": "FY27 W&C Volume Growth Target", "value": "16-18%" },
-        { "metric": "Cable Volume Growth Target", "value": "~25%" },
-        { "metric": "Wire Growth Expectation", "value": "11-12%" },
-        { "metric": "FY27 FMEG Value Growth Target", "value": "20-25%" },
-        { "metric": "FY26-FY28 Capex Program", "value": "₹1,200 Cr" }
-      ],
-      "highlights": [
-        "RR Kabel delivered its highest-ever quarterly and annual revenue",
-        "Domestic demand remained healthy while export demand was relatively stronger during the quarter",
-        "W&C full-year volume growth stood around 16%",
-        "Management expects cable volume growth to be higher than wire growth",
-        "Project RRise targets 18% CAGR in W&C, 25% CAGR in FMEG and 2.5x cumulative EBITDA growth",
-        "FMEG losses reduced and management remains on track to achieve breakeven in FY27"
-      ],
-      "quote": "\"RR Kabel is outperforming the sector on W&C growth, EBITDA growth, profitability improvement and B2B / export execution.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Apar Industries Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue (FY26)", "value": "₹22,902 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "EBITDA (FY26)", "value": "₹2,067 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹977 Cr", "change": "+19% YoY", "positive": 1 },
-        { "label": "Cable Revenue", "value": "₹6,220 Cr", "change": "+26% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at ₹22,902 Cr (+23% YoY); EBITDA post forex stood at ₹2,067 Cr (+23% YoY)",
-        "FY26 PAT stood at ₹977 Cr (+19% YoY), with PAT margin of 4%",
-        "Q4FY26 revenue stood at ₹6,603 Cr (+27% YoY); Q4FY26 EBITDA post forex stood at ₹584 Cr (+19% YoY)",
-        "Q4FY26 PAT stood at ₹254 Cr; adjusted operating PAT stood at ₹285 Cr",
-        "Domestic revenue grew 29% in FY26, export revenue grew 12%, and US revenue grew nearly 50%"
-      ],
-      "guidance": [
-        { "metric": "Cable Revenue Potential", "value": "Building towards ₹10,000 Cr" },
-        { "metric": "FY26 Cable Capex", "value": "~₹400 Cr" },
-        { "metric": "Carry-Forward Cable Capex into FY27", "value": "~₹850 Cr" },
-        { "metric": "Strategic Focus", "value": "US, data centres, utilities, renewables and premium conductors" }
-      ],
-      "highlights": [
-        "APAR delivered all-time high annual revenue in FY26",
-        "Company scaled revenue from ₹6,406 Cr in FY21 to ₹22,902 Cr in FY26, implying around 29% CAGR over 5 years",
-        "Conductor FY26 revenue stood at ₹12,712 Cr (+33% YoY); premium products formed 46% of FY26 conductor revenue",
-        "Cable division FY26 revenue stood at ₹6,220 Cr (+26% YoY), with EBITDA of ₹633 Cr and 10% margin",
-        "Cable export revenue grew 31% YoY and cable US revenue grew 47% in FY26",
-        "Company has already supplied to 3 major US data centre projects worth around $15 mn"
-      ],
-      "quote": "\"APAR is outperforming the sector on US exposure, premium conductor mix, cables growth, data centre opportunity and export-led optionality.\"",
-      "quotePerson": "Management Commentary"
-    },
-
-    "Dynamic Cables Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Revenue Growth", "value": "17%", "change": "FY26 YoY", "positive": 1 },
-        { "label": "Operating Profit", "value": "₹130 Cr", "change": "+23% YoY", "positive": 1 },
-        { "label": "PAT (FY26)", "value": "₹84 Cr", "change": "+30% YoY", "positive": 1 },
-        { "label": "Order Book", "value": "₹808 Cr", "change": "Mar 2026", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 17% YoY, with operating profit of ₹130 Cr (+23% YoY)",
-        "Operating margin stood at 11%; PAT stood at ₹84 Cr (+30% YoY)",
-        "Order book stood at ₹808 Cr as of March 2026",
-        "FY26 customer mix was 13% government sales, 80% private sales and 7% exports",
-        "FY26 product mix was 64% HV cables, 30% LV cables and 6% conductors"
-      ],
-      "guidance": [
-        { "metric": "Medium-Long Term Growth Expectation", "value": "18-20%" },
-        { "metric": "Relative Growth Expectation", "value": "1.5x industry growth" },
-        { "metric": "New Plant Production Start", "value": "Around Sep 2026" },
-        { "metric": "New Facility Focus", "value": "E-Beam, renewable, solar and DC cables" }
-      ],
-      "highlights": [
-        "Dynamic Cables delivered highest-ever revenue and profitability in FY26",
-        "Growth was driven by disciplined execution, stronger operating performance and better product mix",
-        "Q4FY26 overall growth looked softer at 7%, but core product growth was 20%",
-        "Company reduced low-value conductors to sub-5% of sales vs 8-9% last year",
-        "Railway signalling cables were discontinued because competitive intensity was high and margins were weaker",
-        "New capacity implementation was delayed due to approvals and imported machinery disruption linked to West Asia logistics"
-      ],
-      "quote": "\"Dynamic Cables is outperforming smaller peers on profitability improvement, product mix shift and value-added cable focus.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Polycab India Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue Growth", "value": "39%", "change": "YoY", "positive": 1 },
+          { "label": "EBITDA Growth", "value": "32%", "change": "YoY", "positive": 1 },
+          { "label": "EBITDA Margin", "value": "13.8%", "change": "+70 bps QoQ", "positive": 1 },
+          { "label": "PAT", "value": "₹796.7 Cr", "change": "+33% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 39% YoY across wires, cables and FMEG",
+          "EBITDA rose 32% YoY with margin at 13.8%",
+          "PAT reached a quarterly high of ₹796.7 Cr, up 33% YoY",
+          "Wires and cables revenue grew 39%, with domestic business up 43%",
+          "FMEG revenue grew 71% and delivered 8% EBIT margin"
+        ],
+        "guidanceTracking": [
+          { "metric": "Wires & Cables Margin", "guided": "11-13%", "actual": "13.3% EBIT margin", "status": "exceeded" },
+          { "metric": "Working Capital", "guided": "45-50 days normalised", "actual": "15 days due to temporary payable benefit", "status": "exceeded" },
+          { "metric": "Annual Capex", "guided": "₹1,200-1,600 Cr", "actual": "₹320 Cr in Q1", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Wires & Cables Margin", "value": "11-13%" },
+          { "metric": "FMEG FY30 Margin", "value": "8-10%" },
+          { "metric": "FMEG Growth", "value": "1.5-2x industry" },
+          { "metric": "Working Capital", "value": "45-50 days normalised" }
+        ],
+        "highlights": [
+          "Wires and cables volume growth was low to mid-single digit on a high base",
+          "International business declined due to geopolitical disruption but orders remained healthy",
+          "Solar more than doubled and remained the main FMEG growth engine",
+          "Net cash stood at ₹3,990 Cr",
+          "EPC revenue declined 11% to ₹307.7 Cr with 11% margin",
+          "The BharatNet and RDSS order book stood near ₹10,900 Cr"
+        ],
+        "quote": "\"Polycab delivered broad-based growth with both core cables and FMEG profitability ahead of roadmap levels.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹28,500 Cr+",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "14%",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹2,700 Cr+",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Cash",
+            "value": "₹4,190 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue crossed ₹28,500 Cr (+29% YoY); EBITDA grew 35% YoY with 14% margin",
+          "FY26 PAT crossed ₹2,700 Cr (+32% YoY), with PAT margin of 9%",
+          "Q4FY26 consolidated revenue grew 27% YoY; Q4FY26 EBITDA grew 13% YoY with 13% margin",
+          "Q4FY26 PAT stood at ₹790 Cr (+7% YoY)",
+          "FY26 capex stood around ₹1,480 Cr and net cash stood at ₹4,190 Cr"
+        ],
+        "guidance": [
+          {
+            "metric": "Project Spring Capex Plan",
+            "value": "₹6,000-8,000 Cr over 5 years"
+          },
+          {
+            "metric": "Annual Capex Plan",
+            "value": "₹1,200-1,600 Cr"
+          },
+          {
+            "metric": "FY30 Export Target",
+            "value": "10%+ of total revenue"
+          },
+          {
+            "metric": "Normalised Working Capital",
+            "value": "45-50 days"
+          }
+        ],
+        "highlights": [
+          "Polycab delivered its highest-ever annual and quarterly revenue in FY26",
+          "Domestic W&C organised market share improved to 30-31% vs 26-27% in FY25 and 18-19% in FY19",
+          "FY26 W&C volume growth stood around 18%, ahead of industry growth of around 11-12%",
+          "Capacity utilisation stood around 70-75%, giving room for growth",
+          "North America contributed around 40% of FY26 exports; South America contributed around 20%",
+          "FMEG business remained profitable, with solar products delivering 2x YoY growth"
+        ],
+        "quote": "\"Polycab continues to outperform the sector on scale, market share gains, volume growth, profitability, balance sheet strength and capex execution.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "KEI Industries Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Net Sales", "value": "₹3,185 Cr", "change": "+23% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹415 Cr", "change": "+39.5% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹274 Cr", "change": "+40% YoY", "positive": 1 },
+          { "label": "Order Book", "value": "₹4,292 Cr", "change": "June 2026", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Net sales grew 23% YoY to ₹3,185 Cr",
+          "Wire and cable sales grew 24.4%, including 29% domestic growth",
+          "EBITDA increased 39.5% to ₹415 Cr and margin expanded to 13.04%",
+          "PAT rose 40% to ₹274 Cr and PAT margin reached 8.61%",
+          "EHV sales grew 47% to ₹186 Cr"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Volume Growth", "guided": "17-18%", "actual": "Management retained 17-18% target", "status": "met" },
+          { "metric": "Export Mix", "guided": "~20%", "actual": "Exports were ₹341 Cr; full-year guidance retained", "status": "partial" },
+          { "metric": "Sanand Phase 2", "guided": "Q4FY27", "actual": "Ramp-up underway", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Volume Growth", "value": "17-18%" },
+          { "metric": "Medium-Term Growth", "value": "Above 20%" },
+          { "metric": "Operating Margin", "value": "11-12% sustainable range" },
+          { "metric": "Annual Capex", "value": "₹600-700 Cr for 3-4 years" },
+          { "metric": "FY27 Sanand Revenue", "value": "₹1,500-2,000 Cr" }
+        ],
+        "highlights": [
+          "Exports declined due to Middle East disruption and US customs-duty issues",
+          "Distribution contributed 59% of sales with 2,128 active dealers",
+          "Sanand capex reached ₹1,722 Cr, including ₹180 Cr in Q1",
+          "Cable and house-wire utilisation stood at 72% and 61%",
+          "Cash and bank balances stood at ₹1,054 Cr",
+          "Management remains bullish on data centres, power, renewables and housing demand"
+        ],
+        "quote": "\"Domestic growth and operating leverage were strong, while delayed exports remain the main catch-up item.\"",
+        "quotePerson": "Management Commentary", "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹11,746 Cr",
+            "change": "+21% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹1,387 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹918 Cr",
+            "change": "FY26",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹3,585 Cr",
+            "change": "Mar 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹11,746 Cr (+21% YoY); Wires & Cable segment grew 22% YoY",
+          "FY26 EBITDA stood at ₹1,387 Cr (+31% YoY), with EBITDA margin of 12% vs 11% last year",
+          "FY26 PAT stood at ₹918 Cr, with PAT margin of 8%",
+          "Q4FY26 net sales stood at ₹3,476 Cr (+19% YoY); Q4FY26 PAT stood at ₹284 Cr (+26% YoY)",
+          "Distribution sales stood at ₹6,349 Cr (+25% YoY) and dealer sales contributed 54% of total sales"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth Expectation",
+            "value": "17-18%"
+          },
+          {
+            "metric": "FY27 Export Mix Expectation",
+            "value": "~20% of total sales"
+          },
+          {
+            "metric": "Sanand Phase 2 Commissioning",
+            "value": "Q4FY27"
+          },
+          {
+            "metric": "Sanand Ramp-Up Margin Benefit",
+            "value": "~50 bps EBITDA margin from FY28"
+          }
+        ],
+        "highlights": [
+          "FY26 growth was supported by W&C demand, distribution growth, EHV cables and exports",
+          "Rajasthan cable plants were already operating at peak capacity",
+          "FY26 copper cable volume grew 15%, while aluminium volume remained flat",
+          "Sanand Phase 1 was commissioned in December 2025 after a delay of around 6 months",
+          "Domestic EHV cable sales stood at ₹559 Cr, up 82%",
+          "Export sales stood at ₹1,833 Cr, up 45%; US exports have restarted after a tariff-related lull"
+        ],
+        "quote": "\"KEI is outperforming the sector on exports, EHV cables, distribution growth and capacity-led FY27 visibility.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "R R Kabel Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹3,168 Cr", "change": "+54% YoY", "positive": 1 },
+          { "label": "Operating EBITDA", "value": "₹285 Cr", "change": "Nearly 2x YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹205 Cr", "change": "vs ₹90 Cr YoY", "positive": 1 },
+          { "label": "W&C Volume", "value": "+17%", "change": "YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 54% YoY to a quarterly high of ₹3,168 Cr",
+          "Operating EBITDA nearly doubled to ₹285 Cr and margin improved to 9.0%",
+          "PAT rose to ₹205 Cr from ₹90 Cr YoY",
+          "Wires and cables revenue grew 57% to ₹2,880 Cr with 17% volume growth",
+          "FMEG revenue grew 28% to ₹288 Cr and reached operating breakeven"
+        ],
+        "guidanceTracking": [
+          { "metric": "W&C Volume Growth", "guided": "16-18%", "actual": "17%", "status": "met" },
+          { "metric": "Cable Volume Growth", "guided": "~25%", "actual": ">25%", "status": "exceeded" },
+          { "metric": "Wire Growth", "guided": "11-12%", "actual": "~12%", "status": "met" },
+          { "metric": "FMEG Growth", "guided": "20-25%", "actual": "28%", "status": "exceeded" }
+        ],
+        "guidance": [
+          { "metric": "FY27 W&C Volume Growth", "value": "16-18%" },
+          { "metric": "FY28 W&C Margin", "value": "10.5%" },
+          { "metric": "FY27 FMEG Growth", "value": "20-25%" },
+          { "metric": "FY26-FY28 Capex", "value": "₹1,200 Cr" }
+        ],
+        "highlights": [
+          "Cable volume grew more than 25% and wire volume around 12%",
+          "Wires and cables segment margin improved to 9.9% from 7.6%",
+          "FMEG moved to breakeven from losses in Q1FY26 and Q4FY26",
+          "Exports grew despite disruption in the Middle East",
+          "Net working capital remained stable at 50 days",
+          "Premium products and operating leverage drove margin improvement"
+        ],
+        "quote": "\"RR Kabel met or exceeded every major Q1 growth benchmark while FMEG reached breakeven.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹9,722 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹789 Cr",
+            "change": "+62% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹492 Cr",
+            "change": "+58% YoY",
+            "positive": 1
+          },
+          {
+            "label": "W&C Revenue",
+            "value": "₹8,764 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹9,722 Cr (+28% YoY); EBITDA stood at ₹789 Cr (+62% YoY)",
+          "FY26 PAT stood at ₹492 Cr (+58% YoY)",
+          "Q4FY26 revenue stood at ₹2,964 Cr (+34% YoY); Q4FY26 EBITDA stood at ₹264 Cr (+35% YoY)",
+          "Q4FY26 PAT stood at ₹168 Cr (+30% YoY)",
+          "Wires & Cables FY26 revenue stood at ₹8,764 Cr (+31% YoY), contributing around 90% of FY26 revenue"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 W&C Volume Growth Target",
+            "value": "16-18%"
+          },
+          {
+            "metric": "Cable Volume Growth Target",
+            "value": "~25%"
+          },
+          {
+            "metric": "Wire Growth Expectation",
+            "value": "11-12%"
+          },
+          {
+            "metric": "FY27 FMEG Value Growth Target",
+            "value": "20-25%"
+          },
+          {
+            "metric": "FY26-FY28 Capex Program",
+            "value": "₹1,200 Cr"
+          }
+        ],
+        "highlights": [
+          "RR Kabel delivered its highest-ever quarterly and annual revenue",
+          "Domestic demand remained healthy while export demand was relatively stronger during the quarter",
+          "W&C full-year volume growth stood around 16%",
+          "Management expects cable volume growth to be higher than wire growth",
+          "Project RRise targets 18% CAGR in W&C, 25% CAGR in FMEG and 2.5x cumulative EBITDA growth",
+          "FMEG losses reduced and management remains on track to achieve breakeven in FY27"
+        ],
+        "quote": "\"RR Kabel is outperforming the sector on W&C growth, EBITDA growth, profitability improvement and B2B / export execution.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Apar Industries Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": false, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹6,591 Cr", "change": "+29.1% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹814 Cr", "change": "+62.7% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹467 Cr", "change": "+77.7% YoY", "positive": 1 },
+          { "label": "Order Book", "value": "₹10,190 Cr", "change": "56.8% export", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 29.1% YoY to ₹6,591 Cr, the highest quarterly level",
+          "EBITDA increased 62.7% to ₹814 Cr and margin expanded to 12.4%",
+          "PAT rose 77.7% to a record ₹467 Cr and margin reached 7.1%",
+          "Conductors, oil and cables revenue grew 19.9%, 34.7% and 29.5%, respectively",
+          "Cable EBITDA rose 36.7% to ₹194 Cr with margin at 10.6%"
+        ],
+        "guidanceTracking": [],
+        "guidance": [
+          { "metric": "Formal Guidance", "value": "Not discussed during the call" },
+          { "metric": "Strategic Focus", "value": "US utilities, data centres and premium products" },
+          { "metric": "Cable Expansion", "value": "Capacity-led scale-up remains underway" },
+          { "metric": "Export Outlook", "value": "Orders support multi-year visibility" }
+        ],
+        "highlights": [
+          "Domestic revenue grew 36.8% and export revenue 12.4%",
+          "Premium conductors rose to 50.3% of division revenue",
+          "Conductor order inflow was ₹5,245 Cr, with 65.8% from exports",
+          "Large US and European utility orders exceeded ₹2,800 Cr",
+          "APAR gained US utility approval for 144-count OPGW",
+          "US data-centre cable approvals cover contractors serving major cloud companies"
+        ],
+        "quote": "\"APAR delivered record sales and profit as premium mix and export orders outweighed volume disruption.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (FY26)",
+            "value": "₹22,902 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA (FY26)",
+            "value": "₹2,067 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹977 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Cable Revenue",
+            "value": "₹6,220 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at ₹22,902 Cr (+23% YoY); EBITDA post forex stood at ₹2,067 Cr (+23% YoY)",
+          "FY26 PAT stood at ₹977 Cr (+19% YoY), with PAT margin of 4%",
+          "Q4FY26 revenue stood at ₹6,603 Cr (+27% YoY); Q4FY26 EBITDA post forex stood at ₹584 Cr (+19% YoY)",
+          "Q4FY26 PAT stood at ₹254 Cr; adjusted operating PAT stood at ₹285 Cr",
+          "Domestic revenue grew 29% in FY26, export revenue grew 12%, and US revenue grew nearly 50%"
+        ],
+        "guidance": [
+          {
+            "metric": "Cable Revenue Potential",
+            "value": "Building towards ₹10,000 Cr"
+          },
+          {
+            "metric": "FY26 Cable Capex",
+            "value": "~₹400 Cr"
+          },
+          {
+            "metric": "Carry-Forward Cable Capex into FY27",
+            "value": "~₹850 Cr"
+          },
+          {
+            "metric": "Strategic Focus",
+            "value": "US, data centres, utilities, renewables and premium conductors"
+          }
+        ],
+        "highlights": [
+          "APAR delivered all-time high annual revenue in FY26",
+          "Company scaled revenue from ₹6,406 Cr in FY21 to ₹22,902 Cr in FY26, implying around 29% CAGR over 5 years",
+          "Conductor FY26 revenue stood at ₹12,712 Cr (+33% YoY); premium products formed 46% of FY26 conductor revenue",
+          "Cable division FY26 revenue stood at ₹6,220 Cr (+26% YoY), with EBITDA of ₹633 Cr and 10% margin",
+          "Cable export revenue grew 31% YoY and cable US revenue grew 47% in FY26",
+          "Company has already supplied to 3 major US data centre projects worth around $15 mn"
+        ],
+        "quote": "\"APAR is outperforming the sector on US exposure, premium conductor mix, cables growth, data centre opportunity and export-led optionality.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Dynamic Cables Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue Growth", "value": "33%", "change": "YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹38 Cr", "change": "+41% YoY", "positive": 1 },
+          { "label": "PAT", "value": "₹25 Cr", "change": "+37% YoY", "positive": 1 },
+          { "label": "Order Book", "value": "₹811 Cr", "change": "June 2026", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 33% YoY to the company's highest-ever first-quarter level",
+          "EBITDA increased 41% to ₹38 Cr and margin improved to 10.9%",
+          "PAT rose 37% YoY to ₹25 Cr",
+          "Volume growth was 5-6% on a high base, with the balance driven by realisation",
+          "Government, private and export sales contributed 16%, 71% and 13%"
+        ],
+        "guidanceTracking": [
+          { "metric": "Medium-Term Growth", "guided": "18-20%", "actual": "33% revenue growth", "status": "exceeded" },
+          { "metric": "New Plant Start", "guided": "September 2026", "actual": "Commissioning remains planned for September", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Medium-Term Growth", "value": "18-20%" },
+          { "metric": "New Plant Commissioning", "value": "September 2026" },
+          { "metric": "New Plant Ramp-Up", "value": "80% utilisation within 18 months" },
+          { "metric": "Solar Cable Mix", "value": "Around 20%, with upside after ramp-up" }
+        ],
+        "highlights": [
+          "HV cables formed 68% of revenue and LV cables 30%",
+          "Solar cables contributed around 20% of Q1 revenue",
+          "The new ₹45 Cr facility will add E-beam and renewable-energy cable capability",
+          "US exports started contributing meaningfully during the quarter",
+          "Commodity-price exposure is managed through back-to-back procurement",
+          "Management expects shorter order cycles without a material revenue impact"
+        ],
+        "quote": "\"Dynamic Cables opened FY27 well above its medium-term growth range with the new plant on schedule.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue Growth",
+            "value": "17%",
+            "change": "FY26 YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹130 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT (FY26)",
+            "value": "₹84 Cr",
+            "change": "+30% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹808 Cr",
+            "change": "Mar 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 17% YoY, with operating profit of ₹130 Cr (+23% YoY)",
+          "Operating margin stood at 11%; PAT stood at ₹84 Cr (+30% YoY)",
+          "Order book stood at ₹808 Cr as of March 2026",
+          "FY26 customer mix was 13% government sales, 80% private sales and 7% exports",
+          "FY26 product mix was 64% HV cables, 30% LV cables and 6% conductors"
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-Long Term Growth Expectation",
+            "value": "18-20%"
+          },
+          {
+            "metric": "Relative Growth Expectation",
+            "value": "1.5x industry growth"
+          },
+          {
+            "metric": "New Plant Production Start",
+            "value": "Around Sep 2026"
+          },
+          {
+            "metric": "New Facility Focus",
+            "value": "E-Beam, renewable, solar and DC cables"
+          }
+        ],
+        "highlights": [
+          "Dynamic Cables delivered highest-ever revenue and profitability in FY26",
+          "Growth was driven by disciplined execution, stronger operating performance and better product mix",
+          "Q4FY26 overall growth looked softer at 7%, but core product growth was 20%",
+          "Company reduced low-value conductors to sub-5% of sales vs 8-9% last year",
+          "Railway signalling cables were discontinued because competitive intensity was high and margins were weaker",
+          "New capacity implementation was delayed due to approvals and imported machinery disruption linked to West Asia logistics"
+        ],
+        "quote": "\"Dynamic Cables is outperforming smaller peers on profitability improvement, product mix shift and value-added cable focus.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

@@ -18,345 +18,920 @@
     "Tata Technologies Ltd"
   ],
   "concall": {
-    "Coforge Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 USD Growth", "value": "29.2%", "change": "YoY", "positive": 1 },
-        { "label": "Q4 USD Growth", "value": "21.2%", "change": "YoY", "positive": 1 },
-        { "label": "Q4 EBIT Margin", "value": "16.6%", "change": "Healthy margin", "positive": 1 },
-        { "label": "Large Deals", "value": "21", "change": "FY26 wins", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue grew 29.2% in USD terms, marking one of the strongest growth performances in the sector.",
-        "Q4 delivered 2% sequential constant-currency growth and 21.2% YoY growth in USD terms.",
-        "Q4 EBIT margin stood at 16.6%, while free cash flow to PAT reached 110% for the quarter.",
-        "Healthcare and high-tech grew 98%, travel grew 62%, BFS grew 12%, and emerging verticals grew 27%.",
-        "Top 10 accounts grew 40.4% YoY and contributed 30.8% of revenue, reflecting broad account mining."
-      ],
-      "guidance": [
-        { "metric": "FY27 View", "value": "Management expects exceptional performance to continue" },
-        { "metric": "Long-term View", "value": "Growth story seen as still early" },
-        { "metric": "Cash Conversion", "value": "Sustained guidance around 70% FCF to PAT" }
-      ],
-      "highlights": [
-        "Coforge closed 21 large deals in FY26, strengthening visibility for the next growth phase.",
-        "Top 5 accounts grew 45.8% YoY and accounts 6-10 grew 30%, showing strong client expansion.",
-        "The company highlighted a long-term track record of 21.7% revenue CAGR and 24.6% EBIT CAGR.",
-        "Growth remained diversified across healthcare, travel, BFS, government and emerging verticals.",
-        "Free cash flow remained strong, with Q4 FCF to PAT materially above the steady-state target.",
-        "Management commentary stayed confident on FY27 execution and continued compounding."
-      ],
-      "quote": "\"The growth story is not even half done.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Fractal Analytics Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "3,300 Cr", "change": "19% YoY", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "886 Cr", "change": "17% YoY", "positive": 1 },
-        { "label": "Q4 EBITDA Margin", "value": "22%", "change": "+189 bps", "positive": 1 },
-        { "label": "Cash", "value": "2,052 Cr", "change": "Strong balance sheet", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at 3,300 Cr, growing 19% YoY, with USD revenue of 374 Mn.",
-        "Q4 revenue was 886 Cr, up 17% YoY and 4% QoQ, supported by steady client demand.",
-        "Healthcare and life sciences grew 66%, financial services grew 32%, and CPG and retail grew 12%.",
-        "Q4 adjusted EBITDA grew 28% YoY with margin expanding to 22%.",
-        "Net income grew 30% to 287 Cr, while operating cash flow stood at 409 Cr with 70% conversion."
-      ],
-      "guidance": [
-        { "metric": "Client Retention", "value": "Net revenue retention at 117% for FY26" },
-        { "metric": "Recurring Revenue", "value": "Annualized recurring revenue up about 77% YoY" },
-        { "metric": "Balance Sheet", "value": "Long-term debt repaid after year end" }
-      ],
-      "highlights": [
-        "Fractal delivered broad-based growth across healthcare, financial services and CPG/retail.",
-        "Europe grew 34% and the Americas grew 20%, offsetting softer APAC performance.",
-        "Full-year adjusted EBITDA margin stood at 17.6% even after meaningful R&D investment.",
-        "Q4 net income more than doubled YoY to 116 Cr, helped by scale and operating leverage.",
-        "NPS remained very high at 81, supporting strong renewal and expansion behavior.",
-        "The balance sheet strengthened with 2,052 Cr cash, including IPO proceeds."
-      ],
-      "quote": "\"Net revenue retention remained strong at 117% for the full year.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Happiest Minds Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "2,315 Cr+", "change": "12.3% YoY", "positive": 1 },
-        { "label": "FY26 PAT", "value": "213 Cr", "change": "15% YoY", "positive": 1 },
-        { "label": "FY26 Op Margin", "value": "17.4%", "change": "+10 bps", "positive": 1 },
-        { "label": "Q4 Pipeline", "value": "27%", "change": "Growth", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue crossed 2,315 Cr, growing 12.3% in rupee terms and 9.2% in constant currency.",
-        "Operating margin for FY26 stood at 17.4%, broadly stable versus 17.3% in the previous year.",
-        "FY26 PAT stood at 213 Cr, growing 15%, while adjusted PAT was 279 Cr.",
-        "The company ended the year with 306 active customers and a healthier deal pipeline.",
-        "Q4 operating margin stood at 17.5%, with operating profit of 106 Cr."
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue Growth", "value": "12.5% guidance, aspirational 15%" },
-        { "metric": "FY27 Margin", "value": "18-18.5% operating margin target" },
-        { "metric": "AI Team", "value": "Targeting 1,000 AI and GenAI focused people by FY27 end" }
-      ],
-      "highlights": [
-        "Management reconfirmed FY27 revenue growth guidance of 12.5%, with an aspirational 15% target.",
-        "The Q4 pipeline grew 27%, improving revenue visibility for the next year.",
-        "The company plans a meaningful hiring and capability ramp in FY27.",
-        "AI and GenAI are becoming a core investment area, with a 1,000-member focused team planned.",
-        "Margins are expected to improve to 18-18.5% in FY27 as operating leverage builds.",
-        "Attrition remained an area to watch at around 17%."
-      ],
-      "quote": "\"The Board reconfirmed our FY27 growth guidance of 12.5%.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Indegene Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "3,510.5 Cr", "change": "23.6% YoY", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "1,000 Cr+", "change": "32.8% YoY", "positive": 1 },
-        { "label": "FY26 Adj EBITDA", "value": "679.3 Cr", "change": "20.8% YoY", "positive": 1 },
-        { "label": "FY26 OCF", "value": "650.8 Cr", "change": "162% of PAT", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at 3,510.5 Cr, growing 23.6% in INR terms and 18.2% in USD terms.",
-        "Q4 became the first quarter with revenue above 1,000 Cr, up 6.5% QoQ and 32.8% YoY.",
-        "FY26 adjusted EBITDA grew 20.8% to 679.3 Cr, while Q4 adjusted EBITDA was 188.9 Cr.",
-        "Adjusted PAT grew 12.7% to 458.3 Cr, while reported PAT stood at 401.1 Cr.",
-        "Operating cash flow was strong at 650.8 Cr, equivalent to 162% of PAT."
-      ],
-      "guidance": [
-        { "metric": "Large Deal Ramp", "value": "$10 Mn+ omnichannel deal to contribute from Q1 FY27" },
-        { "metric": "Customer Scale", "value": "Customers above $1 Mn grew from 41 to 53" },
-        { "metric": "Acquisitions", "value": "BioPharm, Warn and Cake Communications added in FY26" }
-      ],
-      "highlights": [
-        "Top 20 customer revenue grew from 2,208.2 Cr to 2,520 Cr, showing strong account expansion.",
-        "Active customers increased from 73 to 91 during the year.",
-        "Customers contributing over $1 Mn grew to 53, strengthening the quality of revenue.",
-        "Tectonic secured 5 customers, with 2 pilots moving into long-term engagements.",
-        "Three acquisitions expanded capabilities across medical, regulatory and creative services.",
-        "Cash generation remained strong, with operating cash flow materially ahead of reported PAT."
-      ],
-      "quote": "\"Q4 was our first ever quarter above 1,000 Cr revenue.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Intellect Design Arena Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Total Income", "value": "3,161 Cr", "change": "23% YoY", "positive": 1 },
-        { "label": "Platform Revenue", "value": "580 Cr", "change": "141% YoY", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "703 Cr", "change": "16% YoY", "positive": 1 },
-        { "label": "Cash", "value": "1,257 Cr", "change": "Zero debt", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 total income stood at 3,161 Cr, growing 23% YoY.",
-        "License-linked revenue grew 34% to 1,667 Cr, supported by platform, license and AMC growth.",
-        "Platform revenue rose 141% to 580 Cr, reflecting stronger IP-led monetization.",
-        "FY26 EBITDA grew 16% to 703 Cr, while Non-GAAP EBITDA stood at 756 Cr.",
-        "PAT after exceptional items stood at 345 Cr, with cash and equivalents of 1,257 Cr and zero debt."
-      ],
-      "guidance": [
-        { "metric": "Pipeline", "value": "Crossed 12,000 Cr" },
-        { "metric": "Destiny Deals", "value": "99 active deals, 21 wins in FY26" },
-        { "metric": "ARR", "value": "Q4 ARR at 1,247 Cr" }
-      ],
-      "highlights": [
-        "The company added 59 new customers and completed 91 digital transformations during FY26.",
-        "Q4 total income stood at 884 Cr, with platform revenue of 162 Cr and license revenue of 152 Cr.",
-        "Q4 EBITDA was 221 Cr and Q4 PBT stood at 162 Cr.",
-        "Collections were healthy at 791 Cr in Q4, supporting balance sheet strength.",
-        "The pipeline crossed 12,000 Cr, giving strong medium-term visibility.",
-        "The company filed close to 100 patents during the year, taking total filings to 125."
-      ],
-      "quote": "\"Our platform revenue grew 141% during the year.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Inventurus Knowledge Solutions Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "3,193 Cr", "change": "Nearly 20% YoY", "positive": 1 },
-        { "label": "FY26 EBITDA", "value": "1,091 Cr", "change": "38% YoY", "positive": 1 },
-        { "label": "FY26 PAT", "value": "721 Cr", "change": "48% YoY", "positive": 1 },
-        { "label": "FY26 OCF", "value": "863 Cr", "change": "99% YoY", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at 3,193 Cr, growing nearly 20% YoY.",
-        "FY26 EBITDA grew 38% to 1,091 Cr, with EBITDA margin around 34%.",
-        "FY26 PAT grew 48% to 721 Cr, reflecting strong operating leverage.",
-        "Operating cash flow grew 99% to 863 Cr, while free cash flow stood around 721 Cr.",
-        "Q4 revenue was 857 Cr, up 18.5% YoY and 5.2% QoQ, with 13% constant-currency growth."
-      ],
-      "guidance": [
-        { "metric": "Q4 EBITDA Margin", "value": "Around 35%" },
-        { "metric": "Client Base", "value": "More than 600 clients" },
-        { "metric": "AI Focus", "value": "Agentic AI across documentation, coding and prior authorization" }
-      ],
-      "highlights": [
-        "Q4 EBITDA was around 300 Cr, growing 33% YoY and 6.6% QoQ.",
-        "Top 10 customer revenue stood at 452 Cr in Q4.",
-        "Headcount was 13,331, up 5.3% YoY, while Q4 revenue grew despite QoQ headcount reduction.",
-        "The sales and marketing team expanded to 66 FTEs to support growth.",
-        "Agentic AI products such as Scribble Now, Scribble Select and MyCare Hub are gaining focus.",
-        "The TruBridge transaction is expected to add another strategic growth pillar."
-      ],
-      "quote": "\"We delivered nearly 20% revenue growth with 38% EBITDA growth.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Mphasis Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 TCV", "value": "$2.1 Bn+", "change": "Highest ever", "positive": 1 },
-        { "label": "Q4 Revenue", "value": "$463 Mn", "change": "7.1% YoY CC", "positive": 1 },
-        { "label": "FY26 CC Growth", "value": "6.7%", "change": "Revenue growth", "positive": 1 },
-        { "label": "FY26 EBIT Margin", "value": "15.3%", "change": "Stable margin", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 net new TCV exceeded $2.1 Bn, the highest ever for the company.",
-        "FY26 revenue grew 6.7% in constant currency, with Q4 revenue at $463 Mn.",
-        "Q4 revenue grew 2.5% QoQ and 7.1% YoY in constant currency.",
-        "Direct revenue contributed 98.6% of total revenue and grew 9.2% YoY in Q4 constant currency.",
-        "FY26 EBIT margin stood at 15.3%, while Q4 EBIT margin improved to 15.4%."
-      ],
-      "guidance": [
-        { "metric": "AI-led Wins", "value": "64% of Q4 wins were AI-led" },
-        { "metric": "AI-led Pipeline", "value": "69% of pipeline AI-led" },
-        { "metric": "BFS Momentum", "value": "Direct BFS grew 18.6% in FY26" }
-      ],
-      "highlights": [
-        "Q4 net new TCV stood at $407 Mn, adding to strong FY26 deal momentum.",
-        "BFS remained the core vertical at 76.5% of revenue, with strong YoY growth in Q4.",
-        "Insurance grew 7.3% QoQ and 46.5% YoY, adding a high-growth vertical tailwind.",
-        "Operating profit grew 7.2% QoQ and 15% YoY in Q4.",
-        "The company highlighted strong AI-led demand through NeoIP and related platforms.",
-        "Client bucket expansion continued, including movement into larger revenue categories."
-      ],
-      "quote": "\"FY26 net new TCV crossed $2.1 billion, our highest ever.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Persistent Systems Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "FY26 Revenue", "value": "$1,654.4 Mn", "change": "17.4% YoY", "positive": 1 },
-        { "label": "FY26 INR Revenue", "value": "14,748.5 Cr", "change": "23.5% YoY", "positive": 1 },
-        { "label": "FY26 EBIT", "value": "2,303.5 Cr", "change": "31.5% YoY", "positive": 1 },
-        { "label": "Q4 TCV", "value": "$428.9 Mn", "change": "New bookings", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "FY26 revenue stood at $1,654.4 Mn, growing 17.4% YoY.",
-        "Rupee revenue grew 23.5% to 14,748.5 Cr.",
-        "FY26 EBIT grew 31.5% to 2,303.5 Cr, with EBIT margin expanding 90 bps to 15.6%.",
-        "Q4 revenue was $436 Mn, up 3.2% QoQ and 16.2% YoY, marking the 24th sequential growth quarter.",
-        "Q4 PAT grew 20.4% QoQ and 33.7% YoY, with PAT margin at 13.1%."
-      ],
-      "guidance": [
-        { "metric": "Q4 Bookings", "value": "$428.9 Mn TCV and $445.1 Mn ACV" },
-        { "metric": "Dividend", "value": "Total FY26 dividend of 40 per share" },
-        { "metric": "Growth Streak", "value": "24 consecutive quarters of revenue growth" }
-      ],
-      "highlights": [
-        "Q4 rupee revenue grew 7.4% QoQ and 25.1% YoY to 4,055.9 Cr.",
-        "Q4 EBIT was 659.2 Cr, with margin improving 70 bps to 16.3%.",
-        "North America grew 17.2% and Europe grew 26.7% during FY26.",
-        "BFS grew 28.4%, high-tech and emerging industries grew 13.8%, and healthcare grew 10.1%.",
-        "Q4 bookings remained strong with both TCV and ACV above quarterly revenue.",
-        "The company maintained consistent growth with improving profitability."
-      ],
-      "quote": "\"Q4 marked our 24th sequential quarter of revenue growth.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Sagility Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": false,
-      "tone": "Strongly Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Revenue", "value": "2,024.3 Cr", "change": "29.1% YoY", "positive": 1 },
-        { "label": "FY26 Adj EBITDA", "value": "1,820 Cr", "change": "25.3% margin", "positive": 1 },
-        { "label": "FY26 Adj PAT", "value": "1,130.6 Cr", "change": "39.5% YoY", "positive": 1 },
-        { "label": "Q4 ACV", "value": "$30.7 Mn", "change": "Commercial wins", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 revenue stood at 2,024.3 Cr, growing 29.1% YoY.",
-        "Q4 adjusted EBITDA was 503.6 Cr, with margin at 24.9%.",
-        "FY26 adjusted EBITDA stood at 1,820 Cr, with margin of 25.3%, ahead of guidance.",
-        "FY26 adjusted PAT grew 39.5% YoY to 1,130.6 Cr, with margin expanding to 15.7%.",
-        "Three-year CAGR was 16.2% for revenue, 17.7% for adjusted EBITDA and 31.7% for adjusted PAT in dollar terms."
-      ],
-      "guidance": [
-        { "metric": "Deal Momentum", "value": "$30.7 Mn Q4 commercial ACV potential" },
-        { "metric": "Cash Conversion", "value": "Q4 operating cash flow conversion at 104.6%" },
-        { "metric": "FY27 View", "value": "Momentum expected to continue, though deal timing can be lumpy" }
-      ],
-      "highlights": [
-        "Q4 commercial wins were spread across 18 existing clients and 2 new clients.",
-        "Employee base stood at 46,860 at the end of Q4.",
-        "Cash position was 903.8 Cr at the end of Q4, supported by strong collections.",
-        "Adjusted PAT growth remained ahead of revenue growth due to operating leverage.",
-        "Management highlighted healthy momentum into FY27 despite normal timing variability in deals.",
-        "The company continued to scale in healthcare operations with strong profitability."
-      ],
-      "quote": "\"Adjusted EBITDA margin came in ahead of guidance at 25.3%.\"",
-      "quotePerson": "Management Commentary"
-    },
-    "Tata Technologies Ltd": {
-      "quarter": "FY26",
-      "hasNumericGuidance": true,
-      "tone": "Bullish",
-      "toneColor": "#059669",
-      "metrics": [
-        { "label": "Q4 Revenue Growth", "value": "15.1%", "change": "QoQ reported", "positive": 1 },
-        { "label": "Q4 CC Growth", "value": "12.4%", "change": "QoQ", "positive": 1 },
-        { "label": "Q4 EBITDA", "value": "252 Cr", "change": "30.7% QoQ", "positive": 1 },
-        { "label": "Q4 EBITDA Margin", "value": "16%", "change": "+200 bps QoQ", "positive": 1 }
-      ],
-      "fyPerformance": [
-        "Q4 delivered more than 10% sequential revenue growth, with reported revenue up 15.1% QoQ.",
-        "Services revenue grew 12% QoQ in constant currency, led by automotive and aerospace demand.",
-        "Automotive grew 13.6% QoQ in USD terms, while Aerospace and IHM grew 4.6% QoQ.",
-        "Technology Solutions grew 12% sequentially, with education up 36% sequentially.",
-        "Q4 EBITDA grew 30.7% QoQ to 252 Cr, with margin improving 200 bps to 16%."
-      ],
-      "guidance": [
-        { "metric": "FY27 Revenue", "value": "Double-digit organic topline growth excluding ES-Tec" },
-        { "metric": "FY27 Margin Exit", "value": "Operating margin run rate above 18%" },
-        { "metric": "Deal Wins", "value": "4 large Q4 deals plus 2 milestone wins after quarter end" }
-      ],
-      "highlights": [
-        "The company won large programs across North American commercial vehicles, European autos and Tier-1 suppliers.",
-        "April wins included a European luxury OEM PLM transformation and a Japanese OEM full-vehicle program.",
-        "Embedded Software has compounded at 60% CAGR over the last three years.",
-        "Aerospace revenue has grown 8x over four years and crossed a $40 Mn annual run rate.",
-        "Management is targeting double-digit organic growth in FY27, excluding ES-Tec.",
-        "Operating margin exit run rate is expected to move above 18% by the end of FY27."
-      ],
-      "quote": "\"We expect to exit FY27 at an operating margin run rate of over 18%.\"",
-      "quotePerson": "Management Commentary"
-    }
+    "Coforge Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "$592.2 Mn", "change": "+49% YoY", "positive": 1 },
+          { "label": "EBIT Growth", "value": "101%", "change": "YoY", "positive": 1 },
+          { "label": "EBIT Margin", "value": "16.0%", "change": "Combined entity", "positive": 1 },
+          { "label": "Order Book", "value": "$2.23 Bn", "change": "+44.2% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue rose 49% YoY to $592.2 Mn, including two months of Encora",
+          "Reported constant-currency growth was 1.1% QoQ and 5.2% excluding planned portfolio exits",
+          "EBIT increased 101% YoY and combined margin reached 16.0%",
+          "PAT grew 110% YoY",
+          "Order intake was $691 Mn and the executable order book rose 44.2% to $2.23 Bn"
+        ],
+        "guidanceTracking": [
+          { "metric": "Consolidated EBIT Margin", "guided": "15.5%", "actual": "16.0%", "status": "exceeded" },
+          { "metric": "FCF / PAT", "guided": "~70% previously; 100% for FY27", "actual": "95.3% in Q1", "status": "exceeded" },
+          { "metric": "Encora Integration", "guided": "Immediate margin expansion", "actual": "19.1% EBIT margin", "status": "exceeded" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Consolidated EBIT Margin", "value": "Above 15.5%" },
+          { "metric": "Standalone EBIT Margin", "value": "16.5-17.0%" },
+          { "metric": "FY27 FCF / PAT", "value": "100%" },
+          { "metric": "FY27 EPS", "value": "Accretive despite larger equity base" }
+        ],
+        "highlights": [
+          "AI-led engineering, data, integration and cloud formed 86% of revenue",
+          "Four large deals were signed during Q1",
+          "Encora delivered 20.3% EBITDA and 19.1% EBIT margins",
+          "Organic headcount increased by 1,195 and utilisation was 82.5%",
+          "Attrition declined to 10.4%",
+          "Nuuron was positioned as the core enterprise AI operating platform"
+        ],
+        "quote": "\"Coforge integrated Encora ahead of plan and exceeded its combined margin guidance in the first quarter.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 USD Growth",
+            "value": "29.2%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 USD Growth",
+            "value": "21.2%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBIT Margin",
+            "value": "16.6%",
+            "change": "Healthy margin",
+            "positive": 1
+          },
+          {
+            "label": "Large Deals",
+            "value": "21",
+            "change": "FY26 wins",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 29.2% in USD terms, marking one of the strongest growth performances in the sector.",
+          "Q4 delivered 2% sequential constant-currency growth and 21.2% YoY growth in USD terms.",
+          "Q4 EBIT margin stood at 16.6%, while free cash flow to PAT reached 110% for the quarter.",
+          "Healthcare and high-tech grew 98%, travel grew 62%, BFS grew 12%, and emerging verticals grew 27%.",
+          "Top 10 accounts grew 40.4% YoY and contributed 30.8% of revenue, reflecting broad account mining."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 View",
+            "value": "Management expects exceptional performance to continue"
+          },
+          {
+            "metric": "Long-term View",
+            "value": "Growth story seen as still early"
+          },
+          {
+            "metric": "Cash Conversion",
+            "value": "Sustained guidance around 70% FCF to PAT"
+          }
+        ],
+        "highlights": [
+          "Coforge closed 21 large deals in FY26, strengthening visibility for the next growth phase.",
+          "Top 5 accounts grew 45.8% YoY and accounts 6-10 grew 30%, showing strong client expansion.",
+          "The company highlighted a long-term track record of 21.7% revenue CAGR and 24.6% EBIT CAGR.",
+          "Growth remained diversified across healthcare, travel, BFS, government and emerging verticals.",
+          "Free cash flow remained strong, with Q4 FCF to PAT materially above the steady-state target.",
+          "Management commentary stayed confident on FY27 execution and continued compounding."
+        ],
+        "quote": "\"The growth story is not even half done.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Fractal Analytics Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹912.5 Cr", "change": "+20% YoY", "positive": 1 },
+          { "label": "Adj. EBITDA Margin", "value": "16.8%", "change": "+189 bps YoY", "positive": 1 },
+          { "label": "Net Income", "value": "₹72 Cr", "change": "+92% YoY", "positive": 1 },
+          { "label": "NRR", "value": "117%", "change": "vs 108% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 20% YoY to ₹912.5 Cr and 9% in constant currency",
+          "Adjusted EBITDA grew 35% with margin expanding to 16.8%",
+          "Net income rose 92% to ₹72 Cr and margin reached around 8%",
+          "Healthcare and BFSI revenue grew 69% and 36%",
+          "TMT declined 22%, reducing headline growth"
+        ],
+        "guidanceTracking": [
+          { "metric": "Net Revenue Retention", "guided": "117% FY26 level", "actual": "117%", "status": "met" },
+          { "metric": "Recurring Platform Momentum", "guided": "Rapid growth", "actual": "Cogentiq AI transformation deals started", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "TMT Outlook", "value": "Sequential recovery expected in Q2" },
+          { "metric": "Growth Ambition", "value": "Move toward growth excluding TMT" },
+          { "metric": "Margin Direction", "value": "Operating leverage-led expansion" },
+          { "metric": "Cogentiq", "value": "Scale AI-led transformation programmes" }
+        ],
+        "highlights": [
+          "Europe and Americas grew 25% and 24% YoY",
+          "Zero client churn was recorded during Q1",
+          "Top-10 revenue concentration declined to 51.8% from 55.9%",
+          "The company won one of its largest-ever AI programmes",
+          "Vaidya.ai entered a BMC public-hospital pilot",
+          "Clients above ₹1 Mn TTM revenue increased to 58 from 54"
+        ],
+        "quote": "\"Core AI and analytics verticals grew strongly, with TMT the only material drag on headline growth.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "3,300 Cr",
+            "change": "19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "886 Cr",
+            "change": "17% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "22%",
+            "change": "+189 bps",
+            "positive": 1
+          },
+          {
+            "label": "Cash",
+            "value": "2,052 Cr",
+            "change": "Strong balance sheet",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at 3,300 Cr, growing 19% YoY, with USD revenue of 374 Mn.",
+          "Q4 revenue was 886 Cr, up 17% YoY and 4% QoQ, supported by steady client demand.",
+          "Healthcare and life sciences grew 66%, financial services grew 32%, and CPG and retail grew 12%.",
+          "Q4 adjusted EBITDA grew 28% YoY with margin expanding to 22%.",
+          "Net income grew 30% to 287 Cr, while operating cash flow stood at 409 Cr with 70% conversion."
+        ],
+        "guidance": [
+          {
+            "metric": "Client Retention",
+            "value": "Net revenue retention at 117% for FY26"
+          },
+          {
+            "metric": "Recurring Revenue",
+            "value": "Annualized recurring revenue up about 77% YoY"
+          },
+          {
+            "metric": "Balance Sheet",
+            "value": "Long-term debt repaid after year end"
+          }
+        ],
+        "highlights": [
+          "Fractal delivered broad-based growth across healthcare, financial services and CPG/retail.",
+          "Europe grew 34% and the Americas grew 20%, offsetting softer APAC performance.",
+          "Full-year adjusted EBITDA margin stood at 17.6% even after meaningful R&D investment.",
+          "Q4 net income more than doubled YoY to 116 Cr, helped by scale and operating leverage.",
+          "NPS remained very high at 81, supporting strong renewal and expansion behavior.",
+          "The balance sheet strengthened with 2,052 Cr cash, including IPO proceeds."
+        ],
+        "quote": "\"Net revenue retention remained strong at 117% for the full year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Happiest Minds Technologies Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "2,315 Cr+",
+            "change": "12.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "213 Cr",
+            "change": "15% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Op Margin",
+            "value": "17.4%",
+            "change": "+10 bps",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Pipeline",
+            "value": "27%",
+            "change": "Growth",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue crossed 2,315 Cr, growing 12.3% in rupee terms and 9.2% in constant currency.",
+          "Operating margin for FY26 stood at 17.4%, broadly stable versus 17.3% in the previous year.",
+          "FY26 PAT stood at 213 Cr, growing 15%, while adjusted PAT was 279 Cr.",
+          "The company ended the year with 306 active customers and a healthier deal pipeline.",
+          "Q4 operating margin stood at 17.5%, with operating profit of 106 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "12.5% guidance, aspirational 15%"
+          },
+          {
+            "metric": "FY27 Margin",
+            "value": "18-18.5% operating margin target"
+          },
+          {
+            "metric": "AI Team",
+            "value": "Targeting 1,000 AI and GenAI focused people by FY27 end"
+          }
+        ],
+        "highlights": [
+          "Management reconfirmed FY27 revenue growth guidance of 12.5%, with an aspirational 15% target.",
+          "The Q4 pipeline grew 27%, improving revenue visibility for the next year.",
+          "The company plans a meaningful hiring and capability ramp in FY27.",
+          "AI and GenAI are becoming a core investment area, with a 1,000-member focused team planned.",
+          "Margins are expected to improve to 18-18.5% in FY27 as operating leverage builds.",
+          "Attrition remained an area to watch at around 17%."
+        ],
+        "quote": "\"The Board reconfirmed our FY27 growth guidance of 12.5%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Indegene Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "3,510.5 Cr",
+            "change": "23.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "1,000 Cr+",
+            "change": "32.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Adj EBITDA",
+            "value": "679.3 Cr",
+            "change": "20.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 OCF",
+            "value": "650.8 Cr",
+            "change": "162% of PAT",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at 3,510.5 Cr, growing 23.6% in INR terms and 18.2% in USD terms.",
+          "Q4 became the first quarter with revenue above 1,000 Cr, up 6.5% QoQ and 32.8% YoY.",
+          "FY26 adjusted EBITDA grew 20.8% to 679.3 Cr, while Q4 adjusted EBITDA was 188.9 Cr.",
+          "Adjusted PAT grew 12.7% to 458.3 Cr, while reported PAT stood at 401.1 Cr.",
+          "Operating cash flow was strong at 650.8 Cr, equivalent to 162% of PAT."
+        ],
+        "guidance": [
+          {
+            "metric": "Large Deal Ramp",
+            "value": "$10 Mn+ omnichannel deal to contribute from Q1 FY27"
+          },
+          {
+            "metric": "Customer Scale",
+            "value": "Customers above $1 Mn grew from 41 to 53"
+          },
+          {
+            "metric": "Acquisitions",
+            "value": "BioPharm, Warn and Cake Communications added in FY26"
+          }
+        ],
+        "highlights": [
+          "Top 20 customer revenue grew from 2,208.2 Cr to 2,520 Cr, showing strong account expansion.",
+          "Active customers increased from 73 to 91 during the year.",
+          "Customers contributing over $1 Mn grew to 53, strengthening the quality of revenue.",
+          "Tectonic secured 5 customers, with 2 pilots moving into long-term engagements.",
+          "Three acquisitions expanded capabilities across medical, regulatory and creative services.",
+          "Cash generation remained strong, with operating cash flow materially ahead of reported PAT."
+        ],
+        "quote": "\"Q4 was our first ever quarter above 1,000 Cr revenue.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Intellect Design Arena Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Total Income", "value": "₹872 Cr", "change": "+19% YoY", "positive": 1 },
+          { "label": "License-Linked Revenue", "value": "₹457 Cr", "change": "+17% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹194 Cr", "change": "+10% YoY", "positive": 1 },
+          { "label": "Pipeline", "value": "₹13,000 Cr", "change": "+15% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Total income grew 19% YoY to ₹872 Cr",
+          "License-linked revenue increased 17% to ₹457 Cr",
+          "EBITDA rose to ₹194 Cr from ₹176 Cr",
+          "PBT increased to ₹135 Cr from ₹126 Cr",
+          "Collections grew 30% YoY to ₹763 Cr"
+        ],
+        "guidanceTracking": [
+          { "metric": "Pipeline", "guided": ">₹12,000 Cr", "actual": "₹13,000 Cr", "status": "exceeded" },
+          { "metric": "Destiny Deals", "guided": "99 active", "actual": "Crossed 100; seven converted in Q1", "status": "exceeded" },
+          { "metric": "ARR Momentum", "guided": "₹1,247 Cr Q4 base", "actual": "License-linked and platform revenue continued growing", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Growth Strategy", "value": "AI-first platform and strategic markets" },
+          { "metric": "Platform Revenue", "value": "Stable recurring growth" },
+          { "metric": "Operating Leverage", "value": "Improve through AI adoption" },
+          { "metric": "Market Focus", "value": "North America, Europe, Middle East, India and APAC" }
+        ],
+        "highlights": [
+          "The company secured 19 strategic wins and completed 16 transformations",
+          "Seven Destiny deals converted during the quarter",
+          "Purple Fabric won a large Indian financial-services deployment",
+          "Three custody deals were won in India",
+          "Cash and equivalents increased 30% YoY to ₹1,269 Cr",
+          "LTM platform revenue nearly doubled to ₹595 Cr"
+        ],
+        "quote": "\"Intellect expanded its pipeline and strategic wins while preserving profitable platform-led growth.\"",
+        "quotePerson": "Management Commentary", "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Total Income",
+            "value": "3,161 Cr",
+            "change": "23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Platform Revenue",
+            "value": "580 Cr",
+            "change": "141% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "703 Cr",
+            "change": "16% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Cash",
+            "value": "1,257 Cr",
+            "change": "Zero debt",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income stood at 3,161 Cr, growing 23% YoY.",
+          "License-linked revenue grew 34% to 1,667 Cr, supported by platform, license and AMC growth.",
+          "Platform revenue rose 141% to 580 Cr, reflecting stronger IP-led monetization.",
+          "FY26 EBITDA grew 16% to 703 Cr, while Non-GAAP EBITDA stood at 756 Cr.",
+          "PAT after exceptional items stood at 345 Cr, with cash and equivalents of 1,257 Cr and zero debt."
+        ],
+        "guidance": [
+          {
+            "metric": "Pipeline",
+            "value": "Crossed 12,000 Cr"
+          },
+          {
+            "metric": "Destiny Deals",
+            "value": "99 active deals, 21 wins in FY26"
+          },
+          {
+            "metric": "ARR",
+            "value": "Q4 ARR at 1,247 Cr"
+          }
+        ],
+        "highlights": [
+          "The company added 59 new customers and completed 91 digital transformations during FY26.",
+          "Q4 total income stood at 884 Cr, with platform revenue of 162 Cr and license revenue of 152 Cr.",
+          "Q4 EBITDA was 221 Cr and Q4 PBT stood at 162 Cr.",
+          "Collections were healthy at 791 Cr in Q4, supporting balance sheet strength.",
+          "The pipeline crossed 12,000 Cr, giving strong medium-term visibility.",
+          "The company filed close to 100 patents during the year, taking total filings to 125."
+        ],
+        "quote": "\"Our platform revenue grew 141% during the year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Inventurus Knowledge Solutions Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹893 Cr", "change": "+21% YoY", "positive": 1 },
+          { "label": "EBITDA", "value": "₹294 Cr", "change": "33% margin", "positive": 1 },
+          { "label": "Adj. EBITDA Margin", "value": ">35%", "change": "Ex acquisition cost", "positive": 1 },
+          { "label": "PAT", "value": "₹193 Cr", "change": "+28% YoY", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 21% YoY and 12% in constant currency to ₹893 Cr",
+          "Reported EBITDA was ₹294 Cr with a 33% margin",
+          "Adjusted for ₹20 Cr acquisition costs, EBITDA was ₹314 Cr with margin above 35%",
+          "PAT increased 28% YoY to ₹193 Cr",
+          "ROE remained healthy at 26%"
+        ],
+        "guidanceTracking": [
+          { "metric": "EBITDA Margin", "guided": "Around 35%", "actual": ">35% adjusted", "status": "met" },
+          { "metric": "Client Scale", "guided": ">600 clients", "actual": "Large health-system wins and cross-sell expanded", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Post-TruBridge Margin", "value": "Early-to-mid 30% range" },
+          { "metric": "FY30 EBITDA", "value": "At least ₹3,000 Cr" },
+          { "metric": "Margin Recovery", "value": "Return to normal cadence over two years" },
+          { "metric": "Integration Costs", "value": "Similar level in Q2, then moderate" }
+        ],
+        "highlights": [
+          "TruBridge closed after quarter-end and was excluded from Q1 revenue",
+          "A major California health system selected IKS for Epic-related work",
+          "Advocate Health expanded revenue-cycle and coding relationships",
+          "Land-and-expand cross-selling showed stronger traction",
+          "Adjusted EBITDA per employee continued to improve",
+          "Operating and free cash generation remained strong"
+        ],
+        "quote": "\"IKS maintained its adjusted margin profile while accelerating growth and preparing for TruBridge integration.\"",
+        "quotePerson": "Management Commentary", "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "3,193 Cr",
+            "change": "Nearly 20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "1,091 Cr",
+            "change": "38% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "721 Cr",
+            "change": "48% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 OCF",
+            "value": "863 Cr",
+            "change": "99% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at 3,193 Cr, growing nearly 20% YoY.",
+          "FY26 EBITDA grew 38% to 1,091 Cr, with EBITDA margin around 34%.",
+          "FY26 PAT grew 48% to 721 Cr, reflecting strong operating leverage.",
+          "Operating cash flow grew 99% to 863 Cr, while free cash flow stood around 721 Cr.",
+          "Q4 revenue was 857 Cr, up 18.5% YoY and 5.2% QoQ, with 13% constant-currency growth."
+        ],
+        "guidance": [
+          {
+            "metric": "Q4 EBITDA Margin",
+            "value": "Around 35%"
+          },
+          {
+            "metric": "Client Base",
+            "value": "More than 600 clients"
+          },
+          {
+            "metric": "AI Focus",
+            "value": "Agentic AI across documentation, coding and prior authorization"
+          }
+        ],
+        "highlights": [
+          "Q4 EBITDA was around 300 Cr, growing 33% YoY and 6.6% QoQ.",
+          "Top 10 customer revenue stood at 452 Cr in Q4.",
+          "Headcount was 13,331, up 5.3% YoY, while Q4 revenue grew despite QoQ headcount reduction.",
+          "The sales and marketing team expanded to 66 FTEs to support growth.",
+          "Agentic AI products such as Scribble Now, Scribble Select and MyCare Hub are gaining focus.",
+          "The TruBridge transaction is expected to add another strategic growth pillar."
+        ],
+        "quote": "\"We delivered nearly 20% revenue growth with 38% EBITDA growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Mphasis Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "$471 Mn", "change": "+8.3% YoY CC", "positive": 1 },
+          { "label": "Direct Revenue", "value": "$465 Mn", "change": "+9.9% YoY CC", "positive": 1 },
+          { "label": "Net New TCV", "value": "$461 Mn", "change": "Q1FY27", "positive": 1 },
+          { "label": "EPS", "value": "₹25.6", "change": "-4% QoQ", "positive": 0 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 2.1% QoQ and 8.3% YoY in constant currency to $471 Mn",
+          "Direct revenue grew 9.9% YoY in constant currency to $465 Mn",
+          "Net new TCV was $461 Mn, with three large deals including one above $100 Mn",
+          "EBIT margin declined 60 bps QoQ but remained within the guided band",
+          "Operating cash flow was $39 Mn"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 CC Growth", "guided": "High single to low double digit", "actual": "8.3% YoY", "status": "met" },
+          { "metric": "AI-Led Pipeline", "guided": "69%", "actual": "70%", "status": "met" },
+          { "metric": "AI-Led Wins", "guided": "64% Q4 level", "actual": "63% of Q1 TCV", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "FY27 CC Growth", "value": "High single to low double digit" },
+          { "metric": "FY27 EBIT Margin", "value": "14.75-15.75%" },
+          { "metric": "Q2 Growth", "value": "Best sequential CC growth in three years" },
+          { "metric": "DSO", "value": "Progressive improvement through FY27" }
+        ],
+        "highlights": [
+          "AI-led deals stabilised near 70% of the pipeline",
+          "BFS grew 9.4% YoY in Direct business",
+          "Insurance grew 17.8% YoY and remains a FY27 growth driver",
+          "TMT grew 16.4% QoQ as recent deals ramped",
+          "BPO grew 12.7% QoQ and 14% YoY",
+          "Deal ramp-up and TAP acquisition costs affected Q1 margin"
+        ],
+        "quote": "\"Mphasis entered Q2 with record pipeline visibility and retained its growth and margin guidance.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 TCV",
+            "value": "$2.1 Bn+",
+            "change": "Highest ever",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "$463 Mn",
+            "change": "7.1% YoY CC",
+            "positive": 1
+          },
+          {
+            "label": "FY26 CC Growth",
+            "value": "6.7%",
+            "change": "Revenue growth",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBIT Margin",
+            "value": "15.3%",
+            "change": "Stable margin",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 net new TCV exceeded $2.1 Bn, the highest ever for the company.",
+          "FY26 revenue grew 6.7% in constant currency, with Q4 revenue at $463 Mn.",
+          "Q4 revenue grew 2.5% QoQ and 7.1% YoY in constant currency.",
+          "Direct revenue contributed 98.6% of total revenue and grew 9.2% YoY in Q4 constant currency.",
+          "FY26 EBIT margin stood at 15.3%, while Q4 EBIT margin improved to 15.4%."
+        ],
+        "guidance": [
+          {
+            "metric": "AI-led Wins",
+            "value": "64% of Q4 wins were AI-led"
+          },
+          {
+            "metric": "AI-led Pipeline",
+            "value": "69% of pipeline AI-led"
+          },
+          {
+            "metric": "BFS Momentum",
+            "value": "Direct BFS grew 18.6% in FY26"
+          }
+        ],
+        "highlights": [
+          "Q4 net new TCV stood at $407 Mn, adding to strong FY26 deal momentum.",
+          "BFS remained the core vertical at 76.5% of revenue, with strong YoY growth in Q4.",
+          "Insurance grew 7.3% QoQ and 46.5% YoY, adding a high-growth vertical tailwind.",
+          "Operating profit grew 7.2% QoQ and 15% YoY in Q4.",
+          "The company highlighted strong AI-led demand through NeoIP and related platforms.",
+          "Client bucket expansion continued, including movement into larger revenue categories."
+        ],
+        "quote": "\"FY26 net new TCV crossed $2.1 billion, our highest ever.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Persistent Systems Ltd": [
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "$1,654.4 Mn",
+            "change": "17.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 INR Revenue",
+            "value": "14,748.5 Cr",
+            "change": "23.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBIT",
+            "value": "2,303.5 Cr",
+            "change": "31.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 TCV",
+            "value": "$428.9 Mn",
+            "change": "New bookings",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue stood at $1,654.4 Mn, growing 17.4% YoY.",
+          "Rupee revenue grew 23.5% to 14,748.5 Cr.",
+          "FY26 EBIT grew 31.5% to 2,303.5 Cr, with EBIT margin expanding 90 bps to 15.6%.",
+          "Q4 revenue was $436 Mn, up 3.2% QoQ and 16.2% YoY, marking the 24th sequential growth quarter.",
+          "Q4 PAT grew 20.4% QoQ and 33.7% YoY, with PAT margin at 13.1%."
+        ],
+        "guidance": [
+          {
+            "metric": "Q4 Bookings",
+            "value": "$428.9 Mn TCV and $445.1 Mn ACV"
+          },
+          {
+            "metric": "Dividend",
+            "value": "Total FY26 dividend of 40 per share"
+          },
+          {
+            "metric": "Growth Streak",
+            "value": "24 consecutive quarters of revenue growth"
+          }
+        ],
+        "highlights": [
+          "Q4 rupee revenue grew 7.4% QoQ and 25.1% YoY to 4,055.9 Cr.",
+          "Q4 EBIT was 659.2 Cr, with margin improving 70 bps to 16.3%.",
+          "North America grew 17.2% and Europe grew 26.7% during FY26.",
+          "BFS grew 28.4%, high-tech and emerging industries grew 13.8%, and healthcare grew 10.1%.",
+          "Q4 bookings remained strong with both TCV and ACV above quarterly revenue.",
+          "The company maintained consistent growth with improving profitability."
+        ],
+        "quote": "\"Q4 marked our 24th sequential quarter of revenue growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sagility Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "₹1,963.5 Cr", "change": "+27.6% YoY", "positive": 1 },
+          { "label": "Adj. EBITDA", "value": "₹471.6 Cr", "change": "+27.9% YoY", "positive": 1 },
+          { "label": "Adj. PAT", "value": "₹269.7 Cr", "change": "+35.1% YoY", "positive": 1 },
+          { "label": "Signed ACV", "value": "$35.3 Mn", "change": "Q1FY27", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 27.6% YoY and 15.2% in constant currency to ₹1,963.5 Cr",
+          "Organic constant-currency growth was 14.9%",
+          "Adjusted EBITDA rose 27.9% to ₹471.6 Cr with margin at 24%",
+          "Adjusted PAT increased 35.1% to ₹269.7 Cr",
+          "Steady-state organic revenue grew 5.1% QoQ after adjusting for seasonality"
+        ],
+        "guidanceTracking": [
+          { "metric": "Deal Momentum", "guided": "$30.7 Mn Q4 ACV potential", "actual": "$35.3 Mn signed in Q1", "status": "exceeded" },
+          { "metric": "Cash Conversion", "guided": "Strong conversion", "actual": "~70% EBITDA-to-cash conversion", "status": "met" }
+        ],
+        "guidance": [
+          { "metric": "Seasonality", "value": "Revenue uptick expected in Q3 and Q4" },
+          { "metric": "Growth", "value": "Healthy steady-state organic trajectory" },
+          { "metric": "CareSeed", "value": "Cross-sell across 26 added clients" },
+          { "metric": "Margin", "value": "Protect through cost discipline" }
+        ],
+        "highlights": [
+          "The company signed $35.3 Mn ACV across 18 existing clients and one new logo",
+          "CareSeed added 26 client groups and 95% recurring revenue",
+          "Payers contributed 89.6% of revenue",
+          "Voluntary attrition improved to 28.6% from 38.1% QoQ",
+          "Headcount stood at 47,307",
+          "Annual wage increases were absorbed without margin dilution"
+        ],
+        "quote": "\"Sagility combined mid-teens organic growth with stable margins and stronger commercial ACV.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "2,024.3 Cr",
+            "change": "29.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Adj EBITDA",
+            "value": "1,820 Cr",
+            "change": "25.3% margin",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Adj PAT",
+            "value": "1,130.6 Cr",
+            "change": "39.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 ACV",
+            "value": "$30.7 Mn",
+            "change": "Commercial wins",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 revenue stood at 2,024.3 Cr, growing 29.1% YoY.",
+          "Q4 adjusted EBITDA was 503.6 Cr, with margin at 24.9%.",
+          "FY26 adjusted EBITDA stood at 1,820 Cr, with margin of 25.3%, ahead of guidance.",
+          "FY26 adjusted PAT grew 39.5% YoY to 1,130.6 Cr, with margin expanding to 15.7%.",
+          "Three-year CAGR was 16.2% for revenue, 17.7% for adjusted EBITDA and 31.7% for adjusted PAT in dollar terms."
+        ],
+        "guidance": [
+          {
+            "metric": "Deal Momentum",
+            "value": "$30.7 Mn Q4 commercial ACV potential"
+          },
+          {
+            "metric": "Cash Conversion",
+            "value": "Q4 operating cash flow conversion at 104.6%"
+          },
+          {
+            "metric": "FY27 View",
+            "value": "Momentum expected to continue, though deal timing can be lumpy"
+          }
+        ],
+        "highlights": [
+          "Q4 commercial wins were spread across 18 existing clients and 2 new clients.",
+          "Employee base stood at 46,860 at the end of Q4.",
+          "Cash position was 903.8 Cr at the end of Q4, supported by strong collections.",
+          "Adjusted PAT growth remained ahead of revenue growth due to operating leverage.",
+          "Management highlighted healthy momentum into FY27 despite normal timing variability in deals.",
+          "The company continued to scale in healthcare operations with strong profitability."
+        ],
+        "quote": "\"Adjusted EBITDA margin came in ahead of guidance at 25.3%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Tata Technologies Ltd": [
+      {
+        "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
+        "metrics": [
+          { "label": "Revenue", "value": "$175.4 Mn", "change": "+25.2% YoY CC", "positive": 1 },
+          { "label": "Services Revenue", "value": "$136.6 Mn", "change": "+24.4% YoY CC", "positive": 1 },
+          { "label": "EBITDA", "value": "$28 Mn", "change": "16.1% margin", "positive": 1 },
+          { "label": "INR Revenue", "value": "₹1,665 Cr", "change": "+5.9% QoQ", "positive": 1 }
+        ],
+        "fyPerformance": [
+          "Revenue grew 4.3% QoQ and 25.2% YoY in constant currency to $175.4 Mn",
+          "Services revenue grew 24.4% YoY CC to $136.6 Mn",
+          "Technology Solutions grew 27.9% YoY CC to $38.8 Mn",
+          "EBITDA increased 6.1% QoQ to ₹267 Cr and margin improved to 16.1%",
+          "Automotive non-anchor revenue grew 56.3% YoY to $43.9 Mn"
+        ],
+        "guidanceTracking": [
+          { "metric": "FY27 Organic Growth", "guided": "Double digit", "actual": "25.2% YoY CC", "status": "exceeded" },
+          { "metric": "FY27 Exit Margin", "guided": ">18%", "actual": "16.1% in Q1", "status": "partial" }
+        ],
+        "guidance": [
+          { "metric": "FY27 Organic Growth", "value": "Strong double digit" },
+          { "metric": "Margin", "value": "Progressive expansion through FY27" },
+          { "metric": "Services", "value": "Primary growth engine" },
+          { "metric": "Large Deals", "value": "Ramp-up supports future quarters" }
+        ],
+        "highlights": [
+          "Services remained 78% of revenue",
+          "Aerospace revenue grew 38.1% YoY to $10.2 Mn",
+          "Europe grew 10.1% QoQ to $67.9 Mn",
+          "BMW TechWorks crossed 2,000 engineers",
+          "Embedded and software revenue grew 8.5% QoQ",
+          "Upfront mobilisation costs for large programmes restrained Q1 margin"
+        ],
+        "quote": "\"Growth is well ahead of the FY27 threshold, while margin expansion remains the next execution milestone.\"",
+        "quotePerson": "Management Commentary", "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue Growth",
+            "value": "15.1%",
+            "change": "QoQ reported",
+            "positive": 1
+          },
+          {
+            "label": "Q4 CC Growth",
+            "value": "12.4%",
+            "change": "QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "252 Cr",
+            "change": "30.7% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "16%",
+            "change": "+200 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q4 delivered more than 10% sequential revenue growth, with reported revenue up 15.1% QoQ.",
+          "Services revenue grew 12% QoQ in constant currency, led by automotive and aerospace demand.",
+          "Automotive grew 13.6% QoQ in USD terms, while Aerospace and IHM grew 4.6% QoQ.",
+          "Technology Solutions grew 12% sequentially, with education up 36% sequentially.",
+          "Q4 EBITDA grew 30.7% QoQ to 252 Cr, with margin improving 200 bps to 16%."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Double-digit organic topline growth excluding ES-Tec"
+          },
+          {
+            "metric": "FY27 Margin Exit",
+            "value": "Operating margin run rate above 18%"
+          },
+          {
+            "metric": "Deal Wins",
+            "value": "4 large Q4 deals plus 2 milestone wins after quarter end"
+          }
+        ],
+        "highlights": [
+          "The company won large programs across North American commercial vehicles, European autos and Tier-1 suppliers.",
+          "April wins included a European luxury OEM PLM transformation and a Japanese OEM full-vehicle program.",
+          "Embedded Software has compounded at 60% CAGR over the last three years.",
+          "Aerospace revenue has grown 8x over four years and crossed a $40 Mn annual run rate.",
+          "Management is targeting double-digit organic growth in FY27, excluding ES-Tec.",
+          "Operating margin exit run rate is expected to move above 18% by the end of FY27."
+        ],
+        "quote": "\"We expect to exit FY27 at an operating margin run rate of over 18%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
   }
 }

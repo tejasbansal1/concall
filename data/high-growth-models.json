@@ -1,0 +1,4077 @@
+{
+  "sector": {
+    "name": "High Growth Models",
+    "description": "High-growth companies across sectors",
+    "accent": "#BE123C",
+    "accentLight": "#FFF1F2"
+  },
+  "companies": [
+    "Hindustan Foods Ltd",
+    "Rubicon Research Ltd",
+    "Ather Energy Ltd",
+    "Aditya Infotech Ltd",
+    "MTAR Technologies Ltd",
+    "Sterlite Technologies Ltd",
+    "KSH International Ltd",
+    "Aeroflex Industries Ltd",
+    "TD Power Systems Ltd",
+    "Unimech Aerospace and Manufacturing Ltd",
+    "Gala Precision Engineering Ltd",
+    "Azad Engineering Ltd",
+    "Shadowfax Technologies Ltd",
+    "Acutaas Chemicals Ltd",
+    "Bluestone Jewellery and Lifestyle Ltd",
+    "Milky Mist Dairy Food Ltd",
+    "OnEMI Technology Solutions Ltd",
+    "Atlanta Electricals Ltd",
+    "Standard Engineering Technology Ltd",
+    "Aegis Logistics Ltd",
+    "Diffusion Engineers Ltd",
+    "Shivalik Bimetal Controls Ltd",
+    "GNG Electronics Ltd",
+    "MPS Ltd",
+    "Privi Speciality Chemicals Ltd"
+  ],
+  "concall": {
+    "Hindustan Foods Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹1,207 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹106.3 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹42.8 Cr",
+            "change": "+33% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Signed Projects",
+            "value": "₹340 Cr",
+            "change": "Added in FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 total income grew 18% YoY to ₹1,207 Cr",
+          "EBITDA rose 26% to ₹106.3 Cr as newer plants scaled up",
+          "PAT increased 33% to a record ₹42.8 Cr",
+          "Footwear and wage-related costs reduced quarterly profit by about ₹6 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 PAT",
+            "guided": "₹200-220 Cr",
+            "actual": "₹42.8 Cr in Q1; guidance retained",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Footwear Revenue",
+            "guided": "₹700-800 Cr",
+            "actual": "Utilisation recovered to 80-90% by August",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Project Start-up",
+            "guided": "₹150 Cr of signed projects",
+            "actual": "₹340 Cr signed; nearly ₹500 Cr including carry-forward",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT",
+            "value": "₹200-220 Cr"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "value": "34-48%"
+          },
+          {
+            "metric": "FY27 Projects",
+            "value": "Nearly ₹500 Cr to start operations"
+          }
+        ],
+        "highlights": [
+          "New projects comprise ₹210 Cr in food and beverages, ₹80 Cr in ice cream and ₹50 Cr in home care",
+          "The Panipat ice-cream plant began production and additional capacity is being added",
+          "Footwear utilisation recovered to 80-90% in August after Q1 supply disruptions",
+          "A ₹1,000 Cr project pipeline is under discussion but is not yet signed",
+          "Some customer contracts will shift to net revenue reporting from Q3FY27 without affecting profit or cash",
+          "Recently opened plants remain the main driver of profit growth"
+        ],
+        "quote": "\"We reaffirm our FY27 PAT guidance of ₹200 crores to ₹220 crores.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Total Income",
+            "value": "₹1,120 Cr",
+            "change": "+17% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹104 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "₹41.5 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹149 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income grew 17% to ₹4,264 Cr",
+          "FY26 EBITDA increased 20% to ₹377 Cr",
+          "PAT rose 29% to a record ₹149 Cr",
+          "Q4 PAT grew faster than revenue as plant utilisation improved"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT",
+            "value": "₹200-220 Cr"
+          },
+          {
+            "metric": "FY27 Footwear Revenue",
+            "value": "₹700-800 Cr"
+          },
+          {
+            "metric": "Signed FY27 Projects",
+            "value": "₹150 Cr"
+          }
+        ],
+        "highlights": [
+          "The company completed a multi-year investment programme of more than ₹700 Cr",
+          "The Panipat ice-cream plant began commercial production in April 2026",
+          "Silvassa and Lucknow home-care projects are scheduled to start during FY27",
+          "New beverage lines in Aurangabad and South India are planned for FY27",
+          "Footwear approached ₹500 Cr revenue and became EBITDA and PAT positive",
+          "Reported revenue may fall after a Q3FY27 accounting change, with no impact on profit or cash"
+        ],
+        "quote": "\"We remain confident of delivering FY27 PAT of ₹200 crores to ₹220 crores.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Rubicon Research Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹534.3 Cr",
+            "change": "+52% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹129.1 Cr",
+            "change": "+63.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹84.8 Cr",
+            "change": "+96% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "24.2%",
+            "change": "+180 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 52% YoY to ₹534.3 Cr",
+          "Operating EBITDA rose 63.2% to ₹129.1 Cr and margin reached 24.2%",
+          "PAT increased 96% to ₹84.8 Cr, including a one-time insurance receipt",
+          "Arinna contributed about ₹12 Cr of revenue with no material EBITDA contribution"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "22-23%",
+            "actual": "24.2% in Q1; full-year guidance raised to 23%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Nine-quarter R&D Spend",
+            "guided": "₹500 Cr by Q1FY28",
+            "actual": "₹251 Cr spent after five quarters",
+            "status": "partial"
+          },
+          {
+            "metric": "Pithampur Production",
+            "guided": "Start in Q1CY27",
+            "actual": "FDA response filed; start-up remains on schedule",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Around 23%"
+          },
+          {
+            "metric": "R&D Spend",
+            "value": "₹500 Cr by Q1FY28"
+          },
+          {
+            "metric": "Pithampur Production",
+            "value": "Q1CY27"
+          },
+          {
+            "metric": "New Jersey Production",
+            "value": "CY2027"
+          }
+        ],
+        "highlights": [
+          "US revenue grew 32% to $55 million despite exiting some lower-margin business",
+          "Two products received approvals and the commercialisation rate remained 88%",
+          "Gross margin improved to 67.7% after reducing low-margin outsourced sales",
+          "Pithampur's FDA observations were procedural and the company filed its response",
+          "The New Jersey plant adds US-based manufacturing for specialty products",
+          "Working-capital days improved to 114 from 126 at FY26-end"
+        ],
+        "quote": "\"We are comfortable revising FY27 EBITDA margin guidance to around 23%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹514 Cr",
+            "change": "+44% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹121.3 Cr",
+            "change": "+67% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "₹76.8 Cr",
+            "change": "+112% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹1,754 Cr",
+            "change": "+37% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 37% to ₹1,754 Cr",
+          "Operating EBITDA increased 52% to ₹400 Cr",
+          "PAT rose 84% to ₹246.7 Cr",
+          "Q4 revenue, EBITDA and PAT grew 44%, 67% and 112% respectively"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "22-23%"
+          },
+          {
+            "metric": "R&D Spend",
+            "value": "₹500 Cr by Q1FY28"
+          },
+          {
+            "metric": "Capex",
+            "value": "Around ₹300 Cr over 2 years"
+          },
+          {
+            "metric": "Pithampur Production",
+            "value": "Q1CY27"
+          }
+        ],
+        "highlights": [
+          "Twelve products were approved in FY26 and 24 remained under FDA review",
+          "The commercialisation rate was 92% across approved products",
+          "Specialty products contributed 33% of Q4 gross profit",
+          "High demand required more outsourced manufacturing, temporarily affecting gross margin",
+          "Pithampur was awaiting its FDA inspection before commercial production",
+          "Working-capital days improved to 126 from 137"
+        ],
+        "quote": "\"The EBITDA range remains 22% to 23% despite near-term outsourcing costs.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Ather Energy Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Wholesale Volume",
+            "value": "83,000",
+            "change": "+81% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Retail Registrations",
+            "value": ">90,000",
+            "change": "+102% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted Gross Margin",
+            "value": "22.4%",
+            "change": "Commodity pressure",
+            "positive": 0
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹9 Cr",
+            "change": "First positive quarter",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Wholesale volume grew 81% YoY to 83,000 vehicles",
+          "Retail registrations more than doubled to over 90,000 vehicles",
+          "Adjusted gross margin was 22.4% after a sharp rise in commodity costs",
+          "Ather reported its first positive EBITDA quarter at ₹9 Cr and a 0.8% margin"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Factory 3.0 Phase 1",
+            "guided": "Start in Q3FY27 with 5 lakh annual capacity",
+            "actual": "Assembly installed; start-up remained on schedule",
+            "status": "partial"
+          },
+          {
+            "metric": "EL Scooter Launch",
+            "guided": "During FY27",
+            "actual": "Production trials began; unveiling scheduled for August",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Factory 3.0 Phase 1",
+            "value": "Q3FY27"
+          },
+          {
+            "metric": "Added Annual Capacity",
+            "value": "5 lakh vehicles"
+          },
+          {
+            "metric": "Total Annual Capacity",
+            "value": "9.2 lakh after Phase 1"
+          },
+          {
+            "metric": "EL Production Capacity",
+            "value": "60,000 vehicles per month"
+          }
+        ],
+        "highlights": [
+          "Hosur reached nearly full use of its 35,000-unit monthly capacity",
+          "Dealer inventory fell to three days as retail demand exceeded production",
+          "The EL scooter entered production trials ahead of its August unveiling",
+          "Average selling price rose to ₹1.61 lakh and Pro-Pack attachment reached 94%",
+          "A ₹1,300 Cr QIP was completed to fund capacity and product expansion",
+          "Factory 3.0 is the key step for resolving current supply constraints"
+        ],
+        "quote": "\"Factory 3.0 is tracking well for a go-live later this calendar year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Volume",
+            "value": "83,000",
+            "change": "Vehicles",
+            "positive": 1
+          },
+          {
+            "label": "Market Share",
+            "value": "18.6%",
+            "change": "+1,100 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted Gross Margin",
+            "value": "24%",
+            "change": "+500 bps",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "-2%",
+            "change": "+2,000 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 vehicle volume grew about 66%",
+          "Q4 volume reached 83,000 vehicles and market share rose to 18.6%",
+          "Adjusted gross margin improved by five percentage points to 24%",
+          "Q4 EBITDA margin improved to -2% from -23% a year earlier"
+        ],
+        "guidance": [
+          {
+            "metric": "Factory 3.0 Phase 1",
+            "value": "Q3FY27"
+          },
+          {
+            "metric": "Initial Annual Capacity",
+            "value": "5 lakh vehicles"
+          },
+          {
+            "metric": "EL Scooter Platform",
+            "value": "Launch during FY27"
+          }
+        ],
+        "highlights": [
+          "Rizta contributed nearly three-quarters of sales and drove the market-share gain",
+          "The retail network doubled to 700 stores, mostly through existing dealers",
+          "Middle India market share rose to 17.3% and South India reached 23%",
+          "Pro-Pack attachment reached a record 93%",
+          "The charging network crossed 6,000 fast-charging points",
+          "Factory 3.0 is being built to remove supply constraints and support the EL platform"
+        ],
+        "quote": "\"Q4 EBITDA losses narrowed from 23% to about 2%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Aditya Infotech Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,402 Cr",
+            "change": "+89.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹208 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹142.2 Cr",
+            "change": "+332.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "14.8%",
+            "change": "+604 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 89.5% YoY to ₹1,402 Cr",
+          "EBITDA rose 20% to ₹208 Cr and margin reached 14.8%",
+          "Adjusted PAT increased 332.5% to ₹142.2 Cr",
+          "Gross margin expanded to 30.8%, supported by CP PLUS and higher-value IP products"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue",
+            "guided": "₹6,000-6,500 Cr",
+            "actual": "₹1,402 Cr in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "14-15%",
+            "actual": "14.8% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 PAT Margin",
+            "guided": "8.5-9.5%",
+            "actual": "10.1% adjusted PAT margin in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Housing Plant Phase 1",
+            "guided": "Q2FY27",
+            "actual": "Start-up shifted to Q3FY27",
+            "status": "missed"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹6,000-6,500 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "14-15%"
+          },
+          {
+            "metric": "FY27 PAT Margin",
+            "value": "8.5-9.5%"
+          },
+          {
+            "metric": "Production Capacity",
+            "value": "Nearly 2x over 3 years"
+          }
+        ],
+        "highlights": [
+          "CP PLUS contributed 87% of revenue and IP products formed 79% of its portfolio",
+          "Cash-conversion cycle improved to 64 days and debt-to-equity fell to 0.07",
+          "The housing and enclosure plant is now expected to start in Q3FY27",
+          "Kadapa's 2.5 million-unit monthly capacity was operating at 85-90%",
+          "The Rajasthan cable plant is targeted to begin production by FY27-end",
+          "New AI-led enterprise products are targeted for launch by Q4FY27"
+        ],
+        "quote": "\"We remain with our FY27 EBITDA margin guidance of 14% to 15%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹1,422 Cr",
+            "change": "+45.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹258.3 Cr",
+            "change": "+162% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Adjusted PAT",
+            "value": "₹169.1 Cr",
+            "change": "+207.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹4,220.8 Cr",
+            "change": "+35.6% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 35.6% to ₹4,220.8 Cr",
+          "EBITDA increased 124.1% to ₹579 Cr and margin expanded to 13.7%",
+          "Adjusted PAT rose 166.1% to ₹368 Cr",
+          "Q4 EBITDA margin reached 18% on better mix, localisation and efficiency"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹6,000-6,500 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "14-15%"
+          },
+          {
+            "metric": "FY27 PAT Margin",
+            "value": "8.5-9.5%"
+          },
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "25-30%"
+          }
+        ],
+        "highlights": [
+          "CP PLUS contributed 86% of revenue and IP products formed 73% of its portfolio",
+          "The company's branded market share reached about 45.4%",
+          "Monthly camera capacity reached 2.5 million units",
+          "Housing production was planned in two phases during Q2 and Q4FY27",
+          "A lens line with initial monthly capacity of 5 lakh units is being added",
+          "The Noida facility was targeted to start operations by Q4FY27"
+        ],
+        "quote": "\"We are raising FY27 revenue guidance to ₹6,000 crores to ₹6,500 crores.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sona BLW Precision Forgings Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,231 Cr",
+            "change": "+54% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹303 Cr",
+            "change": "+49% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "23.1%",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹24,000 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹1,231 Cr · +54% YoY",
+          "EBITDA: ₹303 Cr · +49% YoY",
+          "EBITDA Margin: 23.1%",
+          "Order Book: ₹24,000 Cr",
+          "Slide 6: So now let's begin with the first growth engine"
+        ],
+        "guidanceTracking": [],
+        "guidance": [],
+        "highlights": [
+          "Slide 6: So now let's begin with the first growth engine",
+          "Revenue: ₹1,231 Cr · 54%",
+          "EBITDA: ₹303 Cr · 49%",
+          "Order book: ₹24,000 Cr",
+          "EBITDA Margin: 23.1%"
+        ],
+        "quote": "\"Sona BLW Precision Forgings Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,272 Cr",
+            "change": "+47% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹311 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "24.4%",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹23,700 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹1,272 Cr · +47% YoY",
+          "EBITDA: ₹311 Cr · +32% YoY",
+          "EBITDA Margin: 24.4%",
+          "Order Book: ₹23,700 Cr",
+          "Slide 13: Coming to the order book, I've covered the EV"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Slide 13: Coming to the order book, I've covered the EV",
+          "Revenue: ₹1,272 Cr · 47%",
+          "EBITDA: ₹311 Cr · 32%",
+          "Order book: ₹23,700 Cr",
+          "EBITDA Margin: 24.4%"
+        ],
+        "quote": "\"Sona BLW Precision Forgings Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "E2E Networks Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹156.8 Cr",
+            "change": "+334% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹117.9 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹43.9 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "75.2%",
+            "change": "+1,450 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹156.8 Cr · +334% YoY",
+          "EBITDA: ₹117.9 Cr",
+          "PAT: ₹43.9 Cr",
+          "EBITDA Margin: 75.2% · +1,450 bps QoQ",
+          "Execution priorities remain on track"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Revenue: ₹156.8 Cr · 334%",
+          "EBITDA: ₹117.9 Cr",
+          "PAT: ₹43.9 Cr",
+          "EBITDA Margin: 75.2% · +1,450 bps QoQ"
+        ],
+        "quote": "\"E2E Networks Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹95.6 Cr",
+            "change": "+186% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹58.1 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹6.4 Cr",
+            "change": "Turnaround",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "60.7%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹95.6 Cr · +186% YoY",
+          "EBITDA: ₹58.1 Cr",
+          "PAT: ₹6.4 Cr · Turnaround",
+          "EBITDA Margin: 60.7%",
+          "Target: 2,048 GPUs"
+        ],
+        "guidance": [
+          {
+            "metric": "Management Target",
+            "value": "2,048 GPUs"
+          }
+        ],
+        "highlights": [
+          "Target: 2,048 GPUs",
+          "Revenue: ₹95.6 Cr · 186%",
+          "EBITDA: ₹58.1 Cr",
+          "Management Target: 2,048 GPUs",
+          "PAT: ₹6.4 Cr · Turnaround",
+          "EBITDA Margin: 60.7%"
+        ],
+        "quote": "\"E2E Networks Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "MTAR Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹360.7 Cr",
+            "change": "+130.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹85.1 Cr",
+            "change": "+199.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹50.2 Cr",
+            "change": "+364.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹5,143 Cr",
+            "change": "At June 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 130.4% YoY to a record ₹360.7 Cr",
+          "EBITDA nearly tripled to ₹85.1 Cr and margin reached 23.54%",
+          "PAT rose 364.5% to ₹50.2 Cr, with PAT margin improving to 13.92%",
+          "Working-capital days fell to 59 and operating cash flow reached ₹247.7 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "80% ±5%",
+            "actual": "130.4% growth in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "Around 24%",
+            "actual": "23.54% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 Closing Order Book",
+            "guided": "Around ₹5,000 Cr",
+            "actual": "₹5,143 Cr at Q1-end, plus ₹800 Cr received later",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Two-year Capex",
+            "guided": "₹250-300 Cr",
+            "actual": "Plan raised to about ₹500 Cr; ₹35 Cr spent in Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "80% ±5%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "24% ±100 bps"
+          },
+          {
+            "metric": "FY27-FY28 Capex",
+            "value": "Around ₹500 Cr"
+          },
+          {
+            "metric": "FY27 Working Capital",
+            "value": "Around 100 days"
+          }
+        ],
+        "highlights": [
+          "Fuel-cell expansion Phase 1 is complete; Phase 2 is due by October and Phase 3 by March 2027",
+          "The oil and gas plant is scheduled to begin operations in October 2026",
+          "Aerospace and defence revenue is expected to double during FY27",
+          "A dedicated data-centre equipment facility is being established",
+          "Net debt was only ₹20-30 Cr after adjusting ₹379 Cr of investments",
+          "Nuclear, clean energy and aerospace programmes provide multi-year order visibility"
+        ],
+        "quote": "\"We remain confident of 80% revenue growth with EBITDA margin around 24%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹306 Cr",
+            "change": "+67% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹61.8 Cr",
+            "change": "+81% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "₹44.3 Cr",
+            "change": "+214% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹876 Cr",
+            "change": "+30% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 30% to ₹876 Cr",
+          "EBITDA increased 41.7% to ₹171.2 Cr",
+          "PAT rose 76.2% to ₹94 Cr",
+          "Q4 revenue grew 67%, while EBITDA and PAT grew 81% and 214%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "80% ±5%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Around 24%"
+          },
+          {
+            "metric": "FY27 Closing Order Book",
+            "value": "Around ₹5,000 Cr"
+          },
+          {
+            "metric": "FY27-FY28 Capex",
+            "value": "₹250-300 Cr"
+          }
+        ],
+        "highlights": [
+          "FY26 closed with a ₹2,580 Cr order book versus the earlier ₹2,800 Cr target",
+          "The ₹650 Cr-plus nuclear order book is scheduled over three to four years",
+          "Initial data-centre equipment orders were ₹35 Cr, with strong scale-up potential",
+          "The oil and gas plant was scheduled to start operations by September 2026",
+          "Exports contributed more than 70% of revenue",
+          "Operating cash flow almost doubled to ₹196.9 Cr"
+        ],
+        "quote": "\"We have raised FY27 revenue growth guidance to around 80%, plus or minus 5%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sterlite Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,910 Cr",
+            "change": "+87% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹397 Cr",
+            "change": "+184% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹197 Cr",
+            "change": "Record high",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹18,618 Cr",
+            "change": "2.4x FY26 close",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 87% YoY to a record ₹1,910 Cr",
+          "EBITDA rose 184% to ₹397 Cr and margin reached 20.8%",
+          "PAT increased to a record ₹197 Cr from ₹10 Cr a year earlier",
+          "The order book expanded to ₹18,618 Cr after major data-centre wins"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Reported EBITDA Margin",
+            "guided": "20% by Q4FY27",
+            "actual": "20.8% in Q1FY27",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Enterprise and Data-centre Mix",
+            "guided": "30% of FY27 revenue",
+            "actual": "39% of Q1 revenue",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Net Debt / EBITDA",
+            "guided": "Below 2x",
+            "actual": "Net cash of ₹483 Cr after the QIP",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Connectivity Attach Rate",
+            "value": ">20% from Q2FY27"
+          },
+          {
+            "metric": "Connectivity Attach Rate",
+            "value": ">25% by Q4FY27"
+          }
+        ],
+        "highlights": [
+          "A $1.11 billion multi-year contract was won for AI data-centre connectivity products",
+          "Additional Neuralis data-centre orders exceeded $100 million",
+          "A ₹1,500 Cr QIP made the balance sheet net cash positive",
+          "Data-centre and cloud revenue contributed 21%, while large enterprises contributed 18%",
+          "The global optical-fibre cable market share increased to 9%",
+          "₹2,228 Cr of the order book was scheduled for Q2FY27 execution"
+        ],
+        "quote": "\"Q1 FY27 was the strongest quarter in STL's history.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      }
+    ],
+    "KSH International Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,164 Cr",
+            "change": "+108% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹74.4 Cr",
+            "change": "+85% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹42.2 Cr",
+            "change": "+86% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA / Tonne",
+            "value": "₹93,000",
+            "change": "Vs ₹66,000 YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue more than doubled to ₹1,164 Cr",
+          "EBITDA rose to ₹74.4 Cr from ₹40.3 Cr a year earlier",
+          "PAT increased 86% to a record ₹42.2 Cr",
+          "Volume grew 30% to nearly 8,000 tonnes, led by specialised wires and exports"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Volume Growth",
+            "guided": "At least 21%",
+            "actual": "30% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA / Tonne",
+            "guided": "₹65,000-70,000",
+            "actual": "₹93,000 in Q1; ₹75,000 FY27 outlook",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Capacity",
+            "guided": "59,000 tonnes by Q4FY27",
+            "actual": "43,445 tonnes; Phase 2 remains on schedule",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "Around 26%"
+          },
+          {
+            "metric": "FY27 EBITDA / Tonne",
+            "value": "Around ₹75,000"
+          },
+          {
+            "metric": "FY27 Capacity",
+            "value": "59,000 tonnes by March 2027"
+          }
+        ],
+        "highlights": [
+          "A five-year supply framework was signed with Hitachi Energy Global",
+          "Specialised-wire and export revenue grew 113% and 76% respectively",
+          "Supa utilisation improved to 73.5% from 70% in Q4",
+          "The 5,000-tonne copper-recycling plant at Chakan began operations",
+          "Working-capital days improved to 60 from 71 a year earlier",
+          "The board approved evaluating another 10 acres at Supa for future growth"
+        ],
+        "quote": "\"We should be able to sustain approximately ₹75,000 EBITDA per tonne for FY27.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      }
+    ],
+    "Aeroflex Industries Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹146 Cr",
+            "change": "+72.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹33.5 Cr",
+            "change": "+116% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹18.8 Cr",
+            "change": "+162% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "23.04%",
+            "change": "+468 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 72.4% YoY to a record ₹146 Cr",
+          "EBITDA rose 116% to ₹33.5 Cr and margin reached 23.04%",
+          "PAT increased 162% to ₹18.8 Cr",
+          "Liquid-cooling skids contributed ₹32.4 Cr, or about 23% of revenue"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "Around 35%",
+            "actual": "72.4% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "Around 23%",
+            "actual": "23.04% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "Skid Capacity",
+            "guided": "15,000 units by Q3FY27",
+            "actual": "Expanded to 9,000; Q3 target retained",
+            "status": "partial"
+          },
+          {
+            "metric": "Skid Revenue Mix",
+            "guided": "25% by FY27-end",
+            "actual": "About 23% in Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Around 23%"
+          },
+          {
+            "metric": "Medium-term EBITDA Margin",
+            "value": "25%"
+          },
+          {
+            "metric": "Skid Capacity",
+            "value": "15,000 units by Q3FY27"
+          },
+          {
+            "metric": "Q4FY27 Skid Use",
+            "value": "60-65% exit rate"
+          }
+        ],
+        "highlights": [
+          "Flexible-hose revenue grew 41%, while exports grew 43%",
+          "Skid capacity increased to 9,000 units and is being expanded further",
+          "Flexible-hose capacity will rise to 20 million metres by Q3FY27",
+          "Skid and flexible-hose expansion carries combined planned capex of about ₹102 Cr",
+          "Metal bellows and Hyd-Air contributed about ₹3 Cr and ₹7 Cr respectively",
+          "Orders were received for data-centre hose assemblies in Europe"
+        ],
+        "quote": "\"The target is to achieve a 25% blended EBITDA margin over the next few years.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      }
+    ],
+    "TD Power Systems Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹643 Cr",
+            "change": "+71% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹86 Cr",
+            "change": "+72% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "19.34%",
+            "change": "Standalone",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹2,208 Cr",
+            "change": "+12% QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated Q1 revenue grew 71% YoY to ₹643 Cr",
+          "Consolidated PAT increased 72% to ₹86 Cr",
+          "Standalone EBITDA margin improved to 19.34%",
+          "Q1 order inflow reached ₹734 Cr, with exports contributing 93%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue",
+            "guided": ">₹2,400 Cr",
+            "actual": "₹643 Cr in Q1; guidance raised to ₹2,600 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "18-19%",
+            "actual": "19.34% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY28 Revenue Capacity",
+            "guided": "₹3,000-3,200 Cr",
+            "actual": "₹50 Cr debottlenecking programme underway",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Around ₹2,600 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "18-19%"
+          },
+          {
+            "metric": "FY27 Order Inflow",
+            "value": ">₹2,800 Cr"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹50 Cr"
+          }
+        ],
+        "highlights": [
+          "Generator and motor orders formed ₹1,929 Cr of the order book",
+          "Cash balance strengthened to ₹240 Cr",
+          "Gas-engine and gas-turbine demand remains the main growth driver",
+          "Management is planning more capacity for generators below 100 MW",
+          "No new railway orders are being accepted while the segment is reviewed",
+          "Large-generator opportunities are additional to the current revenue plan"
+        ],
+        "quote": "\"We revised FY27 revenue guidance to ₹2,600 crores.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      }
+    ],
+    "Unimech Aerospace and Manufacturing Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹108 Cr",
+            "change": "+71% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹28 Cr",
+            "change": "+46% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "36.5%",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹280 Cr",
+            "change": "June 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 71% YoY and 32% QoQ to ₹108 Cr",
+          "EBITDA margin remained strong at 36.5%",
+          "PAT rose 46% to ₹28 Cr with a 24% margin",
+          "Hobel Bellows contributed ₹22 Cr from two months of consolidation"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Q1FY27 Revenue",
+            "guided": "Above Q4FY26 revenue of ₹82 Cr",
+            "actual": "₹108 Cr",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "Above FY26 level of 31%",
+            "actual": "36.5% in Q1; 34-35% now expected",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Qualification Activity",
+            "guided": "Double FY26's roughly 200 first articles",
+            "actual": "165 completed in Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "34-35%"
+          },
+          {
+            "metric": "FY27 Nuclear Execution",
+            "value": "About 50% of ₹87 Cr orders"
+          },
+          {
+            "metric": "FY27 Working Capital",
+            "value": "Around 160 days"
+          },
+          {
+            "metric": "Hobel Growth",
+            "value": "Around 15-20%"
+          }
+        ],
+        "highlights": [
+          "A five-year $7.5 million supply agreement was signed with FACC Austria",
+          "Aerospace tooling contributed 76% of revenue and Hobel contributed 21%",
+          "Plant utilisation improved to 58%, with another 10% used for product qualification",
+          "The free-trade warehouse became operational, helping manage US tariff exposure",
+          "The Saudi joint venture is progressing and a $10 million investment is planned",
+          "The company completed 165 first-article qualifications and engaged six new customers"
+        ],
+        "quote": "\"We expect FY27 EBITDA margin of around 34% to 35%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      }
+    ],
+    "Gala Precision Engineering Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹75 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹12 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹8 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "16.51%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 20%, while EBITDA and PAT grew faster at 28% and 29%.",
+          "Disc springs grew 31% and remained the largest segment at 54% of sales.",
+          "Order bookings increased about 40%, improving revenue visibility."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "20-25%",
+            "actual": "20% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "17-19%",
+            "actual": "16.51% in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Chennai Utilisation",
+            "guided": "Around 70% in FY27",
+            "actual": "70-80% for Phase 1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "20-25%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "17-19%"
+          }
+        ],
+        "highlights": [
+          "The Chennai fastener plant is producing high-tensile bolts; Phase 2 space is due in Q2.",
+          "The new galvanising line is operational, bringing a previously outsourced process in-house.",
+          "Gala won its first bulk order from a leading electrolyser manufacturer.",
+          "New products contributed about 30-35% of the order book."
+        ],
+        "quote": "\"We are quite sure we will achieve or cross our growth guidance.\"",
+        "quotePerson": "Balkishan Jalan, Whole-time Director",
+        "asOf": "August 2026"
+      }
+    ],
+    "Azad Engineering Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹170.5 Cr",
+            "change": "+26.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹64 Cr",
+            "change": "+32.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹36.4 Cr",
+            "change": "+21.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "37.6%",
+            "change": "+150 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue growth remained above 25%, with EBITDA growing faster than sales.",
+          "Operating leverage lifted EBITDA margin to 37.6%.",
+          "Management expects a stronger revenue ramp from the second half."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Annual Revenue Growth",
+            "guided": ">25%",
+            "actual": "26.8% in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Annual Revenue Growth",
+            "value": ">25%"
+          },
+          {
+            "metric": "New Plants Revenue Potential",
+            "value": "About ₹1,200 Cr at full capacity"
+          }
+        ],
+        "highlights": [
+          "Azad delivered India's first indigenous expendable turbojet engine to DRDO.",
+          "The dedicated 7,600 sq. metre Baker Hughes facility started operations.",
+          "About 80% of FY26 expansion initiatives were stabilised in Q1.",
+          "Civil construction at the remaining new units is expected to finish in FY27."
+        ],
+        "quote": "\"We reiterate our annual revenue growth guidance of over 25%.\"",
+        "quotePerson": "Rakesh Chopdar, Chairman and CEO",
+        "asOf": "August 2026"
+      }
+    ],
+    "Hitachi Energy India Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,493.7 Cr",
+            "change": "+68.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operational EBITDA",
+            "value": "₹399.9 Cr",
+            "change": "+135% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT Margin",
+            "value": "11.8%",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "Order Intake",
+            "value": "+26.1%",
+            "change": "YoY excl. HVDC",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹2,493.7 Cr · +68.6% YoY",
+          "Operational EBITDA: ₹399.9 Cr · +135% YoY",
+          "PAT Margin: 11.8%",
+          "Order Intake: +26.1% · YoY excl. HVDC",
+          "Slide 7: Key order wins during Q1FY27 The first order"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Slide 7: Key order wins during Q1FY27 The first order",
+          "Slide 10: Order growth in industries, data center",
+          "Revenue: ₹2,493.7 Cr · 68.6%",
+          "EBITDA: ₹399.9 Cr · 135%",
+          "Margin: 11.8%",
+          "Operational EBITDA: ₹399.9 Cr · +135% YoY"
+        ],
+        "quote": "\"Hitachi Energy India Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      }
+    ],
+    "Shadowfax Technologies Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,358 Cr",
+            "change": "+65% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹67 Cr",
+            "change": "4.9% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹65 Cr",
+            "change": "Record high",
+            "positive": 1
+          },
+          {
+            "label": "Order Volume",
+            "value": "Nearly 25 Cr",
+            "change": "+83% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 65% for the fifth consecutive quarter and rose 10% sequentially.",
+          "Adjusted EBITDA margin improved to 4.9% despite fuel and labour pressure.",
+          "PAT reached a record ₹65 Cr, marking a third straight record quarter."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "27-30%",
+            "actual": "65% in Q1; guidance raised",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Dark Stores",
+            "guided": "100 stores",
+            "actual": "47 live; 20 more underway",
+            "status": "partial"
+          },
+          {
+            "metric": "Prime Large Reach",
+            "guided": "10,000 pin codes",
+            "actual": "10,000 achieved in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "38-40%"
+          },
+          {
+            "metric": "FY27 Margin Expansion",
+            "value": "100-200 bps"
+          },
+          {
+            "metric": "Prime Large Reach",
+            "value": "12,000 pin codes"
+          }
+        ],
+        "highlights": [
+          "The network expanded by 716 pin codes to 16,372 locations.",
+          "Prime grew 2.7x and crossed 400 D2C customers.",
+          "Shadowfax 360 reached more than 1,200 transacting sellers within one quarter.",
+          "AI-led process improvements reduced shipment losses and protected margins."
+        ],
+        "quote": "\"We are revising FY27 revenue growth guidance to 38% to 40%.\"",
+        "quotePerson": "Abhishek Bansal, Managing Director and CEO",
+        "asOf": "July 2026"
+      }
+    ],
+    "Monolithisch India Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹47 Cr",
+            "change": "+64% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹13 Cr",
+            "change": "+99% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹10 Cr",
+            "change": "+135% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "28%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹47 Cr · +64% YoY",
+          "EBITDA: ₹13 Cr · +99% YoY",
+          "PAT: ₹10 Cr · +135% YoY",
+          "EBITDA Margin: 28%",
+          "Capacity: 2.56 lakh"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Growth Outlook",
+            "guided": "₹52 Cr · FY27",
+            "actual": "₹55 Cr · Q2 FY27",
+            "status": "partial"
+          },
+          {
+            "metric": "Margin Outlook",
+            "guided": "22% to 25%",
+            "actual": "Partial",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "₹55 Cr · Q2 FY27"
+          }
+        ],
+        "highlights": [
+          "Capacity: 2.56 lakh",
+          "Revenue: 60%",
+          "Capex: ₹44.90 Cr",
+          "Growth Outlook: ₹55 Cr · Q2 FY27",
+          "EBITDA: ₹13 Cr · +99% YoY",
+          "PAT: ₹10 Cr · +135% YoY"
+        ],
+        "quote": "\"Monolithisch India Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹41 Cr",
+            "change": "+35% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹11 Cr",
+            "change": "+75% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹8 Cr",
+            "change": "+81% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "28.1%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹41 Cr · +35% YoY",
+          "EBITDA: ₹11 Cr · +75% YoY",
+          "PAT: ₹8 Cr · +81% YoY",
+          "EBITDA Margin: 28.1%",
+          "Growth Outlook: ₹52 Cr · FY27"
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "₹52 Cr · FY27"
+          },
+          {
+            "metric": "Margin Outlook",
+            "value": "22% to 25%"
+          }
+        ],
+        "highlights": [
+          "Revenue: ₹250 Cr · FY27",
+          "EBITDA: 22%",
+          "Growth Outlook: ₹52 Cr · FY27",
+          "Margin: 22% · 25%",
+          "Margin Outlook: 22% to 25%",
+          "PAT: ₹8 Cr · +81% YoY"
+        ],
+        "quote": "\"Monolithisch India Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Acutaas Chemicals Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹329.7 Cr",
+            "change": "+59.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹113.1 Cr",
+            "change": ">2x YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹74.9 Cr",
+            "change": "+70.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.3%",
+            "change": "+973 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Pharma intermediates revenue grew 76.5% to ₹292.7 Cr.",
+          "Specialty chemicals revenue declined 10.6% as commodity products were phased out.",
+          "Higher-value products and operating efficiency drove sharp margin expansion."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "25%",
+            "actual": "59.1% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "Similar to FY26",
+            "actual": "34.3% in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "25%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Stable versus FY26"
+          }
+        ],
+        "highlights": [
+          "The battery chemicals plant completed trials and began commercial supplies.",
+          "Indichem's semiconductor chemicals plant is ahead of schedule; revenue is expected from FY28.",
+          "Q1 capex was ₹56 Cr, mainly for battery chemicals, Indichem and the pilot plant.",
+          "Net cash stood at about ₹314 Cr at quarter-end."
+        ],
+        "quote": "\"We remain confident of delivering 25% revenue growth with stable margins.\"",
+        "quotePerson": "Naresh Patel, Chairman and Managing Director",
+        "asOf": "July 2026"
+      }
+    ],
+    "Bluestone Jewellery and Lifestyle Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹733 Cr",
+            "change": "+49% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Pre-Ind AS EBITDA",
+            "value": "₹55 Cr",
+            "change": "+135% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Margin",
+            "value": "7.5%",
+            "change": "+273 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "Same-store Growth",
+            "value": "39%",
+            "change": "Broad-based",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "EBITDA grew nearly three times as fast as revenue, showing operating leverage.",
+          "Same-store growth was 39%, including mature store cohorts.",
+          "Demand recovered through June despite the rise in gold customs duty."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Long-term Revenue CAGR",
+            "guided": "About 50%",
+            "actual": "49% growth in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term Revenue CAGR",
+            "value": "About 50%"
+          },
+          {
+            "metric": "Long-term Operating Margin",
+            "value": "Around 15%"
+          }
+        ],
+        "highlights": [
+          "The network reached 352 stores, supported by online-led customer discovery.",
+          "More than 80% of sales originated online before conversion through stores.",
+          "Inventory stood at about ₹2,800 Cr, with roughly half of gold exposure hedged.",
+          "Everyday, non-wedding jewellery remains the main growth category."
+        ],
+        "quote": "\"Q1 marks a strong start to the year.\"",
+        "quotePerson": "Gaurav Singh Kushwaha, Founder and CEO",
+        "asOf": "August 2026"
+      }
+    ],
+    "OnEMI Technology Solutions Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹8,001 Cr",
+            "change": "+61% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹95 Cr",
+            "change": "+59% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Total Income",
+            "value": "₹677 Cr",
+            "change": "+45% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Credit Cost",
+            "value": "6.80%",
+            "change": "vs 8.85% Q1FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "AUM grew 61% YoY and 13% QoQ to ₹8,001 Cr",
+          "PAT rose 59% YoY and 16% QoQ to ₹95 Cr; ROE steady at 21.20%",
+          "Credit cost improved to 6.80% of average AUM from 8.85% in Q1FY26 and 7.02% in Q4FY26",
+          "Capital adequacy in the NBFC subsidiary rose to 40.2% from 25.3% post-IPO; net worth reached ₹2,245 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 AUM Growth",
+            "guided": ">40% over next 12 months",
+            "actual": "13% QoQ in Q1 alone; management confident of over-delivering",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Credit Cost Reduction",
+            "guided": "15% reduction",
+            "actual": "Credit cost down to 6.80% from 8.85% YoY, tracking well",
+            "status": "exceeded"
+          },
+          {
+            "metric": "ROE",
+            "guided": "20%+ consistently",
+            "actual": "21.20% in Q1FY27",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM Growth",
+            "value": ">40%, expected to be over-delivered"
+          },
+          {
+            "metric": "FY27 Credit Cost Reduction",
+            "value": "15% reduction reiterated"
+          },
+          {
+            "metric": "Cost of Borrowing",
+            "value": "100 bps reduction expected in H2FY27"
+          }
+        ],
+        "highlights": [
+          "Registered users grew 33% YoY to 74.6 million; 12.25 million customers served, up 26% YoY",
+          "Loan-against-property (LAP) AUM at ₹617 Cr across 101 branches, ~7.7% of total AUM",
+          "Off-book AUM share rose to 53.6% from 49.7%, diluting revenue margin but improving PPOP",
+          "Secured AMFI registration to begin mutual fund distribution as a new fee-income stream",
+          "Reopened lending in 180 of the 450 pin codes paused last quarter on improved risk signals",
+          "Organic customer-sourcing channel rose to 31% of Q1 volumes from 27% last quarter"
+        ],
+        "quote": "\"The market keeps time in quarters, we keep it in decades.\"",
+        "quotePerson": "Ranvir Singh, Founder, Chairman & CEO",
+        "asOf": "July 2026"
+      }
+    ],
+    "Atlanta Electricals Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹466.33 Cr",
+            "change": "+48% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹77.10 Cr",
+            "change": "+58% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹46.84 Cr",
+            "change": "+50% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹3,116.63 Cr",
+            "change": "Record order inflow of ₹972 Cr",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 48% YoY to ₹466.33 Cr on higher capacity utilization post facility ramp-up",
+          "EBITDA margin expanded to 16.5% from 15.5% a year ago — the highest-ever Q1 EBITDA margin",
+          "PAT grew 50% YoY to ₹46.84 Cr; EPS rose 40% YoY to ₹6.09",
+          "Highest-ever quarterly order inflow of ₹972.42 Cr took the order book to a record ₹3,116.63 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Revenue CAGR",
+            "guided": "40% CAGR over 3 years with stable margins",
+            "actual": "+48% YoY revenue growth in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "Stable at ~16-17% (IPO-time commitment)",
+            "actual": "16.5% in Q1, highest-ever Q1 margin",
+            "status": "met"
+          },
+          {
+            "metric": "Order Book Execution",
+            "guided": "n/a",
+            "actual": "₹2,400 Cr of the ₹3,100+ Cr order book executable in FY27",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Growth",
+            "value": "40% CAGR over next 3 years"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Sustainable at 17-18%"
+          },
+          {
+            "metric": "Export Revenue Mix",
+            "value": "~15% of revenue over medium term (3 years)"
+          }
+        ],
+        "highlights": [
+          "220 kV transformers now over 55% of order book; 400 kV/reactor orders worth ~₹275 Cr",
+          "Vadod Unit 4 received Power Grid approval for 400 kV class transformers during the quarter",
+          "Dedicated inverter-duty transformer facility (~5,000 MVA) on track to commission by year-end",
+          "Technical tie-up for 765 kV transformers in advanced stages, targeted to close in Q2FY27",
+          "No export revenue recognized yet in Q1; first export orders being booked for execution next year",
+          "DGTR anti-dumping probe into CRGO steel imports initiated; no near-term supply/price impact seen"
+        ],
+        "quote": "\"We have witnessed the highest possible order inflow in quarter one in at least the last two to two and a half years.\"",
+        "quotePerson": "Niral Patel, Chairman & Managing Director",
+        "asOf": "July 2026"
+      }
+    ],
+    "Standard Engineering Technology Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹250 Cr",
+            "change": "+41% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹44 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹26 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "17.5%",
+            "change": "Core engineering business",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total income grew 41% YoY to ₹250 Cr while EBITDA margin held at 17.5%",
+          "PBT grew 26% YoY to ₹36 Cr and PAT grew 26% YoY to ₹26 Cr",
+          "Growth funded new investments in the GScale and GL Hakko initiatives without diluting core margins",
+          "Working capital days expected to fall below 200 by September 2026 from 320 days last year"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Core Business Revenue",
+            "guided": "₹1,200 Cr (40-50% growth)",
+            "actual": "Q1 total income ₹250 Cr, +41% YoY, in line",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 GScale Revenue",
+            "guided": "₹250 Cr for the year",
+            "actual": "Minimal Q1 contribution; full-scale manufacturing targeted from November 2026",
+            "status": "partial"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "17-18%",
+            "actual": "17.5% in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue (Consolidated)",
+            "value": "₹1,450 Cr (₹1,200 Cr core + ₹250 Cr GScale)"
+          },
+          {
+            "metric": "Core EBITDA Margin",
+            "value": "17-18% going forward"
+          },
+          {
+            "metric": "GScale EBITDA Margin",
+            "value": "23-25% once commercialized"
+          }
+        ],
+        "highlights": [
+          "Acquiring up to 51% in GScale Energy for AI data-centre power/cooling infrastructure manufacturing",
+          "Invested ~₹71 Cr for a 19% stake in Japan's GL Hakko, with rights to raise it to 51% in 2-3 years",
+          "GScale actively engaged with 5 data-centre customers (3 global, 2 Indian), some at advanced LOI stage",
+          "400,000 sq ft GScale factory being built in phases; first phase targeted operational by November 2026",
+          "Core engineering order book stands at ₹1,400 Cr, ~50% from CDMO customers",
+          "GScale capex outlay of ~₹500 Cr targeted at ~20% ROCE"
+        ],
+        "quote": "\"Every quarter, we are setting a new number. That is the standard we have set for ourselves.\"",
+        "quotePerson": "Nageswara Kandula, Managing Director",
+        "asOf": "August 2026"
+      }
+    ],
+    "Navin Fluorine International Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,045 Cr",
+            "change": "+44% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹357 Cr",
+            "change": "+73% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹243 Cr",
+            "change": "+108% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.2%",
+            "change": "+566 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹1,045 Cr · +44% YoY",
+          "Operating EBITDA: ₹357 Cr · +73% YoY",
+          "PAT: ₹243 Cr · +108% YoY",
+          "EBITDA Margin: 34.2% · +566 bps YoY",
+          "Capex: ₹90 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Expansion",
+            "guided": "15,000 metric tons",
+            "actual": "15,000 metric tons",
+            "status": "met"
+          },
+          {
+            "metric": "Management Target",
+            "guided": "75 to 80 days",
+            "actual": "Partial",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Expansion",
+            "value": "15,000 metric tons"
+          },
+          {
+            "metric": "Management Target",
+            "value": "$100 Mn"
+          },
+          {
+            "metric": "Growth Outlook",
+            "value": "82% · FY '27"
+          }
+        ],
+        "highlights": [
+          "Capex: ₹90 Cr",
+          "Capacity: up to 15,000 metric tons",
+          "Expansion: 15,000 metric tons",
+          "Target: $100 Mn",
+          "Management Target: $100 Mn",
+          "Growth Outlook: 82% · FY '27"
+        ],
+        "quote": "\"Navin Fluorine International Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹938 Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹321 Cr",
+            "change": "+80% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹213 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.2%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹938 Cr · +34% YoY",
+          "Operating EBITDA: ₹321 Cr · +80% YoY",
+          "PAT: ₹213 Cr",
+          "EBITDA Margin: 34.2%",
+          "Capacity: 15,000 metric tons"
+        ],
+        "guidance": [
+          {
+            "metric": "Expansion",
+            "value": "15,000 metric tons"
+          },
+          {
+            "metric": "Management Target",
+            "value": "75 to 80 days"
+          }
+        ],
+        "highlights": [
+          "Revenue: ₹393 Cr · 20% · FY26",
+          "Capacity: 15,000 metric tons",
+          "Expansion: 15,000 metric tons",
+          "Target: 75 to 80 days",
+          "Management Target: 75 to 80 days",
+          "Operating EBITDA: ₹321 Cr · +80% YoY"
+        ],
+        "quote": "\"Navin Fluorine International Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sedemac Mechatronics Ltd": [],
+    "Entero Healthcare Solutions Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,940 Cr",
+            "change": "+38.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Growth",
+            "value": "94%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹52 Cr",
+            "change": "+72% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "5.0%",
+            "change": "+143 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹1,940 Cr · +38.2% YoY",
+          "EBITDA Growth: 94% · YoY",
+          "PAT: ₹52 Cr · +72% YoY",
+          "EBITDA Margin: 5.0% · +143 bps YoY",
+          "EBITDA: 5%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Management Target",
+            "guided": "50%",
+            "actual": "Partial",
+            "status": "partial"
+          },
+          {
+            "metric": "Growth Outlook",
+            "guided": "31.5%",
+            "actual": "23%",
+            "status": "partial"
+          },
+          {
+            "metric": "Margin Outlook",
+            "guided": "4%",
+            "actual": "Partial",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Management Target",
+            "value": "22.5% · FY27"
+          },
+          {
+            "metric": "Growth Outlook",
+            "value": "20%"
+          }
+        ],
+        "highlights": [
+          "Revenue: FY27",
+          "EBITDA: 5%",
+          "Target: 22.5% · FY27",
+          "Growth Outlook: 20%",
+          "Management Target: 22.5% · FY27",
+          "EBITDA Growth: 94% · YoY"
+        ],
+        "quote": "\"Entero Healthcare Solutions Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue Growth",
+            "value": "42.6%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹86 Cr",
+            "change": "+76% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹45.1 Cr",
+            "change": "+44% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "4.5%",
+            "change": "+85 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue Growth: 42.6% · YoY",
+          "EBITDA: ₹86 Cr · +76% YoY",
+          "PAT: ₹45.1 Cr · +44% YoY",
+          "EBITDA Margin: 4.5% · +85 bps YoY",
+          "Revenue: 30%"
+        ],
+        "guidance": [
+          {
+            "metric": "Management Target",
+            "value": "50%"
+          },
+          {
+            "metric": "Growth Outlook",
+            "value": "31.5%"
+          },
+          {
+            "metric": "Margin Outlook",
+            "value": "4%"
+          }
+        ],
+        "highlights": [
+          "EBITDA: ₹86 Cr · 4.5%",
+          "Revenue: 30%",
+          "Target: 50%",
+          "Growth Outlook: 31",
+          "Margin: 4%",
+          "Management Target: 50%"
+        ],
+        "quote": "\"Entero Healthcare Solutions Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Aegis Logistics Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,357 Cr",
+            "change": "+37% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Normalized EBITDA",
+            "value": "₹727 Cr",
+            "change": "+184% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹545 Cr",
+            "change": "+212% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Distribution Volume",
+            "value": "2.77 lakh MT",
+            "change": "+91% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 37% YoY to ₹2,357 Cr; normalized EBITDA more than doubled, up 184% YoY to ₹727 Cr",
+          "PAT crossed the ₹500 Cr milestone for the first time, up 212% YoY to ₹545 Cr",
+          "Gas division EBITDA grew 296% YoY on record distribution volumes and resilient logistics throughput",
+          "EPS of ₹13.80 was ~54% of the entire FY26 full-year EPS"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Distribution Volume Target",
+            "guided": "Scale toward 2 million MT",
+            "actual": "2.77 lakh MT in Q1, +91% YoY, +19% QoQ",
+            "status": "partial"
+          },
+          {
+            "metric": "Logistics Volume Growth",
+            "guided": "~25% annual benchmark",
+            "actual": "Throughput resilient at 1.124 million MT despite global disruptions",
+            "status": "met"
+          },
+          {
+            "metric": "Distribution Margin",
+            "guided": "₹7,000+/ton sustainable",
+            "actual": "Blended margin tracking well above ₹7,000/ton in Q1",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Distribution Volume",
+            "value": "Target of 2 million MT over time"
+          },
+          {
+            "metric": "Distribution Margin",
+            "value": "₹7,000+/ton sustainable going forward"
+          },
+          {
+            "metric": "Capex Pipeline",
+            "value": "~$5 billion through FY30-31; gearing capped near 0.6x"
+          }
+        ],
+        "highlights": [
+          "Ammonia storage terminal commissioned at Pipavav (36,000 MT); 15-year take-or-pay deal with Hindustan Zinc",
+          "ITOCHU Corporation acquired 10% in Aegis Terminal Pipavav, with plans to raise stake to 25% over 3 years",
+          "Non-binding MoU signed for potential ₹20,000 Cr investment in Vadhavan Port development",
+          "JNPA board approved a 52,000 MT refrigerated double-walled steel LPG tank",
+          "Kandla CRL4 liquid terminal (94,148 cbm) progressing, commissioning targeted next year",
+          "Cumulative capex of ~$1.2 billion planned in FY27 across the port network"
+        ],
+        "quote": "\"We delivered a record quarter, crossing the significant milestone of INR500 crores of profit after tax.\"",
+        "quotePerson": "Raj Chandaria, Chairman & Managing Director",
+        "asOf": "August 2026"
+      }
+    ],
+    "Craftsman Automation Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Wheel Capacity",
+            "value": "5.8 Mn",
+            "change": "Installed",
+            "positive": 1
+          },
+          {
+            "label": "FY27 Wheel Output",
+            "value": ">4 Mn",
+            "change": "Target",
+            "positive": 1
+          },
+          {
+            "label": "DR Axion Capex",
+            "value": "₹430 Cr",
+            "change": "Approved",
+            "positive": 1
+          },
+          {
+            "label": "Engine Revenue Goal",
+            "value": "$100 Mn",
+            "change": "FY29 target",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Wheel Capacity: 5.8 Mn · Installed",
+          "FY27 Wheel Output: >4 Mn · Target",
+          "DR Axion Capex: ₹430 Cr · Approved",
+          "Engine Revenue Goal: $100 Mn · FY29 target",
+          "Utilisation: 85%"
+        ],
+        "guidanceTracking": [],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "USD 100 Mn · FY '29"
+          },
+          {
+            "metric": "Management Target",
+            "value": "USD 100 Mn"
+          }
+        ],
+        "highlights": [
+          "Utilisation: 85%",
+          "Capex: ₹430 Cr",
+          "Growth Outlook: USD 100 Mn · FY '29",
+          "Target: USD 100 Mn",
+          "FY27 Wheel Output: >4 Mn · Target",
+          "Management Target: USD 100 Mn"
+        ],
+        "quote": "\"Craftsman Automation Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Alloy Wheel Run-rate",
+            "value": "3 Mn",
+            "change": "Annualized",
+            "positive": 1
+          },
+          {
+            "label": "Net Debt / EBITDA",
+            "value": "2.43x",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "FY27 Growth Outlook",
+            "value": "Mid-teens",
+            "change": "Management view",
+            "positive": 1
+          },
+          {
+            "label": "Engine Order Book",
+            "value": "$100 Mn",
+            "change": "Phase 1",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Alloy Wheel Run-rate: 3 Mn · Annualized",
+          "Net Debt / EBITDA: 2.43x",
+          "FY27 Growth Outlook: Mid-teens · Management view",
+          "Engine Order Book: $100 Mn · Phase 1",
+          "Order book: $100 Mn"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Alloy Wheel Run-rate: 3 Mn · Annualized",
+          "Net Debt / EBITDA: 2",
+          "FY27 Growth Outlook: Mid-teens · Management view",
+          "Order book: $100 Mn",
+          "Engine Order Book: $100 Mn · Phase 1"
+        ],
+        "quote": "\"Craftsman Automation Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Welspun Corp Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "EBITDA",
+            "value": "₹756 Cr",
+            "change": "+35% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Cash",
+            "value": "₹2,336 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹25,750 Cr",
+            "change": "Record high",
+            "positive": 1
+          },
+          {
+            "label": "Annualized ROCE",
+            "value": ">20%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "EBITDA: ₹756 Cr · +35% YoY",
+          "Net Cash: ₹2,336 Cr",
+          "Order Book: ₹25,750 Cr · Record high",
+          "Annualized ROCE: >20%",
+          "Growth Outlook: ₹2,336 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Growth Outlook",
+            "guided": "₹17,000 Cr · FY26",
+            "actual": "₹2,336 Cr",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "₹2,336 Cr"
+          }
+        ],
+        "highlights": [
+          "Growth Outlook: ₹2,336 Cr",
+          "EBITDA: ₹756 Cr · 35%",
+          "Net Cash: ₹2,336 Cr",
+          "Order book: ₹25,750 Cr",
+          "Annualized ROCE: >20%"
+        ],
+        "quote": "\"Welspun Corp Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "~₹17,000 Cr",
+            "change": "Guidance met",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "₹2,371 Cr",
+            "change": "Above ₹2,200 Cr guide",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹1,613 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": ">₹25,000 Cr",
+            "change": "May 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 Revenue: ~₹17,000 Cr · Guidance met",
+          "FY26 EBITDA: ₹2,371 Cr · Above ₹2,200 Cr guide",
+          "FY26 PAT: ₹1,613 Cr · +42% YoY",
+          "Order Book: >₹25,000 Cr · May 2026",
+          "Order book: ₹25,000 Cr · $2.5 Bn"
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "₹17,000 Cr · FY26"
+          }
+        ],
+        "highlights": [
+          "Order book: ₹25,000 Cr · $2.5 Bn",
+          "Growth Outlook: ₹17,000 Cr · FY26",
+          "Revenue: ₹17,000 Cr · FY26",
+          "EBITDA: ₹2,371 Cr",
+          "FY26 PAT: ₹1,613 Cr · +42% YoY",
+          "FY26 Revenue: ~₹17,000 Cr · Guidance met"
+        ],
+        "quote": "\"Welspun Corp Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Diffusion Engineers Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹110.1 Cr",
+            "change": "+36.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹14.15 Cr",
+            "change": "+33.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹16.68 Cr",
+            "change": "+36% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹209 Cr",
+            "change": "+20.4% QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 36.5% YoY to ₹110.1 Cr on healthy demand across consumables, wear parts and heavy engineering",
+          "EBITDA margin moderated slightly to 12.85% from 13.12% due to raw material and energy cost inflation",
+          "PAT grew 36% YoY to ₹16.68 Cr, aided by higher execution and associate profits",
+          "Order book rose 20.4% sequentially to ₹209 Cr, more than 80% executable within FY27"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Revenue Growth",
+            "guided": "~20% CAGR",
+            "actual": "+36.5% consolidated / +30.7% standalone YoY in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "Improve 100-200 bps over FY27-28",
+            "actual": "Margin dipped to 12.85% in Q1 on RM inflation; expected to recover",
+            "status": "partial"
+          },
+          {
+            "metric": "Order Book Executability",
+            "guided": "n/a",
+            "actual": "More than 80% of ₹209 Cr order book executable in FY27",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Growth",
+            "value": "~20% CAGR for FY27-28, aiming to double revenue in 3 years"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Improve by 100-200 bps over FY27 and FY28"
+          }
+        ],
+        "highlights": [
+          "Secured ~₹62.47 Cr of new orders across cement, defense and power sectors during the quarter",
+          "Heavy engineering capacity being expanded from 9,000 MT to 18,000 MT under a ~₹100 Cr capex program",
+          "New Nagpur capacity has started phase-wise utilization; full ramp-up expected over 2-3 years",
+          "Turkey operations turned profitable; UAE facility now operational with revenue expected from Q2",
+          "Tejorup JV (10% stake) developing a VSHORADS air-defense prototype; defense is ~1.5-2% of revenue",
+          "Railway developmental orders pending workshop approval, expected to convert to revenue in 9-12 months"
+        ],
+        "quote": "\"Q1 FY'27 has provided a strong foundation for the year ahead.\"",
+        "quotePerson": "Prashant Garg, Chairman & Managing Director",
+        "asOf": "August 2026"
+      }
+    ],
+    "Shivalik Bimetal Controls Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹182.2 Cr",
+            "change": "+33.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹43.2 Cr",
+            "change": "+35.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹33 Cr",
+            "change": "+44.9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Shunts Revenue",
+            "value": "+18.7% YoY",
+            "change": "Growth engine",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated revenue grew 33.4% YoY to ₹182.2 Cr, with sequential growth of 13%",
+          "EBITDA grew 35.2% YoY to ₹43.2 Cr; PAT grew 44.9% YoY to ₹33 Cr",
+          "Shunts revenue grew 18.7% YoY while thermostatic bimetals grew a more modest 7.4%",
+          "~70-75% of shunts' value-addition growth came from conversion to finished parts rather than commodity price moves"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "20-30% range",
+            "actual": "+33.4% consolidated growth in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Bus Bar / Cell-Connecting Systems Revenue",
+            "guided": "10-15% of ₹300-400 Cr, 3-year opportunity, in Year 1",
+            "actual": "Minimal Q1 contribution; scaling from Q2 as Pune Phase 1 becomes operational",
+            "status": "partial"
+          },
+          {
+            "metric": "Largest Customer Concentration",
+            "guided": "Stay below 20%",
+            "actual": "Expected to peak near 17-18% this year even with US recovery",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "20-30% range"
+          },
+          {
+            "metric": "Bus Bar / CCS Revenue Potential",
+            "value": "₹300-400 Cr over 3 years from Pune facility"
+          }
+        ],
+        "highlights": [
+          "Received consent to operate for Phase 1 of the Pune cell-connecting systems facility",
+          "Largest customer concentration reduced structurally to well below its earlier 35-40% peak",
+          "Growth in shunts driven by EV two-wheelers and smart meters as key end-markets",
+          "Thermostatic bimetal saw its first quantity uptake in 4-5 quarters, led by real estate/infrastructure demand",
+          "Exploring technology partnerships/JVs in a specialized electronic material and automotive fuses",
+          "Bus bar/CCS project capex pegged at ~₹20-25 Cr, leveraging existing Solon capacity"
+        ],
+        "quote": "\"Q1 FY27 is a strong start to the year and gives us further evidence that Shivalik is progressing higher on the value curve.\"",
+        "quotePerson": "Sumer Ghumman, Whole-time Director",
+        "asOf": "August 2026"
+      }
+    ],
+    "Amagi Media Labs Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹437 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹50 Cr",
+            "change": "+201% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹34 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11.5%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹437 Cr · +32% YoY",
+          "Adjusted EBITDA: ₹50 Cr · +201% YoY",
+          "PAT: ₹34 Cr",
+          "EBITDA Margin: 11.5%",
+          "EBITDA: 11.5%"
+        ],
+        "guidance": [],
+        "highlights": [
+          "EBITDA: 11.5%",
+          "Revenue: ₹437 Cr · 32%",
+          "PAT: ₹34 Cr",
+          "Adjusted EBITDA: ₹50 Cr · +201% YoY",
+          "EBITDA Margin: 11.5%"
+        ],
+        "quote": "\"Amagi Media Labs Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹397 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹40 Cr",
+            "change": "+161% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹34 Cr",
+            "change": "Vs ₹11 Cr loss YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "10%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹397 Cr · +29% YoY",
+          "Adjusted EBITDA: ₹40 Cr · +161% YoY",
+          "PAT: ₹34 Cr · Vs ₹11 Cr loss YoY",
+          "EBITDA Margin: 10%",
+          "Growth Outlook: 44% · FY'24"
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "44% · FY'24"
+          },
+          {
+            "metric": "Margin Outlook",
+            "value": "6% · 5% · FY26"
+          }
+        ],
+        "highlights": [
+          "Growth Outlook: 44% · FY'24",
+          "Margin: 6% · 5%",
+          "Revenue: ₹397 Cr · 29%",
+          "EBITDA: ₹40 Cr · 161%",
+          "PAT: ₹34 Cr · Vs ₹11 Cr loss YoY",
+          "Margin Outlook: 6% · 5% · FY26"
+        ],
+        "quote": "\"Amagi Media Labs Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "GNG Electronics Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹412.5 Cr",
+            "change": "+32% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹52.8 Cr",
+            "change": "Margin 12.8%",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹28.9 Cr",
+            "change": "+56% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Gross Margin",
+            "value": "24.65%",
+            "change": "+329 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 32% YoY to ₹412.5 Cr, marking the first anniversary quarter as a listed company",
+          "Gross margin expanded 329 bps YoY and 542 bps QoQ to 24.65%",
+          "EBITDA margin improved 156 bps YoY to 12.8%; PAT grew 56% YoY to ₹28.9 Cr with margin at 7%",
+          "Unit growth of ~18% plus a ~12% rise in ASPs (laptop ASP at ₹30,763) drove the revenue growth"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "25-30%",
+            "actual": "+32% YoY in Q1, guidance raised from 25% to 30%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 PAT Margin Improvement",
+            "guided": "+0.5 pp YoY",
+            "actual": "PAT margin +108 bps YoY to 7%; guidance raised to +0.75-1 pp",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Raised to ~30% (from 25%)"
+          },
+          {
+            "metric": "FY27 PAT Margin Improvement",
+            "value": "Raised to +0.75-1 pp (from +0.5 pp)"
+          }
+        ],
+        "highlights": [
+          "Now supplies premium refurbished devices to 49 countries, up from 46 at FY26-end",
+          "Revenue mix: India 36%, US 24%, Europe 23%, Middle East 12%; supplier base grew to 773",
+          "DDR5 memory prices have risen nearly 5x since October 2025, pushing new-PC prices and refurbished demand higher",
+          "Strategic inventory build (~₹700 Cr) ahead of price increases is aiding gross margin and availability",
+          "UAE refurbishment/logistics operations unaffected by regional disruptions; shipments continue via air",
+          "Refurbished pricing currently ~30% of new-device price, with room to move toward 50% (phone/car benchmark) over time"
+        ],
+        "quote": "\"The category is real, the opportunity is large, and we are just getting started.\"",
+        "quotePerson": "Sharad Khandelwal, Founder & Managing Director",
+        "asOf": "July 2026"
+      }
+    ],
+    "Dee Development Engineers Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹294.5 Cr",
+            "change": "+31.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹49.7 Cr",
+            "change": "+38.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹16.1 Cr",
+            "change": "+22.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹2,428 Cr",
+            "change": "June 2026",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹294.5 Cr · +31.6% YoY",
+          "Operating EBITDA: ₹49.7 Cr · +38.7% YoY",
+          "PAT: ₹16.1 Cr · +22.4% YoY",
+          "Order Book: ₹2,428 Cr · June 2026",
+          "Target: 100%"
+        ],
+        "guidance": [
+          {
+            "metric": "Management Target",
+            "value": "100%"
+          },
+          {
+            "metric": "Order Outlook",
+            "value": "₹1,500 Cr"
+          },
+          {
+            "metric": "Margin Outlook",
+            "value": "19%"
+          }
+        ],
+        "highlights": [
+          "Revenue: ₹80 Cr · FY26",
+          "Target: 100%",
+          "Order Outlook: ₹1,500 Cr",
+          "Margin: 19%",
+          "Management Target: 100%",
+          "Margin Outlook: 19%"
+        ],
+        "quote": "\"Dee Development Engineers Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      }
+    ],
+    "Happy Forgings Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹449 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹141 Cr",
+            "change": "+39.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹91 Cr",
+            "change": "+39.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "31.3%",
+            "change": "+275 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹449 Cr · +27% YoY",
+          "EBITDA: ₹141 Cr · +39.3% YoY",
+          "PAT: ₹91 Cr · +39.2% YoY",
+          "EBITDA Margin: 31.3% · +275 bps YoY",
+          "Execution priorities remain on track"
+        ],
+        "guidanceTracking": [],
+        "guidance": [],
+        "highlights": [
+          "Revenue: 33%",
+          "EBITDA: ₹141 Cr · 39.3%",
+          "PAT: ₹91 Cr · +39",
+          "EBITDA Margin: 31.3% · +275 bps YoY"
+        ],
+        "quote": "\"Happy Forgings Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹424 Cr",
+            "change": "+20.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹133 Cr",
+            "change": "+30.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹84 Cr",
+            "change": "+23.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "31.5%",
+            "change": "+240 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹424 Cr · +20.4% YoY",
+          "EBITDA: ₹133 Cr · +30.4% YoY",
+          "PAT: ₹84 Cr · +23.6% YoY",
+          "EBITDA Margin: 31.5% · +240 bps YoY",
+          "Order book: ₹950 Cr"
+        ],
+        "guidance": [],
+        "highlights": [
+          "EBITDA: 31.5%",
+          "Order book: ₹950 Cr",
+          "Revenue: ₹424 Cr · 20.4%",
+          "PAT: ₹84 Cr · +23",
+          "EBITDA Margin: 31.5% · +240 bps YoY"
+        ],
+        "quote": "\"Happy Forgings Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Sudeep Pharma Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹158.3 Cr",
+            "change": "+27% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹54.9 Cr",
+            "change": "+25% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹40.6 Cr",
+            "change": "Vs ₹31.3 Cr YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.7%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹158.3 Cr · +27% YoY",
+          "EBITDA: ₹54.9 Cr · +25% YoY",
+          "PAT: ₹40.6 Cr · Vs ₹31.3 Cr YoY",
+          "EBITDA Margin: 34.7%",
+          "Margin: 25.6% · 25%"
+        ],
+        "guidanceTracking": [],
+        "guidance": [
+          {
+            "metric": "Commissioning",
+            "value": "April 2027"
+          }
+        ],
+        "highlights": [
+          "Margin: 25.6% · 25%",
+          "Commissioning: April 2027",
+          "Revenue: ₹158.3 Cr · 27%",
+          "EBITDA: ₹54.9 Cr · 25%",
+          "PAT: ₹40.6 Cr · Vs ₹31.3 Cr YoY",
+          "EBITDA Margin: 34.7%"
+        ],
+        "quote": "\"Sudeep Pharma Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹182.3 Cr",
+            "change": "+15.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹62.6 Cr",
+            "change": "Vs ₹58.8 Cr YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹48.5 Cr",
+            "change": "Vs ₹44.2 Cr YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.3%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹182.3 Cr · +15.7% YoY",
+          "EBITDA: ₹62.6 Cr · Vs ₹58.8 Cr YoY",
+          "PAT: ₹48.5 Cr · Vs ₹44.2 Cr YoY",
+          "EBITDA Margin: 34.3%",
+          "Execution priorities remain on track"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Revenue: ₹182.3 Cr · 15.7%",
+          "EBITDA: ₹62.6 Cr",
+          "PAT: ₹48.5 Cr · Vs ₹44.2 Cr YoY",
+          "EBITDA Margin: 34.3%"
+        ],
+        "quote": "\"Sudeep Pharma Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Honasa Consumer Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue Growth",
+            "value": "32%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "~₹110 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹90 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "Volume Growth",
+            "value": "30.5%",
+            "change": "YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue Growth: 32% · YoY",
+          "EBITDA: ~₹110 Cr",
+          "PAT: ₹90 Cr",
+          "Volume Growth: 30.5% · YoY",
+          "Revenue: 32%"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Revenue: 32%",
+          "EBITDA: ₹110 Cr",
+          "PAT: ₹90 Cr",
+          "Volume Growth: 30",
+          "Revenue Growth: 32% · YoY"
+        ],
+        "quote": "\"Honasa Consumer Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹682 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹77 Cr",
+            "change": "~2.5x YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹69 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11.3%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹682 Cr · +28% YoY",
+          "EBITDA: ₹77 Cr · ~2.5x YoY",
+          "PAT: ₹69 Cr",
+          "EBITDA Margin: 11.3%",
+          "Execution priorities remain on track"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Revenue: ₹682 Cr · 28%",
+          "EBITDA: ₹77 Cr",
+          "PAT: ₹69 Cr",
+          "EBITDA Margin: 11.3%"
+        ],
+        "quote": "\"Honasa Consumer Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "MPS Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹224.24 Cr",
+            "change": "+20.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹76.96 Cr",
+            "change": "+53% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹50.39 Cr",
+            "change": "+43% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.3%",
+            "change": "vs 27.0% Q1FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 20.4% YoY to ₹224.24 Cr, the strongest opening quarter in the company's history",
+          "EBITDA grew 53% YoY to ₹76.96 Cr as margin expanded to 34.3% from 27.0%, with headcount up under 3%",
+          "PAT grew 43% YoY to ₹50.39 Cr; EPS of ₹29.70 was an all-time Q1 high",
+          "Ex-AJE (author solutions reset), underlying revenue grew 28.4% YoY with EBITDA up 50.5%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 EBITDA",
+            "guided": "Comfortably cross ₹300 Cr (floor)",
+            "actual": "Q1 EBITDA ₹76.96 Cr, +53% YoY, ahead of straight-line pace",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Rule of 40/50 (Growth + EBITDA Margin)",
+            "guided": "Aspire to clear Rule of 40+ for the year",
+            "actual": "Q1 delivered Rule of 50 (20% growth + 34% margin)",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Corporate Learning EBITDA Margin",
+            "guided": "30% steady state",
+            "actual": "25.3% in Q1, up sharply from 16.9% a year ago",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA",
+            "value": "Comfortably cross ₹300 Cr (read as a floor, not ceiling)"
+          },
+          {
+            "metric": "FY28 Target",
+            "value": "~₹1,500 Cr revenue and ~₹450 Cr EBITDA"
+          }
+        ],
+        "highlights": [
+          "Unbound Medicine's first full quarter inside MPS; total client count rose to 841 from 404 a year ago",
+          "Now the second-largest peer-review provider globally by volume, aiming to be first by year-end",
+          "Manuscript acceptance rate of ~52% in controlled work vs an industry baseline near 32%",
+          "Education segment revenue grew 42.2% YoY to ₹73.41 Cr at a 35.1% EBITDA margin",
+          "Cash of ₹138.02 Cr against borrowings of ₹37.63 Cr; DSO improved to 45 days from 51",
+          "Active M&A pipeline focused on Education and high-stakes, AI-tailwind domains (min. $15 million revenue)"
+        ],
+        "quote": "\"If FY'26 was a year we proved that this operating system works, FY'27 is the year we let it compound.\"",
+        "quotePerson": "Rahul Arora, Chairman & CEO",
+        "asOf": "July 2026"
+      }
+    ],
+    "RACL Geartech Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹132.60 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Revenue",
+            "value": "₹132.35 Cr",
+            "change": "+31.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹32.19 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PBT",
+            "value": "₹16.82 Cr",
+            "change": "+50% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹132.60 Cr · +22% YoY",
+          "Operating Revenue: ₹132.35 Cr · +31.5% YoY",
+          "EBITDA: ₹32.19 Cr · +18% YoY",
+          "PBT: ₹16.82 Cr · +50% YoY",
+          "Growth Outlook: 20%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Management Target",
+            "guided": "5% · FY27",
+            "actual": "Partial",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Growth Outlook",
+            "value": "20%"
+          },
+          {
+            "metric": "Order Outlook",
+            "value": "20,000 units"
+          }
+        ],
+        "highlights": [
+          "Growth Outlook: 20%",
+          "Order Outlook: 20,000 units",
+          "Revenue: ₹132.60 Cr · 22%",
+          "EBITDA: ₹32.19 Cr · 18%",
+          "Operating Revenue: ₹132.35 Cr · +31.5% YoY",
+          "PBT: ₹16.82 Cr · +50% YoY"
+        ],
+        "quote": "\"RACL Geartech Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹136.69 Cr",
+            "change": "+48% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹34.08 Cr",
+            "change": "+41.13% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PBT",
+            "value": "₹16.91 Cr",
+            "change": "+91.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "24.93%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹136.69 Cr · +48% YoY",
+          "EBITDA: ₹34.08 Cr · +41.13% YoY",
+          "PBT: ₹16.91 Cr · +91.5% YoY",
+          "EBITDA Margin: 24.93%",
+          "Target: 5% · FY27"
+        ],
+        "guidance": [
+          {
+            "metric": "Management Target",
+            "value": "5% · FY27"
+          }
+        ],
+        "highlights": [
+          "Target: 5% · FY27",
+          "Revenue: ₹136.69 Cr · 48%",
+          "EBITDA: ₹34.08 Cr · 41.13%",
+          "PBT: ₹16.91 Cr · +91.5% YoY",
+          "Management Target: 5% · FY27",
+          "EBITDA Margin: 24.93%"
+        ],
+        "quote": "\"RACL Geartech Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Ramkrishna Forgings Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,217 Cr",
+            "change": "+19.84% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹218.47 Cr",
+            "change": "+47% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹46.88 Cr",
+            "change": "+297% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "17.96%",
+            "change": "+85 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹1,217 Cr · +19.84% YoY",
+          "EBITDA: ₹218.47 Cr · +47% YoY",
+          "PAT: ₹46.88 Cr · +297% YoY",
+          "EBITDA Margin: 17.96% · +85 bps QoQ",
+          "Target: 12% to 15%"
+        ],
+        "guidanceTracking": [],
+        "guidance": [
+          {
+            "metric": "Management Target",
+            "value": "12% to 15%"
+          },
+          {
+            "metric": "Expansion",
+            "value": "₹20 Cr"
+          }
+        ],
+        "highlights": [
+          "Target: 12% to 15%",
+          "Expansion: ₹20 Cr",
+          "Revenue: ₹1,217 Cr · 19.84%",
+          "EBITDA: ₹218.47 Cr · 47%",
+          "Management Target: 12% to 15%",
+          "PAT: ₹46.88 Cr · +297% YoY"
+        ],
+        "quote": "\"Ramkrishna Forgings Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,216.78 Cr",
+            "change": "+28% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹208.19 Cr",
+            "change": "+111% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PBT",
+            "value": "₹64.33 Cr",
+            "change": "+117% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "17.1%",
+            "change": "+220 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue: ₹1,216.78 Cr · +28% YoY",
+          "EBITDA: ₹208.19 Cr · +111% YoY",
+          "PBT: ₹64.33 Cr · +117% QoQ",
+          "EBITDA Margin: 17.1% · +220 bps QoQ",
+          "Margin: 17.1%"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Margin: 17.1%",
+          "Revenue: ₹1,216.78 Cr · 28%",
+          "EBITDA: ₹208.19 Cr · 111%",
+          "PBT: ₹64.33 Cr · +117% QoQ",
+          "EBITDA Margin: 17.1% · +220 bps QoQ"
+        ],
+        "quote": "\"Ramkrishna Forgings Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Privi Speciality Chemicals Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹681.42 Cr",
+            "change": "+20.01% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹167.47 Cr",
+            "change": "+18.73% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹83.2 Cr",
+            "change": "vs ₹61.46 Cr Q1FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "24.58%",
+            "change": "Sustained ~9 quarters at ~25%",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated total income grew 20.01% YoY to ₹681.42 Cr on volume, price and product-mix gains",
+          "EBITDA grew 18.73% YoY to ₹167.47 Cr; margin held at 24.58% despite gross margin contracting ~650 bps YoY",
+          "PAT rose to ₹83.2 Cr from ₹61.46 Cr, aided by lower depreciation and interest as a % of sales",
+          "Working capital cycle improved sharply to 108 days from 141 days a year ago"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "5K-1K Revenue/EBITDA Vision",
+            "guided": "₹5,000 Cr revenue and ₹1,000 Cr+ EBITDA in 3-4 years (2x growth), ~20% CAGR",
+            "actual": "+20% total income growth in Q1, in line with trajectory",
+            "status": "met"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "Sustain above 20%, near 24-25%",
+            "actual": "24.58% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "Phase 1 Capacity Expansion (48k→54k MT)",
+            "guided": "Commercialize by June 2026",
+            "actual": "Delayed to September 2026",
+            "status": "missed"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-term Vision",
+            "value": "₹5,000 Cr revenue and ₹1,000 Cr+ EBITDA in 3-4 years"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Sustain around 24-25%"
+          },
+          {
+            "metric": "Phase 2 Capacity (54k→66k MT)",
+            "value": "Commercialize by September 2027"
+          }
+        ],
+        "highlights": [
+          "Merger of Privi Speciality, Privi Fine Sciences and Privi Biotechnologies filed with NCLT; expected within FY27",
+          "PRIGIV JV (with Givaudan) generated ₹18 Cr revenue at a 14-15% EBITDA margin; additional ₹50 Cr equity planned",
+          "Capex of ₹850-900 Cr planned over 3 years for Phase 2/3 multi-specialty aroma chemicals expansion",
+          "New specialty molecules (Maltol, Ethyl Maltol, Musk T, Cyclopentanone) targeted at China+1 sourcing shift",
+          "Biomass demonstration plant (2 tons/day) being set up in Navi Mumbai; commercial scale-up post the 5K-1K plan",
+          "Net debt of ₹865 Cr at 1.29x EBITDA; ROE 21.7% and ROCE 22.72%"
+        ],
+        "quote": "\"Q1 FY27 marks another important year in Privi's growth journey.\"",
+        "quotePerson": "Mahesh Babani, Chairman & Managing Director",
+        "asOf": "July 2026"
+      }
+    ],
+    "Milky Mist Dairy Food Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹973.45 Cr",
+            "change": "+44% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹144.89 Cr",
+            "change": "Margin 14.9%",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹64.67 Cr",
+            "change": "Margin 6.6%",
+            "positive": 1
+          },
+          {
+            "label": "Gross Margin",
+            "value": "34.2%",
+            "change": "+270 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 44% YoY to ₹973.45 Cr in the company's maiden earnings call post-listing",
+          "Gross margin expanded ~270 bps to 34.2% on favourable product mix and pricing",
+          "EBITDA margin rose to 14.9% from 13.7% a year earlier as newer categories scaled",
+          "PAT grew to ₹64.67 Cr with a 6.6% margin"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Price Increase Pass-through",
+            "guided": "Offset input cost inflation via ~10.5% price hikes",
+            "actual": "10.5% price increase taken, contributing 2.7% margin expansion",
+            "status": "met"
+          },
+          {
+            "metric": "Perundurai Plant Revenue Potential",
+            "guided": "Scale toward 3-3.5x of FY26 revenue at current capacity",
+            "actual": "Utilization still ramping (~50% at plant level); on track",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Perundurai Plant Revenue Potential",
+            "value": "3-3.5x of FY26 revenue at full utilization"
+          },
+          {
+            "metric": "H2 Seasonal Uplift",
+            "value": "Additional ₹150-200 Cr revenue in H2 vs H1"
+          }
+        ],
+        "highlights": [
+          "Paneer volumes and revenue grew 34%, remaining the largest category at ~27% of revenue",
+          "Yogurt (incl. Greek yogurt/Skyr) revenue grew 153% YoY to ₹84.5 Cr",
+          "Ice cream revenue grew 60% YoY on strong seasonal demand",
+          "New Cheddar Cheese plant (120 MT/day capacity) commissioned during the quarter",
+          "GST on paneer cut to zero and state-level bans on analogue paneer are aiding organized players",
+          "Milk procurement volume grew 28% YoY to 13.2 lakh litres/day; expanding sourcing into Maharashtra",
+          "140 exclusive brand outlets operational; whey-protein concentrate plant planned in 15-18 months"
+        ],
+        "quote": "\"We have started FY '27 on a very, very strong note.\"",
+        "quotePerson": "K Rathnam, Wholetime Director & CEO",
+        "asOf": "September 2026"
+      }
+    ]
+  }
+}

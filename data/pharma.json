@@ -1,0 +1,2921 @@
+{
+  "sector": {
+    "name": "Pharmaceuticals",
+    "description": "Pharma, API and CDMO companies",
+    "accent": "#0D9488",
+    "accentLight": "#F0FDFA"
+  },
+  "companies": [
+    "Sai Life Sciences Ltd",
+    "Anthem Biosciences Ltd",
+    "Laurus Labs Ltd",
+    "Neuland Laboratories Ltd",
+    "Supriya Lifescience Ltd",
+    "Akums Drugs and Pharmaceuticals Ltd",
+    "Windlas Biotech Ltd",
+    "Gland Pharma Ltd",
+    "Piramal Pharma Ltd",
+    "OneSource Specialty Pharma Ltd",
+    "Innova Captab Ltd",
+    "Senores Pharmaceuticals Ltd",
+    "Shilpa Medicare Ltd",
+    "Aarti Pharmalabs Ltd",
+    "Blue Jet Healthcare Ltd",
+    "Alivus Life Sciences Ltd",
+    "Ind-Swift Laboratories Ltd",
+    "Fredun Pharmaceuticals Ltd",
+    "Kwality Pharmaceuticals Ltd",
+    "Marksans Pharma Ltd",
+    "Divi's Laboratories Ltd"
+  ],
+  "concall": {
+    "Sai Life Sciences Ltd": [
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "Q1 revenue grew 12% YoY to ₹553 Cr, in line with management expectations",
+          "CRO revenue grew 26%, while CDMO revenue increased 6% and contributed 60% of sales",
+          "The softer first-half mix reflects capacity additions scheduled to start contributing in H2",
+          "The balance sheet retained flexibility for the accelerated FY27 investment programme"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Long-term Revenue Growth",
+            "guided": "15-20%",
+            "actual": "Q1 growth was 12%; stronger H2 expected",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term Revenue Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "28-30%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹1,100-1,300 Cr"
+          }
+        ],
+        "highlights": [
+          "The CMC portfolio included 33 commercial and 14 late-stage molecules",
+          "Six late-stage molecules were added over 15 months, five through large-pharma relationships",
+          "Returning customers continued to contribute more than 90% of revenue",
+          "A new process-development FTE engagement is expected to begin work from Q3FY27",
+          "The peptide greenfield facility near Hyderabad is targeted to become operational in 2028",
+          "Management expects planned capacity additions to make H2 stronger than H1"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹553 Cr",
+            "change": "+12% YoY",
+            "positive": 1
+          },
+          {
+            "label": "CRO Growth",
+            "value": "26%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "CDMO Growth",
+            "value": "6%",
+            "change": "YoY",
+            "positive": 1
+          },
+          {
+            "label": "CDMO Mix",
+            "value": "60%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "quote": "\"The first quarter was in line with our expectations, with a stronger second half anticipated.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "₹2,192 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "₹661 Cr",
+            "change": "+56% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹355 Cr",
+            "change": "+109% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Capex",
+            "value": "₹633 Cr",
+            "change": "Growth investment",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 29% to ₹2,192 Cr, led by stronger pharma outsourcing demand",
+          "EBITDA rose 56% to ₹661 Cr and margin improved faster than revenue",
+          "PAT more than doubled to ₹355 Cr",
+          "The company invested ₹633 Cr in new capabilities and manufacturing capacity"
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term Revenue Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "28-30%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹1,100-1,300 Cr"
+          }
+        ],
+        "highlights": [
+          "Integrated discovery-to-manufacturing relationships with large pharma continued to deepen",
+          "CRO revenue was balanced between pharma and biotech customers",
+          "Top 10 customers contributed 54% of revenue, with the largest customer at 12%",
+          "The company is adding peptide, ADC and biology capabilities alongside conventional capacity",
+          "More than 90% of revenue came from returning customers",
+          "Management entered FY27 expecting pharma-led growth despite logistics and input-cost risks"
+        ],
+        "quote": "\"We are entering an increased investment cycle to support future growth opportunities.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Anthem Biosciences Ltd": [
+      {
+        "hasNumericGuidance": false,
+        "fyPerformance": [
+          "Q1 revenue was ₹418 Cr as key customer deliveries shifted to later quarters",
+          "EBITDA was ₹176 Cr at a 39.6% margin, including ₹25 Cr of other income",
+          "PAT was ₹120 Cr at a 27.1% margin",
+          "Net cash increased to ₹1,720 Cr, preserving funding capacity for Unit 4"
+        ],
+        "guidanceTracking": [],
+        "guidance": [],
+        "highlights": [
+          "The order book covered about 60% of management’s full-year execution requirement",
+          "Unit 1 utilisation was 78%, Unit 2 around 50%, and Unit 3 improved to 30-35%",
+          "Deferred customer deliveries are concentrated in Q2 to Q4, supporting higher utilisation ahead",
+          "The ₹1,200 Cr Unit 4 project is expected to be ready by the end of FY28",
+          "FY27 capex is targeted near ₹700 Cr, largely for Unit 4",
+          "Management again declined to give a specific FY27 growth rate"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹418 Cr",
+            "change": "Q1FY27",
+            "positive": 0
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹176 Cr",
+            "change": "39.6% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹120 Cr",
+            "change": "27.1% margin",
+            "positive": 1
+          },
+          {
+            "label": "Net Cash",
+            "value": "₹1,720 Cr",
+            "change": "+₹345 Cr vs FY26",
+            "positive": 1
+          }
+        ],
+        "quote": "\"Delivery timing shifted revenue, but the order book supports the balance of the year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "hasNumericGuidance": false,
+        "fyPerformance": [
+          "FY26 operating revenue grew 18% to ₹2,124 Cr, with CRDMO contributing 83%",
+          "FY26 EBITDA rose 31% to ₹990 Cr and margin expanded 420 bps to 43.4%",
+          "PAT grew 31% to ₹592 Cr, while net cash reached ₹1,375 Cr",
+          "Q4 was the highest-revenue quarter, with revenue up 26% and PAT up 130% YoY"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Four molecules moved into commercial supply during FY26, taking the commercial portfolio to 14",
+          "The pipeline included 10 Phase 3 molecules and more than 100 early-stage programmes",
+          "Unit 2 custom-synthesis capacity increased 50% to around 376 KL",
+          "Unit 3 became fully operational and provided headroom before the next expansion",
+          "Unit 4 Phase 1 will add 365 KL of custom synthesis and 100 KL of fermentation capacity",
+          "Management explicitly declined to provide FY27 or FY28 financial guidance"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "₹2,124 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "₹990 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹592 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "43.4%",
+            "change": "+420 bps YoY",
+            "positive": 1
+          }
+        ],
+        "quote": "\"We do not want to give FY27 or FY28 financial guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Laurus Labs Ltd": [
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "Q1 revenue reached a record ₹2,026 Cr, up 29% YoY",
+          "Small-molecule CDMO revenue grew 69% to ₹835 Cr on late-stage and commercial deliveries",
+          "EBITDA rose to ₹644 Cr and margin expanded to 31.8% on mix and operating leverage",
+          "PAT was ₹368 Cr and ROCE improved to around 19%",
+          "The company invested ₹394 Cr in Q1; net debt/EBITDA remained controlled at 1.28x"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "Maintain or improve 28.9%",
+            "actual": "31.8% in Q1FY27",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27-FY28 Capex",
+            "guided": "Around ₹3,000 Cr",
+            "actual": "₹394 Cr spent in Q1; FY27 plan raised to about ₹2,000 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "Peptide Block Validation",
+            "guided": "Q2FY27",
+            "actual": "Commercial-scale capacity remained on schedule",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹2,000 Cr"
+          },
+          {
+            "metric": "FY27-FY28 Capex",
+            "value": "May exceed ₹3,000 Cr"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "Maintain or improve current level"
+          }
+        ],
+        "highlights": [
+          "Commercial supplies drove the strongest quarterly revenue, EBITDA and PAT in company history",
+          "Affordable Medicines grew 10% to ₹1,156 Cr, supported by ARV and oncology volumes",
+          "Two clinical-stage ADC molecules were licensed for the Indian market",
+          "A new large-pharma customer was onboarded with sizeable follow-on potential",
+          "The 400 KL fermentation facility remains targeted for operations by the end of 2026",
+          "R&D investment rose to 5.8% of revenue as ADC and gene-therapy capabilities were developed"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,026 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹644 Cr",
+            "change": "Record quarter",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹368 Cr",
+            "change": "Record quarter",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "31.8%",
+            "change": "+290 bps vs Q4",
+            "positive": 1
+          }
+        ],
+        "quote": "\"Commercial supplies drove the strongest quarter in the company's history.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "FY26 revenue grew 23% to ₹6,813 Cr, driven by CDMO and Affordable Medicines",
+          "EBITDA margin expanded 670 bps to 26.8%, with EBITDA at ₹1,826 Cr",
+          "PAT increased 148% to ₹889 Cr and ROCE improved to 17.7%",
+          "Q4 revenue was ₹1,812 Cr and EBITDA margin reached 28.9%",
+          "FY26 capex was ₹1,070 Cr, with over 75% directed to CDMO and CMO expansion"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Maintain or improve Q4 level"
+          },
+          {
+            "metric": "FY27-FY28 Capex",
+            "value": "Around ₹3,000 Cr"
+          },
+          {
+            "metric": "Unit 7 Validation",
+            "value": "First block by Mar 2027"
+          },
+          {
+            "metric": "Peptide Block Validation",
+            "value": "Q2FY27"
+          }
+        ],
+        "highlights": [
+          "Small-molecule CDMO revenue grew 38% to ₹1,896 Cr as commercial NCE supplies ramped up",
+          "Affordable Medicines revenue grew 18% on higher ARV, oncology and developed-market volumes",
+          "Laurus Bio’s 400 KL fermentation Phase 1 was scheduled to start by the end of 2026",
+          "Oral-solid capacity increased 20% to 12 billion units",
+          "Three recently commercialised APIs have multi-year customer forecasts and no current destocking concern",
+          "Net debt/EBITDA improved to 1.25x despite the expansion programme"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "₹6,813 Cr",
+            "change": "+23% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "₹1,826 Cr",
+            "change": "26.8% margin",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹889 Cr",
+            "change": "+148% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA Margin",
+            "value": "28.9%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "quote": "\"We expect to maintain or improve the fourth-quarter margin while investing for growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "April 2026"
+      }
+    ],
+    "Neuland Laboratories Ltd": [
+      {
+        "hasNumericGuidance": false,
+        "fyPerformance": [
+          "Q1 revenue grew 116.3% YoY to ₹650.1 Cr, led by commercial CMS projects",
+          "EBITDA was ₹231.1 Cr at a 35.5% margin as product mix and operating leverage improved",
+          "PAT increased to ₹147.4 Cr from ₹13.7 Cr a year earlier",
+          "Working-capital days improved sharply to 84 from 137 at FY26-end",
+          "₹203 Cr of new investment was approved, mainly for Unit 1 capacity expansion"
+        ],
+        "guidanceTracking": [],
+        "guidance": [],
+        "highlights": [
+          "A handful of commercial molecules currently drive growth and have healthy five-to-six-year prospects",
+          "One additional molecule is expected to commercialise in FY27, followed by one or two in FY28",
+          "The peptide plant is scheduled for commissioning in Q2FY27, followed by qualification",
+          "Total approved capex over 13 quarters reached ₹1,460 Cr, of which ₹870 Cr had been spent",
+          "Development orders improved with two advanced clinical projects added in Q1",
+          "Management maintained its no-guidance policy and cautioned against annualising a single quarter"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹650.1 Cr",
+            "change": "+116.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹231.1 Cr",
+            "change": "35.5% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹147.4 Cr",
+            "change": "22.7% margin",
+            "positive": 1
+          },
+          {
+            "label": "Working Capital",
+            "value": "84 days",
+            "change": "Improved",
+            "positive": 1
+          }
+        ],
+        "quote": "\"The strong quarter reflects programme timing, not a new quarterly run rate.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "hasNumericGuidance": false,
+        "fyPerformance": [
+          "FY26 revenue grew 37.1% to ₹2,053.1 Cr as commercial CMS projects scaled",
+          "FY26 EBITDA rose to ₹603.4 Cr and margin expanded to 29.4%",
+          "FY26 PAT reached ₹363.1 Cr",
+          "Q4 revenue more than doubled to ₹788.7 Cr, but management cautioned that the 40.5% margin was unusually high",
+          "Working-capital investment and ₹397.1 Cr capex resulted in negative free cash flow of ₹49.4 Cr"
+        ],
+        "guidance": [],
+        "highlights": [
+          "Commercial CMS contributed more than two-thirds of Q4 revenue",
+          "The record Q4 reflected normal order lumpiness and should not be treated as a quarterly run-rate",
+          "Commercial and near-commercial molecules provide visible growth over the next two to three years",
+          "Large-scale peptide API and new R&D facilities are central to the next investment phase",
+          "Working-capital days increased to 137 and are expected to normalize in FY27",
+          "Management reiterated that it does not provide formal financial guidance"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "₹2,053.1 Cr",
+            "change": "+37.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "₹603.4 Cr",
+            "change": "29.4% margin",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹363.1 Cr",
+            "change": "17.7% margin",
+            "positive": 1
+          },
+          {
+            "label": "CMS Mix",
+            "value": "About 60%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "quote": "\"Quarterly performance can be lumpy, so we do not provide formal near-term guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Supriya Lifescience Ltd": [
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "Q1 revenue grew 31% YoY to ₹190 Cr despite ₹35 Cr of sales deferred by water shortages",
+          "EBITDA declined 8.1% to ₹47 Cr and margin fell to 25% due to temporary water, power and solvent costs",
+          "The temporary disruptions added about ₹10.5 Cr of cost; excluding them, margin was within guidance",
+          "PAT declined to ₹24 Cr from ₹35 Cr, while Q1 capex was ₹16.6 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue",
+            "guided": "Around ₹1,000 Cr",
+            "actual": "₹190 Cr in Q1; ₹35 Cr of sales deferred",
+            "status": "partial"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "guided": "33-35%",
+            "actual": "25% reported; within range excluding temporary costs",
+            "status": "partial"
+          },
+          {
+            "metric": "Contrast Media Launch",
+            "guided": "H2FY27",
+            "actual": "Development continued; launch remains targeted for H2",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Around ₹1,000 Cr"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "32-35%"
+          },
+          {
+            "metric": "Long-term Revenue Growth",
+            "value": "Around 20% CAGR"
+          },
+          {
+            "metric": "Contrast Media Launch",
+            "value": "H2FY27"
+          }
+        ],
+        "highlights": [
+          "Exports contributed 81% of revenue and backward-integrated products contributed 72%",
+          "Two inhalation-anaesthetic products were launched from Ambernath in Q2FY27",
+          "The planned August shutdown was replaced with phased maintenance to protect Q2 production",
+          "Patalganga site work began, with Phase 1 focused on API and utility blocks",
+          "The Ambernath EU audit is scheduled for the second half of November",
+          "Water availability normalized after a 15-20 day disruption"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹190 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹47 Cr",
+            "change": "-8.1% YoY",
+            "positive": 0
+          },
+          {
+            "label": "PAT",
+            "value": "₹24 Cr",
+            "change": "-31% YoY",
+            "positive": 0
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "25%",
+            "change": "Temporary cost impact",
+            "positive": 0
+          }
+        ],
+        "quote": "\"Temporary disruptions affected Q1, while the full-year revenue objective remains intact.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹277 Cr",
+            "change": "+50% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹98 Cr",
+            "change": "+44% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹828 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 EBITDA Margin",
+            "value": "35.5%",
+            "change": "Above guidance",
+            "positive": 1
+          }
+        ],
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "FY26 revenue grew 19% to ₹828 Cr, broadly meeting the 20% growth guidance",
+          "FY26 EBITDA rose 13% to ₹294 Cr and margin reached 35.5%, above the guided range",
+          "FY26 PAT was ₹209 Cr at a 25.3% margin",
+          "Q4 revenue grew 50% to a record ₹277 Cr despite around ₹10 Cr of supply-chain disruption",
+          "The company invested ₹152 Cr during FY26, mainly at Ambernath and in smaller expansion projects"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Around ₹1,000 Cr"
+          },
+          {
+            "metric": "Revenue Growth",
+            "value": "Around 20%"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "33-35%"
+          },
+          {
+            "metric": "Contrast Media Launch",
+            "value": "H2FY27"
+          }
+        ],
+        "highlights": [
+          "Exports contributed 82% of FY26 revenue, led by Europe at 40%",
+          "Backward integration covered 76% of revenue and supported cost control",
+          "Cardiovascular, ADHD and liquid-anaesthetic launches began contributing during FY26",
+          "The Lote facility received its USFDA EIR after only one minor inspection observation",
+          "Patalganga Phase 1 will begin with API capacity and requires around ₹200 Cr",
+          "Management plans three to four product launches annually"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "quote": "\"We are targeting revenue of around ₹1,000 crores in FY27.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Akums Drugs and Pharmaceuticals Ltd": [
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "Q1 revenue grew 13.9% YoY to ₹1,167 Cr, led by double-digit CDMO volume growth",
+          "Operating EBITDA rose 35.4% to ₹175 Cr and margin expanded 238 bps to 15%",
+          "PAT increased 56.1% to ₹101 Cr",
+          "CDMO revenue grew 18.6% to ₹964 Cr and segment EBITDA rose 36.8% to ₹163 Cr",
+          "Cash surplus remained strong at ₹1,616 Cr; Q1 operating cash flow was ₹65 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "CDMO EBITDA Margin",
+            "guided": "14-15%",
+            "actual": "15% in Q1; management expects the upper end for FY27",
+            "status": "met"
+          },
+          {
+            "metric": "Zambia Supplies",
+            "guided": "$25 Mn by end-Q2FY27",
+            "actual": "Now expected across H2FY27",
+            "status": "partial"
+          },
+          {
+            "metric": "API Breakeven",
+            "guided": "Monthly positive by FY27-end",
+            "actual": "Q1 loss narrowed to ₹4 Cr from ₹12 Cr in Q4",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "CDMO EBITDA Margin",
+            "value": "14-15%; upper end expected"
+          },
+          {
+            "metric": "CDMO Volume Growth",
+            "value": "Double digit"
+          },
+          {
+            "metric": "Zambia Supplies",
+            "value": "$25 Mn during H2FY27"
+          },
+          {
+            "metric": "API Breakeven",
+            "value": "Monthly positive by FY27-end"
+          }
+        ],
+        "highlights": [
+          "Higher API prices, inventory protection and improved utilisation supported CDMO margins",
+          "Q2 CDMO volumes were visible at high-teen growth rates",
+          "The API loss narrowed as non-cephalosporin products gained share",
+          "Trade Generics remained around breakeven for a second quarter",
+          "Akumentis added about 200 field-force employees, temporarily weighing on segment profit",
+          "The European and Zambia contracts should carry high-teen margins once scaled"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,167 Cr",
+            "change": "+13.9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹175 Cr",
+            "change": "+35.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹101 Cr",
+            "change": "+56.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "15%",
+            "change": "+238 bps YoY",
+            "positive": 1
+          }
+        ],
+        "quote": "\"CDMO margin reached the upper end of our guided range in Q1.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "FY26 revenue grew 5.8% to ₹4,359 Cr, while adjusted EBITDA rose 13.3% to ₹522 Cr",
+          "Adjusted EBITDA margin improved to 12% from 11.2%",
+          "PBT grew 11.9% to ₹382 Cr; PAT declined because FY25 included a ₹106 Cr deferred-tax benefit",
+          "Q4 revenue grew 9.7% to ₹1,158 Cr and adjusted EBITDA rose 61.6% to ₹152 Cr",
+          "Operating cash flow increased to ₹1,181 Cr, helped by advance receipts under the European contract"
+        ],
+        "guidance": [
+          {
+            "metric": "CDMO EBITDA Margin",
+            "value": "14-15%"
+          },
+          {
+            "metric": "Zambia Supplies",
+            "value": "$25 Mn by end-Q2FY27"
+          },
+          {
+            "metric": "European Plant 2 Supplies",
+            "value": "Start in FY28"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "Around ₹300 Cr"
+          },
+          {
+            "metric": "API Breakeven",
+            "value": "Monthly EBITDA positive by FY27-end"
+          }
+        ],
+        "highlights": [
+          "CDMO revenue grew 8.6% to ₹3,485 Cr and remained the main growth engine",
+          "Trade Generics turned EBITDA positive in Q4 after portfolio rationalisation",
+          "The API business remained loss-making, though the mix is shifting away from cephalosporins",
+          "The Zambia contract provides $25 Mn of supplies in each of FY27 and FY28",
+          "The European contract can contribute about €35 Mn annually once commercial supply starts",
+          "Injectables, Penem and Baddi facilities are progressing through customer audits and approvals"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹1,158 Cr",
+            "change": "+9.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Adj. EBITDA",
+            "value": "₹152 Cr",
+            "change": "+61.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹4,359 Cr",
+            "change": "+5.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Adj. EBITDA",
+            "value": "₹522 Cr",
+            "change": "+13.3% YoY",
+            "positive": 1
+          }
+        ],
+        "quote": "\"The CDMO business remains the core growth engine, with margins expected at 14% to 15%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Windlas Biotech Ltd": [
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "Q1 revenue grew 18% to a record ₹248 Cr, the 14th consecutive record quarter",
+          "Adjusted EBITDA rose 26% to ₹34 Cr after excluding ₹7.2 Cr of non-cash ESOP cost",
+          "Adjusted PAT increased 37% to ₹25 Cr",
+          "CDMO revenue grew 29% to ₹207 Cr, while exports rose 79% to ₹11 Cr",
+          "Trade Generics revenue fell to ₹30 Cr after codeine-based products were discontinued"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Plant 6 Commercialisation",
+            "guided": "H1FY27",
+            "actual": "Mechanical work complete; validation and customer audits underway",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "Plant 6 Commercialisation",
+            "value": "End of H1FY27"
+          }
+        ],
+        "highlights": [
+          "Plant 6 will use existing customer portfolios rather than depend on new product development",
+          "Total revenue capacity after Plant 6 is estimated around ₹1,100 Cr, before efficiency gains",
+          "Injectables are now contributing to CDMO revenue",
+          "New liquid products and pack sizes are being added to replace discontinued codeine sales",
+          "Peak practical utilisation is around 60-65%, with scope to stretch toward 70%",
+          "Management reiterated that it does not provide financial growth guidance"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹248 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. EBITDA",
+            "value": "₹34 Cr",
+            "change": "+26% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹25 Cr",
+            "change": "+37% YoY",
+            "positive": 1
+          },
+          {
+            "label": "CDMO Revenue",
+            "value": "₹207 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          }
+        ],
+        "quote": "\"Plant 6 validation and customer audits are progressing toward an H1 start.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "FY26 revenue grew 19% to ₹904 Cr, crossing ₹900 Cr for the first time",
+          "Adjusted EBITDA was ₹121 Cr at a 13.4% margin and adjusted PAT was ₹83 Cr",
+          "Net operating cash flow reached ₹105 Cr and year-end net liquidity was ₹251 Cr",
+          "Q4 revenue grew 18% to ₹238 Cr, extending the record-revenue streak to 13 quarters",
+          "Exports grew 40% during FY26, while CDMO revenue increased 20%"
+        ],
+        "guidance": [
+          {
+            "metric": "Plant 6 Commercialisation",
+            "value": "H1FY27"
+          }
+        ],
+        "highlights": [
+          "Generic Formulations CDMO contributed ₹664 Cr and about 73% of FY26 revenue",
+          "The largest customer contributed only 6.5%, while the top 10 accounted for 32%",
+          "Plants 4 and 5 received Philippines GMP certification",
+          "Plant 6 achieved mechanical completion and is an expansion of core oral-solid capacity",
+          "The company completed a ₹47 Cr buyback without promoter participation",
+          "Management does not provide revenue or margin guidance"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹238 Cr",
+            "change": "+18% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹904 Cr",
+            "change": "+19% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Adj. EBITDA",
+            "value": "₹121 Cr",
+            "change": "13.4% margin",
+            "positive": 1
+          },
+          {
+            "label": "Operating Cash Flow",
+            "value": "₹105 Cr",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "quote": "\"We do not provide financial guidance; Plant 6 is the key near-term operating milestone.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Gland Pharma Ltd": [
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "Q1 revenue grew 20% YoY to ₹1,800.3 Cr, led by CDMO, B2B and recent launches",
+          "Adjusted EBITDA was ₹510.2 Cr and margin expanded 300 bps to 28%",
+          "PAT grew 47% to ₹317 Cr at an 18% margin",
+          "CDMO revenue grew 20% to ₹891.5 Cr and contributed half of consolidated revenue",
+          "Operating cash flow was ₹318.3 Cr and net cash stood at ₹3,293.9 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "12-13% constant currency",
+            "actual": "20% reported growth in Q1; management now sees 15% CC as achievable",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Cenexi FY27 Revenue",
+            "guided": "Around €200 Mn",
+            "actual": "€48 Mn in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Cenexi FY27 Margin",
+            "guided": "Mid-to-high single digit",
+            "actual": "€2 Mn EBITDA on €48 Mn revenue in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Expansion Capex",
+            "guided": "₹2,000 Cr over three years",
+            "actual": "₹113.2 Cr spent in Q1; programme underway",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Around 15% constant currency"
+          },
+          {
+            "metric": "Four-year Revenue Growth",
+            "value": "Around 20% CAGR under review"
+          },
+          {
+            "metric": "Near-term EBITDA Margin",
+            "value": "Around 30%"
+          },
+          {
+            "metric": "Cenexi FY27 Revenue",
+            "value": "Around €200 Mn"
+          },
+          {
+            "metric": "Cenexi FY27 Margin",
+            "value": "High single digit"
+          }
+        ],
+        "highlights": [
+          "A 55-SKU global injectable contract can generate $90-100 Mn annually from CY2029",
+          "Technology transfer for the new contract starts in September and is planned over two years",
+          "A Neuland collaboration adds sterile APIs for long-acting depot formulations",
+          "Four U.S. products were launched; U.S. revenue grew 32%",
+          "A new liposomal product is being developed for U.S. and Europe, with revenue expected from FY30",
+          "Cenexi’s new ampoule line should add 30 million units of annual capacity in 2027"
+        ],
+        "quarter": "Q1FY27",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,800.3 Cr",
+            "change": "+20% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. EBITDA",
+            "value": "₹510.2 Cr",
+            "change": "28% margin",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹317 Cr",
+            "change": "+47% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Net Cash",
+            "value": "₹3,293.9 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "quote": "\"The Q1 performance supports a higher constant-currency growth expectation for FY27.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "hasNumericGuidance": true,
+        "fyPerformance": [
+          "FY26 revenue grew 14.5% to ₹6,430.7 Cr, with CDMO contributing 46%",
+          "Adjusted EBITDA was ₹1,682.6 Cr at a 26% margin",
+          "Adjusted PAT was ₹1,045.5 Cr at a 16% margin",
+          "Q4 revenue grew 22% to ₹1,742.8 Cr and adjusted EBITDA margin reached 30%",
+          "Cenexi became EBITDA positive after operational restructuring and higher utilisation"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "12-13% constant currency"
+          },
+          {
+            "metric": "Four-year Revenue CAGR",
+            "value": "Around 15%"
+          },
+          {
+            "metric": "Cenexi FY27 Revenue",
+            "value": "Around €200 Mn"
+          },
+          {
+            "metric": "Cenexi FY27 Margin",
+            "value": "Mid-to-high single digit"
+          },
+          {
+            "metric": "Expansion Capex",
+            "value": "₹2,000 Cr over three years"
+          }
+        ],
+        "highlights": [
+          "The U.S. business grew 11% in FY26 and launched 31 products",
+          "A major CDMO project has $25-30 Mn annual potential from H2FY28",
+          "Eight GLP-1 contracts were signed and cartridge capacity reached 140 million units",
+          "Dalbavancin and multivitamin launches are expected to drive FY27 growth",
+          "Cenexi generated €45 Mn revenue and €1 Mn EBITDA in Q4",
+          "The base business began a multi-year expansion across ophthalmic, BFS and CDMO lines"
+        ],
+        "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹1,742.8 Cr",
+            "change": "+22% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 Adj. EBITDA Margin",
+            "value": "30%",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹6,430.7 Cr",
+            "change": "+14.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Adj. PAT",
+            "value": "₹1,045.5 Cr",
+            "change": "16% margin",
+            "positive": 1
+          }
+        ],
+        "quote": "\"Cenexi has turned EBITDA positive and the wider business is entering a multi-year expansion.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "OneSource Specialty Pharma Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹449 Cr",
+            "change": "+37% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹123.3 Cr",
+            "change": "+39% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "27.5%",
+            "change": "+40 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "Drug-Device Share",
+            "value": ">40%",
+            "change": "India generic pens",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 37% to ₹449 Cr, led by semaglutide launches, new contracts and customer wins",
+          "EBITDA rose 39% to ₹123.3 Cr and increased 34% sequentially",
+          "A richer drug-device mix lifted EBITDA margin to about 27.5%",
+          "OneSource manufactured more than 40% of generic pens sold in India during June"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY28 Organic Revenue",
+            "guided": "$400 Mn",
+            "actual": "₹449 Cr in Q1; order visibility supports the target",
+            "status": "partial"
+          },
+          {
+            "metric": "FY28 EBITDA Margin",
+            "guided": "40%",
+            "actual": "27.5% in Q1; margin improved with drug-device mix",
+            "status": "partial"
+          },
+          {
+            "metric": "$100 Mn Expansion",
+            "guided": "New capacity through FY28",
+            "actual": "About 80% committed; second cartridge line starts in Q2FY27",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY28 Organic Revenue",
+            "value": "$400 Mn"
+          },
+          {
+            "metric": "FY28 EBITDA Margin",
+            "value": "40%"
+          }
+        ],
+        "highlights": [
+          "All three approved semaglutide products in Canada are supplied by OneSource",
+          "The second cartridge line will double available sterile production days from Q2FY27",
+          "Another drug-device line is planned within FY27, easing a key capacity constraint",
+          "Two customers secured first-to-file status in the US for tirzepatide",
+          "Nine products were launched and six new customers were added during the quarter"
+        ],
+        "quote": "\"We are happy to reiterate our FY28 outlook.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹428.2 Cr",
+            "change": "+47% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹91.9 Cr",
+            "change": ">5x QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹39 Cr",
+            "change": "Turned profitable QoQ",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "21.5%",
+            "change": "+1,550 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue was ₹1,421.6 Cr, down 2% as semaglutide approvals and launches were delayed",
+          "FY26 EBITDA declined 35%, but Q4 EBITDA rose more than fivefold sequentially to ₹91.9 Cr",
+          "Adjusted PAT was ₹73.9 Cr for FY26 and ₹39 Cr in Q4",
+          "Q4 revenue recovered 47% sequentially as drug-device combination supplies accelerated"
+        ],
+        "guidance": [
+          {
+            "metric": "FY28 Organic Revenue",
+            "value": "$400 Mn"
+          },
+          {
+            "metric": "FY28 EBITDA Margin",
+            "value": "40%"
+          }
+        ],
+        "highlights": [
+          "Canada and US approvals opened larger markets for the drug-device combination platform",
+          "A $100 Mn expansion is adding cartridge, pre-filled syringe and packaging capacity",
+          "The second drug-device line is scheduled for Q2FY27, with a third line due by FY27-end",
+          "More than 15 launches and 10 new licensing agreements expanded the commercial pipeline",
+          "Management expects the softgel and injectable businesses to approach a combined $100 Mn within the FY28 plan"
+        ],
+        "quote": "\"We remain confident of delivering $400 million of organic revenue with a 40% EBITDA margin by FY28.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Innova Captab Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹470.9 Cr",
+            "change": "+34% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹75.1 Cr",
+            "change": "+33% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹44.1 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "16.0%",
+            "change": "+10 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 34% to ₹470.9 Cr, comfortably above the full-year growth objective",
+          "EBITDA increased 33% to ₹75.1 Cr and margin improved to 16%",
+          "PAT rose 42% to ₹44.1 Cr, faster than both revenue and EBITDA",
+          "CDMO grew 32% to ₹328.7 Cr, while branded generics grew 39% to ₹142.2 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "20%+",
+            "actual": "34% in Q1; guidance retained",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Growth",
+            "guided": "Outgrow revenue",
+            "actual": "33% versus 34% revenue growth in Q1",
+            "status": "missed"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "guided": "Outgrow EBITDA",
+            "actual": "42% versus 33% EBITDA growth in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "20%+"
+          },
+          {
+            "metric": "Steady-state EBITDA Margin",
+            "value": "15-16%, with normal variation"
+          }
+        ],
+        "highlights": [
+          "Jammu revenue reached ₹107 Cr and the plant turned EBITDA positive during Q1",
+          "Jammu utilisation improved to an annualised 25-30% from about 10% in FY26",
+          "Exports increased to 32% of revenue",
+          "Volume growth contributed about 20-22 percentage points of the 34% sales increase",
+          "Routine maintenance and debottlenecking capex is expected at about ₹40-55 Cr annually"
+        ],
+        "quote": "\"The performance gives further confidence in our ability to deliver on our guidance.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹447.8 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹66.7 Cr",
+            "change": "+31% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹38.1 Cr",
+            "change": "+29% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "14.9%",
+            "change": "Q4FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 31% to ₹1,630 Cr, while EBITDA rose 26% to ₹250.3 Cr",
+          "FY26 PAT increased 10% to ₹140.9 Cr and EBITDA margin was 15.4%",
+          "CDMO revenue grew 24% to ₹1,133 Cr and branded generics grew 51% to ₹497 Cr",
+          "Exports contributed 31% of full-year revenue"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "20%+"
+          },
+          {
+            "metric": "FY27 Profitability",
+            "value": "EBITDA and PAT to outgrow revenue"
+          }
+        ],
+        "highlights": [
+          "The new Jammu plant generated about ₹300 Cr in FY26 and approached EBITDA break-even in Q4",
+          "Jammu utilisation was only about 10%, leaving meaningful room for operating leverage",
+          "The Baddi cephalosporin facility received UK-MHRA approval and Jammu received PIC/S certification",
+          "A proposed Baddi block may require ₹150-170 Cr and support ₹450-500 Cr of revenue at maturity",
+          "The cost-plus CDMO model allows most API inflation to be passed to customers"
+        ],
+        "quote": "\"We are confident in our ability to deliver 20% plus revenue growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Senores Pharmaceuticals Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹180 Cr",
+            "change": "+36% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹54 Cr",
+            "change": "+87% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹31 Cr",
+            "change": "+56% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "30%",
+            "change": "+810 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 36% to ₹180 Cr, within management's FY27 growth range",
+          "EBITDA rose 87% to ₹54 Cr and margin expanded to about 30%",
+          "PAT increased 56% to ₹31 Cr, matching the FY27 growth objective",
+          "Regulated-market revenue grew 42% and emerging-market revenue grew 30%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "30-40%",
+            "actual": "36% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "guided": "50-60%",
+            "actual": "56% in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "29-31%",
+            "actual": "About 30% in Q1",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "30-40%"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "value": "50-60%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "29-31%"
+          }
+        ],
+        "highlights": [
+          "Approved ANDAs increased to 58 and 23 products were commercial by June",
+          "Seven products launched in Q1, with a larger launch programme planned over the next 18-20 months",
+          "Apnar produced about 30 million units and is being prioritised over the slower sterile project",
+          "Emerging-market margin was seasonally lower in Q1 but management retained its 18-20% full-year target",
+          "PIC/S approval for the Chhatral plant is targeted for Q2-Q3FY27"
+        ],
+        "quote": "\"We are quite confident on what we have guided for.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹190 Cr",
+            "change": "+66% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹62 Cr",
+            "change": ">3x YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹32 Cr",
+            "change": "+78% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "32.7%",
+            "change": "+1,151 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 62% to ₹663 Cr and PAT more than doubled to ₹122 Cr",
+          "FY26 EBITDA was about ₹200 Cr with margin expanding 527 bps to 30%",
+          "Regulated-market revenue grew 75% to ₹427 Cr, led by a much larger US portfolio",
+          "Operating cash flow improved to about ₹75 Cr despite rapid growth"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY26 Revenue Growth",
+            "guided": "50%",
+            "actual": "62%",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY26 PAT Growth",
+            "guided": "100%",
+            "actual": "108%",
+            "status": "exceeded"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "30-40%"
+          },
+          {
+            "metric": "FY27 PAT Growth",
+            "value": "50-60%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "29-31%"
+          }
+        ],
+        "highlights": [
+          "Approved ANDAs increased to 51; 20 were commercial and 30 more were scheduled for launch",
+          "The acquired Apnar plant began US and UK shipments and is budgeted for ₹80-100 Cr of FY27 revenue",
+          "Emerging-market EBITDA margin reached 18-19% in Q4 and the business became cash-flow positive",
+          "India branded-generics revenue increased nearly fivefold to about ₹40 Cr",
+          "FY27 capex was planned at about ₹200 Cr"
+        ],
+        "quote": "\"We delivered performance ahead of our stated commitments.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Shilpa Medicare Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹469 Cr",
+            "change": "+43% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹139 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹101 Cr",
+            "change": "+115% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "30%",
+            "change": "Q1FY27",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue and EBITDA reached record quarterly levels for the fourth consecutive quarter",
+          "PAT more than doubled to ₹101 Cr, helped by a deferred-tax reversal",
+          "Formulation revenue more than doubled to ₹198 Cr, led by complex US products",
+          "API revenue grew 15% to ₹260 Cr and biologics revenue grew 42% to ₹52 Cr"
+        ],
+        "guidanceTracking": [],
+        "guidance": [],
+        "highlights": [
+          "Management again declined to give formal financial guidance",
+          "Aflibercept completed clinical studies and remains targeted for an India launch in FY27",
+          "The peptide manufacturing block is expected to begin operations by FY27-end",
+          "Three advanced API CDMO programmes are expected to commercialise in FY28",
+          "Q1 capex was ₹114 Cr, but major investment in biologics and formulations is largely complete"
+        ],
+        "quote": "\"We may not be able to provide guidance, but we can visualise healthy and steady growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹439 Cr",
+            "change": "+30% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹121 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹87 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "28%",
+            "change": "+200 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 18% to ₹1,549 Cr and EBITDA rose 30% to ₹445 Cr",
+          "Full-year EBITDA margin improved about 300 bps to 29%",
+          "Adjusted PAT increased about 135% to ₹232 Cr",
+          "Formulations grew 30% to ₹618 Cr and biologics revenue nearly doubled to ₹150 Cr"
+        ],
+        "guidanceTracking": [],
+        "guidance": [],
+        "highlights": [
+          "The dedicated OLC manufacturing block began operations, with validation batches planned in Q1FY27",
+          "A new oncology API block and a large-scale peptide block are scheduled to begin operations in FY27",
+          "Abraxane and Enzalutamide are being prepared for FY28 commercial launches",
+          "Aflibercept remained on track for an India launch in FY27",
+          "FY26 capex was ₹361 Cr and net debt ended at ₹613 Cr"
+        ],
+        "quote": "\"Our focus remains on monetization of the investments already made.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Aarti Pharmalabs Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹535 Cr",
+            "change": "+42% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹133 Cr",
+            "change": "+40% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹71 Cr",
+            "change": "+49% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "24.8%",
+            "change": "+169 bps QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 42% to ₹535 Cr, led by record xanthine sales",
+          "EBITDA increased 40% to ₹133 Cr and margin reached 24.8%",
+          "PAT rose 49% to ₹71 Cr",
+          "Xanthine contributed 57% of sales, API and intermediates 30%, and CDMO 7%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "3-4 Year Revenue Growth",
+            "guided": "15-18% CAGR",
+            "actual": "42% in Q1; ahead of the long-term trajectory",
+            "status": "exceeded"
+          },
+          {
+            "metric": "3-4 Year EBITDA Growth",
+            "guided": "15-18% CAGR",
+            "actual": "40% in Q1; ahead of the long-term trajectory",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 CDMO Growth",
+            "guided": "40-50%",
+            "actual": "7% of Q1 sales; growth retained and expected to be H2-heavy",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 CDMO Growth",
+            "value": "40-50%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "22-25%"
+          },
+          {
+            "metric": "CDMO Revenue Ambition",
+            "value": "₹1,000 Cr by FY29-30"
+          }
+        ],
+        "highlights": [
+          "The steroid expansion and new xanthine capacity began commercial operation during Q1",
+          "Both phases of the 440 KL Atali Block 1 are scheduled to be fully operational in Q2FY27",
+          "A ₹149 Cr dedicated Atali block was approved, with completion planned 12-15 months after Q3FY27 groundbreaking",
+          "The CDMO pipeline expanded to 22 customers and 57 projects, including 37 commercial programmes",
+          "Management expects xanthine capacity utilisation to exceed 80% by FY28"
+        ],
+        "quote": "\"We are quite confident that we will achieve 40% to 50% CDMO growth this year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹580 Cr",
+            "change": "+9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹134 Cr",
+            "change": "-5% YoY",
+            "positive": 0
+          },
+          {
+            "label": "PAT",
+            "value": "₹62 Cr",
+            "change": "-30% YoY",
+            "positive": 0
+          },
+          {
+            "label": "CDMO Revenue",
+            "value": "₹155 Cr",
+            "change": "Record quarter",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue increased 2% to ₹1,798 Cr, while EBITDA declined 5% to ₹406 Cr",
+          "PAT fell 32% to ₹176 Cr, partly reflecting a ₹33 Cr foreign-exchange loss",
+          "CDMO revenue grew 32% and represented 29% of Q4 sales",
+          "Q4 marked the year's strongest revenue quarter despite margin pressure"
+        ],
+        "guidance": [
+          {
+            "metric": "3-4 Year Revenue and EBITDA Growth",
+            "value": "15-18% CAGR"
+          },
+          {
+            "metric": "FY27 CDMO Growth",
+            "value": "40-50%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "About ₹400 Cr"
+          }
+        ],
+        "highlights": [
+          "Atali Block 1 added 440 KL for CDMO intermediates and was nearing full operation",
+          "The xanthine expansion increases capacity from 6,000 to 9,000 MT",
+          "Debottlenecking was planned to expand the steroid block by about one-third",
+          "The CDMO portfolio comprised 21 customers and 54 active projects, including 35 commercial programmes",
+          "A proposed dedicated CDMO block could support ₹250-300 Cr of annual revenue"
+        ],
+        "quote": "\"We are targeting 15% to 18% growth in both revenue and EBITDA over the next three to four years.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Blue Jet Healthcare Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹293 Cr",
+            "change": "+25% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹98 Cr",
+            "change": "+38% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "33.5%",
+            "change": "+310 bps QoQ",
+            "positive": 1
+          },
+          {
+            "label": "PAT Margin",
+            "value": "26.7%",
+            "change": "-70 bps QoQ",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "Revenue recovered 25% sequentially to ₹293 Cr as PI/API supplies resumed",
+          "EBITDA increased to ₹98 Cr and margin expanded to 33.5% on better operating leverage",
+          "PAT margin remained strong at 26.7%",
+          "PI/API demand is supported by a stronger order book, while contrast-media revenue was affected by shipment timing"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Contrast Media Growth",
+            "guided": "Double digit",
+            "actual": "Q1 recognition was delayed; three launches remain planned",
+            "status": "partial"
+          },
+          {
+            "metric": "Mahad Commercial Production",
+            "guided": "H2FY27",
+            "actual": "Running slightly ahead of schedule for later CY2026",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 Capex",
+            "guided": "About ₹400 Cr",
+            "actual": "Management retained a similar company-level outlay",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Contrast Media Launches",
+            "value": "3 products"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "About ₹400 Cr"
+          }
+        ],
+        "highlights": [
+          "Supplies of the cardiovascular intermediate resumed and are expected to remain steady through FY27",
+          "Mahad will make key contrast-media inputs internally, improving supply control before a gradual ramp-up",
+          "Vizag approvals and engineering work are progressing, with commercial production expected from FY29",
+          "The Hyderabad R&D centre's first phase was scheduled to open in August 2026",
+          "Four high-conviction innovator programmes advanced into customer development"
+        ],
+        "quote": "\"We are beginning to see tangible conversion of the opportunity funnel into executable programmes.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹235 Cr",
+            "change": "-31% YoY",
+            "positive": 0
+          },
+          {
+            "label": "Gross Margin",
+            "value": "56%",
+            "change": "+100 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "30.4%",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "Cash",
+            "value": "₹400 Cr",
+            "change": "Debt-free",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue declined 8% to ₹947 Cr as a cardiovascular intermediate went through customer destocking",
+          "Contrast-media revenue grew 23% to ₹495 Cr, partly offsetting a 35% decline in PI/API revenue",
+          "FY26 EBITDA margin moderated to 31% from 37%, while PAT margin remained healthy at 26%",
+          "Operating cash flow was ₹334 Cr and the company ended the year debt-free"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Contrast Media Growth",
+            "value": "Double digit"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "About ₹400 Cr"
+          }
+        ],
+        "highlights": [
+          "PI/API demand visibility improved after customer destocking, with supplies expected to normalise in FY27",
+          "Three to four contrast-media launches were planned for FY27",
+          "The Mahad backward-integration plant is expected to begin commercial production in H2FY27",
+          "The Vizag project carries a planned investment of about ₹1,000 Cr over three years",
+          "About 20 innovator opportunities were under evaluation, including GLP-1-linked intermediates"
+        ],
+        "quote": "\"The company is transitioning from an investment phase into a broader commercialisation cycle.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Alivus Life Sciences Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹640 Cr",
+            "change": "+6.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹234 Cr",
+            "change": "+29.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹160 Cr",
+            "change": "25% margin",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "36.6%",
+            "change": "+650 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 6.4% despite a sharp decline in business from Glenmark",
+          "Non-Glenmark revenue grew 26.5%, supported by new launches and broad-based demand",
+          "EBITDA rose 29.1% and margin expanded to 36.6% on product mix and efficiency gains",
+          "Free cash flow was ₹90 Cr and cash investments increased to ₹880 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "30-32%",
+            "actual": "36.6% in Q1",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Capex",
+            "guided": "About ₹540 Cr",
+            "actual": "₹85 Cr spent in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "Solapur Phase 1",
+            "guided": "Operational in Q2FY27",
+            "actual": "Delayed to early Q3FY27",
+            "status": "missed"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "10-12%, H2 weighted"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "30-32%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "About ₹540 Cr"
+          }
+        ],
+        "highlights": [
+          "CDMO grew 3.8% in Q1, with newer projects expected to lift the second half",
+          "Solapur Phase 1 is now expected to begin operations in early Q3FY27",
+          "The high-potency API pipeline increased to 29 products",
+          "Dahej and Ankleshwar expansions remain the priority for regulated-market capacity",
+          "The company remained debt-free and expects to fund expansion through internal cash flow"
+        ],
+        "quote": "\"We are guiding for 10% to 12% revenue growth, with growth skewed towards the second half.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹689 Cr",
+            "change": "+6.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹237 Cr",
+            "change": "+13.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹163 Cr",
+            "change": "23.6% margin",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "34.4%",
+            "change": "+230 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 6.9% to ₹2,552 Cr and EBITDA rose 19.6% to ₹858 Cr",
+          "EBITDA margin reached a record 33.6%, up 360 bps",
+          "PAT was ₹565 Cr with a 22.1% margin",
+          "Non-Glenmark revenue grew 13%, broadening the customer and product mix"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "30-32%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "About ₹540 Cr"
+          },
+          {
+            "metric": "Solapur Phase 1",
+            "value": "Operational in Q2FY27"
+          }
+        ],
+        "highlights": [
+          "Eleven products and 49 customers were added during FY26",
+          "The pipeline included 28 high-potency APIs, with 12 already validated",
+          "Solapur Phase 1 will add backward-integration and API capacity",
+          "Manufacturing capacity is planned to rise from 1,198 KL in FY24 to 2,690 KL by FY28",
+          "Cash and equivalents reached ₹782 Cr and the balance sheet remained debt-free"
+        ],
+        "quote": "\"Maintaining a high-quality business is a bigger priority than pursuing growth at the cost of margins.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Ind-Swift Laboratories Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating Income",
+            "value": "₹186.1 Cr",
+            "change": "+21.2% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹33.3 Cr",
+            "change": "2.85x YoY",
+            "positive": 1
+          },
+          {
+            "label": "Adj. PAT",
+            "value": "₹24.7 Cr",
+            "change": "2.04x YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "17.9%",
+            "change": "+1,258 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 operating income grew 21.2% to ₹186.1 Cr",
+          "Operating EBITDA nearly tripled to ₹33.3 Cr as export own-brands gained share",
+          "Adjusted PAT more than doubled to ₹24.7 Cr",
+          "Exports contributed 83.8% of sales, including 57.2% from the higher-margin own-brand business"
+        ],
+        "guidanceTracking": [],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "About ₹900 Cr"
+          },
+          {
+            "metric": "Medium-term Revenue Growth",
+            "value": "20-25% CAGR"
+          },
+          {
+            "metric": "Sustainable EBITDA Margin",
+            "value": "18%+"
+          }
+        ],
+        "highlights": [
+          "New Viatris, Manx and Arrotex partnerships are expected to add ₹200-220 Cr of FY27 revenue",
+          "Ibuprofen sachets and Macrogol were commercialised during Q1",
+          "The ₹250 Cr cash balance is planned for plant expansion over roughly two years",
+          "Management expects FY27 export sales of about ₹750 Cr, with CDMO contributing around 45%",
+          "The longer-term target is ₹1,200 Cr revenue by FY29"
+        ],
+        "quote": "\"We are quite hopeful of achieving the numbers projected for FY27.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      }
+    ],
+    "Marksans Pharma Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹840.8 Cr",
+            "change": "+35.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹213 Cr",
+            "change": "+112.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹159.4 Cr",
+            "change": "+173.9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "25.3%",
+            "change": "+919 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 35.6% to ₹840.8 Cr, with strong organic growth and an initial acquisition contribution",
+          "EBITDA more than doubled to a record ₹213 Cr and margin reached 25.3%",
+          "PAT rose 173.9% to a record ₹159.4 Cr",
+          "Free cash flow was ₹152 Cr and net cash increased to ₹1,031 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "15-20%",
+            "actual": "35.6% in Q1; guidance retained",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "20-21%",
+            "actual": "25.3% in Q1; 21-22% expected for the full year",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY28 Revenue",
+            "guided": "₹4,000 Cr",
+            "actual": "₹840.8 Cr in Q1; target reaffirmed",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "21-22%"
+          },
+          {
+            "metric": "FY28 Revenue",
+            "value": "₹4,000 Cr"
+          }
+        ],
+        "highlights": [
+          "UK and Europe revenue grew 74.7% to ₹356 Cr, including ₹44 Cr from QliniQ",
+          "The underlying UK and Europe business still grew 53.1% excluding QliniQ",
+          "QliniQ is expected to contribute ₹150-175 Cr in FY27; the German acquisition starts consolidating in Q2",
+          "North America grew 15.1%, while Australia and New Zealand grew 53.7%",
+          "Management expects the unusually high Q1 margin to normalise as low-cost inventory is consumed"
+        ],
+        "quote": "\"We are still very much on target to hit ₹4,000 crores within the next two years.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹856 Cr",
+            "change": "+20.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹195 Cr",
+            "change": "+54% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹149 Cr",
+            "change": "+64.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "22.8%",
+            "change": "+491 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 12.5% to ₹2,951 Cr and crossed the company's ₹3,000 Cr objective on total income",
+          "EBITDA reached ₹601 Cr with margin improving to 20.4%",
+          "PAT was ₹420 Cr and free cash flow increased to ₹328 Cr",
+          "North America grew 24% to ₹1,533 Cr and became 52% of revenue"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "15-20%"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "20-21%"
+          },
+          {
+            "metric": "FY28 Revenue",
+            "value": "₹4,000 Cr"
+          }
+        ],
+        "highlights": [
+          "A record 112 SKUs were launched in FY26, with another 51 products in development",
+          "UK revenue recovered to a record ₹308 Cr in Q4",
+          "Australia and New Zealand revenue grew 61% in Q4 after entry into prescription generics",
+          "The acquired Goa plant was operating near 50%, leaving material growth capacity",
+          "Cash reached ₹990 Cr and management expected M&A activity during FY27"
+        ],
+        "quote": "\"₹4,000 crores within the next two years remains very much on the plate.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Divi's Laboratories Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹3,144 Cr",
+            "change": "+24.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PBT",
+            "value": "₹1,180 Cr",
+            "change": "+61% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹902 Cr",
+            "change": "+65.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Custom Synthesis Mix",
+            "value": "60%",
+            "change": "+5 ppt vs FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Total income grew 24.3% to ₹3,144 Cr",
+          "PBT increased 61% to ₹1,180 Cr and PAT rose 65.5% to ₹902 Cr",
+          "Standalone constant-currency revenue grew 10%",
+          "A richer custom-synthesis mix and lower material consumption supported profitability"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "Double digit",
+            "actual": "24.3% total-income growth and 10% constant-currency revenue growth in Q1",
+            "status": "met"
+          },
+          {
+            "metric": "FY27 Margin",
+            "guided": "Broadly stable",
+            "actual": "Q1 benefited from a 60% custom-synthesis mix; full-year margin expected near FY26",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Double digit"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Similar to FY26"
+          }
+        ],
+        "highlights": [
+          "Custom synthesis rose to 60% of revenue, though management cautioned that quarterly mix is uneven",
+          "Validation material was supplied for dedicated projects; commercial sales await customer approvals",
+          "Multiple 3,000-litre peptide synthesis units are being added",
+          "Unit 3 continued taking over intermediate production to release regulated capacity elsewhere",
+          "₹451 Cr of assets were put into use in Q1 and cash increased to ₹3,611 Cr"
+        ],
+        "quote": "\"We would like to stick to double-digit growth, no matter what.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹2,986 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "PBT",
+            "value": "₹963 Cr",
+            "change": "+11.5% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹751 Cr",
+            "change": "Q4FY26",
+            "positive": 1
+          },
+          {
+            "label": "Custom Synthesis Mix",
+            "value": "55%",
+            "change": "FY26",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 total income grew 14% to ₹11,067 Cr",
+          "PBT increased 16% to ₹3,388 Cr despite a ₹74 Cr one-time labour-code charge",
+          "PAT rose 17% to ₹2,568 Cr",
+          "Custom synthesis contributed 55% of revenue and constant-currency growth was 6.8%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Double digit"
+          },
+          {
+            "metric": "FY27 Margin",
+            "value": "Broadly stable"
+          }
+        ],
+        "highlights": [
+          "Three dedicated custom-synthesis projects were in validation, with commercial timing dependent on customer approvals",
+          "Unit 3 increasingly handles intermediate work, freeing regulated capacity at Units 1 and 2",
+          "Peptide investment covers protected amino acids plus solid- and liquid-phase synthesis",
+          "₹1,544 Cr of assets were put into use during FY26, mostly in Q4",
+          "Cash and equivalents ended FY26 at ₹3,414 Cr"
+        ],
+        "quote": "\"We continue to look for double-digit growth in revenue while keeping margins stable.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ],
+    "Piramal Pharma Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,270 Cr",
+            "change": "+17% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹285 Cr",
+            "change": "+72% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "12.5%",
+            "change": "+400 bps YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "-₹69 Cr",
+            "change": "Loss narrowed",
+            "positive": 0
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 17% to ₹2,270 Cr as all three businesses delivered mid-to-high-teen growth",
+          "EBITDA rose 72% to ₹285 Cr and margin expanded 400 bps to 12.5%",
+          "The loss after tax narrowed to ₹69 Cr from ₹82 Cr a year earlier",
+          "CDMO revenue grew 19%, while Complex Hospital Generics and Consumer Healthcare grew 17% and 15%"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "Early to mid teens",
+            "actual": "17% in Q1; guidance retained",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 EBITDA Growth",
+            "guided": "Faster than revenue",
+            "actual": "72% EBITDA growth versus 17% revenue growth",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Capex",
+            "guided": "$120-135 Mn",
+            "actual": "$21 Mn spent in Q1; programme on track",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Early to mid teens"
+          },
+          {
+            "metric": "FY27 EBITDA",
+            "value": "Grow faster than revenue"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "$120-135 Mn"
+          }
+        ],
+        "highlights": [
+          "CDMO RFP activity and order inflow improved across India and higher-margin overseas sites",
+          "The commercial-scale Riverview payload-linker facility opened and began serving customers",
+          "Lexington’s sterile-injectable expansion remains on track for completion by end-CY2027",
+          "Kenalog supplies are expected to start in Q2FY27",
+          "Consumer Power Brands grew 23% and e-commerce revenue grew 40%",
+          "The Sellersville facility received its USFDA EIR, maintaining the group’s zero-OAI record"
+        ],
+        "quote": "\"We are maintaining the annual guidance at this stage.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "FY26 Revenue",
+            "value": "₹8,869 Cr",
+            "change": "-3% YoY",
+            "positive": -1
+          },
+          {
+            "label": "FY26 EBITDA",
+            "value": "₹1,135 Cr",
+            "change": "-28% YoY",
+            "positive": -1
+          },
+          {
+            "label": "Q4 Revenue",
+            "value": "₹2,752 Cr",
+            "change": "Flat YoY",
+            "positive": 0
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹507 Cr",
+            "change": "-16% YoY",
+            "positive": -1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue declined 3% to ₹8,869 Cr amid CDMO destocking and softer inhalation-anaesthesia demand",
+          "FY26 EBITDA declined 28% to ₹1,135 Cr as lower overseas utilisation hurt operating leverage",
+          "Q4 revenue was flat at ₹2,752 Cr, while EBITDA declined 16% to ₹507 Cr",
+          "PAT before exceptional items was a ₹130 Cr loss for FY26, versus ₹91 Cr profit in FY25"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Early to mid teens"
+          },
+          {
+            "metric": "FY27 EBITDA",
+            "value": "Grow faster than revenue"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "$120-135 Mn"
+          },
+          {
+            "metric": "FY27 Net Debt / EBITDA",
+            "value": "Around 3.6x"
+          }
+        ],
+        "highlights": [
+          "Second-half CDMO RFPs and order inflows improved as U.S. biotech funding recovered",
+          "The CDMO pipeline covered more than 155 molecules, including 25 in Phase 3",
+          "Riverview’s payload-linker expansion was completed; Lexington remains due by end-CY2027",
+          "Kenalog revenue is expected to begin from Q2FY27",
+          "The company completed 38 regulatory inspections in FY26 with zero OAI classifications",
+          "Management expects FY27 to mark a return to growth after a transitional year"
+        ],
+        "quote": "\"We are well positioned to return to healthy early to mid-teen revenue growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "April 2026"
+      }
+    ],
+    "Fredun Pharmaceuticals Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹228.3 Cr",
+            "change": "+90.4% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹32.8 Cr",
+            "change": "+92.9% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹13.2 Cr",
+            "change": "+94.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "14.36%",
+            "change": "+18 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue rose 90.4% YoY to ₹228.3 Cr",
+          "EBITDA grew 92.9% to ₹32.8 Cr, with margin improving to 14.36%",
+          "PAT increased 94.6% to ₹13.2 Cr and PAT margin reached 5.77%",
+          "Growth was helped by strong demand and some orders booked before raw-material price increases"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "25-30%",
+            "actual": "Q1 revenue growth of 90.4%; ₹800 Cr FY27 target retained",
+            "status": "exceeded"
+          },
+          {
+            "metric": "Medium-term PAT Margin",
+            "guided": "10-12%",
+            "actual": "5.77% in Q1FY27",
+            "status": "partial"
+          },
+          {
+            "metric": "Packing-line Addition",
+            "guided": "12-13 lines by September 2026",
+            "actual": "Installation remained underway",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Around ₹800 Cr"
+          },
+          {
+            "metric": "Revenue Growth",
+            "value": "30-35% over the next 3 years"
+          },
+          {
+            "metric": "Capex",
+            "value": "₹35-45 Cr annually for 2 years"
+          },
+          {
+            "metric": "Pet-care Growth",
+            "value": "40-50% annually for 3 years"
+          }
+        ],
+        "highlights": [
+          "Fredun GX reached 19 states and is scaling from a ₹100-110 Cr base",
+          "Wagr, the pet-care platform, entered beta launch in June",
+          "Pet care generates ₹40-45 Cr; cat food is planned for Q3-Q4FY27",
+          "Working capital was ₹170-175 Cr, with about half held as cash",
+          "Inventory is being reduced toward 135-140 days",
+          "Higher-margin pet care, mobility, nutrition and cosmetics are increasing their share"
+        ],
+        "quote": "\"We are in line to achieve the ₹800 crore target and hope to overachieve it.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹213 Cr",
+            "change": "+27.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 EBITDA",
+            "value": "₹29.1 Cr",
+            "change": "+67.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹639.1 Cr",
+            "change": "+40.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹33.2 Cr",
+            "change": "+59.6% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 40.1% to ₹639.1 Cr",
+          "FY26 EBITDA rose 72.1% to ₹94.8 Cr and margin expanded to 14.83%",
+          "FY26 PAT increased 59.6% to ₹33.2 Cr",
+          "Q4 revenue grew 27.3%, while EBITDA and PAT grew 67.1% and 56.5%"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "25-30%"
+          },
+          {
+            "metric": "Medium-term PAT Margin",
+            "value": "10-12%"
+          },
+          {
+            "metric": "Packing-line Addition",
+            "value": "12-13 lines by September 2026"
+          }
+        ],
+        "highlights": [
+          "Mobility revenue reached about ₹30 Cr in FY26",
+          "Wagr was scheduled for a soft launch in June-July 2026",
+          "Hormone and anti-ageing product lines are being added",
+          "More than 80% of products are manufactured in-house",
+          "New-age consumer businesses carry higher margins and are gaining share",
+          "Operating cash flow turned positive and debt-to-equity improved to 0.8"
+        ],
+        "quote": "\"We can consider overall top-line growth of around 25% to 30%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "June 2026"
+      }
+    ],
+    "Kwality Pharmaceuticals Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹162.4 Cr",
+            "change": "+45.6% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹41.1 Cr",
+            "change": "+69.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹25.6 Cr",
+            "change": "+115% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "25.3%",
+            "change": "+350 bps YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 45.6% YoY to ₹162.4 Cr",
+          "EBITDA rose 69.1% to ₹41.1 Cr and margin improved to 25.3%",
+          "PAT more than doubled to ₹25.6 Cr",
+          "The strong start led management to raise its FY27 revenue target"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Q1 Revenue",
+            "guided": "₹150-160 Cr",
+            "actual": "₹162.4 Cr",
+            "status": "exceeded"
+          },
+          {
+            "metric": "FY27 Revenue",
+            "guided": "₹650 Cr",
+            "actual": "₹162.4 Cr in Q1; target raised to ₹700-720 Cr",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 PAT",
+            "guided": "₹100 Cr",
+            "actual": "₹25.6 Cr in Q1",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "guided": "26-27%",
+            "actual": "25.3% in Q1",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹700-720 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "26-27%"
+          },
+          {
+            "metric": "FY30 Revenue",
+            "value": "₹1,500 Cr"
+          },
+          {
+            "metric": "FY27 Oncology Revenue",
+            "value": "₹100-110 Cr"
+          }
+        ],
+        "highlights": [
+          "Oncology contributed ₹30-35 Cr in Q1; new registrations are expected in Q4",
+          "The hormone plant is scheduled to begin manufacturing in November 2026",
+          "Five to six bioequivalence products should launch by Q4FY27 or Q1FY28",
+          "Oncology expansion is due by March 2027 and will add 45-50% capacity",
+          "The general and oncology plants were operating at 75-80% utilisation",
+          "Planned investment of ₹185-190 Cr covers hormones, oncology, product studies and R&D"
+        ],
+        "quote": "\"We believe sales will cross the ₹700 crore to ₹720 crore mark this year.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "August 2026"
+      },
+      {
+        "quarter": "Q4FY26",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q4 Revenue",
+            "value": "₹157.1 Cr",
+            "change": "+35.8% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Q4 PAT",
+            "value": "₹25 Cr",
+            "change": "Strong quarterly profit",
+            "positive": 1
+          },
+          {
+            "label": "FY26 Revenue",
+            "value": "₹503 Cr",
+            "change": "+36% YoY",
+            "positive": 1
+          },
+          {
+            "label": "FY26 PAT",
+            "value": "₹67 Cr",
+            "change": "+69% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "FY26 revenue grew 36% to ₹503 Cr",
+          "EBITDA margin improved to 24% from 22%",
+          "PAT rose 69% to ₹67 Cr and PAT margin expanded to 13.4%",
+          "Q4 delivered record revenue of ₹157.1 Cr, up 35.8% YoY"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹650 Cr"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "₹100 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "26-27%"
+          },
+          {
+            "metric": "FY29 Revenue",
+            "value": "₹1,000 Cr"
+          }
+        ],
+        "highlights": [
+          "Oncology generated about ₹100 Cr in FY26 and was targeted at ₹150 Cr in FY27",
+          "A ₹50 Cr oncology expansion is being added to support growth",
+          "The hormone plant targets certification and commercial production by November 2026",
+          "More than 40 molecules are undergoing bioequivalence studies for future launches",
+          "The cash conversion cycle improved to 170 days from 208 days",
+          "FY27 capex is planned at about ₹90 Cr across hormones, oncology and new products"
+        ],
+        "quote": "\"We remain confident of achieving ₹650 crores in revenue and ₹100 crores PAT in FY27.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "May 2026"
+      }
+    ]
+  }
+}

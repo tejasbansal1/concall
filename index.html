@@ -130,36 +130,45 @@ const BG='#F1F5F9', SRF='#FFFFFF', BRD='#E2E8F0', TX='#0F172A', S2='#475569', MU
 const sn  = n => n.replace(/ Ltd$/,'').replace(/ Limited$/,'').replace(/ Private Limited$/,'');
 const pct = m => m.positive === 1 ? '#059669' : m.positive === -1 ? '#EF4444' : MU;
 const gs  = (sectors, id) => sectors.find(s => s.id === id);
+const buildUrl = (sid, co) => {
+  if (!sid) return '/';
+  const p = new URLSearchParams();
+  p.set('s', sid);
+  if (co) p.set('c', co);
+  return '/?' + p.toString();
+};
 
 /* ── Data files to load (order = display order) ─── */
 const DATA_FILES = [
-  'co-working',
-  'peb',
+  'high-growth-models',
+  'pharma',
+  'internet-platform',
+  'wires-cables',
+  'ems',
+  'auto-anc',
   'gold-finance',
   'mfi',
   'affordable-housing',
   'value-retail',
   'jewelry-retail',
-  'wires-cables',
   'hospitals',
   'diagnostics',
-  'ems',
   'capital-markets',
   'hotels',
   'nbfc',
   'sfb',
-  'writing-instruments',
-  'auto-anc',
   'real-estate',
-  'internet-platform',
   'it',
-  'cement',
-  'fmcg',
   'banks',
   'building-material',
   'exporters',
   'recycling',
   'pipes-tubes',
+  'co-working',
+  'peb',
+  'fmcg',
+  'cement',
+  'writing-instruments',
 ];
 
 /* ── App ─────────────────────────────────────────── */
@@ -212,12 +221,13 @@ function App() {
 
   /* ── Routing: parse URL + handle back/forward ── */
   useEffect(() => {
-    const parsePath = () => {
-      const parts = window.location.pathname.split('/').filter(Boolean);
-      if (!parts.length) return null;
-      return { sid: parts[0], co: parts.length >= 2 ? decodeURIComponent(parts.slice(1).join('/')) : null };
+    const parseRoute = () => {
+      const params = new URLSearchParams(window.location.search);
+      const sid = params.get('s');
+      if (!sid) return null;
+      return { sid, co: params.get('c') || null };
     };
-    pendingRouteRef.current = parsePath();
+    pendingRouteRef.current = parseRoute();
 
     const onPop = e => {
       if (!e.state || e.state._guard) {
@@ -230,11 +240,10 @@ function App() {
     };
     window.addEventListener('popstate', onPop);
     // Push a guard at / so back-past-home stays in the app
-    const origPath = window.location.pathname;
     history.replaceState({ _guard: true }, '', '/');
     const pr = pendingRouteRef.current;
     if (pr) {
-      history.pushState({ view: pr.co ? 'd' : 'c', sid: pr.sid, co: pr.co || null }, '', origPath);
+      history.pushState({ view: pr.co ? 'd' : 'c', sid: pr.sid, co: pr.co || null }, '', buildUrl(pr.sid, pr.co));
     } else {
       history.pushState({ view: 's' }, '', '/');
     }
@@ -295,8 +304,8 @@ function App() {
 
   /* ── Navigation ── */
   const goS = ()         => { history.pushState({ view:'s' }, '', '/');                                                                setView('s'); setSid(null); setCo(null); };
-  const goC = id         => { history.pushState({ view:'c', sid:id }, '', '/'+id);                                                    setSid(id); setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
-  const goD = (nm, tsid) => { const s=tsid||sid; history.pushState({ view:'d', sid:s, co:nm }, '', '/'+s+'/'+encodeURIComponent(nm)); setSid(s); setCo(nm); setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goC = id         => { history.pushState({ view:'c', sid:id }, '', buildUrl(id));                                              setSid(id); setView('c'); window.scrollTo({ top:0, behavior:'smooth' }); };
+  const goD = (nm, tsid) => { const s=tsid||sid; history.pushState({ view:'d', sid:s, co:nm }, '', buildUrl(s, nm)); setSid(s); setCo(nm); setView('d'); window.scrollTo({ top:0, behavior:'smooth' }); };
 
   /* ── Loading screen ── */
   if (sectors.length === 0) return h('div', { style:{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', minHeight:'100vh', gap:16 } },
@@ -352,7 +361,7 @@ function App() {
     /* ── Main ──────────────────────────────────── */
     h('main', { style:{ flex:1, maxWidth:1100, margin:'0 auto', width:'100%', padding:'28px 20px 60px' } },
       view === 's' && h(SView, { sectors, totalCos, onSel:goC, onSelD:goD }),
-      view === 'c' && sec && h(CView, { sec, concall, onSel:goD }),
+      view === 'c' && sec && h(CView, { sec, sectors, concall, onSel:goD }),
       view === 'd' && co && sec && h(DView, { key:co, co, sec, concall })
     ),
 
@@ -399,13 +408,32 @@ function CTABanner() {
   );
 }
 
+function GlobalSearchResults({ sectors, query, onSelD }) {
+  const results = sectors.flatMap(s => s.cos.filter(c => sn(c).toLowerCase().includes(query.toLowerCase())).map(c => ({ s, c })));
+  return results.length > 0
+    ? h('div', { style:{ display:'flex', flexDirection:'column', gap:8 } },
+        ...results.map(({ s, c }) =>
+          h('div', {
+            key: s.id + c, onClick: () => onSelD(c, s.id),
+            style:{ background:SRF, border:`1.5px solid ${BRD}`, borderLeft:`4px solid ${s.ac}`, borderRadius:12, padding:'12px 16px', cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'space-between', gap:12, transition:'box-shadow 0.18s, border-color 0.18s' },
+            onMouseEnter: e => { e.currentTarget.style.boxShadow=`0 4px 16px ${s.ac}30`; e.currentTarget.style.borderColor=s.ac; e.currentTarget.style.borderLeftColor=s.ac; },
+            onMouseLeave: e => { e.currentTarget.style.boxShadow=''; e.currentTarget.style.borderColor=BRD; e.currentTarget.style.borderLeftColor=s.ac; }
+          },
+            h('div', null,
+              h('div', { style:{ fontSize:13, fontWeight:600, color:TX } }, sn(c)),
+              h('div', { style:{ fontSize:11, color:s.ac, fontWeight:600, marginTop:3 } }, s.nm)
+            ),
+            s.d && h('span', { style:{ fontSize:10, background:'#DCFCE7', color:'#15803D', padding:'3px 9px', borderRadius:20, fontWeight:700, flexShrink:0 } }, 'Research ✓')
+          )
+        )
+      )
+    : h('div', { style:{ textAlign:'center', padding:'56px 0', color:MU, fontSize:13 } }, 'No results for "' + query + '"');
+}
+
 function SView({ sectors, totalCos, onSel, onSelD }) {
   const [q, setQ] = useState('');
   const query = q.trim();
   const searching = query.length >= 2;
-  const results = searching
-    ? sectors.flatMap(s => s.cos.filter(c => sn(c).toLowerCase().includes(query.toLowerCase())).map(c => ({ s, c })))
-    : [];
 
   return h('div', null,
     h('div', { style:{ marginBottom: searching ? 20 : 26 } },
@@ -424,26 +452,7 @@ function SView({ sectors, totalCos, onSel, onSelD }) {
       )
     ),
     searching
-      ? h('div', null,
-          results.length > 0
-            ? h('div', { style:{ display:'flex', flexDirection:'column', gap:8 } },
-                ...results.map(({ s, c }) =>
-                  h('div', {
-                    key: s.id + c, onClick: () => onSelD(c, s.id),
-                    style:{ background:SRF, border:`1.5px solid ${BRD}`, borderLeft:`4px solid ${s.ac}`, borderRadius:12, padding:'12px 16px', cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'space-between', gap:12, transition:'box-shadow 0.18s, border-color 0.18s' },
-                    onMouseEnter: e => { e.currentTarget.style.boxShadow=`0 4px 16px ${s.ac}30`; e.currentTarget.style.borderColor=s.ac; e.currentTarget.style.borderLeftColor=s.ac; },
-                    onMouseLeave: e => { e.currentTarget.style.boxShadow=''; e.currentTarget.style.borderColor=BRD; e.currentTarget.style.borderLeftColor=s.ac; }
-                  },
-                    h('div', null,
-                      h('div', { style:{ fontSize:13, fontWeight:600, color:TX } }, sn(c)),
-                      h('div', { style:{ fontSize:11, color:s.ac, fontWeight:600, marginTop:3 } }, s.nm)
-                    ),
-                    s.d && h('span', { style:{ fontSize:10, background:'#DCFCE7', color:'#15803D', padding:'3px 9px', borderRadius:20, fontWeight:700, flexShrink:0 } }, 'Research ✓')
-                  )
-                )
-              )
-            : h('div', { style:{ textAlign:'center', padding:'56px 0', color:MU, fontSize:13 } }, 'No results for "' + query + '"')
-        )
+      ? h(GlobalSearchResults, { sectors, query, onSelD })
       : h(React.Fragment, null,
           h('div', { className:'sector-grid' },
             ...sectors.map(s => h(SCard, { key:s.id, s, onClick:()=>onSel(s.id) }))
@@ -521,11 +530,10 @@ function SCard({ s, onClick }) {
 }
 
 /* ── Companies Page ───────────────────────────────── */
-function CView({ sec, concall, onSel }) {
+function CView({ sec, sectors, concall, onSel }) {
   const [search, setSearch] = useState('');
-  const filtered = search
-    ? sec.cos.filter(c => c.toLowerCase().includes(search.toLowerCase()))
-    : sec.cos;
+  const query = search.trim();
+  const searching = query.length >= 2;
 
   return h('div', null,
     h('div', { style:{ display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:12, marginBottom:18 } },
@@ -536,16 +544,16 @@ function CView({ sec, concall, onSel }) {
       ),
       h('div', { style:{ position:'relative' } },
         h('input', {
-          value:search, onChange:e=>setSearch(e.target.value), placeholder:'Search…',
+          value:search, onChange:e=>setSearch(e.target.value), placeholder:'Search any company…',
           style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:7, padding:'6px 12px 6px 30px', fontSize:12, color:TX, width:180, outline:'none' }
         }),
         h('span', { style:{ position:'absolute', left:10, top:'50%', transform:'translateY(-50%)', color:MU, fontSize:12, pointerEvents:'none' } }, '⌕')
       )
     ),
-    filtered.length === 0
-      ? h('p', { style:{ color:MU, fontSize:13 } }, 'No companies match "' + search + '"')
+    searching
+      ? h(GlobalSearchResults, { sectors, query, onSelD:onSel })
       : h('div', { className:'company-grid' },
-          ...filtered.map(c => h(CCard, { key:c, c, sec, quarters:(concall[c]||[]).map(e=>e.quarter).filter(Boolean), onClick:()=>onSel(c) }))
+          ...sec.cos.map(c => h(CCard, { key:c, c, sec, quarters:(concall[c]||[]).map(e=>e.quarter).filter(Boolean), onClick:()=>onSel(c) }))
         )
   );
 }

@@ -225,6 +225,80 @@
     ],
     "Happiest Minds Technologies Ltd": [
       {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹629 Cr",
+            "change": "+14.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹109 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹80.5 Cr",
+            "change": "+14.3% YoY",
+            "positive": 1
+          },
+          {
+            "label": "Operating Margin",
+            "value": "17.5%",
+            "change": "Stable YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 14.3% YoY and 4% QoQ to ₹629 Cr, ahead of the FY27 growth target",
+          "Operating profit rose 2.3% to ₹109 Cr, with reported margin stable at 17.5%",
+          "A ₹11 Cr forex loss and ₹5 Cr receivable provision reduced reported profit; adjusted margin was 19.75%",
+          "Adjusted PAT rose 14.3% YoY and 12.9% QoQ to ₹80.5 Cr",
+          "ROCE improved to 23.9% and cash and equivalents increased to ₹1,743 Cr"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "guided": "12.5%",
+            "actual": "Q1 growth was 14.3%; FY27 target retained",
+            "status": "partial"
+          },
+          {
+            "metric": "FY27 Operating Margin",
+            "guided": "18-18.5%",
+            "actual": "17.5% reported; 19.75% excluding ₹16 Cr one-offs",
+            "status": "partial"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "12.5% guidance retained"
+          },
+          {
+            "metric": "Growth Aspiration",
+            "value": "15% remains the aspiration"
+          }
+        ],
+        "highlights": [
+          "The AI portfolio crossed 100 agents and around 60 reusable use cases",
+          "Active customers stood at 306, including 92 billion-dollar enterprises contributing about 60% of revenue",
+          "Repeat business remained high at 94.4%",
+          "Attrition improved to 15.4% from 17%, while utilisation stood at 81%",
+          "Headcount increased by 32 during the quarter to 6,532",
+          "Management highlighted a stronger pipeline, larger deal sizes and continued new-logo additions"
+        ],
+        "quote": "\"We continue to focus on achieving our FY27 revenue guidance of 12.5%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
+      {
         "quarter": "Q4FY26",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -290,6 +364,78 @@
       }
     ],
     "Indegene Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,063.1 Cr",
+            "change": "+39.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹179.5 Cr",
+            "change": "Q1FY27",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹116.2 Cr",
+            "change": "+45.9% QoQ",
+            "positive": 1
+          },
+          {
+            "label": "Active Clients",
+            "value": "105",
+            "change": "+14 QoQ",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 39.7% YoY to ₹1,063.1 Cr; USD revenue grew 26.5% YoY and 2.5% QoQ",
+          "EBITDA was ₹179.5 Cr at a 16.9% margin, up 50 bps QoQ on a reported basis",
+          "Workforce transformation costs and investment ahead of Tectonic revenue held back the underlying margin",
+          "PAT rose 45.9% QoQ to ₹116.2 Cr, with margin improving to 10.9%",
+          "Cash and investments stood at ₹1,460.2 Cr, while net DSO increased four days to 67"
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Large Deal Ramp",
+            "guided": "Revenue contribution from Q1FY27",
+            "actual": "Costs began in Q4FY26; revenue now expected from Q3FY27",
+            "status": "missed"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Growth",
+            "value": "Organic growth expected above FY26"
+          },
+          {
+            "metric": "H2 Margin",
+            "value": "19-20% EBITDA margin"
+          },
+          {
+            "metric": "Omnichannel Deal",
+            "value": "Revenue contribution from Q3FY27"
+          }
+        ],
+        "highlights": [
+          "Active clients increased by 14 during the quarter to 105; million-dollar clients rose to 54",
+          "Revenue outside the top 20 clients nearly doubled YoY and reached 33.4% of total revenue",
+          "Revenue per employee crossed $77,000, up about 25% over two years",
+          "The $10 Mn-plus omnichannel contract should lift H2 growth and margins as its costs are already in the P&L",
+          "Tectonic expanded from Germany to Spain with the company’s largest customer",
+          "Management expects organic growth to accelerate in H2FY27"
+        ],
+        "quote": "\"The EBITDA in H2 FY27 will be back in the range of 19% to 20%.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
       {
         "quarter": "Q4FY26",
         "hasNumericGuidance": false,
@@ -664,6 +810,56 @@
       }
     ],
     "Persistent Systems Ltd": [
+      {
+        "quarter": "Q1FY27",
+        "hasNumericGuidance": false,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "$452.4 Mn",
+            "change": "+16.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "INR Revenue",
+            "value": "₹4,303.23 Cr",
+            "change": "+29.1% YoY",
+            "positive": 1
+          },
+          {
+            "label": "EBIT",
+            "value": "₹686.88 Cr",
+            "change": "+32.7% YoY",
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹483.04 Cr",
+            "change": "+13.7% YoY",
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Q1 revenue grew 16.1% YoY and 3.8% QoQ to $452.4 Mn, marking the 25th consecutive growth quarter",
+          "Rupee revenue rose 29.1% YoY to ₹4,303.2 Cr, while constant-currency growth was 16.5%",
+          "EBIT grew 32.7% YoY to ₹686.9 Cr and margin expanded 50 bps to 16%",
+          "PAT grew 13.7% YoY to ₹483 Cr; a ₹105.3 Cr forex loss limited profit growth",
+          "Reported OCF/PAT was 24.2%, but 83.2% after adjusting for delayed collections and tax refunds"
+        ],
+        "highlights": [
+          "Q1 TCV reached $1.146 Bn, including $952.2 Mn of new bookings",
+          "The $650 Mn technology deal is already contributing; no further revenue ramp-up is required",
+          "The Nagarro combination would create a $2.9 Bn-plus revenue business; closure is expected by Q4CY26 or Q1CY27",
+          "Headcount rose by 1,138 to 28,640 as the company hired ahead of large-deal execution",
+          "Utilisation moderated to 86.5%, while attrition improved to 12.3%",
+          "The AI patent portfolio increased to 139 filings, including 18 additions in Q1"
+        ],
+        "quote": "\"This marks our 25th sequential quarter of revenue growth.\"",
+        "quotePerson": "Management Commentary",
+        "asOf": "July 2026"
+      },
       {
         "quarter": "Q4FY26",
         "hasNumericGuidance": false,

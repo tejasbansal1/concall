@@ -1,0 +1,48 @@
+{
+  "quarter": "Q2FY27",
+  "asOf": "Nov 2026",
+  "callsCovered": 24,
+  "overview": "Growth was broad but the outlook was mixed across the 24 available calls: 23 companies reported positive year-on-year growth in their headline revenue, volume or AUM metric, while Aegis Logistics reported lower revenue despite distribution-volume growth. Several managements raised targets, but input costs, launch timing and working capital make the next two quarters important for delivery.",
+  "trends": [
+    {
+      "text": "Headline revenue, volume or AUM grew year on year in 23 of the 24 available calls.",
+      "companies": ["Hindustan Foods Ltd", "Rubicon Research Ltd", "Ather Energy Ltd", "Aditya Infotech Ltd", "MTAR Technologies Ltd", "Sterlite Technologies Ltd", "KSH International Ltd", "Aeroflex Industries Ltd", "Unimech Aerospace and Manufacturing Ltd", "Gala Precision Engineering Ltd", "Azad Engineering Ltd", "Shadowfax Technologies Ltd", "Acutaas Chemicals Ltd", "Bluestone Jewellery and Lifestyle Ltd", "Milky Mist Dairy Food Ltd", "OnEMI Technology Solutions Ltd", "Atlanta Electricals Ltd", "Standard Engineering Technology Ltd", "Diffusion Engineers Ltd", "Shivalik Bimetal Controls Ltd", "GNG Electronics Ltd", "MPS Ltd", "Privi Speciality Chemicals Ltd"]
+    }
+  ],
+  "tailwinds": [
+    {
+      "text": "Capacity additions, new facilities or a larger order book supported management's growth plans, although several projects are still ramping.",
+      "companies": ["Hindustan Foods Ltd", "Ather Energy Ltd", "Aditya Infotech Ltd", "MTAR Technologies Ltd", "Sterlite Technologies Ltd", "KSH International Ltd", "Aeroflex Industries Ltd", "Unimech Aerospace and Manufacturing Ltd", "Gala Precision Engineering Ltd", "Azad Engineering Ltd", "Atlanta Electricals Ltd", "Standard Engineering Technology Ltd", "Diffusion Engineers Ltd", "Privi Speciality Chemicals Ltd"]
+    }
+  ],
+  "opportunities": [
+    {
+      "text": "Optical connectivity and liquid-cooling equipment are separate expansion opportunities for Sterlite and Aeroflex; neither should be treated as booked sector-wide revenue.",
+      "companies": ["Sterlite Technologies Ltd", "Aeroflex Industries Ltd"]
+    },
+    {
+      "text": "OnEMI and Acutaas raised FY27 growth targets after stronger operating momentum.",
+      "companies": ["OnEMI Technology Solutions Ltd", "Acutaas Chemicals Ltd"]
+    }
+  ],
+  "risks": [
+    {
+      "text": "Input-cost pressure or delayed execution reduced Q2 margins or shifted revenue, leaving some FY27 plans dependent on H2 recovery.",
+      "companies": ["Hindustan Foods Ltd", "Ather Energy Ltd", "Atlanta Electricals Ltd", "Standard Engineering Technology Ltd", "Diffusion Engineers Ltd", "Privi Speciality Chemicals Ltd"]
+    },
+    {
+      "text": "MPS's FY28 target depends partly on an unclosed acquisition; Aegis's proposed Tristar acquisition also has closing and financing conditions.",
+      "companies": ["MPS Ltd", "Aegis Logistics Ltd"]
+    }
+  ],
+  "insights": [
+    {
+      "text": "Sterlite reported a 24% H1 optical-connectivity attach rate after targeting more than 20% from Q2, but did not disclose a standalone Q2 figure.",
+      "companies": ["Sterlite Technologies Ltd"]
+    },
+    {
+      "text": "Aegis was the headline-growth exception: revenue declined year on year while distribution volume rose.",
+      "companies": ["Aegis Logistics Ltd"]
+    }
+  ]
+}

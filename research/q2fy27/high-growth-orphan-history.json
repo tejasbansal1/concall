@@ -1,0 +1,1646 @@
+{
+  "Sona BLW Precision Forgings Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹1,231 Cr",
+          "change": "+54% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹303 Cr",
+          "change": "+49% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "23.1%",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹24,000 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹1,231 Cr · +54% YoY",
+        "EBITDA: ₹303 Cr · +49% YoY",
+        "EBITDA Margin: 23.1%",
+        "Order Book: ₹24,000 Cr",
+        "Slide 6: So now let's begin with the first growth engine"
+      ],
+      "guidanceTracking": [],
+      "guidance": [],
+      "highlights": [
+        "Slide 6: So now let's begin with the first growth engine",
+        "Revenue: ₹1,231 Cr · 54%",
+        "EBITDA: ₹303 Cr · 49%",
+        "Order book: ₹24,000 Cr",
+        "EBITDA Margin: 23.1%"
+      ],
+      "quote": "\"Sona BLW Precision Forgings Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹1,272 Cr",
+          "change": "+47% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹311 Cr",
+          "change": "+32% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "24.4%",
+          "change": "Q4FY26",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹23,700 Cr",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹1,272 Cr · +47% YoY",
+        "EBITDA: ₹311 Cr · +32% YoY",
+        "EBITDA Margin: 24.4%",
+        "Order Book: ₹23,700 Cr",
+        "Slide 13: Coming to the order book, I've covered the EV"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Slide 13: Coming to the order book, I've covered the EV",
+        "Revenue: ₹1,272 Cr · 47%",
+        "EBITDA: ₹311 Cr · 32%",
+        "Order book: ₹23,700 Cr",
+        "EBITDA Margin: 24.4%"
+      ],
+      "quote": "\"Sona BLW Precision Forgings Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "E2E Networks Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹156.8 Cr",
+          "change": "+334% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹117.9 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹43.9 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "75.2%",
+          "change": "+1,450 bps QoQ",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹156.8 Cr · +334% YoY",
+        "EBITDA: ₹117.9 Cr",
+        "PAT: ₹43.9 Cr",
+        "EBITDA Margin: 75.2% · +1,450 bps QoQ",
+        "Execution priorities remain on track"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Revenue: ₹156.8 Cr · 334%",
+        "EBITDA: ₹117.9 Cr",
+        "PAT: ₹43.9 Cr",
+        "EBITDA Margin: 75.2% · +1,450 bps QoQ"
+      ],
+      "quote": "\"E2E Networks Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹95.6 Cr",
+          "change": "+186% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹58.1 Cr",
+          "change": "Q4FY26",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹6.4 Cr",
+          "change": "Turnaround",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "60.7%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹95.6 Cr · +186% YoY",
+        "EBITDA: ₹58.1 Cr",
+        "PAT: ₹6.4 Cr · Turnaround",
+        "EBITDA Margin: 60.7%",
+        "Target: 2,048 GPUs"
+      ],
+      "guidance": [
+        {
+          "metric": "Management Target",
+          "value": "2,048 GPUs"
+        }
+      ],
+      "highlights": [
+        "Target: 2,048 GPUs",
+        "Revenue: ₹95.6 Cr · 186%",
+        "EBITDA: ₹58.1 Cr",
+        "Management Target: 2,048 GPUs",
+        "PAT: ₹6.4 Cr · Turnaround",
+        "EBITDA Margin: 60.7%"
+      ],
+      "quote": "\"E2E Networks Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Hitachi Energy India Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹2,493.7 Cr",
+          "change": "+68.6% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Operational EBITDA",
+          "value": "₹399.9 Cr",
+          "change": "+135% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT Margin",
+          "value": "11.8%",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "Order Intake",
+          "value": "+26.1%",
+          "change": "YoY excl. HVDC",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹2,493.7 Cr · +68.6% YoY",
+        "Operational EBITDA: ₹399.9 Cr · +135% YoY",
+        "PAT Margin: 11.8%",
+        "Order Intake: +26.1% · YoY excl. HVDC",
+        "Slide 7: Key order wins during Q1FY27 The first order"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Slide 7: Key order wins during Q1FY27 The first order",
+        "Slide 10: Order growth in industries, data center",
+        "Revenue: ₹2,493.7 Cr · 68.6%",
+        "EBITDA: ₹399.9 Cr · 135%",
+        "Margin: 11.8%",
+        "Operational EBITDA: ₹399.9 Cr · +135% YoY"
+      ],
+      "quote": "\"Hitachi Energy India Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    }
+  ],
+  "Monolithisch India Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹47 Cr",
+          "change": "+64% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹13 Cr",
+          "change": "+99% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹10 Cr",
+          "change": "+135% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "28%",
+          "change": "Q1FY27",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹47 Cr · +64% YoY",
+        "EBITDA: ₹13 Cr · +99% YoY",
+        "PAT: ₹10 Cr · +135% YoY",
+        "EBITDA Margin: 28%",
+        "Capacity: 2.56 lakh"
+      ],
+      "guidanceTracking": [
+        {
+          "metric": "Growth Outlook",
+          "guided": "₹52 Cr · FY27",
+          "actual": "₹55 Cr · Q2 FY27",
+          "status": "partial"
+        },
+        {
+          "metric": "Margin Outlook",
+          "guided": "22% to 25%",
+          "actual": "Partial",
+          "status": "partial"
+        }
+      ],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "₹55 Cr · Q2 FY27"
+        }
+      ],
+      "highlights": [
+        "Capacity: 2.56 lakh",
+        "Revenue: 60%",
+        "Capex: ₹44.90 Cr",
+        "Growth Outlook: ₹55 Cr · Q2 FY27",
+        "EBITDA: ₹13 Cr · +99% YoY",
+        "PAT: ₹10 Cr · +135% YoY"
+      ],
+      "quote": "\"Monolithisch India Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹41 Cr",
+          "change": "+35% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹11 Cr",
+          "change": "+75% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹8 Cr",
+          "change": "+81% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "28.1%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹41 Cr · +35% YoY",
+        "EBITDA: ₹11 Cr · +75% YoY",
+        "PAT: ₹8 Cr · +81% YoY",
+        "EBITDA Margin: 28.1%",
+        "Growth Outlook: ₹52 Cr · FY27"
+      ],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "₹52 Cr · FY27"
+        },
+        {
+          "metric": "Margin Outlook",
+          "value": "22% to 25%"
+        }
+      ],
+      "highlights": [
+        "Revenue: ₹250 Cr · FY27",
+        "EBITDA: 22%",
+        "Growth Outlook: ₹52 Cr · FY27",
+        "Margin: 22% · 25%",
+        "Margin Outlook: 22% to 25%",
+        "PAT: ₹8 Cr · +81% YoY"
+      ],
+      "quote": "\"Monolithisch India Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Navin Fluorine International Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹1,045 Cr",
+          "change": "+44% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Operating EBITDA",
+          "value": "₹357 Cr",
+          "change": "+73% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹243 Cr",
+          "change": "+108% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "34.2%",
+          "change": "+566 bps YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹1,045 Cr · +44% YoY",
+        "Operating EBITDA: ₹357 Cr · +73% YoY",
+        "PAT: ₹243 Cr · +108% YoY",
+        "EBITDA Margin: 34.2% · +566 bps YoY",
+        "Capex: ₹90 Cr"
+      ],
+      "guidanceTracking": [
+        {
+          "metric": "Expansion",
+          "guided": "15,000 metric tons",
+          "actual": "15,000 metric tons",
+          "status": "met"
+        },
+        {
+          "metric": "Management Target",
+          "guided": "75 to 80 days",
+          "actual": "Partial",
+          "status": "partial"
+        }
+      ],
+      "guidance": [
+        {
+          "metric": "Expansion",
+          "value": "15,000 metric tons"
+        },
+        {
+          "metric": "Management Target",
+          "value": "$100 Mn"
+        },
+        {
+          "metric": "Growth Outlook",
+          "value": "82% · FY '27"
+        }
+      ],
+      "highlights": [
+        "Capex: ₹90 Cr",
+        "Capacity: up to 15,000 metric tons",
+        "Expansion: 15,000 metric tons",
+        "Target: $100 Mn",
+        "Management Target: $100 Mn",
+        "Growth Outlook: 82% · FY '27"
+      ],
+      "quote": "\"Navin Fluorine International Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹938 Cr",
+          "change": "+34% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Operating EBITDA",
+          "value": "₹321 Cr",
+          "change": "+80% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹213 Cr",
+          "change": "Q4FY26",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "34.2%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹938 Cr · +34% YoY",
+        "Operating EBITDA: ₹321 Cr · +80% YoY",
+        "PAT: ₹213 Cr",
+        "EBITDA Margin: 34.2%",
+        "Capacity: 15,000 metric tons"
+      ],
+      "guidance": [
+        {
+          "metric": "Expansion",
+          "value": "15,000 metric tons"
+        },
+        {
+          "metric": "Management Target",
+          "value": "75 to 80 days"
+        }
+      ],
+      "highlights": [
+        "Revenue: ₹393 Cr · 20% · FY26",
+        "Capacity: 15,000 metric tons",
+        "Expansion: 15,000 metric tons",
+        "Target: 75 to 80 days",
+        "Management Target: 75 to 80 days",
+        "Operating EBITDA: ₹321 Cr · +80% YoY"
+      ],
+      "quote": "\"Navin Fluorine International Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Sedemac Mechatronics Ltd": [],
+  "Entero Healthcare Solutions Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹1,940 Cr",
+          "change": "+38.2% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Growth",
+          "value": "94%",
+          "change": "YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹52 Cr",
+          "change": "+72% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "5.0%",
+          "change": "+143 bps YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹1,940 Cr · +38.2% YoY",
+        "EBITDA Growth: 94% · YoY",
+        "PAT: ₹52 Cr · +72% YoY",
+        "EBITDA Margin: 5.0% · +143 bps YoY",
+        "EBITDA: 5%"
+      ],
+      "guidanceTracking": [
+        {
+          "metric": "Management Target",
+          "guided": "50%",
+          "actual": "Partial",
+          "status": "partial"
+        },
+        {
+          "metric": "Growth Outlook",
+          "guided": "31.5%",
+          "actual": "23%",
+          "status": "partial"
+        },
+        {
+          "metric": "Margin Outlook",
+          "guided": "4%",
+          "actual": "Partial",
+          "status": "partial"
+        }
+      ],
+      "guidance": [
+        {
+          "metric": "Management Target",
+          "value": "22.5% · FY27"
+        },
+        {
+          "metric": "Growth Outlook",
+          "value": "20%"
+        }
+      ],
+      "highlights": [
+        "Revenue: FY27",
+        "EBITDA: 5%",
+        "Target: 22.5% · FY27",
+        "Growth Outlook: 20%",
+        "Management Target: 22.5% · FY27",
+        "EBITDA Growth: 94% · YoY"
+      ],
+      "quote": "\"Entero Healthcare Solutions Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue Growth",
+          "value": "42.6%",
+          "change": "YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹86 Cr",
+          "change": "+76% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹45.1 Cr",
+          "change": "+44% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "4.5%",
+          "change": "+85 bps YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue Growth: 42.6% · YoY",
+        "EBITDA: ₹86 Cr · +76% YoY",
+        "PAT: ₹45.1 Cr · +44% YoY",
+        "EBITDA Margin: 4.5% · +85 bps YoY",
+        "Revenue: 30%"
+      ],
+      "guidance": [
+        {
+          "metric": "Management Target",
+          "value": "50%"
+        },
+        {
+          "metric": "Growth Outlook",
+          "value": "31.5%"
+        },
+        {
+          "metric": "Margin Outlook",
+          "value": "4%"
+        }
+      ],
+      "highlights": [
+        "EBITDA: ₹86 Cr · 4.5%",
+        "Revenue: 30%",
+        "Target: 50%",
+        "Growth Outlook: 31",
+        "Margin: 4%",
+        "Management Target: 50%"
+      ],
+      "quote": "\"Entero Healthcare Solutions Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Craftsman Automation Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Wheel Capacity",
+          "value": "5.8 Mn",
+          "change": "Installed",
+          "positive": 1
+        },
+        {
+          "label": "FY27 Wheel Output",
+          "value": ">4 Mn",
+          "change": "Target",
+          "positive": 1
+        },
+        {
+          "label": "DR Axion Capex",
+          "value": "₹430 Cr",
+          "change": "Approved",
+          "positive": 1
+        },
+        {
+          "label": "Engine Revenue Goal",
+          "value": "$100 Mn",
+          "change": "FY29 target",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Wheel Capacity: 5.8 Mn · Installed",
+        "FY27 Wheel Output: >4 Mn · Target",
+        "DR Axion Capex: ₹430 Cr · Approved",
+        "Engine Revenue Goal: $100 Mn · FY29 target",
+        "Utilisation: 85%"
+      ],
+      "guidanceTracking": [],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "USD 100 Mn · FY '29"
+        },
+        {
+          "metric": "Management Target",
+          "value": "USD 100 Mn"
+        }
+      ],
+      "highlights": [
+        "Utilisation: 85%",
+        "Capex: ₹430 Cr",
+        "Growth Outlook: USD 100 Mn · FY '29",
+        "Target: USD 100 Mn",
+        "FY27 Wheel Output: >4 Mn · Target",
+        "Management Target: USD 100 Mn"
+      ],
+      "quote": "\"Craftsman Automation Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Alloy Wheel Run-rate",
+          "value": "3 Mn",
+          "change": "Annualized",
+          "positive": 1
+        },
+        {
+          "label": "Net Debt / EBITDA",
+          "value": "2.43x",
+          "change": "Q4FY26",
+          "positive": 1
+        },
+        {
+          "label": "FY27 Growth Outlook",
+          "value": "Mid-teens",
+          "change": "Management view",
+          "positive": 1
+        },
+        {
+          "label": "Engine Order Book",
+          "value": "$100 Mn",
+          "change": "Phase 1",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Alloy Wheel Run-rate: 3 Mn · Annualized",
+        "Net Debt / EBITDA: 2.43x",
+        "FY27 Growth Outlook: Mid-teens · Management view",
+        "Engine Order Book: $100 Mn · Phase 1",
+        "Order book: $100 Mn"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Alloy Wheel Run-rate: 3 Mn · Annualized",
+        "Net Debt / EBITDA: 2",
+        "FY27 Growth Outlook: Mid-teens · Management view",
+        "Order book: $100 Mn",
+        "Engine Order Book: $100 Mn · Phase 1"
+      ],
+      "quote": "\"Craftsman Automation Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Welspun Corp Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "EBITDA",
+          "value": "₹756 Cr",
+          "change": "+35% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Net Cash",
+          "value": "₹2,336 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹25,750 Cr",
+          "change": "Record high",
+          "positive": 1
+        },
+        {
+          "label": "Annualized ROCE",
+          "value": ">20%",
+          "change": "Q1FY27",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "EBITDA: ₹756 Cr · +35% YoY",
+        "Net Cash: ₹2,336 Cr",
+        "Order Book: ₹25,750 Cr · Record high",
+        "Annualized ROCE: >20%",
+        "Growth Outlook: ₹2,336 Cr"
+      ],
+      "guidanceTracking": [
+        {
+          "metric": "Growth Outlook",
+          "guided": "₹17,000 Cr · FY26",
+          "actual": "₹2,336 Cr",
+          "status": "partial"
+        }
+      ],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "₹2,336 Cr"
+        }
+      ],
+      "highlights": [
+        "Growth Outlook: ₹2,336 Cr",
+        "EBITDA: ₹756 Cr · 35%",
+        "Net Cash: ₹2,336 Cr",
+        "Order book: ₹25,750 Cr",
+        "Annualized ROCE: >20%"
+      ],
+      "quote": "\"Welspun Corp Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "FY26 Revenue",
+          "value": "~₹17,000 Cr",
+          "change": "Guidance met",
+          "positive": 1
+        },
+        {
+          "label": "FY26 EBITDA",
+          "value": "₹2,371 Cr",
+          "change": "Above ₹2,200 Cr guide",
+          "positive": 1
+        },
+        {
+          "label": "FY26 PAT",
+          "value": "₹1,613 Cr",
+          "change": "+42% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": ">₹25,000 Cr",
+          "change": "May 2026",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "FY26 Revenue: ~₹17,000 Cr · Guidance met",
+        "FY26 EBITDA: ₹2,371 Cr · Above ₹2,200 Cr guide",
+        "FY26 PAT: ₹1,613 Cr · +42% YoY",
+        "Order Book: >₹25,000 Cr · May 2026",
+        "Order book: ₹25,000 Cr · $2.5 Bn"
+      ],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "₹17,000 Cr · FY26"
+        }
+      ],
+      "highlights": [
+        "Order book: ₹25,000 Cr · $2.5 Bn",
+        "Growth Outlook: ₹17,000 Cr · FY26",
+        "Revenue: ₹17,000 Cr · FY26",
+        "EBITDA: ₹2,371 Cr",
+        "FY26 PAT: ₹1,613 Cr · +42% YoY",
+        "FY26 Revenue: ~₹17,000 Cr · Guidance met"
+      ],
+      "quote": "\"Welspun Corp Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Amagi Media Labs Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹437 Cr",
+          "change": "+32% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Adjusted EBITDA",
+          "value": "₹50 Cr",
+          "change": "+201% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹34 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "11.5%",
+          "change": "Q1FY27",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹437 Cr · +32% YoY",
+        "Adjusted EBITDA: ₹50 Cr · +201% YoY",
+        "PAT: ₹34 Cr",
+        "EBITDA Margin: 11.5%",
+        "EBITDA: 11.5%"
+      ],
+      "guidance": [],
+      "highlights": [
+        "EBITDA: 11.5%",
+        "Revenue: ₹437 Cr · 32%",
+        "PAT: ₹34 Cr",
+        "Adjusted EBITDA: ₹50 Cr · +201% YoY",
+        "EBITDA Margin: 11.5%"
+      ],
+      "quote": "\"Amagi Media Labs Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹397 Cr",
+          "change": "+29% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Adjusted EBITDA",
+          "value": "₹40 Cr",
+          "change": "+161% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹34 Cr",
+          "change": "Vs ₹11 Cr loss YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "10%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹397 Cr · +29% YoY",
+        "Adjusted EBITDA: ₹40 Cr · +161% YoY",
+        "PAT: ₹34 Cr · Vs ₹11 Cr loss YoY",
+        "EBITDA Margin: 10%",
+        "Growth Outlook: 44% · FY'24"
+      ],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "44% · FY'24"
+        },
+        {
+          "metric": "Margin Outlook",
+          "value": "6% · 5% · FY26"
+        }
+      ],
+      "highlights": [
+        "Growth Outlook: 44% · FY'24",
+        "Margin: 6% · 5%",
+        "Revenue: ₹397 Cr · 29%",
+        "EBITDA: ₹40 Cr · 161%",
+        "PAT: ₹34 Cr · Vs ₹11 Cr loss YoY",
+        "Margin Outlook: 6% · 5% · FY26"
+      ],
+      "quote": "\"Amagi Media Labs Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Dee Development Engineers Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹294.5 Cr",
+          "change": "+31.6% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Operating EBITDA",
+          "value": "₹49.7 Cr",
+          "change": "+38.7% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹16.1 Cr",
+          "change": "+22.4% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Order Book",
+          "value": "₹2,428 Cr",
+          "change": "June 2026",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹294.5 Cr · +31.6% YoY",
+        "Operating EBITDA: ₹49.7 Cr · +38.7% YoY",
+        "PAT: ₹16.1 Cr · +22.4% YoY",
+        "Order Book: ₹2,428 Cr · June 2026",
+        "Target: 100%"
+      ],
+      "guidance": [
+        {
+          "metric": "Management Target",
+          "value": "100%"
+        },
+        {
+          "metric": "Order Outlook",
+          "value": "₹1,500 Cr"
+        },
+        {
+          "metric": "Margin Outlook",
+          "value": "19%"
+        }
+      ],
+      "highlights": [
+        "Revenue: ₹80 Cr · FY26",
+        "Target: 100%",
+        "Order Outlook: ₹1,500 Cr",
+        "Margin: 19%",
+        "Management Target: 100%",
+        "Margin Outlook: 19%"
+      ],
+      "quote": "\"Dee Development Engineers Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    }
+  ],
+  "Happy Forgings Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹449 Cr",
+          "change": "+27% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹141 Cr",
+          "change": "+39.3% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹91 Cr",
+          "change": "+39.2% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "31.3%",
+          "change": "+275 bps YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹449 Cr · +27% YoY",
+        "EBITDA: ₹141 Cr · +39.3% YoY",
+        "PAT: ₹91 Cr · +39.2% YoY",
+        "EBITDA Margin: 31.3% · +275 bps YoY",
+        "Execution priorities remain on track"
+      ],
+      "guidanceTracking": [],
+      "guidance": [],
+      "highlights": [
+        "Revenue: 33%",
+        "EBITDA: ₹141 Cr · 39.3%",
+        "PAT: ₹91 Cr · +39",
+        "EBITDA Margin: 31.3% · +275 bps YoY"
+      ],
+      "quote": "\"Happy Forgings Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹424 Cr",
+          "change": "+20.4% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹133 Cr",
+          "change": "+30.4% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹84 Cr",
+          "change": "+23.6% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "31.5%",
+          "change": "+240 bps YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹424 Cr · +20.4% YoY",
+        "EBITDA: ₹133 Cr · +30.4% YoY",
+        "PAT: ₹84 Cr · +23.6% YoY",
+        "EBITDA Margin: 31.5% · +240 bps YoY",
+        "Order book: ₹950 Cr"
+      ],
+      "guidance": [],
+      "highlights": [
+        "EBITDA: 31.5%",
+        "Order book: ₹950 Cr",
+        "Revenue: ₹424 Cr · 20.4%",
+        "PAT: ₹84 Cr · +23",
+        "EBITDA Margin: 31.5% · +240 bps YoY"
+      ],
+      "quote": "\"Happy Forgings Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Sudeep Pharma Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹158.3 Cr",
+          "change": "+27% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹54.9 Cr",
+          "change": "+25% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹40.6 Cr",
+          "change": "Vs ₹31.3 Cr YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "34.7%",
+          "change": "Q1FY27",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹158.3 Cr · +27% YoY",
+        "EBITDA: ₹54.9 Cr · +25% YoY",
+        "PAT: ₹40.6 Cr · Vs ₹31.3 Cr YoY",
+        "EBITDA Margin: 34.7%",
+        "Margin: 25.6% · 25%"
+      ],
+      "guidanceTracking": [],
+      "guidance": [
+        {
+          "metric": "Commissioning",
+          "value": "April 2027"
+        }
+      ],
+      "highlights": [
+        "Margin: 25.6% · 25%",
+        "Commissioning: April 2027",
+        "Revenue: ₹158.3 Cr · 27%",
+        "EBITDA: ₹54.9 Cr · 25%",
+        "PAT: ₹40.6 Cr · Vs ₹31.3 Cr YoY",
+        "EBITDA Margin: 34.7%"
+      ],
+      "quote": "\"Sudeep Pharma Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹182.3 Cr",
+          "change": "+15.7% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹62.6 Cr",
+          "change": "Vs ₹58.8 Cr YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹48.5 Cr",
+          "change": "Vs ₹44.2 Cr YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "34.3%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹182.3 Cr · +15.7% YoY",
+        "EBITDA: ₹62.6 Cr · Vs ₹58.8 Cr YoY",
+        "PAT: ₹48.5 Cr · Vs ₹44.2 Cr YoY",
+        "EBITDA Margin: 34.3%",
+        "Execution priorities remain on track"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Revenue: ₹182.3 Cr · 15.7%",
+        "EBITDA: ₹62.6 Cr",
+        "PAT: ₹48.5 Cr · Vs ₹44.2 Cr YoY",
+        "EBITDA Margin: 34.3%"
+      ],
+      "quote": "\"Sudeep Pharma Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Honasa Consumer Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": false,
+      "tone": "Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue Growth",
+          "value": "32%",
+          "change": "YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "~₹110 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹90 Cr",
+          "change": "Q1FY27",
+          "positive": 1
+        },
+        {
+          "label": "Volume Growth",
+          "value": "30.5%",
+          "change": "YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue Growth: 32% · YoY",
+        "EBITDA: ~₹110 Cr",
+        "PAT: ₹90 Cr",
+        "Volume Growth: 30.5% · YoY",
+        "Revenue: 32%"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Revenue: 32%",
+        "EBITDA: ₹110 Cr",
+        "PAT: ₹90 Cr",
+        "Volume Growth: 30",
+        "Revenue Growth: 32% · YoY"
+      ],
+      "quote": "\"Honasa Consumer Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹682 Cr",
+          "change": "+28% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹77 Cr",
+          "change": "~2.5x YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹69 Cr",
+          "change": "Q4FY26",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "11.3%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹682 Cr · +28% YoY",
+        "EBITDA: ₹77 Cr · ~2.5x YoY",
+        "PAT: ₹69 Cr",
+        "EBITDA Margin: 11.3%",
+        "Execution priorities remain on track"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Revenue: ₹682 Cr · 28%",
+        "EBITDA: ₹77 Cr",
+        "PAT: ₹69 Cr",
+        "EBITDA Margin: 11.3%"
+      ],
+      "quote": "\"Honasa Consumer Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "RACL Geartech Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹132.60 Cr",
+          "change": "+22% YoY",
+          "positive": 1
+        },
+        {
+          "label": "Operating Revenue",
+          "value": "₹132.35 Cr",
+          "change": "+31.5% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹32.19 Cr",
+          "change": "+18% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PBT",
+          "value": "₹16.82 Cr",
+          "change": "+50% YoY",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹132.60 Cr · +22% YoY",
+        "Operating Revenue: ₹132.35 Cr · +31.5% YoY",
+        "EBITDA: ₹32.19 Cr · +18% YoY",
+        "PBT: ₹16.82 Cr · +50% YoY",
+        "Growth Outlook: 20%"
+      ],
+      "guidanceTracking": [
+        {
+          "metric": "Management Target",
+          "guided": "5% · FY27",
+          "actual": "Partial",
+          "status": "partial"
+        }
+      ],
+      "guidance": [
+        {
+          "metric": "Growth Outlook",
+          "value": "20%"
+        },
+        {
+          "metric": "Order Outlook",
+          "value": "20,000 units"
+        }
+      ],
+      "highlights": [
+        "Growth Outlook: 20%",
+        "Order Outlook: 20,000 units",
+        "Revenue: ₹132.60 Cr · 22%",
+        "EBITDA: ₹32.19 Cr · 18%",
+        "Operating Revenue: ₹132.35 Cr · +31.5% YoY",
+        "PBT: ₹16.82 Cr · +50% YoY"
+      ],
+      "quote": "\"RACL Geartech Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹136.69 Cr",
+          "change": "+48% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹34.08 Cr",
+          "change": "+41.13% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PBT",
+          "value": "₹16.91 Cr",
+          "change": "+91.5% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "24.93%",
+          "change": "Q4FY26",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹136.69 Cr · +48% YoY",
+        "EBITDA: ₹34.08 Cr · +41.13% YoY",
+        "PBT: ₹16.91 Cr · +91.5% YoY",
+        "EBITDA Margin: 24.93%",
+        "Target: 5% · FY27"
+      ],
+      "guidance": [
+        {
+          "metric": "Management Target",
+          "value": "5% · FY27"
+        }
+      ],
+      "highlights": [
+        "Target: 5% · FY27",
+        "Revenue: ₹136.69 Cr · 48%",
+        "EBITDA: ₹34.08 Cr · 41.13%",
+        "PBT: ₹16.91 Cr · +91.5% YoY",
+        "Management Target: 5% · FY27",
+        "EBITDA Margin: 24.93%"
+      ],
+      "quote": "\"RACL Geartech Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ],
+  "Ramkrishna Forgings Ltd": [
+    {
+      "quarter": "Q1FY27",
+      "hasNumericGuidance": true,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹1,217 Cr",
+          "change": "+19.84% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹218.47 Cr",
+          "change": "+47% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PAT",
+          "value": "₹46.88 Cr",
+          "change": "+297% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "17.96%",
+          "change": "+85 bps QoQ",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹1,217 Cr · +19.84% YoY",
+        "EBITDA: ₹218.47 Cr · +47% YoY",
+        "PAT: ₹46.88 Cr · +297% YoY",
+        "EBITDA Margin: 17.96% · +85 bps QoQ",
+        "Target: 12% to 15%"
+      ],
+      "guidanceTracking": [],
+      "guidance": [
+        {
+          "metric": "Management Target",
+          "value": "12% to 15%"
+        },
+        {
+          "metric": "Expansion",
+          "value": "₹20 Cr"
+        }
+      ],
+      "highlights": [
+        "Target: 12% to 15%",
+        "Expansion: ₹20 Cr",
+        "Revenue: ₹1,217 Cr · 19.84%",
+        "EBITDA: ₹218.47 Cr · 47%",
+        "Management Target: 12% to 15%",
+        "PAT: ₹46.88 Cr · +297% YoY"
+      ],
+      "quote": "\"Ramkrishna Forgings Ltd outlined its Q1FY27 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "August 2026"
+    },
+    {
+      "quarter": "Q4FY26",
+      "hasNumericGuidance": false,
+      "tone": "Strongly Bullish",
+      "toneColor": "#059669",
+      "metrics": [
+        {
+          "label": "Revenue",
+          "value": "₹1,216.78 Cr",
+          "change": "+28% YoY",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA",
+          "value": "₹208.19 Cr",
+          "change": "+111% YoY",
+          "positive": 1
+        },
+        {
+          "label": "PBT",
+          "value": "₹64.33 Cr",
+          "change": "+117% QoQ",
+          "positive": 1
+        },
+        {
+          "label": "EBITDA Margin",
+          "value": "17.1%",
+          "change": "+220 bps QoQ",
+          "positive": 1
+        }
+      ],
+      "fyPerformance": [
+        "Revenue: ₹1,216.78 Cr · +28% YoY",
+        "EBITDA: ₹208.19 Cr · +111% YoY",
+        "PBT: ₹64.33 Cr · +117% QoQ",
+        "EBITDA Margin: 17.1% · +220 bps QoQ",
+        "Margin: 17.1%"
+      ],
+      "guidance": [],
+      "highlights": [
+        "Margin: 17.1%",
+        "Revenue: ₹1,216.78 Cr · 28%",
+        "EBITDA: ₹208.19 Cr · 111%",
+        "PBT: ₹64.33 Cr · +117% QoQ",
+        "EBITDA Margin: 17.1% · +220 bps QoQ"
+      ],
+      "quote": "\"Ramkrishna Forgings Ltd outlined its Q4FY26 performance and next execution priorities.\"",
+      "quotePerson": "Management Commentary",
+      "asOf": "May 2026"
+    }
+  ]
+}

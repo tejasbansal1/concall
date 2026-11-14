@@ -130,6 +130,12 @@ const BG='#F1F5F9', SRF='#FFFFFF', BRD='#E2E8F0', TX='#0F172A', S2='#475569', MU
 const sn  = n => n.replace(/ Ltd$/,'').replace(/ Limited$/,'').replace(/ Private Limited$/,'');
 const pct = m => m.positive === 1 ? '#059669' : m.positive === -1 ? '#EF4444' : MU;
 const gs  = (sectors, id) => sectors.find(s => s.id === id);
+const perfLabel = d => d.performanceLabel || (/^Q4/.test(d.quarter || '') ? 'Full Year Performance' : 'Quarter Performance');
+/* Headline growth = first metric's yoyPct on the latest entry (null when not recorded) */
+const headlineGrowth = hist => {
+  const m = hist && hist[0] && hist[0].metrics && hist[0].metrics[0];
+  return m && typeof m.yoyPct === 'number' ? m.yoyPct : null;
+};
 const buildUrl = (sid, co) => {
   if (!sid) return '/';
   const p = new URLSearchParams();
@@ -532,8 +538,19 @@ function SCard({ s, onClick }) {
 /* ── Companies Page ───────────────────────────────── */
 function CView({ sec, sectors, concall, onSel }) {
   const [search, setSearch] = useState('');
+  const [sortBy, setSortBy] = useState('default');
   const query = search.trim();
   const searching = query.length >= 2;
+  const hasGrowth = sec.cos.some(c => headlineGrowth(concall[c]) !== null);
+  const cos = sortBy === 'growth'
+    ? [...sec.cos].sort((a, b) => {
+        const ga = headlineGrowth(concall[a]), gb = headlineGrowth(concall[b]);
+        if (ga === null && gb === null) return 0;
+        if (ga === null) return 1;
+        if (gb === null) return -1;
+        return gb - ga;
+      })
+    : sec.cos;
 
   return h('div', null,
     h('div', { style:{ display:'flex', alignItems:'center', justifyContent:'space-between', flexWrap:'wrap', gap:12, marginBottom:18 } },
@@ -542,23 +559,32 @@ function CView({ sec, sectors, concall, onSel }) {
         h('h1', { style:{ fontSize:20, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif" } }, sec.nm),
         h('span', { style:{ fontSize:13, color:MU } }, '· ' + sec.cos.length + ' companies')
       ),
-      h('div', { style:{ position:'relative' } },
-        h('input', {
-          value:search, onChange:e=>setSearch(e.target.value), placeholder:'Search any company…',
-          style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:7, padding:'6px 12px 6px 30px', fontSize:12, color:TX, width:180, outline:'none' }
-        }),
-        h('span', { style:{ position:'absolute', left:10, top:'50%', transform:'translateY(-50%)', color:MU, fontSize:12, pointerEvents:'none' } }, '⌕')
+      h('div', { style:{ display:'flex', gap:8, alignItems:'center', flexWrap:'wrap' } },
+        hasGrowth && h('select', {
+          value:sortBy, onChange:e=>setSortBy(e.target.value), 'aria-label':'Sort companies',
+          style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:7, padding:'6px 10px', fontSize:12, color:TX, outline:'none', fontFamily:'inherit', cursor:'pointer' }
+        },
+          h('option', { value:'default' }, 'Default order'),
+          h('option', { value:'growth' }, 'Headline growth ↓')
+        ),
+        h('div', { style:{ position:'relative' } },
+          h('input', {
+            value:search, onChange:e=>setSearch(e.target.value), placeholder:'Search any company…',
+            style:{ background:SRF, border:`1px solid ${BRD}`, borderRadius:7, padding:'6px 12px 6px 30px', fontSize:12, color:TX, width:180, outline:'none' }
+          }),
+          h('span', { style:{ position:'absolute', left:10, top:'50%', transform:'translateY(-50%)', color:MU, fontSize:12, pointerEvents:'none' } }, '⌕')
+        )
       )
     ),
     searching
       ? h(GlobalSearchResults, { sectors, query, onSelD:onSel })
       : h('div', { className:'company-grid' },
-          ...sec.cos.map(c => h(CCard, { key:c, c, sec, quarters:(concall[c]||[]).map(e=>e.quarter).filter(Boolean), onClick:()=>onSel(c) }))
+          ...cos.map(c => h(CCard, { key:c, c, sec, quarters:(concall[c]||[]).map(e=>e.quarter).filter(Boolean), growth:headlineGrowth(concall[c]), growthLabel:(concall[c]&&concall[c][0]&&concall[c][0].metrics&&concall[c][0].metrics[0]||{}).label, onClick:()=>onSel(c) }))
         )
   );
 }
 
-function CCard({ c, sec, quarters, onClick }) {
+function CCard({ c, sec, quarters, growth, growthLabel, onClick }) {
   const [hov, setHov] = useState(false);
   return h('div', {
     style:{
@@ -583,7 +609,11 @@ function CCard({ c, sec, quarters, onClick }) {
         h('div', { style:{ width:7, height:7, borderRadius:'50%', background: sec.ac, flexShrink:0 }}),
         h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.8px' }}, sec.nm)
       ),
-      h('div', { style:{ fontSize:15, fontWeight:700, color:TX, lineHeight:1.4 }}, sn(c))
+      h('div', { style:{ fontSize:15, fontWeight:700, color:TX, lineHeight:1.4 }}, sn(c)),
+      growth !== null && growth !== undefined && h('div', { style:{ fontSize:11, color:S2, marginTop:6 } },
+        (growthLabel || 'Headline') + ' ',
+        h('span', { style:{ fontWeight:700, color: growth >= 0 ? '#059669' : '#EF4444' } }, (growth > 0 ? '+' : '') + growth + '% YoY')
+      )
     ),
     /* Footer */
     h('div', { style:{ padding:'12px 20px', display:'flex', justifyContent:'space-between', alignItems:'center' }},
@@ -655,6 +685,15 @@ function DView({ co, sec, concall }) {
       h('div', { style:{ fontSize:11, color:S2 } }, 'NSE / BSE Listed · Indian Equity · Data as of ' + (d.asOf || CURRENT_ASOF))
     ),
 
+    /* ── What changed ── */
+    d.whatChanged && h('div', { style:{
+      background:SRF, border:`1.5px solid ${sec.ac}30`, borderLeft:`4px solid ${sec.ac}`,
+      borderRadius:12, padding:'14px 18px'
+    }},
+      h('div', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.9px', marginBottom:6 } }, 'What changed this quarter'),
+      h('div', { style:{ fontSize:13, color:TX, lineHeight:1.65 } }, d.whatChanged)
+    ),
+
     /* ── Metrics ── */
     d.metrics && d.metrics.length > 0 && h('div', { className:'metrics-grid' },
       ...d.metrics.map((m,i) => {
@@ -675,7 +714,7 @@ function DView({ co, sec, concall }) {
     /* ── FY Performance ── */
     d.fyPerformance && d.fyPerformance.length > 0 && h('div', { style:{ background:SRF, border:`1.5px solid ${BRD}`, borderRadius:14, overflow:'hidden' } },
       h('div', { style:{ padding:'13px 20px', background:`${sec.ac}09`, borderBottom:`1px solid ${sec.ac}1C` } },
-        h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.9px' } }, 'Full Year Performance')
+        h('span', { style:{ fontSize:10, fontWeight:700, color:sec.ac, textTransform:'uppercase', letterSpacing:'0.9px' } }, perfLabel(d))
       ),
       h('div', null,
         ...d.fyPerformance.map((item,i) => h('div', { key:i, style:{
@@ -807,6 +846,25 @@ function DView({ co, sec, concall }) {
         }},
           h('div', { style:{ width:8, height:8, borderRadius:'50%', background:sec.ac, flexShrink:0, marginTop:4 } }),
           h('span', { style:{ fontSize:12, color:S2, lineHeight:1.65 } }, hl)
+        ))
+      )
+    ),
+
+    /* ── Risks & Watch Items ── */
+    d.risks && d.risks.length > 0 && h('div', { style:{ background:SRF, border:'1.5px solid #FDE68A', borderRadius:14, overflow:'hidden' } },
+      h('div', { style:{ padding:'13px 20px', background:'#FFFBEB', borderBottom:'1px solid #FDE68A' } },
+        h('span', { style:{ fontSize:10, fontWeight:700, color:'#B45309', textTransform:'uppercase', letterSpacing:'0.9px' } }, 'Risks & Watch Items')
+      ),
+      h('div', null,
+        ...d.risks.map((r,i) => h('div', { key:i, style:{
+          display:'flex', gap:12, alignItems:'flex-start',
+          padding:'12px 20px',
+          borderBottom: i < d.risks.length-1 ? `1px solid ${BRD}` : 'none'
+        }},
+          h('svg', { width:14, height:14, viewBox:'0 0 24 24', fill:'none', stroke:'#D97706', strokeWidth:2.5, strokeLinecap:'round', strokeLinejoin:'round', style:{ flexShrink:0, marginTop:2 } },
+            h('path', { d:'M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z' })
+          ),
+          h('span', { style:{ fontSize:12, color:S2, lineHeight:1.65 } }, r)
         ))
       )
     ),

@@ -1,0 +1,41 @@
+# Downloaded concall transcript PDFs (source material, not part of the site)
+affordable housing companies/
+auto ancillary companies/
+building materials companies/
+capital markets companies/
+cement companies/
+co-working companies/
+diagnostics companies/
+ems companies/
+exporters companies/
+fmcg companies/
+gold finance companies/
+hospitals companies/
+high-growth-models companies/
+hotels companies/
+internet companies/
+jewelry retail companies/
+mfi companies/
+mid-tier banks/
+nbfc companies/
+peb companies/
+pharma companies/
+pipes tubes companies/
+real estate companies/
+recycling companies/
+small finance banks/
+technology companies/
+value retail companies/
+wires cables companies/
+writing instruments companies/
+
+# Scratch / reference dumps
+guidance-outlook-list.txt
+management_guidance_outlook_241_companies.md
+management_guidance_outlook_241_companies.txt
+serve.py
+
+# OS / editor junk
+.DS_Store
+__pycache__/
+.claude/

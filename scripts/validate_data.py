@@ -85,6 +85,79 @@ def check_entry(e, where, err, warn):
         warn(f"{where}: no quote")
 
 
+SUMMARY_CATS = ["trends", "tailwinds", "headwinds", "opportunities", "risks", "insights"]
+MAJORITY_CATS = {"trends", "tailwinds", "headwinds"}
+
+
+def check_sector_summary(summary, companies, concall, fname, args, err, warn):
+    """Check the sector-level sectorSummary array (newest quarter first)."""
+    if not isinstance(summary, list):
+        err(f"{fname}: sectorSummary must be a list")
+        return
+    quarters = [x.get("quarter") for x in summary if isinstance(x, dict)]
+    keys = [quarter_key(q) for q in quarters]
+    if not all(keys):
+        err(f"{fname}: sectorSummary has a bad quarter in {quarters}")
+    elif keys != sorted(keys, reverse=True) or len(set(keys)) != len(keys):
+        err(f"{fname}: sectorSummary must be newest-first with one object per quarter: {quarters}")
+
+    for x in summary:
+        if not isinstance(x, dict):
+            err(f"{fname}: sectorSummary items must be objects")
+            continue
+        q = x.get("quarter")
+        where = f"{fname}: sectorSummary [{q}]"
+        # Older quarters only warn when a newer quarter is being worked on
+        e = err if not args.quarter or q == args.quarter else (lambda m: warn("(older) " + m))
+        with_entry = {n for n in companies if any(h.get("quarter") == q for h in concall.get(n) or [])}
+        if not isinstance(x.get("overview"), str) or not x["overview"].strip():
+            e(f"{where}: missing overview")
+        cc = x.get("callsCovered")
+        if not isinstance(cc, int) or isinstance(cc, bool):
+            e(f"{where}: callsCovered must be a whole number")
+        elif cc != len(with_entry):
+            e(f"{where}: callsCovered is {cc} but {len(with_entry)} companies have a {q} entry")
+        if not any(x.get(c) for c in SUMMARY_CATS):
+            e(f"{where}: no items in any of {SUMMARY_CATS}")
+        for cat in x:
+            if cat not in SUMMARY_CATS + ["quarter", "asOf", "callsCovered", "overview"]:
+                warn(f"{where}: unknown key '{cat}' (not shown on site)")
+        for cat in SUMMARY_CATS:
+            items = x.get(cat)
+            if items is None:
+                continue
+            if not isinstance(items, list):
+                e(f"{where}: {cat} must be a list")
+                continue
+            for i, it in enumerate(items):
+                tag = f"{where}: {cat}[{i}]"
+                if isinstance(it, str):
+                    if not it.strip():
+                        e(f"{tag} is empty")
+                    continue
+                if not isinstance(it, dict) or not isinstance(it.get("text"), str) or not it["text"].strip():
+                    e(f"{tag} must be a string or an object with 'text'")
+                    continue
+                cos = it.get("companies", [])
+                if not isinstance(cos, list):
+                    e(f"{tag}: companies must be a list")
+                    continue
+                if len(set(cos)) != len(cos):
+                    e(f"{tag}: duplicate company names")
+                for n in cos:
+                    if n not in companies:
+                        e(f"{tag}: '{n}' is not in this sector's companies list")
+                    elif n not in with_entry:
+                        e(f"{tag}: '{n}' has no {q} entry to support this point")
+                if cat in MAJORITY_CATS and with_entry and cos and len(cos) * 2 < len(with_entry):
+                    warn(f"{tag}: raised by {len(cos)} of {len(with_entry)} companies; under half, consider insights/opportunities/risks")
+
+    if args.quarter and args.quarter not in quarters:
+        n = sum(1 for c in companies if (concall.get(c) or [{}])[0].get("quarter") == args.quarter)
+        if n:
+            warn(f"{fname}: {n} companies have {args.quarter} entries but there is no {args.quarter} sectorSummary yet")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--quarter", help="Quarter being added, e.g. Q2FY27. Entries for it must carry the new fields.")
@@ -130,6 +203,9 @@ def main():
                 err(f"{path.name}: sector.{k} missing")
         companies = d.get("companies") or []
         concall = {k: v for k, v in (d.get("concall") or {}).items() if k != "_template"}
+
+        if "sectorSummary" in d:
+            check_sector_summary(d["sectorSummary"], companies, concall, path.name, args, err, warn)
 
         if len(set(companies)) != len(companies):
             err(f"{path.name}: duplicate names in companies list")

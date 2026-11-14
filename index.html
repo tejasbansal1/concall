@@ -39,8 +39,10 @@
     .sector-grid  { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
     .company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
     .metrics-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 12px; }
+    .sum-grid     { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
 
     @media (max-width: 680px) {
+      .sum-grid      { grid-template-columns: 1fr; }
       .metrics-grid  { grid-template-columns: repeat(2, 1fr); }
       .sector-grid   { grid-template-columns: 1fr; }
       .company-grid  { grid-template-columns: repeat(2, 1fr); }
@@ -268,7 +270,8 @@ function App() {
           const sector = {
             id: f, nm: d.sector.name, desc: d.sector.description,
             ac: d.sector.accent, al: d.sector.accentLight,
-            cos: d.companies || [], d: Object.keys(entries).length > 0
+            cos: d.companies || [], d: Object.keys(entries).length > 0,
+            summary: Array.isArray(d.sectorSummary) ? d.sectorSummary : []
           };
           const idx = DATA_FILES.indexOf(f);
           setSectors(prev => {
@@ -576,11 +579,94 @@ function CView({ sec, sectors, concall, onSel }) {
         )
       )
     ),
+    !searching && sec.summary.length > 0 && h(SectorSummary, { key:sec.id, sec }),
     searching
       ? h(GlobalSearchResults, { sectors, query, onSelD:onSel })
       : h('div', { className:'company-grid' },
           ...cos.map(c => h(CCard, { key:c, c, sec, quarters:(concall[c]||[]).map(e=>e.quarter).filter(Boolean), growth:headlineGrowth(concall[c]), growthLabel:(concall[c]&&concall[c][0]&&concall[c][0].metrics&&concall[c][0].metrics[0]||{}).label, onClick:()=>onSel(c) }))
         )
+  );
+}
+
+/* ── Sector Summary (top of sector page) ─────────── */
+const SUM_SECTIONS = [
+  { k:'trends',        label:'Key Trends',        c:'#2563EB', bg:'#EFF6FF', icon:'M3 17l6-6 4 4 8-8M14 7h7v7' },
+  { k:'tailwinds',     label:'Tailwinds',         c:'#059669', bg:'#ECFDF5', icon:'M12 19V5M5 12l7-7 7 7' },
+  { k:'headwinds',     label:'Headwinds',         c:'#DC2626', bg:'#FEF2F2', icon:'M12 5v14M19 12l-7 7-7-7' },
+  { k:'opportunities', label:'Opportunities',     c:'#7C3AED', bg:'#F5F3FF', icon:'M12 2l3 7h7l-5.5 4.5L18 21l-6-4-6 4 1.5-7.5L2 9h7z' },
+  { k:'risks',         label:'Risks',             c:'#D97706', bg:'#FFFBEB', icon:'M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z' },
+  { k:'insights',      label:'Sector Insights',   c:'#0891B2', bg:'#ECFEFF', icon:'M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z' },
+];
+
+function SectorSummary({ sec }) {
+  const [qi, setQi] = useState(0);
+  const [open, setOpen] = useState(true);
+  const s = sec.summary[qi] || sec.summary[0];
+  const covered = typeof s.callsCovered === 'number' ? s.callsCovered : null;
+  const sections = SUM_SECTIONS.filter(x => Array.isArray(s[x.k]) && s[x.k].length > 0);
+
+  return h('div', { style:{
+    background:SRF, border:`1.5px solid ${sec.ac}30`, borderRadius:16,
+    overflow:'hidden', marginBottom:18, boxShadow:`0 8px 24px ${sec.ac}14`
+  }},
+    /* Header */
+    h('div', { style:{
+      padding:'14px 20px', background:`linear-gradient(140deg, ${sec.ac}16 0%, ${sec.ac}06 100%)`,
+      borderBottom: open ? `1px solid ${sec.ac}1C` : 'none',
+      display:'flex', alignItems:'center', justifyContent:'space-between', gap:12, flexWrap:'wrap'
+    }},
+      h('div', null,
+        h('div', { style:{ fontSize:15, fontWeight:800, color:TX, fontFamily:"'Space Grotesk',sans-serif" } }, 'Sector View · ' + (s.quarter || '')),
+        h('div', { style:{ fontSize:11.5, color:S2, marginTop:2 } },
+          'What managements across ' + sec.nm + ' are saying' +
+          (covered !== null ? ' · Based on ' + covered + ' of ' + sec.cos.length + ' company calls' : '') +
+          (s.asOf ? ' · ' + s.asOf : ''))
+      ),
+      h('div', { style:{ display:'flex', gap:6, alignItems:'center', flexWrap:'wrap' } },
+        sec.summary.length > 1 && open && sec.summary.map((e, i) => h('button', {
+          key:i, onClick:()=>setQi(i),
+          style:{
+            fontSize:10.5, fontWeight:700, padding:'4px 11px', borderRadius:20, cursor:'pointer',
+            border:`1.5px solid ${i===qi ? sec.ac : BRD}`, background: i===qi ? sec.ac : SRF,
+            color: i===qi ? '#fff' : S2, fontFamily:'inherit'
+          }
+        }, e.quarter || ('View ' + (i+1)))),
+        h('button', {
+          onClick:()=>setOpen(!open), 'aria-expanded':open,
+          style:{ fontSize:11, fontWeight:600, padding:'4px 11px', borderRadius:20, cursor:'pointer',
+                  border:`1px solid ${BRD}`, background:SRF, color:S2, fontFamily:'inherit' }
+        }, open ? 'Hide' : 'Show')
+      )
+    ),
+    open && h('div', { style:{ padding:'16px 20px 20px', display:'flex', flexDirection:'column', gap:14 } },
+      s.overview && h('p', { style:{ fontSize:13, color:TX, lineHeight:1.75, margin:0 } }, s.overview),
+      sections.length > 0 && h('div', { className:'sum-grid' },
+        ...sections.map(x => h('div', { key:x.k, style:{ border:`1px solid ${x.c}2A`, borderRadius:12, overflow:'hidden' } },
+          h('div', { style:{ display:'flex', alignItems:'center', gap:8, padding:'9px 14px', background:x.bg, borderBottom:`1px solid ${x.c}22` } },
+            h('svg', { width:13, height:13, viewBox:'0 0 24 24', fill:'none', stroke:x.c, strokeWidth:2.5, strokeLinecap:'round', strokeLinejoin:'round' },
+              h('path', { d:x.icon })
+            ),
+            h('span', { style:{ fontSize:10, fontWeight:700, color:x.c, textTransform:'uppercase', letterSpacing:'0.8px' } }, x.label)
+          ),
+          h('div', null,
+            ...s[x.k].map((it, i) => {
+              const text = typeof it === 'string' ? it : it.text;
+              const cs = (it && Array.isArray(it.companies)) ? it.companies : [];
+              const base = covered || sec.cos.length;
+              return h('div', { key:i, style:{
+                padding:'10px 14px', borderBottom: i < s[x.k].length-1 ? `1px solid ${BRD}` : 'none'
+              }},
+                h('div', { style:{ fontSize:12, color:S2, lineHeight:1.6 } }, text),
+                cs.length > 0 && h('div', {
+                  title: cs.map(sn).join(', '),
+                  style:{ fontSize:10, fontWeight:600, color:x.c, marginTop:4 }
+                }, cs.length + ' of ' + base + ' managements · ' + cs.map(sn).slice(0,3).join(', ') + (cs.length > 3 ? ' +' + (cs.length-3) : ''))
+              );
+            })
+          )
+        ))
+      )
+    )
   );
 }
 

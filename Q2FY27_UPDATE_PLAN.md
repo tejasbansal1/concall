@@ -80,6 +80,32 @@ Pilot the process on Co-Working (five companies), including the source register,
 | 29 | Writing Instruments | `data/writing-instruments.json` | 4 |
 | | **Total** | | **287** |
 
+## Sector summary
+
+Each sector JSON gets a top-level `sectorSummary` array, newest quarter first (like a company's history). It is written **after** all of the sector's company entries for the quarter are done, from those calls only. It appears at the top of the sector page, above the company cards.
+
+```json
+"sectorSummary": [
+  {
+    "quarter": "Q2FY27",
+    "asOf": "Nov 2026",
+    "callsCovered": 5,
+    "overview": "Two or three sentences on the overall picture of the sector this quarter.",
+    "trends":        [{ "text": "...", "companies": ["AWFIS Space Solutions Ltd", "Smartworks Coworking Spaces Ltd"] }],
+    "tailwinds":     [{ "text": "...", "companies": ["..."] }],
+    "headwinds":     [{ "text": "...", "companies": ["..."] }],
+    "opportunities": [{ "text": "...", "companies": ["..."] }],
+    "risks":         [{ "text": "...", "companies": ["..."] }],
+    "insights":      [{ "text": "...", "companies": ["..."] }]
+  }
+]
+```
+
+- `callsCovered` is the number of the sector's companies with a verified entry for that quarter. The site shows it as "Based on N of M company calls".
+- Each item's `companies` lists the managements (exact names from the `companies` array) that raised the point. The site shows it as "4 of 5 managements". List a point under trends, tailwinds or headwinds only when **at least half** of the covered companies raised it; a point raised by fewer belongs under `insights`, `opportunities` or `risks` and should say whose view it is.
+- Aim for 2–4 items per category. Empty categories can be left out. No item may contain a figure or claim that is not in one of the listed companies' entries or calls.
+- `overview` should state the sector's direction plainly (improving, steady, slowing, mixed) and why. It should be consistent with the company tones.
+
 ## Procedure for each sector
 
 1. **Inventory.** Match every name in the JSON `companies` array to its symbol and prior source entry. Check aliases and name changes; do not infer that a similarly named filing belongs to the company.
@@ -87,7 +113,8 @@ Pilot the process on Co-Working (five companies), including the source register,
 3. **Read and extract.** Read the full call, including Q&A. Capture quarterly revenue, profitability, margins, business-specific operating metrics, management's explicit targets, changes to guidance, demand/risk commentary, and attributable verbatim quotes. Note the PDF page for each material claim in the research notes so numbers and quotes can be checked. Label calculated figures as calculations and check their formula and units against the underlying filing.
 4. **Compare prior guidance.** Compare Q1 FY27 promises with Q2 actuals only when timing and metric definitions match. Mark `met`, `exceeded`, `partial`, or `missed` with a concise factual basis; leave untestable or full-year goals out of the delivery tracker until they can be assessed. State the old and new values when management reiterated, raised, lowered, or withdrew guidance.
 5. **Write the sector JSON.** Prepend one Q2 FY27 object per verified company using the current schema. Populate `metrics` (with `valueNum` and `yoyPct`), `fyPerformance`, `guidanceTracking`, `guidance` or `outlook`, `whatChanged`, `risks`, `highlights`, `quote`, `quotePerson`, and `asOf` as supported. Set `tone` using the rubric above. Do not carry Q1 wording or figures into Q2. Use `hasNumericGuidance: false` and a sourced outlook when no numerical guidance was given.
-6. **Validate the sector.** Run `python3 scripts/validate_data.py --quarter Q2FY27`; it checks JSON parsing, exact company-key matches, one entry per quarter, newest-first history, and the new fields. Then check by hand: source-file existence, quote accuracy, arithmetic/units, and whether all claims belong to Q2. Open the sector in the local site and inspect company cards, detail pages, the What changed and Risks sections, guidance status, sorting, and quarter tabs.
+6. **Write the sector summary.** Once every available Q2 call in the sector has an entry, prepend the Q2 FY27 `sectorSummary` object following the rules above. Re-count each item's companies against the entries.
+7. **Validate the sector.** Run `python3 scripts/validate_data.py --quarter Q2FY27`; it checks JSON parsing, exact company-key matches, one entry per quarter, newest-first history, and the new fields. Then check by hand: source-file existence, quote accuracy, arithmetic/units, and whether all claims belong to Q2. Open the sector in the local site and inspect company cards, detail pages, the sector summary, the What changed and Risks sections, guidance status, sorting, and quarter tabs.
 
 ## Completion and release
 

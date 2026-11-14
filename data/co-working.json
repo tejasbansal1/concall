@@ -12,8 +12,182 @@
     "Smartworks Coworking Spaces Ltd",
     "Wework India Management Ltd"
   ],
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 5,
+      "overview": "All five operators described continued enterprise and GCC demand, with revenue growing across the group. Smartworks raised its FY27 revenue-growth target, while EFC’s Design & Build recovery and new-center occupancy remain important H2 execution tests.",
+      "trends": [
+        {
+          "text": "Enterprise and GCC demand remained a recurring source of leasing and workspace growth.",
+          "companies": [
+            "AWFIS Space Solutions Ltd",
+            "EFC (I) Ltd",
+            "Indiqube Spaces Ltd",
+            "Smartworks Coworking Spaces Ltd",
+            "Wework India Management Ltd"
+          ]
+        },
+        {
+          "text": "Operators continued to add or sign space and seats ahead of future revenue recognition.",
+          "companies": [
+            "AWFIS Space Solutions Ltd",
+            "Indiqube Spaces Ltd",
+            "Smartworks Coworking Spaces Ltd",
+            "Wework India Management Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Cross-sell, value-added services, fit-out or furniture offerings broadened revenue beyond core desk rentals.",
+          "companies": [
+            "AWFIS Space Solutions Ltd",
+            "EFC (I) Ltd",
+            "Indiqube Spaces Ltd",
+            "Smartworks Coworking Spaces Ltd",
+            "Wework India Management Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Recently added capacity requires occupancy and billing to ramp, so near-term margins or blended occupancy can fluctuate.",
+          "companies": [
+            "AWFIS Space Solutions Ltd",
+            "Indiqube Spaces Ltd",
+            "Smartworks Coworking Spaces Ltd",
+            "Wework India Management Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Larger enterprise and GCC clients are supporting premium or multi-city managed-workspace formats.",
+          "companies": [
+            "AWFIS Space Solutions Ltd",
+            "Indiqube Spaces Ltd",
+            "Smartworks Coworking Spaces Ltd",
+            "Wework India Management Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Expansion and fit-out spending precede revenue, making project timing, working capital and cash conversion key to H2 delivery.",
+          "companies": [
+            "AWFIS Space Solutions Ltd",
+            "EFC (I) Ltd",
+            "Indiqube Spaces Ltd",
+            "Smartworks Coworking Spaces Ltd",
+            "Wework India Management Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Smartworks raised its FY27 revenue-growth range to 33–35% from 28–30%.",
+          "companies": [
+            "Smartworks Coworking Spaces Ltd"
+          ]
+        },
+        {
+          "text": "EFC reaffirmed 50–60% FY27 Design & Build growth despite only about 17% H1 growth, leaving a pronounced H2 delivery requirement.",
+          "companies": [
+            "EFC (I) Ltd"
+          ]
+        }
+      ]
+    }
+  ],
   "concall": {
     "AWFIS Space Solutions Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Normalized Revenue",
+            "value": "₹451 Cr",
+            "change": "+26% YoY",
+            "positive": 1,
+            "valueNum": 451,
+            "yoyPct": 26
+          },
+          {
+            "label": "Cash EBITDA",
+            "value": "₹49 Cr",
+            "change": "+45% YoY; 10.8% margin",
+            "positive": 1,
+            "valueNum": 49,
+            "yoyPct": 45
+          },
+          {
+            "label": "Reported Revenue",
+            "value": "₹439 Cr",
+            "change": "+20% YoY",
+            "positive": 1,
+            "valueNum": 439,
+            "yoyPct": 20
+          },
+          {
+            "label": "Mature Center Occupancy",
+            "value": "84.1%",
+            "change": "vs 83.0% in Q1",
+            "positive": 1,
+            "valueNum": 84.1,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 reported revenue was ₹439 Cr (+20% YoY); normalized revenue was ₹451 Cr (+26% YoY), reflecting Ind AS 116 finance-lease timing.",
+          "Q2 reported EBITDA was ₹174 Cr (+31%); adjusted cash EBITDA was ₹49 Cr (+45%), with a 10.8% margin, up 140 bps YoY.",
+          "H1 reported revenue was ₹864 Cr (+23%); normalized revenue was ₹888 Cr (+30%). H1 cash EBITDA was ₹93 Cr (+40%) at 10.5% margin.",
+          "H1 normalized operating cash flow was ₹100 Cr (1.08x cash EBITDA); net cash position was ₹73 Cr, with net debt-to-equity at -0.12x.",
+          "Co-working revenue rose 31% to ₹376 Cr in Q2 and 34% to ₹740 Cr in H1; Transform revenue was ₹75 Cr in Q2 and ₹149 Cr in H1."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Gross Seat Additions",
+            "value": "22,000-25,000; operational seats expected above 174,000 at year-end after ~5,500 closures"
+          },
+          {
+            "metric": "FY27 Co-working Revenue Growth",
+            "value": "23-25%"
+          },
+          {
+            "metric": "FY27 Transform Revenue Growth",
+            "value": "Around 20%; about ₹300+ Cr revenue target"
+          },
+          {
+            "metric": "FY27 Total Revenue / Cash EBITDA",
+            "value": "Revenue above ₹1,800 Cr; cash EBITDA ₹190-200 Cr"
+          },
+          {
+            "metric": "Cash EBITDA Margin",
+            "value": "Q4 around 11.5%; March exit around 12%; management described 12% as FY28 floor"
+          }
+        ],
+        "highlights": [
+          "Operational supply reached ~174,000 seats across 254 centers; signed supply including LOIs was ~188,000 seats. Q2 added ~7,000 gross seats and exited ~2,200.",
+          "Blended occupancy improved to 76.2%; centers open over 12 months reached 84.1%. Gold and Elite footprint rose to 39 centers, with 33,000+ premium seats.",
+          "GCCs contributed ~24% of rental revenue. Awfis cited a Chennai GCC mandate for 1,000+ FTEs and an e-commerce client that expanded from 100 seats to 2,000 FTEs.",
+          "Transform was 93% third-party revenue; its order book and advance pipeline were ₹220 Cr. Quarterly revenue is milestone-dependent, so H1/order-book view is more informative.",
+          "About 57-58% of the ~3,000 seats vacated by an enterprise client were sold or committed; management expected 55-60% filled with revenue by December and said the balance pipeline was strong."
+        ],
+        "quote": "“On profitability, we expect full-year cash EBITDA of INR 190 crores to INR 200 crores, with the second half stronger than the first as occupancy at recently launched centers continues to build and the premium cohort matures.”",
+        "quotePerson": "Amit Ramani, Chairman and Managing Director",
+        "asOf": "Nov 2026",
+        "whatChanged": "Co-working demand and cash EBITDA strengthened in Q2, while project-timed Transform growth slowed; management reiterated its FY27 targets.",
+        "risks": [
+          "Transform revenue depends on project-delivery milestones and grew only 16% in H1 against management’s around 20% FY27 ambition.",
+          "Recently opened centers need to ramp occupancy, and about 3,000 seats vacated by a large enterprise client were still being refilled."
+        ],
+        "performanceLabel": "Q2 & H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -128,6 +302,75 @@
     ],
     "EFC (I) Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from Operations",
+            "value": "₹332 Cr",
+            "change": "+30% YoY",
+            "positive": 1,
+            "valueNum": 332,
+            "yoyPct": 30
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹134 Cr",
+            "change": "+21% YoY; ~40% margin",
+            "positive": 1,
+            "valueNum": 134,
+            "yoyPct": 21
+          },
+          {
+            "label": "PAT",
+            "value": "₹77 Cr",
+            "change": "+36% YoY",
+            "positive": 1,
+            "valueNum": 77,
+            "yoyPct": 36
+          },
+          {
+            "label": "H1 PAT",
+            "value": "₹148 Cr",
+            "change": "+43% YoY",
+            "positive": 1,
+            "valueNum": 148,
+            "yoyPct": 43
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue from operations was ~₹332 Cr (+30% YoY), EBITDA ~₹134 Cr (+21%) and PAT ~₹77 Cr (+36%).",
+          "H1 consolidated revenue from operations was ₹614.90 Cr (+30% YoY, versus ₹474.21 Cr); EBITDA was ~₹257 Cr (+20%) and PAT ~₹148 Cr (+43%).",
+          "Q2 Leasing revenue was ~₹168 Cr (+30%); Design & Build ~₹129 Cr (+16%); Furniture ~₹35 Cr (+149%).",
+          "H1 Leasing revenue was ~₹321 Cr (+28%); Design & Build ~₹230 Cr (+17%); Furniture ~₹63 Cr (+137%). D&B and Furniture growth rates compare with smaller bases and project timing matters."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Design & Build Growth",
+            "value": "50-60% YoY target; management said >₹300 Cr order book supports target"
+          }
+        ],
+        "outlook": "Management expects annualized D&B growth of 50-60% in FY27, supported by a >₹300 Cr order book, while emphasizing project execution, external opportunities, collections and working-capital discipline. The transcript also gives 20-22% consolidated and various segment EBITDA margin figures, but their basis is not specified and they conflict with the reported 40% Q2 / 42% H1 margins; those margin figures are excluded from the draft guidance.",
+        "highlights": [
+          "The three verticals grew, but D&B is project-driven and quarterly revenue varies by execution milestones; H1 growth remained below the stated full-year 50-60% target.",
+          "Management cited D&B order book above ₹300 Cr in Q&A as support for its FY27 target; earlier prepared remarks described D&B as an external, growing business.",
+          "Ultrafresh acquisition adds modular home-furniture products, North India manufacturing and 160+ customer touchpoints; management emphasized disciplined integration.",
+          "Proposed restructuring would separate leased managed-office operations from owned property activities; implementation is pending regulatory approvals.",
+          "Risks highlighted by management include working capital needs, execution and collections, project timing, inventory/capacity utilization, and higher material/service costs in Q2."
+        ],
+        "quote": "“Absolutely, we are on target to achieve the annual target that we have set for our Design & Build vertical.”",
+        "quotePerson": "Nikhil Bhuta, Whole-Time Director",
+        "asOf": "Nov 2026",
+        "whatChanged": "H1 Design & Build growth was about 17% against the FY27 50–60% target, which management nevertheless reaffirmed on its order book.",
+        "risks": [
+          "Design & Build delivery is concentrated in H2 and depends on conversion of the ₹300 Cr-plus order book.",
+          "Project collections and working capital require discipline as Furniture capacity and the Ultrafresh acquisition are integrated."
+        ],
+        "performanceLabel": "Q2 & H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -216,6 +459,87 @@
       }
     ],
     "Indiqube Spaces Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹475 Cr",
+            "change": "+34% YoY",
+            "positive": 1,
+            "valueNum": 475,
+            "yoyPct": 34
+          },
+          {
+            "label": "EBITDA (I-GAAP)",
+            "value": "₹105 Cr",
+            "change": "+40% YoY",
+            "positive": 1,
+            "valueNum": 105,
+            "yoyPct": 40
+          },
+          {
+            "label": "PAT",
+            "value": "₹57 Cr",
+            "change": "+63% YoY",
+            "positive": 1,
+            "valueNum": 57,
+            "yoyPct": 63
+          },
+          {
+            "label": "H1 Revenue",
+            "value": "₹904 Cr",
+            "change": "+35% YoY",
+            "positive": 1,
+            "valueNum": 904,
+            "yoyPct": 35
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ~₹475 Cr (+34% YoY), EBITDA on I-GAAP basis ~₹105 Cr (+40%) and PAT ~₹57 Cr (+63%).",
+          "H1 revenue was ~₹904 Cr (+35%); PAT was ~₹92 Cr (+66%). H1 VAS revenue reached ₹154 Cr (+74%), about 17% of operating revenue versus 13% a year earlier.",
+          "Steady-state occupancy improved to 91% from 89% a year ago; management attributed profit growth to occupancy, lower finance costs, VAS margin and operating leverage.",
+          "About 30 MW of solar capacity was operational; H1 solar revenue was ~₹15 Cr on ~₹46 Cr investment. Management said another 30 MW was being installed."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Rent-Paying Area Addition",
+            "value": "Close to 2 mn sq ft (~44,000 seats)"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "19-21%; management estimated ₹380-400 Cr full-year EBITDA"
+          },
+          {
+            "metric": "FY28 Rent-Paying Area Addition",
+            "value": "Similar scale to FY27 (management estimate); ~3.87 mn sq ft / ~85,000 seats of near-term headroom expected over 12-15 months"
+          },
+          {
+            "metric": "Solar Expansion",
+            "value": "~30 MW underway (~₹100 Cr capex); similar ~₹100 Cr investment planned next year"
+          }
+        ],
+        "highlights": [
+          "Platform had 10.86 mn sq ft across 138 centers, 241,000 seats and 884 clients; signed portfolio was ~10.86 mn sq ft and rent-yielding area ~7.05 mn sq ft.",
+          "Company cited ~3.8 mn sq ft of headroom (~85,000 seats), including ~2.67 mn sq ft with signed LOIs for operations over 12-18 months.",
+          "54% of revenue came from GCCs; clients using multiple IndiQube centers accounted for 41% of revenue. 65% of occupied space was taken by 300+ seat clients.",
+          "Management said annual attrition was ~10%, with roughly 90% of customers renewing; renewals typically retained ~6% escalation, although some received reduced escalations or discounts.",
+          "SaiEdge co-development/property investment was described as a pilot in a supply-constrained Bengaluru micro-market; it is early-stage and the site is about three years from readiness."
+        ],
+        "outlook": "Management prioritized disciplined growth, customer services and solar expansion while keeping VAS margins range-bound at roughly 18-20%; growth remains the priority. Solar capacity expansion and SaiEdge property development require material capital.",
+        "quote": "“We will be range bound. Our EBITDA will be between, I would say, 19% to 21% in that range is the full year guidance that we see.”",
+        "quotePerson": "Rishi Das, Chairman, Executive Director and CEO",
+        "asOf": "Nov 2026",
+        "whatChanged": "Q2 revenue grew 34% and mature-center occupancy reached 91%, but most of the planned FY27 rent-paying area addition remains for H2.",
+        "risks": [
+          "Only about 0.36 mn sq ft of the roughly 2 mn sq ft FY27 rent-paying area goal had been added by H1, leaving execution back-loaded.",
+          "Some customer renewals require lower escalations or discounts, and solar and SaiEdge expansion require capital before returns are proven."
+        ],
+        "performanceLabel": "Q2 & H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -332,6 +656,90 @@
     ],
     "Smartworks Coworking Spaces Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue from Operations",
+            "value": "₹591 Cr",
+            "change": "+39% YoY; +8% QoQ",
+            "positive": 1,
+            "valueNum": 591,
+            "yoyPct": 39
+          },
+          {
+            "label": "Normalized EBITDA",
+            "value": "₹117 Cr",
+            "change": "+68% YoY; 19.8% margin",
+            "positive": 1,
+            "valueNum": 117,
+            "yoyPct": 68
+          },
+          {
+            "label": "Normalized PAT",
+            "value": "₹43 Cr",
+            "change": "+136% YoY",
+            "positive": 1,
+            "valueNum": 43,
+            "yoyPct": 136
+          },
+          {
+            "label": "Reported PAT",
+            "value": "₹26 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 26,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue from operations was ₹591 Cr (+39% YoY); normalized EBITDA ₹117 Cr (+68%) at 19.8% margin, and normalized PAT ₹43 Cr (+136%). Reported PAT was ₹26 Cr.",
+          "H1 revenue grew 41% YoY; normalized EBITDA margin was 19.7%. H1 normalized operating cash flow was ₹202 Cr, and free cash flow was negative ~₹104 Cr after growth capex.",
+          "Occupancy was ~81% overall (86% committed); mature centers were 88% occupied and 91% committed. New campuses were 48% committed.",
+          "Capex was ~₹307 Cr in H1; net debt was ~₹83 Cr. Annualized normalized ROCE was 21.6%, up 800 bps YoY."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "33-35% (raised from 28-30%)"
+          },
+          {
+            "metric": "FY27 Normalized EBITDA Margin",
+            "value": "19-20%, trending toward upper end"
+          },
+          {
+            "metric": "Operational Area by March 2027",
+            "value": "~13 mn sq ft (more than 12.5 mn sq ft)"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹550-600 Cr"
+          },
+          {
+            "metric": "Annual Area Additions",
+            "value": "2.5-3 mn sq ft"
+          }
+        ],
+        "highlights": [
+          "Platform stood at 17.5 mn sq ft across 71 centers; 10.9 mn sq ft across 58 centers was operational. FY27 supply was secured and FY28 supply was largely in hand.",
+          "Contracted rental revenue reached ₹5,800 Cr; client lock-ins covered landlord rent commitments about 2x. Large enterprises generated 91% of rental revenue; GCCs 22%.",
+          "In H2, about 45,000 seats are expected to open, mainly Eastside and East Bridge. Management warned blended occupancy may temporarily fall below 80% as this capacity ramps.",
+          "Free cash flow was negative in H1 as capex and security deposits preceded revenue from new centers; management expected cash conversion to recover as campuses open and mature.",
+          "FY27 figures are management normalized measures; reported PAT differs from normalized PAT. Transcript included correction notes for revenue-growth guidance and borrowing cost."
+        ],
+        "quote": "“On the back of this, we are raising our FY '27 revenue growth guidance to 33% to 35% from 28% to 30%.”",
+        "quotePerson": "Neetish Sarda, Managing Director",
+        "asOf": "Oct 2026",
+        "whatChanged": "Management raised FY27 revenue growth guidance from 28–30% to 33–35% after 41% H1 growth while keeping its 19–20% normalized EBITDA margin range.",
+        "risks": [
+          "Large H2 campus openings may temporarily pull blended occupancy below 80% while new space fills.",
+          "H1 free cash flow was negative after growth capex and deposits; cash conversion depends on new campuses starting to bill."
+        ],
+        "performanceLabel": "Q2 & H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -445,6 +853,87 @@
       }
     ],
     "Wework India Management Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹768.7 Cr",
+            "change": "+31.6% YoY; +10.1% QoQ",
+            "positive": 1,
+            "valueNum": 768.7,
+            "yoyPct": 31.6
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹162.9 Cr",
+            "change": "+37.6% YoY; 21.2% margin",
+            "positive": 1,
+            "valueNum": 162.9,
+            "yoyPct": 37.6
+          },
+          {
+            "label": "PAT (I-GAAP equivalent)",
+            "value": "₹65.8 Cr",
+            "change": "+67.4% YoY",
+            "positive": 1,
+            "valueNum": 65.8,
+            "yoyPct": 67.4
+          },
+          {
+            "label": "Occupancy",
+            "value": "83.7%",
+            "change": "+357 bps YoY",
+            "positive": 1,
+            "valueNum": 83.7,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ~₹768.7 Cr (+31.6% YoY); EBITDA ~₹162.9 Cr (+37.6%) and I-GAAP-equivalent PAT ~₹65.8 Cr (+67.4%). Reported Ind AS PAT was ₹20.5 Cr.",
+          "H1 revenue was ~₹1,466.7 Cr (+30%); EBITDA ₹301.2 Cr (+50.6%) and PAT ₹119 Cr (+149.5%). H1 ROCE was 31.1%.",
+          "Q2 free cash flow from operations was ₹237.7 Cr; H1 was ₹379.8 Cr (+157%). Q2 capex was ₹175.8 Cr; H1 capex ₹363.8 Cr.",
+          "VAS and digital together generated ₹108.8 Cr in Q2 (+38%); contracted core revenue was ~₹3,843 Cr and average member commitment term ~28 months."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Desk Capacity",
+            "value": "150,000-155,000 desks by March 2027"
+          },
+          {
+            "metric": "FY27 EBITDA Growth",
+            "value": "20%+ (reaffirmed as unchanged in Q&A)"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "19-20% through expansion; management did not give a separate FY28 margin percentage"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹500-600 Cr (existing guidance referenced in Q&A)"
+          }
+        ],
+        "highlights": [
+          "Q2 opened ~11,700 desks, taking capacity to 145,300 desks across 85 centers; occupancy was 83.7%, with mature centers at 87.7% and growth centers at 64.8%.",
+          "Q2 added nearly 30,800 desks and 29,800 members YoY; managed offices and larger format spaces supported revenue-to-rent at a record 2.7x.",
+          "Locked-in core revenue grew ~66% to ₹3,843 Cr versus ₹1,421 Cr of locked-in rent (~2.7x coverage); renewal rate was ~80-85% in H1.",
+          "Net cash was ~₹23 Cr at September-end versus net debt ~₹310 Cr a year earlier; however, management expects additional FY28 expansion capex and investment in adjacent businesses.",
+          "The call's main financial headline is I-GAAP-equivalent; reported Ind AS PAT was only ₹20.5 Cr due to lease accounting and brokerage differences."
+        ],
+        "outlook": "Management expects 150,000-155,000 desks by March 2027, with roughly 47,000 additional desks in signed leases/fit-out or LOIs. It intends to expand FY28 capacity beyond FY27 and may allocate cash to adjacent businesses; no specific FY28 margin target was given.",
+        "quote": "“We expect to reach about 150,000 to 155,000 by March of 2027 and on the way to about 190,000 to 200,000 seats, with supply for FY28 and FY29 already under negotiation.”",
+        "quotePerson": "Karan Virwani, Managing Director and CEO",
+        "asOf": "Oct 2026",
+        "whatChanged": "Capacity rose to 145,300 desks and Q2 EBITDA margin reached 21.2%, putting the company closer to its FY27 desk target and above its earlier margin range.",
+        "risks": [
+          "The company is in a heavy capex cycle, with future cash use dependent on the timing and economics of managed-office openings.",
+          "I-GAAP-equivalent PAT and statutory Ind AS PAT differ materially because of lease-accounting and brokerage treatment."
+        ],
+        "performanceLabel": "Q2 & H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,

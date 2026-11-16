@@ -19,6 +19,84 @@
   "concall": {
     "Indian Hotels Company Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consolidated operating revenue",
+            "value": "₹2,484 Cr",
+            "change": "+22% YoY",
+            "positive": 1,
+            "valueNum": 2484,
+            "yoyPct": 22
+          },
+          {
+            "label": "Consolidated operating EBITDA",
+            "value": "₹706 Cr",
+            "change": "+24% YoY; 28.4% margin, +50 bps",
+            "positive": 1,
+            "valueNum": 706,
+            "yoyPct": 24
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹349 Cr",
+            "change": "+23% YoY",
+            "positive": 1,
+            "valueNum": 349,
+            "yoyPct": 23
+          },
+          {
+            "label": "Standalone RevPAR growth",
+            "value": "28%",
+            "change": "YoY",
+            "positive": 1,
+            "valueNum": 28,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 / H1 FY27",
+        "fyPerformance": [
+          "Q2 consolidated operating revenue grew 22% to ₹2,484 Cr, operating EBITDA rose 24% to ₹706 Cr at 28.4% margin (+50 bps), and PAT increased 23% to ₹349 Cr.",
+          "Consolidated hotel segment revenue and EBITDA grew 25% and 30%; standalone operating revenue was ₹1,336 Cr (+26%) and operating EBITDA ₹520 Cr (+40%), with margin up 400 bps to 38.9%.",
+          "Standalone RevPAR grew 28% and consolidated domestic hotel RevPAR 25%; occupancy rose to 82% from 75% a year earlier. Taj Palace Delhi room revenue increased 132% and monthly revenue topped ₹100 Cr in September.",
+          "H1 saw 47 hotels signed and 20 opened; the portfolio reached 670 hotels with over 69,000 keys in operation or development, including 390 operating hotels. Gross cash reserves exceeded ₹4,350 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated revenue growth",
+            "value": "15%–17%, raised from 12%–14%"
+          },
+          {
+            "metric": "FY27 hotel segment revenue growth",
+            "value": "17%–19%"
+          },
+          {
+            "metric": "FY27 hotel openings",
+            "value": "50 for the full year; 30 expected in H2"
+          },
+          {
+            "metric": "Management fee income growth",
+            "value": "High-teens CAGR; management said a separate outlook may be updated next quarter"
+          }
+        ],
+        "highlights": [
+          "The company said it delivered its 18th consecutive record quarter despite West Asia-related airline and travel disruption; growth was supported by domestic demand and MICE.",
+          "Ginger revenue reached ₹193 Cr (+25%) at 40% EBITDA margin; Ginger had 100 operating hotels and was on track for 150 by March 2027.",
+          "Management fee income grew 25% to ₹156 Cr, supported by managed room inventory (+25%), RevPAR, technical fees and new brand fees.",
+          "The proposed Oriental Hotels merger is expected to take effect no earlier than 1 April 2027; management estimated a 6%–7% uplift to standalone operating revenue in FY28, separate from FY27 guidance."
+        ],
+        "whatChanged": "IHCL raised FY27 consolidated revenue growth guidance from 12–14% to 15–17% and added a 17–19% hotel segment range; Q2 consolidated revenue grew 22%, with hotel segment revenue up 25%.",
+        "risks": [
+          "TajSATS airline catering faced flight-capacity cuts and geopolitical disruption; management called FY27 a consolidation year and said non-aviation catering is lower margin.",
+          "International businesses remained exposed to West Asia travel disruption and higher fuel/power costs; London also faced the end of a property-tax waiver, while management said H2 trends were improving.",
+          "The 50-hotel FY27 opening plan still requires 30 openings in H2; Oriental Hotels merger benefits are excluded from FY27 and depend on completion in FY28."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -296,6 +374,78 @@
     ],
     "Leela Palaces Hotels & Resorts Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Operating Revenue",
+            "value": "₹411.9 Cr",
+            "valueNum": 411.9,
+            "change": "+33% YoY",
+            "yoyPct": 33,
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹187.7 Cr",
+            "valueNum": 187.7,
+            "change": "+36% YoY; 46% margin",
+            "yoyPct": 36,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹94.6 Cr",
+            "valueNum": 94.6,
+            "change": "+27% YoY",
+            "yoyPct": 27,
+            "positive": 1
+          },
+          {
+            "label": "RevPAR Growth",
+            "value": "+30%",
+            "valueNum": 30,
+            "change": "Owned domestic hotels, including Coorg",
+            "yoyPct": 30,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Q2 extended Q1's strong operating trend: H1 revenue rose 30% and EBITDA 38%, materially ahead of the original FY27 guidance; management retained a high-teens H2 EBITDA growth outlook and expects FY27 to exceed its original mid-teens EBITDA growth plan.",
+        "risks": [
+          "BRICS compression materially benefited the New Delhi palace in Q2; management said portfolio ADR growth would still have been in the high teens excluding BRICS, but the event adds a difficult comparison base.",
+          "The 25%-owned Dubai hotel was operationally around break-even and occupancy improved, but ADR remained weak due to lower international demand; Leela expects to take over and renovate for about a year from early FY28.",
+          "BKC mixed-use development requires shareholder approval for additional FSI investment; Leela's eventual divestment of its office stake and retention of a 50% hotel stake remain subject to approvals."
+        ],
+        "performanceLabel": "Q2 / H1 FY27",
+        "fyPerformance": [
+          "Q2 operating revenue was ₹411.9 Cr (+33%); room revenue ₹204.1 Cr (+39%), F&B ₹145.6 Cr (+21%), management fees ₹28.9 Cr (+76%) and other operating services ₹33.3 Cr (+25%).",
+          "Q2 operating EBITDA was ₹187.7 Cr (+36%) at a 46% margin, up 118 bps; PAT was ₹94.6 Cr (+27%).",
+          "H1 operating revenue grew 30%, operating EBITDA 38% with 246 bps margin expansion, and PAT 72% to ₹143.3 Cr.",
+          "Q2 owned domestic hotels including Coorg recorded 30% RevPAR growth, led by 30% ADR growth to ₹25,046; India headline occupancy was 69%, while same-store occupancy exceeded 70%. H1 city hotel occupancy was 74%, versus 69% a year earlier.",
+          "Net debt at September 2026 was ₹1,215 Cr; net debt/LTM EBITDA improved to 1.4x from 1.6x in March 2026."
+        ],
+        "guidance": [
+          {
+            "metric": "Q3 FY27 RevPAR growth",
+            "value": "Double-digit growth expected"
+          },
+          {
+            "metric": "H2 FY27 EBITDA growth",
+            "value": "Mid-to-high teens; management expects FY27 growth to be significantly better than the original mid-teens annual outlook without giving a replacement full-year range"
+          }
+        ],
+        "highlights": [
+          "Q2 was the second consecutive quarter of 35%+ operating EBITDA growth; all revenue streams grew more than 20%.",
+          "H1 RevPAR growth at owned domestic hotels was broad-based; city hotels grew 26% and resorts 18%, with BRICS concentrated in New Delhi.",
+          "52% of H1 revenue came from beyond rooms; H1 brand website contribution to room revenue rose to 15.1% from 10.5% a year earlier.",
+          "More than 1,000 keys are under development. The managed and owned portfolio is over 5,200 keys targeted by FY30, including about 2,600 owned keys."
+        ],
+        "outlook": "Management maintained double-digit FY27 RevPAR and high-teens EBITDA growth expectations for H2, while stating FY27 EBITDA growth should exceed the original mid-teens guidance. Open FY27/FY28 pipeline goals are not assessed as met or missed.",
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -445,6 +595,83 @@
       }
     ],
     "Lemon Tree Hotels Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue (Q2)",
+            "value": "₹363.8 Cr",
+            "change": "+18% YoY",
+            "positive": 1,
+            "valueNum": 363.8,
+            "yoyPct": 18
+          },
+          {
+            "label": "Net EBITDA (Q2)",
+            "value": "₹162.2 Cr",
+            "change": "+22% YoY",
+            "positive": 1,
+            "valueNum": 162.2,
+            "yoyPct": 22
+          },
+          {
+            "label": "PAT (Q2)",
+            "value": "₹79.8 Cr",
+            "change": "+90% YoY",
+            "positive": 1,
+            "valueNum": 79.8,
+            "yoyPct": 90
+          },
+          {
+            "label": "RevPAR (Q2)",
+            "value": "₹5,137",
+            "change": "+18% YoY",
+            "positive": 1,
+            "valueNum": 5137,
+            "yoyPct": 18
+          }
+        ],
+        "fyPerformance": [
+          "Gross ARR was ₹6,751 (+8% YoY); occupancy was 76.1%, up 633 bps, producing RevPAR growth of 18% to ₹5,137",
+          "Reported net EBITDA margin was 44.6%; excluding GST and SAR provision impacts, net EBITDA was ₹173.7 Cr at a 47.7% margin (+474 bps YoY)",
+          "Cash profit grew 28% to ₹97.2 Cr; gross debt at 30 September 2026 was ₹1,429.2 Cr, down 11% YoY, and cost of debt was 7.44% (-28 bps YoY)",
+          "Q2 gross network inventory was 24,061 rooms across 285 hotels; 12,131 rooms across 138 hotels were operational",
+          "H1 revenue was ₹710.6 Cr (+14%), net EBITDA ₹314 Cr (+14%) and PAT ₹137.1 Cr (+52%)"
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 managed/franchised gross openings",
+            "value": "Around 2,000 rooms for FY27; management said it remained on track. 857 rooms opened in H1 (334 in Q1 and 523 in Q2); annual target remains open."
+          },
+          {
+            "metric": "Fleur portfolio expansion",
+            "value": "About 2,500 rooms targeted across operating, brownfield and greenfield assets by listing (expected in calendar 2027); operations targeted by FY30–FY31, subject to diligence and construction."
+          },
+          {
+            "metric": "Bandra East hotel",
+            "value": "Approximately 172 rooms, opening targeted in FY30; opening ARR underwriting around ₹12,000 and 12–13% ROCE expected at opening (management estimate)."
+          }
+        ],
+        "highlights": [
+          "Owned hotels revenue rose 15% YoY to ₹337 Cr, with a 53% hotel EBITDAR margin",
+          "Keys RevPAR rose 29% to ₹3,109, with occupancy up 976 bps to 69.7% and ARR up 11% to ₹4,460; Keys EBITDAR margin was 50%",
+          "Opened 8 managed/franchised hotels with 523 rooms and signed 11 with 825 rooms; combined operational and pipeline inventory reached 24,061 rooms across 285 hotels",
+          "Fleur's 90-room Aurika Shimla was scheduled for Q3 FY27; the 165-room Aurika Shillong for FY28 and 47-room Aurika Varanasi for FY29",
+          "Demerger approvals from CCI, stock exchanges and SEBI were received; the NCLT process had begun, with Fleur listing expected in calendar 2027"
+        ],
+        "whatChanged": "Compared with Q1's occupancy-led recovery (ARR +2%, occupancy +314 bps and net EBITDA +7%), Q2 combined 8% ARR growth with 633 bps higher occupancy, lifting RevPAR 18% and net EBITDA 22%; management described demand as better but corporate travel as still muted.",
+        "risks": [
+          "Corporate and discretionary travel remained tepid amid geopolitical, oil-price and inflation uncertainty; management lacked clear visibility on H2 demand and expected to reassess after Q3.",
+          "The FY27 opening target is gross, not net: compliance-related deflagging and the Gurgaon lease exit reduced reported room counts; DDA/Ridge approvals also leave Aurika Nehru Place timing uncertain (now about 610 rooms, CY31 target).",
+          "Fleur's acquisition and development plan depends on diligence, approvals and construction timelines; the Maldives acquisition is on hold after a local-currency revenue rule made it unviable."
+        ],
+        "outlook": "Management expects H2 to contribute about 55% of annual revenue and 60% of EBITDA, but said corporate demand remains muted and it is too early to assess trading after Diwali. No FY27 annual target is yet due for a met/missed verdict.",
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -596,6 +823,90 @@
     ],
     "Samhi Hotels Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹342.7 Cr",
+            "valueNum": 342.7,
+            "change": "+15.6% YoY",
+            "yoyPct": 15.6,
+            "positive": 1
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹123.8 Cr",
+            "valueNum": 123.8,
+            "change": "+12% reported; +21.3% comparable before GST effect",
+            "yoyPct": 12,
+            "positive": 1
+          },
+          {
+            "label": "Same-store Revenue Growth",
+            "value": "+12.6%",
+            "valueNum": 12.6,
+            "change": "Above 9–11% long-term guidance",
+            "yoyPct": 12.6,
+            "positive": 1
+          },
+          {
+            "label": "Same-store RevPAR Growth",
+            "value": "+14%",
+            "valueNum": 14,
+            "change": "About 9% rate growth; occupancy up 3.6 percentage points",
+            "yoyPct": 14,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Same-store revenue growth accelerated to 12.6% and RevPAR to about 14%, while reported EBITDA growth was 12% after a ₹10 Cr GST input-credit impact; management reiterated 9–11% long-term same-store growth and expects high-teens group growth as new openings ramp.",
+        "risks": [
+          "SAMHI estimates a roughly ₹10 Cr quarterly GST input-credit burden; final government notification and eligible credit scope remained unresolved on the call.",
+          "Net debt was ₹1,458 Cr and 3.1x trailing EBITDA (2.2x after adjusting for capital deployed in growth projects); management expects gradual borrowing-cost increases after repo hikes.",
+          "Management cautioned that Q3/Q4 outcomes remain exposed to external events and volatility; W Hyderabad, Bangalore and Noida projects remain subject to construction and regulatory approvals."
+        ],
+        "performanceLabel": "Q2 / H1 FY27",
+        "fyPerformance": [
+          "Q2 total income was ₹342.7 Cr (+15.6%); consolidated EBITDA was ₹123.8 Cr (+12%) at 36.1% margin.",
+          "Excluding the estimated ₹10 Cr GST regulation effect, comparable EBITDA was about ₹133.8 Cr (+21.3%) at a 39.1% margin; reported and comparable figures use different bases.",
+          "Q2 same-store revenue grew 12.6% and RevPAR about 14%; rates grew about 9%, while occupancy rose 3.6 percentage points to 78.6% from 75%.",
+          "Reported PAT was ₹41.1 Cr, of which ₹33.5 Cr was attributable to SAMHI shareholders; the prior-year quarter included ₹54.1 Cr in exceptional gains, making reported PAT YoY lower.",
+          "Net debt at September 2026 was ₹1,458 Cr, down ₹35 Cr sequentially; cash and equivalents were ₹279 Cr. Net debt/LTM EBITDA was 3.1x, or 2.2x adjusted for growth-project capital deployed."
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term same-store revenue growth",
+            "value": "9–11%; management reaffirmed this range and said Q2 above-range growth does not change the long-term guidance."
+          },
+          {
+            "metric": "Q3/Q4 FY27 same-store RevPAR",
+            "value": "Underwrite about 14–15% growth, driven by 10–11% rate growth with the balance from capacity utilization."
+          },
+          {
+            "metric": "Q3/Q4 FY27 same-store total revenue",
+            "value": "Management indicated about 13–14% growth; group EBITDA growth expected in the high teens as GST comparison normalizes."
+          },
+          {
+            "metric": "Net debt/EBITDA",
+            "value": "Below 3x by FY-end or early next year; management described a further roughly 18-month path from around 3x to 2.5x, assuming stable debt and EBITDA growth"
+          },
+          {
+            "metric": "W Hyderabad",
+            "value": "Expected to open in Q2 FY28; stabilized FY29 revenue about 10% of FY27 income base, with upside potential to about ₹170 Cr."
+          }
+        ],
+        "highlights": [
+          "About 80% of Q2 room nights were domestic; 37% of nights exceeded 90% occupancy, compared with 32% a year earlier.",
+          "Secured pipeline adds about 1,670 rooms and rebrands another 473; upper/upper-upscale share of income is expected to increase from 42% to about 60% by FY30.",
+          "RARE Outdoor Collection pilot is targeted to go live in December; fee-led revenue contribution is expected from Q1 FY28, with ₹15–20 Cr top-line expectation for FY28.",
+          "The company reiterated that annual same-store guidance excludes growth from new openings; management expects overall growth to return to the high teens as inventory comes online."
+        ],
+        "outlook": "Management expects Q3 and Q4 to be stronger sequentially and to maintain roughly 14–15% same-store RevPAR growth, while cautioning that external volatility can affect results. The FY27 deferred-tax asset recognition expectation is non-cash and not operating performance.",
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -746,6 +1057,85 @@
     ],
     "Juniper Hotels Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from Operations",
+            "value": "₹249.5 Cr",
+            "valueNum": 249.5,
+            "change": "+8% YoY",
+            "yoyPct": 8,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹91.4 Cr",
+            "valueNum": 91.4,
+            "change": "+5% YoY",
+            "yoyPct": 5,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹37.2 Cr",
+            "valueNum": 37.2,
+            "change": "+121% YoY",
+            "yoyPct": 121,
+            "positive": 1
+          },
+          {
+            "label": "Average Room Rate",
+            "value": "₹11,514",
+            "valueNum": 11514,
+            "change": "+8.6% YoY; occupancy 75%",
+            "yoyPct": 8.6,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Q2 revenue from operations grew 8% and EBITDA 5%, while H1 EBITDA grew 4%; management reaffirmed FY27 double-digit growth and 42% corporate EBITDA margin and added FY28 revenue estimates for Westin Bengaluru and Novotel Imagicaa.",
+        "risks": [
+          "Management attributed Q2 cost pressure to gas and other HLP inputs, travel-agent commissions, one-time costs and a ₹2 Cr GST input-credit impact; it said HLP gas added about ₹1.5–2 Cr.",
+          "The ₹2,000 Cr five-project development program requires funding and execution; management plans about 25–30% of capex over 18 months and intends not to breach 2.6x debt/EBITDA.",
+          "Novotel Imagicaa is under a binding MOU and consolidation is expected in Q4; the acquisition, renovation and expected rate/top-line uplift remain execution-dependent."
+        ],
+        "performanceLabel": "Q2 / H1 FY27",
+        "fyPerformance": [
+          "Q2 revenue from operations rose 8% to ₹249.5 Cr; total income increased 10% to ₹258.1 Cr.",
+          "Q2 EBITDA was ₹91.4 Cr versus ₹87.3 Cr (+4.7%, rounded to +5%); PAT was ₹37.2 Cr versus ₹16.8 Cr (+121%).",
+          "H1 revenue from operations grew 11% to ₹499 Cr, total income 10% to ₹510 Cr, EBITDA 4% to ₹180 Cr and PAT 173% to ₹70.4 Cr.",
+          "Q2 average room rate was ₹11,514 (+8.6%); occupancy was 75%. Net debt at September 30 was ₹633 Cr (1.4x EBITDA), with gross borrowings ₹703 Cr and cash ₹70 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 growth",
+            "value": "Budgeted double-digit growth; H2 expected to be stronger, with 60% of annual revenue typically earned in H2."
+          },
+          {
+            "metric": "FY27 corporate EBITDA margin",
+            "value": "42% for the full year."
+          },
+          {
+            "metric": "Westin Bengaluru stabilized FY28",
+            "value": "Revenue ₹100–125 Cr; EBITDA margin 38–40%."
+          },
+          {
+            "metric": "Novotel Imagicaa FY28",
+            "value": "Revenue ₹75–80 Cr; operating hotel currently generates about ₹60–65 Cr top line."
+          }
+        ],
+        "highlights": [
+          "Westin Bengaluru's 238-room Phase 1 soft-opened in October; online bookings were to begin December 15, with full Q4 revenue contribution expected.",
+          "Juniper signed a binding MOU in October to acquire the operating 287-key Novotel Imagicaa for about ₹248 Cr (₹80 lakh per key); Q4 consolidation is expected.",
+          "Novotel's later repositioning as an upper-upscale brand is expected by management to improve average rate by about 35% and more than double top line; this is a post-renovation aspiration, not current performance.",
+          "Five greenfield projects have about ₹2,000 Cr indicated investment; the FY30–31 objective remains to double inventory and EBITDA, a multi-year target."
+        ],
+        "outlook": "Management expects stronger H2 and reiterated its FY27 budget for double-digit growth and 42% corporate EBITDA margin. No guidance tracking is recorded because these FY27 targets remain in progress.",
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q4FY26",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -815,6 +1205,84 @@
       }
     ],
     "Chalet Hotels Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Core revenue (ex-residential)",
+            "value": "₹511 Cr",
+            "change": "+11% YoY",
+            "positive": 1,
+            "valueNum": 511,
+            "yoyPct": 11
+          },
+          {
+            "label": "Core EBITDA (ex-residential)",
+            "value": "₹227.4 Cr",
+            "change": "+13% YoY; 45% margin, +110 bps",
+            "positive": 1,
+            "valueNum": 227.4,
+            "yoyPct": 13
+          },
+          {
+            "label": "Hospitality revenue",
+            "value": "₹411.5 Cr",
+            "change": "+8% YoY",
+            "positive": 1,
+            "valueNum": 411.5,
+            "yoyPct": 8
+          },
+          {
+            "label": "Hospitality RevPAR growth",
+            "value": "+7.2%",
+            "change": "YoY; ADR +11.3%",
+            "positive": 1,
+            "valueNum": 7.2,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 / H1 FY27",
+        "fyPerformance": [
+          "Q2 core revenue excluding residential was ₹511 Cr (+11%); core EBITDA was ₹227.4 Cr (+13%) at 45% margin (+110 bps). Consolidated YoY financials are not comparable because Q2FY26 included Koramangala Phase-I residential handovers.",
+          "Hospitality revenue was ₹411.5 Cr (+8%) and EBITDA ₹169.1 Cr (+11%), with 41% margin; RevPAR grew 7.2%, driven by 11.3% ADR growth. Leisure RevPAR grew 34%.",
+          "CRE revenue was ₹90.1 Cr (+22%) and EBITDA ₹75 Cr (+23%); September monthly rental exit run-rate was ₹30 Cr, with 91% occupancy and 95% on available leasable area after a Bangalore LOI.",
+          "H1 core revenue was ₹1,025 Cr (+10%), EBITDA ₹467.4 Cr (+14%) at 46% margin; H1 PAT of ₹302.4 Cr includes a ₹112.5 Cr deferred-tax credit following the move to a 25.17% concessional tax rate. Net debt was ₹2,100 Cr, of which about ₹1,400 Cr related to assets under construction or not yet operational."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27–FY29 hospitality and CRE capex",
+            "value": "₹3,400–3,600 Cr; increased from approximately ₹3,000 Cr after adding two ATHIVA properties"
+          },
+          {
+            "metric": "CRE monthly rental run-rate",
+            "value": "₹32 Cr by March 2027"
+          },
+          {
+            "metric": "Taj at Delhi International Airport",
+            "value": "Entire inventory expected in early FY28; GRAP restrictions put the initial 70-room Q4 FY27 opening at risk"
+          },
+          {
+            "metric": "Portfolio capacity",
+            "value": "5,500 keys and beyond within five years"
+          }
+        ],
+        "highlights": [
+          "The company said Q2 and H1 consolidated YoY comparisons are distorted by Koramangala Phase-I residential revenue in Q2FY26; its discussion uses core Hospitality and CRE results excluding residential.",
+          "Powai's banquet porch is back in service and a 20-room-per-day crew contract has been signed; construction disruption had cost about 100 rooms per day of crew business.",
+          "The Navi Mumbai hotel reopened as ATHIVA Pulse and remains in Marriott's Autograph Collection distribution system; management cited improved ADR and guest response.",
+          "The remaining Koramangala residential phase was expected to begin handover and revenue recognition in Q3FY27; the associated 160,000 sq ft commercial space is targeted for completion in FY28."
+        ],
+        "whatChanged": "Core revenue growth was 11% versus 10% in Q1, while EBITDA growth was 13% versus 15%; management raised FY27–29 capex to ₹3,400–3,600 Cr and flagged GRAP risk to the initial Taj Delhi opening while targeting full inventory in early FY28.",
+        "risks": [
+          "Reported PAT is not a clean operating comparison: Q2/H1 includes a ₹112.5 Cr deferred-tax credit from remeasuring deferred tax liabilities under the 25.17% tax regime.",
+          "Foreign travel weakness, construction-related disruption at Powai and softer MICE/group growth affected business hotels; management expects recovery but has not quantified it.",
+          "The Taj Delhi launch may slip because of Delhi GRAP restrictions; Varca still awaited MoEF approval and management said construction was expected to start in Q4 of next year."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -965,6 +1433,84 @@
       }
     ],
     "Brigade Hotel Ventures Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated total income",
+            "value": "₹142 Cr",
+            "change": "+10% YoY",
+            "positive": 1,
+            "valueNum": 142,
+            "yoyPct": 10
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹52 Cr",
+            "change": "+27% YoY; 36.7% margin",
+            "positive": 1,
+            "valueNum": 52,
+            "yoyPct": 27
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹22 Cr",
+            "change": "+105% YoY",
+            "positive": 1,
+            "valueNum": 22,
+            "yoyPct": 105
+          },
+          {
+            "label": "Portfolio RevPAR",
+            "value": "₹5,922",
+            "change": "+10% YoY; occupancy 75.2%",
+            "positive": 1,
+            "valueNum": 5922,
+            "yoyPct": 10
+          }
+        ],
+        "performanceLabel": "Q2 / H1 FY27",
+        "fyPerformance": [
+          "Q2 consolidated total income grew 10% YoY to ₹142 Cr; room and F&B revenue each increased 10%.",
+          "Q2 EBITDA was ₹52 Cr (+27%) at 36.7% margin; PAT was ₹22 Cr (+105%), helped by finance costs falling to ₹9.7 Cr from ₹13.5 Cr.",
+          "Q2 portfolio ARR was ₹7,876 (+11%), occupancy 75.2%, and RevPAR ₹5,922 (+10%); Bangalore RevPAR rose 12% to ₹7,600.",
+          "H1 total income was ₹273 Cr (+7%), EBITDA ₹98 Cr (+18%) at 35.8% margin, and PAT ₹39 Cr (+122%); H1 RevPAR was ₹5,702 (+9%). Net cash was ₹29 Cr at 30 September."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 like-for-like revenue growth",
+            "value": "Mid-teens; retained from Q1"
+          },
+          {
+            "metric": "FY27 like-for-like EBITDA growth",
+            "value": "Mid-teens; management said it would try to maintain the prior guidance"
+          },
+          {
+            "metric": "H2 FY27 capex deployment",
+            "value": "₹400–450 Cr, including capital earmarked for an unidentified acquisition"
+          },
+          {
+            "metric": "FY27 H2 RevPAR growth",
+            "value": "Management said it expects mid-teens growth, without specifying a precise number"
+          }
+        ],
+        "highlights": [
+          "Q2 growth was rate-led: portfolio ARR rose 11% while occupancy was broadly flat; F&B returned to 10% growth after Q1 weakness.",
+          "GST 2.0 reduced Q2 EBITDA margin by 1.4 percentage points; H1 impact was 1.6 points.",
+          "The 1,700-key pipeline remains planned to expand the portfolio to 3,300 keys by FY31; ₹484 Cr of the planned ₹3,600 Cr capex was deployed through September.",
+          "Management said the 45-key Courtyard at Chennai WTC remains on track for H2 FY27; acquisition discussions continue, with timing still uncertain."
+        ],
+        "whatChanged": "Versus Q1, Q2 total income growth improved from 5% to 10% and EBITDA growth from 9% to 27%, while the company retained its mid-teens FY27 like-for-like growth aim; capex deployed in H1 was ₹84 Cr and management now expects ₹400–450 Cr in H2.",
+        "risks": [
+          "Portfolio occupancy was flat YoY at 75.2%; Kochi occupancy remained in recovery after rebranding and lower occupancy at newer or repositioned hotels may constrain RevPAR until they stabilize.",
+          "Management retained its mid-teens FY27 growth aim despite the Q1 revenue shortfall and described H2 as needing to make up lost revenue; the full-year outcome remains open.",
+          "Acquisition opportunities remain unfinalized; management said due diligence could push a transaction by one or two quarters, while planned project capex and peak net debt/EBITDA of 3.5–4 in FY28–29 add execution and leverage demands."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1264,5 +1810,136 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 7,
+      "overview": "The seven available calls show higher room rates and revenue, supported by domestic business, events and leisure demand. IHCL raised annual growth guidance and Leela expects a stronger full year, but project timing, tax effects, travel disruption and funding requirements make individual results uneven. Apeejay and EIH await calls.",
+      "trends": [
+        {
+          "text": "Higher room rates and RevPAR supported revenue growth, with occupancy trends varying by portfolio and market.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Indian Hotels Company Ltd",
+            "Juniper Hotels Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        },
+        {
+          "text": "Operators are adding or repositioning rooms and expanding portfolios; construction, approvals and hotel stabilization shape the timing of earnings.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Indian Hotels Company Ltd",
+            "Juniper Hotels Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Domestic business travel, MICE and social events support room and food-and-beverage demand across major hotel markets.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Indian Hotels Company Ltd",
+            "Juniper Hotels Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        },
+        {
+          "text": "Pricing, asset upgrades and operating efficiency provide scope for stronger earnings as demand and new properties mature.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Indian Hotels Company Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Managed hotels, franchise fees and other fee-led platforms offer growth alongside owned or leased inventory.",
+          "companies": [
+            "Indian Hotels Company Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        },
+        {
+          "text": "New hotels and repositioned properties can broaden market exposure, but forecast contributions depend on opening and ramp-up.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Juniper Hotels Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Large development programs and approvals can delay room additions and cash generation; Delhi construction restrictions are an explicit Chalet risk.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Juniper Hotels Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        },
+        {
+          "text": "Foreign travel disruption, flight capacity and energy costs affect markets differently; stronger domestic demand does not eliminate these exposures.",
+          "companies": [
+            "Chalet Hotels Ltd",
+            "Indian Hotels Company Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        },
+        {
+          "text": "Growth investment requires balance-sheet discipline; debt ratios, refinancing and development capital should be assessed on each company’s stated basis.",
+          "companies": [
+            "Brigade Hotel Ventures Ltd",
+            "Chalet Hotels Ltd",
+            "Juniper Hotels Ltd",
+            "Leela Palaces Hotels & Resorts Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Guidance is selective: IHCL raised FY27 revenue growth to 15–17%; Leela expects a better full year but its high-teens EBITDA outlook specifically concerns H2.",
+          "companies": [
+            "Indian Hotels Company Ltd",
+            "Leela Palaces Hotels & Resorts Ltd"
+          ]
+        },
+        {
+          "text": "Profit comparisons require adjustments: Chalet reports a deferred-tax credit, SAMHI separates GST effects and prior exceptional gains, and Lemon Tree distinguishes net EBITDA from hotel EBITDAR.",
+          "companies": [
+            "Chalet Hotels Ltd",
+            "Lemon Tree Hotels Ltd",
+            "Samhi Hotels Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

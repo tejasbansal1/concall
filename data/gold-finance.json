@@ -15,6 +15,92 @@
   "concall": {
     "Capri Global Capital Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated AUM",
+            "value": "₹43,878 Cr",
+            "change": "+62% YoY; +9% QoQ",
+            "positive": 1,
+            "valueNum": 43878,
+            "yoyPct": 62
+          },
+          {
+            "label": "Gold Loan AUM",
+            "value": "₹21,000 Cr",
+            "change": "+102% YoY; +10% QoQ",
+            "positive": 1,
+            "valueNum": 21000,
+            "yoyPct": 102
+          },
+          {
+            "label": "NII",
+            "value": "₹812 Cr",
+            "change": "+69% YoY",
+            "positive": 1,
+            "valueNum": 812,
+            "yoyPct": 69
+          },
+          {
+            "label": "PAT",
+            "value": "₹418 Cr",
+            "change": "+77% YoY; highest-ever quarter",
+            "positive": 1,
+            "valueNum": 418,
+            "yoyPct": 77
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated AUM was ₹43,878 Cr, up 62% YoY and 9% QoQ; Q2 disbursements were ₹13,309 Cr, up 49% YoY.",
+          "Q2 NII rose 69% YoY to ₹812 Cr and PAT rose 77% to a record ₹418 Cr; H1 PAT was ₹772 Cr.",
+          "Gold loan AUM reached ₹21,000 Cr (+102% YoY); total network was 1,609 branches, including 1,154 gold branches.",
+          "Consolidated gross Stage 3 increased 22 bps QoQ to 1.2%; net Stage 3 was about 0.8% and Q2 credit cost was 0.8%."
+        ],
+        "highlights": [
+          "MSME AUM was ₹7,016 Cr (+25% YoY), housing AUM ₹8,325 Cr (+39%), and construction finance AUM ₹7,503 Cr (+51%).",
+          "Co-lending AUM rose 60% YoY to ₹9,083 Cr, 21% of total AUM; more than half of partner banks had moved to revised guidelines.",
+          "Gold Stage 2 rose by ₹1,266 Cr after shorter-tenure repayment products introduced for the revised RBI framework caused technical delinquencies; the products were discontinued.",
+          "Management expected FY28 ROA of 4.2–4.7% and ROE around 19–21%, supported by branch scale, operating leverage and diversified lending."
+        ],
+        "whatChanged": "Versus Q1, management retained the ₹50,000 Cr FY27 AUM target, now indicated about ₹1,600 Cr FY27 PAT and plans 500 gold-branch additions for the year; higher gold delinquencies prompted withdrawal of shorter-tenure repayment schemes.",
+        "risks": [
+          "Gold-loan Stage 2 and Stage 3 rose after monthly/bi-monthly repayment structures triggered technical delinquencies; management expected a significant decline by end-Q3, which remains unproven.",
+          "Management saw early gold-loan stress in drought-affected rural and semi-urban areas and said it would tighten credit screens and reduce LTV where needed.",
+          "Funding costs may rise as bank MCLR-linked borrowings reset; management acknowledged a 15–20 bps cost increase if MCLR moves by that amount."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated AUM",
+            "value": "About ₹50,000 Cr (maintained; may slightly exceed)"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "About ₹1,600 Cr"
+          },
+          {
+            "metric": "Sustainable credit cost",
+            "value": "0.6–0.9%"
+          },
+          {
+            "metric": "FY27 gold branches",
+            "value": "About 500 additions; overall branch additions also planned in MSME and affordable housing"
+          },
+          {
+            "metric": "FY28 AUM",
+            "value": "₹65,000 Cr"
+          },
+          {
+            "metric": "FY28 ROA / ROE",
+            "value": "4.2–4.7% / about 19–21%"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -132,6 +218,95 @@
     ],
     "Fedbank Financial Services Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹22,035 Cr",
+            "change": "+37% YoY",
+            "positive": 1,
+            "valueNum": 22035,
+            "yoyPct": 37
+          },
+          {
+            "label": "Gold Loan AUM",
+            "value": "₹11,917 Cr",
+            "change": "+77% YoY",
+            "positive": 1,
+            "valueNum": 11917,
+            "yoyPct": 77
+          },
+          {
+            "label": "Core NII",
+            "value": "₹404.8 Cr",
+            "change": "+40.9% YoY; +5.2% QoQ",
+            "positive": 1,
+            "valueNum": 404.8,
+            "yoyPct": 40.9
+          },
+          {
+            "label": "PAT",
+            "value": "₹130.8 Cr",
+            "change": "+63.1% YoY; +14.3% QoQ",
+            "positive": 1,
+            "valueNum": 130.8,
+            "yoyPct": 63.1
+          }
+        ],
+        "fyPerformance": [
+          "Q2 total disbursements were ₹6,676 Cr (+28% YoY); AUM was ₹22,035 Cr (+37% YoY), crossing ₹22,000 Cr in September.",
+          "Gold disbursements reached ₹5,822 Cr (+31% YoY), and gold AUM was ₹11,917 Cr (+77%); mortgage AUM was ₹9,982 Cr (+13.5%).",
+          "Core NII was ₹404.8 Cr (+40.9% YoY); PAT was ₹130.8 Cr (+63.1% YoY), with ROA 2.8% and ROE 17%.",
+          "Credit cost was ₹27.1 Cr, about 0.6% of average total assets annualized; GNPA was 1.8% versus 1.6% in Q1 and NNPA 1.2%."
+        ],
+        "highlights": [
+          "The company opened 74 branches in Q2, taking the network to 831; it plans at least 150 more in H2 and entered Eastern India.",
+          "Gold tonnage grew 16% YoY and portfolio LTV was 68%; doorstep gold-loan AUM reached ₹1,851 Cr.",
+          "Management described gold Stage 2/3 movement as technical during customers' transition to periodic interest servicing; mortgage delinquencies were flat to better and net slippages were at a record low.",
+          "Small-ticket LAP credit costs were described as normalized; management expected better Q3 disbursement and yields, while maintaining branch expansion and cost controls."
+        ],
+        "whatChanged": "Against the Q1 entry, Q2 AUM and PAT growth accelerated and ROE reached 17%; management stated 20–25% FY27 AUM growth and a sub-1% credit-cost objective, while gold Stage 2/3 rose during the repayment-model transition and competition intensified.",
+        "risks": [
+          "Entity Stage 2 increased from 2.7% to 3.6% and Stage 3 from 1.6% to 1.8%, driven by gold repayment-format changes; gold GNPA itself was 0.5%, and management warned that adjustment could take more quarters.",
+          "Gold-loan competition intensified and management would use yield, LTV and growth levers dynamically, without committing to a flat-yield outlook.",
+          "At least 150 planned H2 branches raise near-term operating expense; management said non-branch costs and other operating levers must offset pressure to reach its ROA target."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "20–25%, assuming flat gold prices"
+          },
+          {
+            "metric": "FY27 ROA",
+            "value": "Improve FY26 ROA of about 2.4% by 30–40 bps"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "Below 1%"
+          },
+          {
+            "metric": "ROA objective",
+            "value": "3%"
+          },
+          {
+            "metric": "ROE objective",
+            "value": "About 18%"
+          },
+          {
+            "metric": "Annual gold tonnage growth",
+            "value": "10–12%"
+          },
+          {
+            "metric": "H2 FY27 branch additions",
+            "value": "At least 150"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -244,6 +419,92 @@
       }
     ],
     "IIFL Finance Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated loan AUM",
+            "value": "₹1,24,268 Cr",
+            "change": "+38% YoY; +8% QoQ",
+            "positive": 1,
+            "valueNum": 124268,
+            "yoyPct": 38
+          },
+          {
+            "label": "Consolidated NII",
+            "value": "₹1,481 Cr",
+            "change": "+13% QoQ",
+            "positive": 1,
+            "valueNum": 1481,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated PAT (pre-NCI)",
+            "value": "₹805 Cr",
+            "change": "+93% YoY; +13% QoQ",
+            "positive": 1,
+            "valueNum": 805,
+            "yoyPct": 93
+          },
+          {
+            "label": "Standalone loan AUM",
+            "value": "₹70,382 Cr",
+            "change": "+11% QoQ; 97% secured",
+            "positive": 1,
+            "valueNum": 70382,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM was ₹1,24,268 Cr (+38% YoY); about 90% was secured and gold loans were about 53% of the portfolio.",
+          "Q2 consolidated PAT before non-controlling interest was ₹805 Cr (+93% YoY, +13% QoQ); H1 PAT on the same basis was ₹1,518 Cr, with annualized H1 ROA of 3.1% and ROE of 20.1%.",
+          "Consolidated GNPA improved 7 bps QoQ to 1.48%; NNPA was 0.87% and provision coverage 91%.",
+          "Standalone gold loans were about 93% of IIFL Finance AUM; IIFL Home Finance AUM was ₹43,070 Cr (+4% QoQ), while Samasta AUM was ₹10,816 Cr and stable."
+        ],
+        "highlights": [
+          "Off-book AUM was ₹42,796 Cr, about 34% of consolidated AUM; 18 banking partners were active, and co-lending was scaling.",
+          "Liquidity including undrawn credit lines was ₹13,805 Cr and consolidated capital adequacy 23.5%; H1 international bond issuance totaled USD 800 million.",
+          "Gold loan Stage 1–30 DPD increased and gold GNPA rose modestly; management said a sharp gold-price correction could push reported NPAs higher, while expected ultimate collateral losses remained low.",
+          "A parent-company equity raise remained under discussion, with management indicating potential dilution of 10–20%; it said growth capital was needed for the standalone gold/LAP business."
+        ],
+        "whatChanged": "Versus Q1, consolidated AUM growth held at 38% YoY and quarterly PAT before non-controlling interest rose from ₹713 Cr to ₹805 Cr; management targets about 25% FY27 AUM growth and discussed 10–20% potential equity dilution alongside rising gold delinquencies.",
+        "risks": [
+          "Gold-loan early delinquencies increased; management said a sudden 10% gold-price correction could lift reported NPAs, though it expected ultimate loss to remain low because of collateral.",
+          "The standalone parent had 17.03% capital adequacy and needed additional growth capital; a potential 10–20% equity dilution or subsidiary stake sale was still unresolved.",
+          "A proposed insurance-commission regime could affect subsidiary earnings, especially housing finance and Samasta; management estimated impact but had no final rule or completed offset plan."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "About 25%"
+          },
+          {
+            "metric": "FY27 consolidated ROE",
+            "value": "About 20% / above 20% medium to long term"
+          },
+          {
+            "metric": "FY27 profit growth",
+            "value": "Similar to AUM growth (about 25%)"
+          },
+          {
+            "metric": "IIFL Home Finance FY27 AUM growth",
+            "value": "18–20%"
+          },
+          {
+            "metric": "IIFL Home Finance FY28 ROE",
+            "value": "16–18%"
+          },
+          {
+            "metric": "Samasta monthly disbursement run rate by Feb–Mar 2027",
+            "value": "About ₹1,000 Cr"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -360,6 +621,86 @@
     ],
     "Manappuram Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated AUM",
+            "value": "₹73,303 Cr",
+            "change": "+60.1% YoY; +5.3% QoQ",
+            "positive": 1,
+            "valueNum": 73303,
+            "yoyPct": 60.1
+          },
+          {
+            "label": "Consolidated Gold Loan AUM",
+            "value": "₹60,640 Cr",
+            "change": "+92.5% YoY; +6.4% QoQ",
+            "positive": 1,
+            "valueNum": 60640,
+            "yoyPct": 92.5
+          },
+          {
+            "label": "Net Interest Income",
+            "value": "₹1,976 Cr",
+            "change": "+39.1% YoY; +11.5% QoQ",
+            "positive": 1,
+            "valueNum": 1976,
+            "yoyPct": 39.1
+          },
+          {
+            "label": "Consolidated PAT (pre-NCI)",
+            "value": "₹701 Cr",
+            "change": "+223% YoY; +19.9% QoQ",
+            "positive": 1,
+            "valueNum": 701,
+            "yoyPct": 223
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated AUM was ₹73,303 Cr (+60.1% YoY); gold AUM was ₹60,640 Cr (+92.5%), about 83% of the portfolio.",
+          "Consolidated NII was ₹1,976 Cr (+39.1% YoY); PAT before OCI and minority interest was ₹701 Cr, up about 223%; H1 PAT was ₹1,286 Cr.",
+          "Standalone AUM was ₹63,733 Cr (+68.5% YoY) and PAT ₹665 Cr (+76.9%); standalone GNPA rose to 1.79% from 1.56% in Q1."
+        ],
+        "highlights": [
+          "Gold Stage 2 was about 5%; management attributed the increase to customers adapting to monthly and shorter-tenure servicing and said normalization timing remained uncertain.",
+          "Management said about 100 branches had opened in H1 and another 250 were in progress, against its full-year plan of about 500 additions.",
+          "Asirvad reported Q2 PAT before OCI of ₹32 Cr versus a ₹168 Cr loss a year earlier; vehicle-finance GNPA rose to 16.9% and collections remained the priority."
+        ],
+        "whatChanged": "Versus Q1, the gold-growth outlook remained around 30% and the 500-branch plan continued, while gold Stage 2 rose to about 5% and standalone GNPA increased despite stronger consolidated earnings.",
+        "risks": [
+          "Gold Stage 2 was about 5%; management described early collection progress but could not predict a normalized quarter-end level.",
+          "Branch delivery remains weighted to H2, while rising borrowing costs and competitive pricing could pressure returns.",
+          "Vehicle-finance GNPA reached 16.9%; management continued to prioritize collections over new disbursements in that business."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 gold-loan AUM growth",
+            "value": "25–30%; management expects around 30%"
+          },
+          {
+            "metric": "FY27 branch additions",
+            "value": "About 500"
+          },
+          {
+            "metric": "Gold-loan gross yield",
+            "value": "17.5–18.5%"
+          },
+          {
+            "metric": "ROA / ROE goals",
+            "value": "3.5–4% / 15–18%"
+          },
+          {
+            "metric": "Q4 FY27 borrowing-cost outlook",
+            "value": "Toward 9%; about 25–30 bps higher at exit"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -471,6 +812,83 @@
     ],
     "Muthoot Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated loan AUM",
+            "value": "₹2,09,317 Cr",
+            "change": "+42% YoY; +9% QoQ",
+            "positive": 1,
+            "valueNum": 209317,
+            "yoyPct": 42
+          },
+          {
+            "label": "Consolidated Gold Loan AUM",
+            "value": "₹1,93,212 Cr",
+            "change": "+46% YoY",
+            "positive": 1,
+            "valueNum": 193212,
+            "yoyPct": 46
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹3,278 Cr",
+            "change": "+36% YoY; +16% QoQ; record quarter",
+            "positive": 1,
+            "valueNum": 3278,
+            "yoyPct": 36
+          },
+          {
+            "label": "Standalone PAT",
+            "value": "₹2,977 Cr",
+            "change": "+27% YoY; +17% QoQ",
+            "positive": 1,
+            "valueNum": 2977,
+            "yoyPct": 27
+          }
+        ],
+        "fyPerformance": [
+          "At September 30, consolidated loan AUM was ₹2,09,317 Cr (+42% YoY); consolidated gold AUM was ₹1,93,212 Cr (+46%).",
+          "Q2 consolidated PAT reached a record ₹3,278 Cr (+36% YoY); H1 consolidated PAT was ₹6,103 Cr (+39%).",
+          "Standalone gold AUM was ₹1,78,956 Cr (+43% YoY); gold tonnage reached 204 tons in H1 and standalone ROE was 29.4% for Q2.",
+          "Management disclosed ₹7,023 Cr of borrower-classified Stage 3 loans, including ₹3,225 Cr of other accounts of the same borrowers; principal-only LTV was 53% for Stage 3 and 72% for Stage 2."
+        ],
+        "highlights": [
+          "Management expects about 25% FY27 AUM growth after 15% in H1 and estimates 500–600 Muthoot Finance branch additions for the year.",
+          "The group added 336 branches in H1, including 262 at Muthoot Finance; the proposed Muthoot Money merger remains subject to approvals.",
+          "Management attributed higher Stage 2/3 to customer adjustment to new servicing products and gave no firm normalization deadline."
+        ],
+        "whatChanged": "Versus Q4FY26, the FY27 AUM-growth outlook moved from the 15% starting-year view to about 25% after 15% H1 growth, while stronger Q2 earnings came with a material Stage 2/3 increase during the repayment-product transition.",
+        "risks": [
+          "Management disclosed ₹7,023 Cr in borrower-level Stage 3 classification, including ₹3,798 Cr pure Stage 3 and ₹3,225 Cr of other S1/S2 accounts of those same borrowers, after introducing monthly servicing; it gave no numeric date or level for normalization.",
+          "Funding costs were expected to rise as MCLR resets and fresh rupee NCDs priced higher; management said it may increase lending rates, creating margin and competition sensitivity.",
+          "Gold-loan concentration remains high and the transition to monthly servicing requires customer education and branch execution; management said auctions remain a last resort but reported ₹59 Cr of Q2 auctions."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "About 25%"
+          },
+          {
+            "metric": "FY27 branch additions",
+            "value": "About 500–600 Muthoot Finance branches"
+          },
+          {
+            "metric": "Gold loan yield",
+            "value": "18–18.5%"
+          },
+          {
+            "metric": "Gold loan NIM",
+            "value": "10.5–11%"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
+      {
         "quarter": "Q4FY26",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -539,5 +957,119 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 5,
+      "overview": "Gold-led AUM growth and operating leverage supported higher profits across the five calls. Rising overdue classifications under new repayment formats, stronger competition and funding-cost pressure make collections and disciplined pricing central to the H2 outlook.",
+      "trends": [
+        {
+          "text": "Gold loans continued to drive strong balance-sheet growth and remained the largest business or a major growth engine.",
+          "companies": [
+            "Capri Global Capital Ltd",
+            "Fedbank Financial Services Ltd",
+            "IIFL Finance Ltd",
+            "Manappuram Finance Ltd",
+            "Muthoot Finance Ltd"
+          ]
+        },
+        {
+          "text": "Scale and operating leverage supported stronger quarterly profitability, although asset-quality indicators were mixed.",
+          "companies": [
+            "Capri Global Capital Ltd",
+            "Fedbank Financial Services Ltd",
+            "IIFL Finance Ltd",
+            "Manappuram Finance Ltd",
+            "Muthoot Finance Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Branch expansion and existing distribution capacity support customer acquisition and further gold-loan growth.",
+          "companies": [
+            "Capri Global Capital Ltd",
+            "Fedbank Financial Services Ltd",
+            "Manappuram Finance Ltd",
+            "Muthoot Finance Ltd"
+          ]
+        },
+        {
+          "text": "Co-lending and assignment partnerships provide capacity to grow while managing balance-sheet capital.",
+          "companies": [
+            "Capri Global Capital Ltd",
+            "Fedbank Financial Services Ltd",
+            "IIFL Finance Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Managements linked higher gold overdues to customers adapting to shorter-tenure or periodic servicing products; collateral protection does not remove collection and provisioning work.",
+          "companies": [
+            "Capri Global Capital Ltd",
+            "Fedbank Financial Services Ltd",
+            "IIFL Finance Ltd",
+            "Manappuram Finance Ltd",
+            "Muthoot Finance Ltd"
+          ]
+        },
+        {
+          "text": "Higher market rates and bank borrowing resets could increase funding costs, requiring pricing, funding-mix or efficiency responses.",
+          "companies": [
+            "Capri Global Capital Ltd",
+            "IIFL Finance Ltd",
+            "Manappuram Finance Ltd",
+            "Muthoot Finance Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Capri is scaling smaller-ticket gold lending alongside housing, MSME and construction finance, with a ₹65,000 Cr FY28 AUM target.",
+          "companies": [
+            "Capri Global Capital Ltd"
+          ]
+        },
+        {
+          "text": "IIFL expects housing disbursement momentum and affordable-housing distribution investment to support 18–20% FY27 home-finance AUM growth.",
+          "companies": [
+            "IIFL Finance Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Muthoot Finance and Manappuram gave no firm quarter-end level for gold Stage 2 normalization.",
+          "companies": [
+            "Manappuram Finance Ltd",
+            "Muthoot Finance Ltd"
+          ]
+        },
+        {
+          "text": "IIFL’s proposed equity raise creates dilution and near-term return uncertainty; Manappuram also faces elevated vehicle-finance NPAs.",
+          "companies": [
+            "IIFL Finance Ltd",
+            "Manappuram Finance Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Capri retained ₹50,000 Cr FY27 AUM guidance and now indicates about ₹1,600 Cr PAT; its shorter-tenure schemes were withdrawn after delinquency spikes.",
+          "companies": [
+            "Capri Global Capital Ltd"
+          ]
+        },
+        {
+          "text": "Muthoot Finance’s FY27 AUM-growth outlook is about 25%, versus its 15% starting-year view.",
+          "companies": [
+            "Muthoot Finance Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

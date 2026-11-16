@@ -23,6 +23,79 @@
   "concall": {
     "360 ONE WAM Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total AUM",
+            "value": "~₹9.0 Lakh Cr",
+            "change": "+31% YoY",
+            "positive": 1,
+            "valueNum": 9.0,
+            "yoyPct": 31
+          },
+          {
+            "label": "ARR AUM",
+            "value": "₹3.53 Lakh Cr",
+            "change": "+19.7% YoY",
+            "positive": 1,
+            "valueNum": 3.53,
+            "yoyPct": 19.7
+          },
+          {
+            "label": "Revenue from operations",
+            "value": "₹896 Cr",
+            "change": "+17.5% YoY",
+            "positive": 1,
+            "valueNum": 896,
+            "yoyPct": 17.5
+          },
+          {
+            "label": "PAT",
+            "value": "₹302 Cr",
+            "change": "vs ₹316 Cr Q2FY26",
+            "positive": -1,
+            "valueNum": 302,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 total revenue was ₹853 Cr (+4.8% YoY), after other income of -₹44 Cr; revenue from operations was ₹896 Cr (+17.5%).",
+          "Q2 ARR revenue grew 27.5% to ₹706 Cr and was 79% of operating revenue; ~₹60 Cr of carry came from third-party funds.",
+          "Operating PBT was ₹434 Cr (+19.7% YoY); reported PBT ₹391 Cr and PAT ₹302 Cr versus ₹316 Cr in Q2FY26.",
+          "ARR net flows increased from ₹10,815 Cr in Q1 to ₹12,482 Cr in Q2; ex-carry ARR retention remained at 67 basis points."
+        ],
+        "highlights": [
+          "ARR retention was 79 bps including higher carry; ex-carry retention was 67 bps, described as stable.",
+          "Wealth ARR AUM ₹2,52,627 Cr (+24.3% YoY); asset-management ARR AUM just over ₹1 lakh Cr (+9.4%).",
+          "AIF AUM ₹58,139 Cr (+27.9% YoY); Dyna-SIF AUM exceeded ₹1,000 Cr.",
+          "Management expected UBS-related two-way flows to reach roughly $600–700m during FY27; $300–325m had moved over the preceding three months."
+        ],
+        "whatChanged": "Q2 flows and operating revenue improved from Q1, but PAT declined YoY as negative treasury mark-to-market other income offset operating growth; higher carry lifted reported ARR retention.",
+        "risks": [
+          "Market volatility, regulation, competition and cost pressure were explicit near-term risks.",
+          "Treasury fair-value changes, largely linked to NSE holdings, reduced other income; carry recognition is lumpy and can include reversals.",
+          "Management said ongoing senior hiring/build-out can temporarily add 100–200 bps to cost-to-income, with longer breakeven for asset management and capital markets."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 ARR net flows",
+            "value": "₹35,000–40,000 Cr; management said full-year targets remain achievable"
+          },
+          {
+            "metric": "UBS collaboration flows",
+            "value": "~$600–700m during FY27; ~$300–325m completed in first three months"
+          },
+          {
+            "metric": "Cost-to-operating-income improvement",
+            "value": "100–150 bps YoY; management also described moving 48% toward 46–47% over time"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -153,6 +226,79 @@
       }
     ],
     "Anand Rathi Wealth Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹1.08 Lakh Cr",
+            "change": "+18% YoY; FY27 target ₹1.20 Lakh Cr",
+            "positive": 1,
+            "valueNum": 1.08,
+            "yoyPct": 18
+          },
+          {
+            "label": "Net mobilization",
+            "value": "₹4,186 Cr",
+            "change": "+39% YoY; quarterly record",
+            "positive": 1,
+            "valueNum": 4186,
+            "yoyPct": 39
+          },
+          {
+            "label": "Revenue (management-adjusted basis)",
+            "value": "₹357 Cr",
+            "change": "+16% YoY",
+            "positive": 1,
+            "valueNum": 357,
+            "yoyPct": 16
+          },
+          {
+            "label": "PAT (management-adjusted basis)",
+            "value": "₹122 Cr",
+            "change": "+22% YoY",
+            "positive": 1,
+            "valueNum": 122,
+            "yoyPct": 22
+          }
+        ],
+        "fyPerformance": [
+          "Management said adjusted H1 revenue grew 17% to ₹693 Cr and adjusted PAT grew about 23% to ₹238 Cr, excluding non-business fair-value gains, ESOP expenses and related tax effects.",
+          "H1 achieved 49% of FY27 revenue guidance of ₹1,415 Cr and 52% of PAT guidance of ₹460 Cr.",
+          "Q2 customer-family count reached 14,309; net additions were 1,500 over 12 months. AUM attrition was 0.17% in Q2 and 0.26% in H1."
+        ],
+        "highlights": [
+          "Digital wealth AUM ₹2,531 Cr (+14% YoY), clients 7,584 (+15%).",
+          "OFA SaaS subscribers were 6,898; platform-assets figure printed/spoken as ₹1.66 crore appears erroneous and is omitted.",
+          "H1 incurred one RM regret attrition; ESOP/non-cash expenses drove reported-versus-adjusted profit gap.",
+          "Company reported highest quarterly net mobilization and equity MF net flows in its history.",
+          "Equity mutual-fund net flows were a quarterly record ₹2,867 Cr (+39% YoY)."
+        ],
+        "whatChanged": "Record Q2 flows and 52% H1 progress on FY27 adjusted PAT guidance support the existing plan; management explicitly said near-term PAT growth of 20–25% did not warrant a guidance cut.",
+        "risks": [
+          "Some structured products delivered 6–7% rather than expected 14–15% returns; client demand and payoff expectations require active management.",
+          "ESOP and fair-value items make reported profit less comparable with the adjusted figures used for growth and guidance tracking.",
+          "AUM growth and FY27 targets still depend on continued client acquisition, retention and investment performance."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 management-adjusted revenue",
+            "value": "₹1,415 Cr; H1 adjusted revenue at 49% of target"
+          },
+          {
+            "metric": "FY27 management-adjusted PAT",
+            "value": "₹460 Cr; H1 adjusted PAT at 52% of target"
+          },
+          {
+            "metric": "FY27 AUM",
+            "value": "₹1,20,000 Cr; Q2 call said target remains, with ₹6,000–8,000 Cr net flows sought in remaining year"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -308,6 +454,81 @@
     ],
     "Nuvama Wealth Management Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹937 Cr",
+            "change": "+21% YoY",
+            "positive": 1,
+            "valueNum": 937,
+            "yoyPct": 21
+          },
+          {
+            "label": "Operating PAT",
+            "value": "₹319 Cr",
+            "change": "+26% YoY",
+            "positive": 1,
+            "valueNum": 319,
+            "yoyPct": 26
+          },
+          {
+            "label": "Client assets",
+            "value": "₹5.5 Lakh Cr",
+            "change": "+25% YoY",
+            "positive": 1,
+            "valueNum": 5.5,
+            "yoyPct": 25
+          },
+          {
+            "label": "H1 revenue",
+            "value": "₹1,850 Cr",
+            "change": "+20% YoY",
+            "positive": 1,
+            "valueNum": 1850,
+            "yoyPct": 20
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹937 Cr and operating PAT ₹319 Cr; reported operating PAT growth was 26% YoY. H1 revenue was about ₹1,850 Cr, up 20%.",
+          "Client assets were ₹5.5 lakh Cr, up 25% YoY; wealth assets were ₹3.7 lakh Cr and focus/ARR assets ₹1.1 lakh Cr, up 27%.",
+          "Q2 net new money reached ₹3,300 Cr in Nuvama Wealth and ₹5,000 Cr in Nuvama Private; Private ARR assets were ₹60,000–62,000 Cr and ARR was 64% of revenue.",
+          "Asset Services client assets exceeded ₹1.6 lakh Cr; Q2 revenue was ₹245 Cr, up 53% YoY.",
+          "Wealth plus Private quarterly revenue exceeded ₹500 Cr, up about 14%; Capital Markets revenue was ₹175 Cr, up 9%.",
+          "A separate ₹16 Cr post-tax venture-debt fund closure charge was recognized; another roughly ₹9–10 Cr accelerated amortization is expected over the next 12 months."
+        ],
+        "highlights": [
+          "The board did not declare an H1 dividend; debt-to-equity was about 2.9x and management preferred about 2.5x to preserve lending and investment capacity.",
+          "Q2 Asset Services yield was about 2.5%; management expected 2.6–2.8% for FY27 and indicated that range could persist for two years if collateral mix and deposit yields stay similar.",
+          "Private Wealth net new money was about ₹5,000 Cr in Q2; management estimated 35–38% of net new money over the prior 15 months came from monetization clients.",
+          "Second commercial real-estate fund targeting about ₹5,000 Cr and first private-credit fund targeting ₹1,500–2,500 Cr were expected to launch soon; SIF launch was also expected within 25–30 days."
+        ],
+        "whatChanged": "Both wealth platforms recorded their highest quarterly net flows and focus assets remained on the 20–25% growth path, while management withheld H1 dividend to manage 2.9x leverage and recognized a one-time fund closure charge.",
+        "risks": [
+          "Debt-to-equity at 2.9x is above management’s preferred roughly 2.5x, constraining lending growth and dividend decisions; internal accruals were expected to fund growth for now.",
+          "Q2 includes a ₹16 Cr post-tax one-time venture-debt fund closure charge and further ₹8–10 Cr amortization over 12 months.",
+          "Asset Services yields depend on cash versus G-sec collateral; larger FPI accounts could lower yield, and new custodians may intensify competition."
+        ],
+        "guidance": [
+          {
+            "metric": "Focus/ARR assets net new money",
+            "value": "22–25% of opening balance for FY27; H1 was 11–12% and management said it remained on track."
+          },
+          {
+            "metric": "Asset Services",
+            "value": "About 20% growth; Q2 yield was ~2.5%, with 2.6–2.8% expected for FY27 and the next two years under current collateral assumptions."
+          },
+          {
+            "metric": "FY27 non-employee operating expenses",
+            "value": "About ₹550 Cr including new BKC office charges; BAU opex ₹520–530 Cr."
+          }
+        ],
+        "asOf": "November 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -438,6 +659,71 @@
       }
     ],
     "Prudent Corporate Advisory Services Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Quarterly average AUM",
+            "value": "₹1.43 Lakh Cr",
+            "change": "+21% YoY; +8% QoQ",
+            "positive": 1,
+            "valueNum": 1.43,
+            "yoyPct": 21
+          },
+          {
+            "label": "Equity AUM",
+            "value": "₹1.37 Lakh Cr",
+            "change": "+16.2% YoY; +1.7% QoQ",
+            "positive": 1,
+            "valueNum": 1.37,
+            "yoyPct": 16.2
+          },
+          {
+            "label": "Q2 net sales",
+            "value": "₹4,137 Cr",
+            "change": "Record quarter",
+            "positive": 1,
+            "valueNum": 4137,
+            "yoyPct": null
+          },
+          {
+            "label": "Monthly SIP book",
+            "value": "₹1,272 Cr",
+            "change": "+17.2% YoY in September",
+            "positive": 1,
+            "valueNum": 1272,
+            "yoyPct": 17.2
+          }
+        ],
+        "fyPerformance": [
+          "Q2 operating revenue grew 11.8% QoQ; operating profit rose 15.4% QoQ and operating margin expanded 80 bps to 26.4%.",
+          "H1 revenue from operations was ₹736 Cr, up 20%; H1 operating profit was ₹192 Cr, up 37.6%, and H1 PAT was ₹146.5 Cr, up 39.1%.",
+          "Q2 PAT was ₹71.7 Cr, down 4.1% QoQ as treasury other income fell 82% to ₹3.8 Cr from ₹20.8 Cr after debt/hybrid portfolio mark-to-market reversals.",
+          "MF yield remained around 88–89 bps; Q2 MF revenue grew faster than QAAUM partly due to one additional revenue day.",
+          "SIF AUM approached ₹900 Cr and 1,792 distributors were SIF-certified; 3,541 distributors joined the platform in H1."
+        ],
+        "highlights": [
+          "Equity AUM was ₹1.37 lakh Cr; Q2 net sales of ₹4,137 Cr were a record despite a ₹1,867 Cr negative quarterly mark-to-market impact.",
+          "Insurance consultation-paper proposal could reduce organized distributor commissions; management said insurance contributes about 12% of profit, and expected a workable outcome but gave no quantified final impact.",
+          "Prudent was applying for MF-only PMS license and awaiting final fixed-income channel partner framework before expanding online bonds."
+        ],
+        "whatChanged": "Record Q2 net sales and operating leverage supported stronger core performance, while lower treasury mark-to-market income reduced reported PAT sequentially; proposed insurance commission rules became a key new risk.",
+        "risks": [
+          "Proposed insurance commission rules could materially pressure POSP economics; management estimated insurance at about 12% of profit contribution, but the proposal was not final and the actual impact was uncertain.",
+          "Market correction after September reduced current AUM to around H1 average, threatening the growth base for H2.",
+          "Treasury other income and reported PAT can be volatile with bond and hybrid portfolio mark-to-market movements."
+        ],
+        "guidance": [
+          {
+            "metric": "Mutual-fund yield",
+            "value": "Management described 88–89 bps as sustainable under the current framework; no specific revenue or profit growth target was provided."
+          }
+        ],
+        "asOf": "November 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -570,6 +856,81 @@
     ],
     "Edelweiss Financial Services Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated revenue",
+            "value": "₹2,602 Cr",
+            "change": "+37% YoY",
+            "positive": 1,
+            "valueNum": 2602,
+            "yoyPct": 37
+          },
+          {
+            "label": "Consolidated PAT after minority interest",
+            "value": "₹193 Cr",
+            "change": "+50% YoY",
+            "positive": 1,
+            "valueNum": 193,
+            "yoyPct": 50
+          },
+          {
+            "label": "Customer assets",
+            "value": "₹2.9 Tn",
+            "change": "+24% YoY",
+            "positive": 1,
+            "valueNum": 2.9,
+            "yoyPct": 24
+          },
+          {
+            "label": "MSME AUM",
+            "value": "₹2,145 Cr",
+            "change": "2x YoY",
+            "positive": 1,
+            "valueNum": 2145,
+            "yoyPct": 100
+          }
+        ],
+        "fyPerformance": [
+          "EAAA profit was ₹88 Cr (+27% YoY); mutual-fund profit was ₹37 Cr, more than double YoY",
+          "Zuno reported Q2 PAT of ₹5 Cr and H1 PAT of ₹1 Cr; H1 combined insurance loss was ₹51 Cr versus a comparable prior-year loss of ₹120 Cr excluding the ₹49 Cr prior-year one-off",
+          "Operating-business PAT was ₹190 Cr in Q2 versus ₹110 Cr a year earlier; H1 operating-business PAT was ₹355 Cr versus ₹286 Cr.",
+          "ECL Finance’s wholesale security-receipt book was wound down to zero."
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "highlights": [
+          "Customer reach was about 15 million, up 24% YoY",
+          "EAAA FPAUM was up 28% YoY and broadly flat QoQ; management said to assess it on a three-year average",
+          "EAAA reported about ₹20,000 Cr of H1 fundraising; management described a ₹30,000 Cr annual fundraising target across funds and InvITs",
+          "ARC acquired about ₹600 Cr of assets in Q2; management estimated the annualized pace above ₹2,000 Cr",
+          "MF equity net inflows were about ₹11,000 Cr in Q2; SIP book was down 11% QoQ, which management attributed partly to international-fund SIP caps"
+        ],
+        "whatChanged": "Compared with Q1’s insurance breakeven ambition, Zuno now reports its first profitable quarter; the Alternatives listing and Nido majority-stake transaction have completed, while life insurance continues to work toward profitability.",
+        "risks": [
+          "Insurance distribution reforms may require a 6–12 month transition and changes to distributor and insurer cost sharing; final norms were pending",
+          "Alternatives FPAUM and fundraising can fluctuate with fund closes, deployments, and exits; management recommends judging FPAUM growth on a three-year average",
+          "ARC growth is concentrated in retail mortgages and SME/mid-market assets; management said large corporate-account supply had not yet returned"
+        ],
+        "guidance": [
+          {
+            "metric": "EAAA FPAUM growth",
+            "value": "20–25% annual growth on a three-year average basis"
+          },
+          {
+            "metric": "EAAA annual fundraising",
+            "value": "About ₹30,000 Cr: ₹11,000–12,000 Cr in InvITs and ₹17,000–18,000 Cr in funds"
+          },
+          {
+            "metric": "Mutual-fund equity yield",
+            "value": "Long-term range of about 45–50 bps; current equity yield about 38–39 bps"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -700,6 +1061,85 @@
       }
     ],
     "JM Financial Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated net revenue",
+            "value": "₹712 Cr",
+            "change": "Q2 FY27",
+            "positive": 1,
+            "valueNum": 712,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT after non-controlling interests",
+            "value": "₹240 Cr",
+            "change": "Q2 FY27",
+            "positive": 1,
+            "valueNum": 240,
+            "yoyPct": null
+          },
+          {
+            "label": "Standard loan book",
+            "value": "₹10,270 Cr",
+            "change": "+23% YoY",
+            "positive": 1,
+            "valueNum": 10270,
+            "yoyPct": 23
+          },
+          {
+            "label": "Wealth recurring AUM",
+            "value": "₹37,000 Cr",
+            "change": "+16% YoY",
+            "positive": 1,
+            "valueNum": 37000,
+            "yoyPct": 16
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated H1 net revenue was about ₹1,600 Cr, up 7%; H1 PAT after NCI was ₹531 Cr.",
+          "Capital Markets and Corporate Advisory Q2 net revenue was ₹286 Cr and PAT ₹127 Cr; both were 2.5x/4x QoQ, respectively, after subdued Q1.",
+          "Private Markets Q2 disbursements doubled to ₹977 Cr; standard loans reached ₹4,748 Cr, up 22% YoY. H1 segment net revenue was ₹582 Cr, up 63%, including lumpy recoveries.",
+          "Wealth recurring revenue grew 20% YoY to ₹216 Cr; recurring AUM including loans was about ₹40,000 Cr, up 17% YoY.",
+          "Affordable home loan AUM was about ₹3,900 Cr, up 30% YoY; Q2 revenue was ₹133 Cr and PAT after NCI ₹18 Cr.",
+          "Management estimated 62–65% of group revenue was recurring when sticky institutional and non-institutional brokerage is included."
+        ],
+        "highlights": [
+          "JM ranked #1 in IPOs and QIPs and closed ₹83,000 Cr of transactions in Q2; ₹1.30 lakh Cr of transactions were filed for execution over the next 12 months.",
+          "Private Markets cash and equivalents fell from ₹3,077 Cr in June to ₹1,691 Cr in September as disbursements increased; management said borrowing would resume to fund growth.",
+          "Wealth business broke even in September, but management said FY28 full-year profitability was delayed by roughly three to four quarters versus its earlier plan.",
+          "Pre-IPO fund first close raised about ₹700 Cr; AIF AUM including commitments was ₹1,063 Cr."
+        ],
+        "whatChanged": "Capital-markets activity rebounds from Q1 and lending disbursements accelerate, but management now expects a full year of wealth profitability in FY28, a delay of roughly three to four quarters from its earlier plan.",
+        "risks": [
+          "Capital-markets deal sizes were reduced in the difficult environment, costing an estimated ₹45–50 Cr of revenue; investment-banking and ARC recoveries remain lumpy.",
+          "Private Markets plans to add leverage as cash declines; management emphasized disciplined risk-adjusted underwriting and said real-estate pricing remained a challenge.",
+          "Wealth profitability is still sensitive to transaction revenue and hiring/productivity; full-year wealth breakeven shifted to FY28."
+        ],
+        "guidance": [
+          {
+            "metric": "Capital Markets and Corporate Advisory growth",
+            "value": "15–20% over the next 3–5 years; management said about 15% was reasonable for the remainder of FY27."
+          },
+          {
+            "metric": "Private Markets",
+            "value": "About 20% year-on-year loan-book growth and about 15% investment-side growth over the long term; ₹250 Cr impairment reversals targeted in FY27, on track by March 31."
+          },
+          {
+            "metric": "Wealth AUM",
+            "value": "20–25% growth, subject to mark-to-market; recurring AUM expected to grow in double digits."
+          },
+          {
+            "metric": "Group and other businesses",
+            "value": "About 15–20% growth for Asset Management; 25–30% AUM growth for home loans; roughly 20% weighted-average growth over five years; long-term PAT growth 20–25% and ROE target in the mid-teens."
+          }
+        ],
+        "asOf": "November 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -832,6 +1272,77 @@
     ],
     "Motilal Oswal Financial Services Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Asset & Private Wealth AUM",
+            "value": "₹5.2 Lakh Cr",
+            "change": "+42% YoY",
+            "positive": 1,
+            "valueNum": 5.2,
+            "yoyPct": 42
+          },
+          {
+            "label": "Operating PAT",
+            "value": "₹718 Cr",
+            "change": "+29% YoY",
+            "positive": 1,
+            "valueNum": 718,
+            "yoyPct": 29
+          },
+          {
+            "label": "Asset Management AUM incl. MO Alternates",
+            "value": "₹2.23 Lakh Cr",
+            "change": "New milestone",
+            "positive": 1,
+            "valueNum": 2.23,
+            "yoyPct": null
+          },
+          {
+            "label": "Average AMC AUM",
+            "value": "₹2.01 Lakh Cr",
+            "change": "Q2 FY27; ₹1.67 lakh Cr in Q4 FY26",
+            "positive": 1,
+            "valueNum": 2.01,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 operating PAT grew 29% YoY to ₹718 Cr; this is operating PAT, distinct from consolidated PAT that includes investment-book effects.",
+          "Asset & Private Wealth net flows were ₹12,477 Cr in Q2; combined AUM was ₹5.2 lakh Cr, up 42% YoY.",
+          "AMC average AUM rose to ₹2.01 lakh Cr from ₹1.67 lakh Cr in Q4 FY26; AMC closing AUM including MO Alternates was ₹2.23 lakh Cr.",
+          "Private Wealth ARR revenue was ₹180 Cr; net flows rose 65% QoQ to ₹6,357 Cr and AUM reached ₹2.96 lakh Cr, up 58% YoY.",
+          "Wealth ARR revenue grew 10% YoY to ₹328 Cr; lending book rose 42% YoY to ₹10,197 Cr.",
+          "H1 Asset & PWM PAT grew 44% YoY; ARR revenue was 66% of group revenue, versus 55% in FY24."
+        ],
+        "highlights": [
+          "99% of AMC AUM outperformed its benchmark over three years; AMC net-flow market share was 6% in September versus 2.7% AUM share.",
+          "SIP flows were ₹4,170 Cr in Q2 and SIP AUM ₹42,227 Cr; passive AUM exceeded ₹50,000 Cr.",
+          "Custodian license received; operations targeted for Q4 FY27 subject to readiness, with no material contribution expected even in FY28.",
+          "Management expected H2 FY27 growth to exceed H1 as Asset and Wealth businesses scale."
+        ],
+        "whatChanged": "Operating PAT rises to ₹718 Cr from ₹609 Cr in Q1, while Asset and Private Wealth contribute 58% versus 55%; management adds a planned Q4 custodian launch and retains its long-term earnings ambition.",
+        "risks": [
+          "Brokerage remains exposed to regulation and flat market volumes, although management said recent headwinds were in the base.",
+          "Alternates variable additional returns depend on fund maturity and exit timing; carry income can be lumpy.",
+          "The new custodian business is not expected to contribute materially in FY28 and requires operational readiness."
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term group ambition",
+            "value": "Sustainable 20% profit CAGR and 20% ROE; management expects H2 FY27 growth to be higher than H1."
+          },
+          {
+            "metric": "AMC fund vintage",
+            "value": "8 funds expected to cross three years by March 2027 and 16 by March 2028; target 75% industry AUM coverage as eligible vintages broaden."
+          }
+        ],
+        "asOf": "November 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -962,6 +1473,73 @@
       }
     ],
     "Nippon Life India Asset Management Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹796 Cr",
+            "change": "+21% YoY; +4% QoQ",
+            "positive": 1,
+            "valueNum": 796,
+            "yoyPct": 21
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹523 Cr",
+            "change": "+25% YoY; +6% QoQ",
+            "positive": 1,
+            "valueNum": 523,
+            "yoyPct": 25
+          },
+          {
+            "label": "PAT",
+            "value": "₹324 Cr",
+            "change": "Down YoY and QoQ after exceptional item",
+            "positive": -1,
+            "valueNum": 324,
+            "yoyPct": null
+          },
+          {
+            "label": "MF QAAUM",
+            "value": "₹7.87 Lakh Cr",
+            "change": "+19.9% YoY; +4.7% QoQ",
+            "positive": 1,
+            "valueNum": 7.87,
+            "yoyPct": 19.9
+          }
+        ],
+        "fyPerformance": [
+          "Q2 operating profit reached a record ₹523 Cr, up 25% YoY; H1 operating profit grew 28% YoY and H1 PAT grew 12%.",
+          "Q2 revenue was ₹796 Cr; other income was ₹23 Cr and operating expenses ₹272 Cr.",
+          "PAT was ₹324 Cr after a ₹96.76 Cr exceptional settlement charge: ₹89.08 Cr management-fee reversal including interest and ₹7.68 Cr regulatory costs.",
+          "Total closing assets under management across MF, managed accounts, offshore and GIFT City were ₹8.68 lakh Cr; MF QAAUM was ₹7.87 lakh Cr.",
+          "MF market share was 9.02%; equity market share was 7.40%. ETF AUM was ₹2.49 lakh Cr with 21.12% share.",
+          "Systematic book was ₹3,700 Cr monthly in September; excluding STP, SIP book grew 9% YoY."
+        ],
+        "highlights": [
+          "Equity yields were 52 bps excluding arbitrage, debt 25 bps, liquid 12 bps and ETF 25 bps; blended yield was 37 bps.",
+          "Interim dividend declared at ₹9.50/share.",
+          "AIF commitments reached ₹99.8 billion; Q2 commitments were ₹4.0 billion. Offshore managed AUM was ₹135 billion and GIFT City AUM USD45 million.",
+          "SIF strategy work is underway, pending SEBI clearance; no launch date was committed."
+        ],
+        "whatChanged": "Operating profit accelerated to a record, while PAT was reduced by a newly recognized ₹96.76 Cr AT1 settlement item; management reaffirmed the expense-growth framework.",
+        "risks": [
+          "Equity AUM growth and telescopic pricing compressed yields; a sharper market decline could increase redemptions, although management cited its SIP book as a buffer.",
+          "The ₹96.76 Cr settlement relates to past scheme investments in Yes Bank AT1 bonds; the amount was paid and recognized, with further SEBI communication awaited.",
+          "Offshore flows remain exposed to global macro conditions and SIF launch depends on regulatory clearance."
+        ],
+        "guidance": [
+          {
+            "metric": "Overall expense growth",
+            "value": "18–20% over the next 6–8 quarters; the Q1 framework excludes ESOP and one-off items, with AIF hiring adding investment needs"
+          }
+        ],
+        "asOf": "November 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1094,6 +1672,58 @@
     ],
     "HDFC Asset Management Company Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Quarterly average AUM",
+            "value": "₹9.69 Tn",
+            "change": "+10% YoY; +4% QoQ",
+            "positive": 1,
+            "valueNum": 9.69,
+            "yoyPct": 10
+          },
+          {
+            "label": "Revenue from operations",
+            "value": "₹11.7 Bn",
+            "change": "+14% YoY",
+            "positive": 1,
+            "valueNum": 11.7,
+            "yoyPct": 14
+          },
+          {
+            "label": "Operating margin",
+            "value": "36 bps of AUM",
+            "change": "operating profit ₹9.1 Bn (+16% YoY)",
+            "positive": 0,
+            "valueNum": 36,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Equity-oriented assets ₹6.51 Tn (67.1% of AUM); active equity AUM ₹6.08 Tn (+14% YoY), 12.7% market share.",
+          "Debt quarterly average AUM was ₹1.62 Tn and liquid QAAUM was ₹860 Bn (+10% YoY), within the overall ₹9.69 Tn QAAUM.",
+          "PBT ₹9.8 Bn (+12% YoY); reported PAT comparison is distorted by ₹468m tax provision reversal in Q2FY26.",
+          "Systematic SIP/STP flows ₹48 Bn in September, +6% YoY; 19m transactions."
+        ],
+        "highlights": [
+          "Live accounts were 32m; unique investors 17.7m; 3.2m unique investors added over the last year.",
+          "EPFO fixed-income mandate went live; management said government mandates are competitively priced and pursued for institutional credibility.",
+          "Two AIFs launched: Category II private-market fund fundraising and Category III listed-securities fund, which achieved first close in prior quarter.",
+          "Management said alternative AIF fees are typically 80–90 bps depending on product and can be margin-accretive."
+        ],
+        "whatChanged": "AUM and operating earnings continued to grow, with EPFO mandate live and two AIF launches; reported PAT YoY cannot be compared directly because the prior-year quarter included a tax-provision reversal.",
+        "risks": [
+          "Mutual-fund yields face downward pressure as scale rises under TER rules; management noted this structural effect.",
+          "EPFO/SPFO mandates are highly contested and low-priced; management cited credibility and future access as their strategic value.",
+          "Equity market correction and volatility affect AUM, though SIP flows remained resilient during Q2."
+        ],
+        "outlook": "No numeric AUM-growth or revenue target was offered. Management said it does not provide timing guidance for alternative-business revenue targets, and intends to build a full-stack platform across mutual funds, PMS and AIFs.",
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1224,6 +1854,77 @@
       }
     ],
     "ICICI Prudential Asset Management Company Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Operating Revenue",
+            "value": "₹1,674 Cr",
+            "change": "+16.3% YoY; +7.0% QoQ",
+            "positive": 1,
+            "valueNum": 1674,
+            "yoyPct": 16.3
+          },
+          {
+            "label": "Operating PBT",
+            "value": "₹1,181 Cr",
+            "change": "+15.7% YoY; +7.4% QoQ",
+            "positive": 1,
+            "valueNum": 1181,
+            "yoyPct": 15.7
+          },
+          {
+            "label": "PAT",
+            "value": "₹889 Cr",
+            "change": "+6.1% YoY; -7.8% QoQ",
+            "positive": 1,
+            "valueNum": 889,
+            "yoyPct": 6.1
+          },
+          {
+            "label": "MF quarterly average AUM",
+            "value": "₹11.61 Lakh Cr",
+            "change": "+14.4% YoY",
+            "positive": 1,
+            "valueNum": 11.61,
+            "yoyPct": 14.4
+          }
+        ],
+        "fyPerformance": [
+          "Q2 operating revenue rose 16.3% YoY to ₹1,674 Cr; core operating PBT rose 15.7% to ₹1,181 Cr.",
+          "Equity and equity-oriented QAAUM was ₹6.59 lakh Cr (+16.3% YoY), within MF QAAUM of ₹11.61 lakh Cr.",
+          "H1 annualized operating profit relative to AUM was 37.3 basis points versus 36.6 basis points in H1 FY26.",
+          "H1 annualized company gross/net yields were 53/48.8 bps; PMS/AIF gross/net yields were 1.92%/0.96%.",
+          "PAT rose 6.1% YoY but fell 7.8% QoQ as other income declined on mark-to-market; other income was ₹16.9 Cr.",
+          "SIF QAAUM increased to ₹4,948 Cr from ₹2,678 Cr in Q1; alternatives QAAUM was ₹80,965 Cr."
+        ],
+        "highlights": [
+          "Equity and equity-oriented QAAUM was ₹6.59 lakh Cr and market share 13.7%; total MF market share was 13.3%.",
+          "Monthly SIP/STP systematic transactions were ₹4,672 Cr in September, down from ₹4,872 Cr in June; management said the average SIP book was broadly in line.",
+          "Board-approved acquisition of ICICI Securities’ PMS business, about ₹3,000 Cr AUM, remained subject to regulatory approvals and documentation.",
+          "Management attributed weaker net flows to higher redemptions, particularly in hybrid categories; gross flows were described as broadly consistent."
+        ],
+        "whatChanged": "Core operating growth continued, while Q2 PAT declined sequentially on lower mark-to-market other income; SIF AUM nearly doubled from Q1.",
+        "risks": [
+          "Market-linked redemptions and volatility pressured net flows; management said redemptions were slightly higher and market-driven.",
+          "Management described ICICI Prudential as relatively conservative in small/mid caps and said building share there would take time; international advisory assets have faced outflows for about 1.5 years.",
+          "The planned ICICI Securities PMS transfer and any incremental SIF debt strategy remained subject to approvals or future review."
+        ],
+        "asOf": "November 2026",
+        "guidance": [
+          {
+            "metric": "FY27 ESOP expense",
+            "value": "₹64–68 Cr, reaffirmed"
+          },
+          {
+            "metric": "Alternatives net fee-yield range",
+            "value": "90–95 basis points indicated; mutual-fund yield is an outcome of asset and flow mix rather than a target"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1356,6 +2057,71 @@
     ],
     "Aditya Birla Sun Life AMC Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "MF quarterly average AUM",
+            "value": "₹4.42 Lakh Cr",
+            "change": "+4% YoY",
+            "positive": 1,
+            "valueNum": 4.42,
+            "yoyPct": 4
+          },
+          {
+            "label": "Total revenue",
+            "value": "₹526 Cr",
+            "change": "vs ₹506 Cr Q2FY26 (+4.0%)",
+            "positive": 1,
+            "valueNum": 526,
+            "yoyPct": 4
+          },
+          {
+            "label": "PAT",
+            "value": "₹221 Cr",
+            "change": "vs ₹241 Cr Q2FY26 (-8.3%)",
+            "positive": -1,
+            "valueNum": 221,
+            "yoyPct": -8.3
+          },
+          {
+            "label": "Passive QAAUM",
+            "value": "₹39,860 Cr",
+            "change": "+10% YoY",
+            "positive": 1,
+            "valueNum": 39860,
+            "yoyPct": 10
+          }
+        ],
+        "fyPerformance": [
+          "Overall average AUM including EPFO/ESIC mandates and alternates reached ₹11.06 lakh Cr; the mandates are largely cost-neutral and differ from ordinary mutual-fund assets.",
+          "Equity MF QAAUM was ₹2.09 lakh Cr (+9%); equity mix 47.4%.",
+          "Q2 PBT ₹296 Cr vs ₹316 Cr; PAT ₹221 Cr vs ₹241 Cr.",
+          "H1 revenue ₹1,152 Cr (+7.5% YoY), PBT ₹702 Cr (+2.0%), PAT ₹530 Cr (+2.3%)."
+        ],
+        "highlights": [
+          "September SIP contribution ₹1,094 Cr; SIP AUM ~₹86,000 Cr; 41.7 lakh folios contributing SIPs.",
+          "ETF QAAUM grew about 42% YoY versus industry 27%; SIF AUM ~₹700 Cr across three products.",
+          "Non-MF revenue was 7.4% gross-on-gross and 4.3% net-on-net, up from 7.1% and 4.0% in Q1.",
+          "Management said 85% of funds beat both benchmark and peer group; redemptions retained/switched into other schemes at 25–30%, compared with 4–5% historically."
+        ],
+        "whatChanged": "Management described improving performance and flows in focus equity categories, but Q2 PBT and PAT were below prior year; expanded EPFO/ESIC mandates sharply raised total managed assets and are largely cost-neutral.",
+        "risks": [
+          "Market volatility, geopolitical conflict, elevated crude and global bond yields were cited as external risks.",
+          "Direct-channel equity share was about 18%; management called faster direct growth an execution priority.",
+          "Management acknowledged that flow growth still needs to accelerate; employee ESOP expense of ₹55–60 Cr yearly for existing plans plus ₹14–15 Cr yearly from a new plan is expected over the next two years."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Annual ESOP expense over the coming two years",
+            "value": "₹55–60 Cr from existing plans plus ₹14–15 Cr from the new plan"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1486,6 +2252,75 @@
       }
     ],
     "Angel One Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consolidated gross revenue",
+            "value": "₹14.3 Bn",
+            "change": "+18.9% YoY",
+            "positive": 1,
+            "valueNum": 14.3,
+            "yoyPct": 18.9
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹3.35 Bn",
+            "change": "+58% YoY",
+            "positive": 1,
+            "valueNum": 3.35,
+            "yoyPct": 58
+          },
+          {
+            "label": "Average client funding book",
+            "value": "₹74.5 Bn",
+            "change": "+40.5% YoY",
+            "positive": 1,
+            "valueNum": 74.5,
+            "yoyPct": 40.5
+          },
+          {
+            "label": "Standalone operating margin",
+            "value": "48.9%",
+            "change": "Q2 actual; annual standalone ambition around 45%",
+            "positive": 0,
+            "valueNum": 48.9,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated gross revenue was ₹14.3 Bn, operating profit ₹4.9 Bn (+52%) and PAT ₹3.35 Bn (+58%).",
+          "Average funding book ₹74.5 Bn and closing book ₹82.1 Bn; funded clients 437,000 (+~30% YoY).",
+          "Broking was ~55% of revenue versus ~60% a year ago; interest income ₹5.1 Bn (+34% YoY).",
+          "Normalized consolidated operating margin was 43.8% versus 43.6% in Q1; standalone margin 48.9%."
+        ],
+        "highlights": [
+          "New clients 1.5m in Q2; total users ~40m. September average daily orders rebounded to 5.8m.",
+          "Ionic Wealth AUM ₹160 Bn, +19.1% QoQ; AMC AUM nearly ₹6 Bn.",
+          "Credit distribution annualized run rate ₹33 Bn; loan-against-securities beta launched; delinquencies described as negligible.",
+          "Cash and derivatives market activity was subdued after regulatory changes; gross revenue nevertheless grew YoY."
+        ],
+        "whatChanged": "Compared with Q1, interest and distribution income broaden earnings and normalized consolidated margin holds near 44%; management now explicitly anchors annual standalone margin around 45%, including IPL costs.",
+        "risks": [
+          "Quarterly trading revenue and margins remain exposed to market volumes, regulation and seasonality.",
+          "Funding-book growth brings liquidity, funding-cost and credit risks; management emphasized collateral, underwriting and prudent capital deployment.",
+          "Asset-management build-out and new products require investment; U.S. stocks remained in pilot and insurance changes were only proposed."
+        ],
+        "guidance": [
+          {
+            "metric": "Standalone operating margin",
+            "value": "Around 45% on an annual basis; quarterly outcomes can fluctuate"
+          },
+          {
+            "metric": "Employee cost",
+            "value": "~₹1,100 Cr for FY27, as affirmed in Q&A"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1618,6 +2453,59 @@
     ],
     "Billionbrains Garage Ventures Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Customers using more than two products",
+            "value": ">50%",
+            "change": "Q2 disclosure",
+            "positive": 1,
+            "valueNum": 50,
+            "yoyPct": null
+          },
+          {
+            "label": "Customers using more than four products",
+            "value": ">5%",
+            "change": "Q2 disclosure",
+            "positive": 1,
+            "valueNum": 5,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "More than half of customers use more than two products, and over 5% use more than four.",
+          "Management said MTF additions average around ₹600–700 Cr per quarter and expected the trend to continue; this is a typical run rate/expectation, not Q2 closing book or quarterly flows.",
+          "Cost to Serve rose due to AI/compute costs, more trading days and one-time delayed expiry-file costs; Cost to Grow fell partly because Q1 included IPL branding spend."
+        ],
+        "highlights": [
+          "Groww said it is increasing MTF stock-level underwriting and may exclude risky names or apply higher haircuts.",
+          "Wealth AUM disclosure was new; management said MF Prime remained small and did not quantify the split.",
+          "Management said derivatives were not expected to be materially affected by the then-pending closing-auction changes.",
+          "More than 50% of customers used 2+ products; over 5% used 4+ products (Q2 call).",
+          "Typical MTF book addition of ₹600–700 Cr per quarter was management expectation, not a reported Q2 actual; Q2 transcript did not state financial guidance or headline revenue/PAT."
+        ],
+        "whatChanged": "Q2 discussion emphasized variable customer acquisition and service costs, and continued MTF expansion; no full-year revenue or profit guidance was provided.",
+        "risks": [
+          "MTF exposures face stock-price volatility, security eligibility changes and concentration/haircut risk; management said limits are adjusted continuously.",
+          "Cost to Serve rose with AI compute and a one-time delayed-file event; underlying costs may grow as AI and product development expand.",
+          "Competitive pricing and market-dependent Cost to Grow can affect acquisition economics."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Annual Cost to Grow spending",
+            "value": "Typically ₹400–500 Cr, flexing with market conditions and potentially above ₹500 Cr in a strong year"
+          },
+          {
+            "metric": "Typical quarterly MTF book expansion",
+            "value": "Around ₹600–700 Cr expected to continue, with market-driven volatility"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1747,5 +2635,163 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 13,
+      "overview": "Asset-linked fees, recurring revenue and product diversification support operating growth, while primary-market activity helps selected franchises. Reported profits are more mixed because treasury movements, exceptional charges and expansion costs differ across companies. Regulatory proposals, leverage and delayed profitability remain material qualifications to the sector’s growth outlook.",
+      "trends": [
+        {
+          "text": "Asset-linked and recurring revenue streams are broadening the earnings base across wealth and asset-management franchises.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "Aditya Birla Sun Life AMC Ltd",
+            "Anand Rathi Wealth Ltd",
+            "Edelweiss Financial Services Ltd",
+            "HDFC Asset Management Company Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "JM Financial Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd",
+            "Prudent Corporate Advisory Services Ltd"
+          ]
+        },
+        {
+          "text": "New products, alternatives and wider client or distribution reach create additional growth avenues.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "Aditya Birla Sun Life AMC Ltd",
+            "Anand Rathi Wealth Ltd",
+            "Angel One Ltd",
+            "Billionbrains Garage Ventures Ltd",
+            "Edelweiss Financial Services Ltd",
+            "HDFC Asset Management Company Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "JM Financial Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd",
+            "Prudent Corporate Advisory Services Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Systematic flows and deeper client relationships support asset gathering despite volatile markets.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "Aditya Birla Sun Life AMC Ltd",
+            "Anand Rathi Wealth Ltd",
+            "HDFC Asset Management Company Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd",
+            "Prudent Corporate Advisory Services Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Market volatility affects asset values, trading or transaction activity and treasury income, making reported growth less stable than core operating momentum.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "Aditya Birla Sun Life AMC Ltd",
+            "Angel One Ltd",
+            "Billionbrains Garage Ventures Ltd",
+            "HDFC Asset Management Company Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "JM Financial Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd",
+            "Prudent Corporate Advisory Services Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Primary-market transactions and alternative products add opportunities for the diversified capital-markets franchises.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "JM Financial Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nuvama Wealth Management Ltd"
+          ]
+        },
+        {
+          "text": "Lending and client funding broaden monetization but require funding capacity and collateral discipline.",
+          "companies": [
+            "Angel One Ltd",
+            "Billionbrains Garage Ventures Ltd",
+            "JM Financial Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nuvama Wealth Management Ltd"
+          ]
+        },
+        {
+          "text": "Edelweiss completes key monetization transactions and Zuno reaches its first profitable quarter.",
+          "companies": [
+            "Edelweiss Financial Services Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Nippon’s settlement charge and Nuvama’s fund closure costs show that reported earnings require separate review of exceptional items.",
+          "companies": [
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd"
+          ]
+        },
+        {
+          "text": "JM delays full-year wealth profitability, while Nuvama retains capital to manage leverage and fund growth.",
+          "companies": [
+            "JM Financial Ltd",
+            "Nuvama Wealth Management Ltd"
+          ]
+        },
+        {
+          "text": "Prudent faces a proposed insurance-commission risk; trading platforms and AMCs also remain sensitive to changes in market rules and fee economics.",
+          "companies": [
+            "Angel One Ltd",
+            "Billionbrains Garage Ventures Ltd",
+            "HDFC Asset Management Company Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "Prudent Corporate Advisory Services Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "AUM definitions differ: total client assets, fee-paying assets, mutual-fund quarterly averages and low-fee mandates cannot be treated as equivalent revenue bases.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "Aditya Birla Sun Life AMC Ltd",
+            "Edelweiss Financial Services Ltd",
+            "HDFC Asset Management Company Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd"
+          ]
+        },
+        {
+          "text": "Quarterly results can diverge from normalized or operating profit: Anand uses adjusted earnings, Motilal reports operating PAT, and several firms have treasury or one-off effects.",
+          "companies": [
+            "360 ONE WAM Ltd",
+            "Anand Rathi Wealth Ltd",
+            "ICICI Prudential Asset Management Company Ltd",
+            "Motilal Oswal Financial Services Ltd",
+            "Nippon Life India Asset Management Ltd",
+            "Nuvama Wealth Management Ltd",
+            "Prudent Corporate Advisory Services Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -12,7 +12,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Concall Research · Equity Insights Elite</title>
-  <meta name="description" content="Q1FY27 concall guidance tracker across Indian equity sectors — Co-Working, PEB, Gold Finance, MFI, Real Estate">
+  <meta name="description" content="Q2FY27 concall guidance tracker across Indian equity sectors, with company-level coverage and historical quarters">
   <meta property="og:title" content="Concall Research · Equity Insights Elite">
   <meta property="og:description" content="Sector-wise concall guidance tracker for Indian equities">
   <meta property="og:type" content="website">
@@ -168,20 +168,16 @@ const DATA_FILES = [
   'real-estate',
   'it',
   'banks',
-  'building-material',
   'exporters',
   'recycling',
   'pipes-tubes',
   'co-working',
   'peb',
-  'fmcg',
-  'cement',
-  'writing-instruments',
 ];
 
 /* ── App ─────────────────────────────────────────── */
-const CURRENT_QUARTER = 'Q1FY27';
-const CURRENT_ASOF = 'Aug 2026';
+const CURRENT_QUARTER = 'Q2FY27';
+const CURRENT_ASOF = 'Nov 2026';
 const GT_STATUS = {
   met:      { label:'Met',      c:'#059669', bg:'#ECFDF5', icon:'M5 13l4 4L19 7' },
   exceeded: { label:'Exceeded', c:'#059669', bg:'#ECFDF5', icon:'M12 19V5M5 12l7-7 7 7' },
@@ -270,7 +266,9 @@ function App() {
           const sector = {
             id: f, nm: d.sector.name, desc: d.sector.description,
             ac: d.sector.accent, al: d.sector.accentLight,
-            cos: d.companies || [], d: Object.keys(entries).length > 0,
+            cos: d.companies || [],
+            d: Object.values(entries).some(arr => Array.isArray(arr) && arr.some(e => e && e.quarter === 'Q2FY27')),
+            q2Covered: (d.companies || []).filter(n => (entries[n] || []).some(e => e && e.quarter === CURRENT_QUARTER)).length,
             summary: Array.isArray(d.sectorSummary) ? d.sectorSummary : []
           };
           const idx = DATA_FILES.indexOf(f);
@@ -308,7 +306,6 @@ function App() {
     const sec = sid ? gs(sectors, sid) : null;
     if (view === 's') { document.title = 'Concall Research · Equity Insights Elite'; return; }
     if (view === 'c' && sec) { document.title = sec.nm + ' · Concall Research'; return; }
-    if (view === 'd' && co) { document.title = sn(co).split(' ').slice(0,3).join(' ') + ' · ' + CURRENT_QUARTER; }
   }, [view, sid, co, sectors]);
 
   /* ── Navigation ── */
@@ -378,7 +375,7 @@ function App() {
     h('footer', { style:{ background:SRF, borderTop:`1px solid ${BRD}`, padding:'14px 20px', textAlign:'center', marginBottom: barDone ? 0 : 56 } },
       h('span', { style:{ fontSize:11, color:MU } },
 h('a', { href:'https://equityinsightselite.com', target:'_blank', rel:'noopener noreferrer', style:{ color:MU, textDecoration:'none' } }, 'Equity Insights Elite'),
-        ' · Concall Research · ' + totalCos + ' companies · ' + sectors.length + ' sectors · ' + CURRENT_QUARTER + ' data as of ' + CURRENT_ASOF
+        ' · Concall Research · ' + totalCos + ' companies · ' + sectors.length + ' sectors · ' + CURRENT_QUARTER + ' · ' + sectors.reduce((n, s) => n + (s.q2Covered || 0), 0) + '/' + totalCos + ' updated · as of ' + CURRENT_ASOF
       )
     ),
 
@@ -449,7 +446,7 @@ function SView({ sectors, totalCos, onSel, onSelD }) {
       h('div', { style:{ display:'flex', alignItems:'flex-start', justifyContent:'space-between', gap:16, flexWrap:'wrap' } },
         h('div', null,
           h('h1', { style:{ fontSize:23, fontWeight:700, color:TX, fontFamily:"'Space Grotesk',sans-serif", margin:'0 0 6px' } }, 'Sector Coverage'),
-          h('p',  { style:{ fontSize:13, color:S2, margin:0 } }, totalCos + ' companies · ' + sectors.length + ' sectors · ' + CURRENT_QUARTER + ' concall tracker')
+          h('p',  { style:{ fontSize:13, color:S2, margin:0 } }, totalCos + ' companies · ' + sectors.length + ' sectors · ' + CURRENT_QUARTER + ' · ' + sectors.reduce((n, s) => n + (s.q2Covered || 0), 0) + '/' + totalCos + ' updated')
         ),
         h('div', { style:{ position:'relative', display:'flex', alignItems:'center', marginTop:4 } },
           h('svg', { style:{ position:'absolute', left:11, pointerEvents:'none' }, width:14, height:14, viewBox:'0 0 24 24', fill:'none', stroke:MU, strokeWidth:2.2, strokeLinecap:'round', strokeLinejoin:'round' },
@@ -600,7 +597,7 @@ const SUM_SECTIONS = [
 
 function SectorSummary({ sec }) {
   const [qi, setQi] = useState(0);
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
   const s = sec.summary[qi] || sec.summary[0];
   const covered = typeof s.callsCovered === 'number' ? s.callsCovered : null;
   const sections = SUM_SECTIONS.filter(x => Array.isArray(s[x.k]) && s[x.k].length > 0);
@@ -731,6 +728,9 @@ function DView({ co, sec, concall }) {
   const history = concall[co];
   const [qi, setQi] = useState(0);
   const d = history && history[qi];
+  useEffect(() => {
+    document.title = sn(co).split(' ').slice(0,3).join(' ') + ' · ' + (d?.quarter || CURRENT_QUARTER);
+  }, [co, d?.quarter]);
 
   if (!history || history.length === 0) return h('div', { style:{ textAlign:'center', padding:'80px 0' } },
     h('div', { style:{ width:64, height:64, borderRadius:18, background:sec.al, display:'flex', alignItems:'center', justifyContent:'center', margin:'0 auto 16px' } },

@@ -15,6 +15,69 @@
   "concall": {
     "Titan Company Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Titan Jewellery EBIT Margin (normalized for customs-duty gain)",
+            "value": "11.1%",
+            "change": "Q2; further normalized for MTM reversal, 11.7%",
+            "positive": 0,
+            "valueNum": 11.1,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 Customs-Duty Gain (Titan Jewellery)",
+            "value": "₹490 Cr",
+            "change": "One-off inventory-related benefit; management normalizes it out of margin",
+            "positive": 0,
+            "valueNum": 490,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 Customs-Duty Gain (CaratLane)",
+            "value": "₹46 Cr",
+            "change": "One-off inventory-related benefit",
+            "positive": 0,
+            "valueNum": 46,
+            "yoyPct": null
+          },
+          {
+            "label": "Damas Acquisition Liability Fair-Value Reduction",
+            "value": "₹671 Cr",
+            "change": "Separate, recurring fair-value assessment; not operating jewellery performance",
+            "positive": 0,
+            "valueNum": 671,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Management estimated Q2 customs-duty gains of ₹490 Cr in Titan Jewellery and ₹46 Cr in CaratLane; after adjusting for these gains, Titan Jewellery margin was 11.1%, or 11.7% after also normalizing the approximately 60 bps MTM reversal.",
+          "The Damas second-tranche liability was remeasured down by ₹671 Cr from ₹1,668 Cr; management said this fair-value assessment will recur quarterly and vary with Damas recovery expectations.",
+          "CaratLane's H1 margin remained in line with its plan; management described a gradual path from 8%–9% toward double-digit EBIT margin over time."
+        ],
+        "highlights": [
+          "Management retained an approximately 11% jewellery-margin centre of gravity for FY27 and said growth remains the priority.",
+          "Studded jewellery demand remained strong, while investment buying and coins were soft; Titan said Q2 buyer growth was flat, affected by festive timing and lower coin/investment buying.",
+          "The company continued lower-caratage and lightweight offerings to improve affordability, with focus on buyer growth below ₹1 lakh and ₹50,000."
+        ],
+        "whatChanged": "Titan retains its approximately 11% jewellery-margin anchor; Q2 margin is 11.7% after both customs-duty and MTM normalization versus 10.9% on the comparable Q1 basis, while Damas introduces further fair-value volatility.",
+        "risks": [
+          "A roughly 60 bps Q2 MTM reversal reduced reported jewellery margin; management said 40–60 bps quarterly MTM movements can recur.",
+          "Management expects competitive intensity to keep increasing and cited aggressive promotions by smaller jewellers; gold-price realization pressure also offsets customs-duty gains.",
+          "Damas remains exposed to geopolitical disruption and weak regional jewellery demand; the ₹671 Cr liability remeasurement may move in either direction in future quarters."
+        ],
+        "guidance": [
+          {
+            "metric": "Titan Jewellery EBIT Margin Centre of Gravity",
+            "value": "Around 11%"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Duty-Change Gain", "value": "₹407 Cr", "change": "Consolidated", "positive": 1 },
@@ -121,6 +184,80 @@
     ],
     "Kalyan Jewellers India Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue (reported)",
+            "value": "₹10,323 Cr",
+            "change": "Q2; adjusted revenue ₹9,943 Cr after bullion, customs-duty and exceptional-item adjustments",
+            "positive": 1,
+            "valueNum": 10323,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated EBITDA (reported)",
+            "value": "₹644 Cr",
+            "change": "Q2; adjusted EBITDA ₹593 Cr",
+            "positive": 1,
+            "valueNum": 644,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated PAT (reported)",
+            "value": "₹427 Cr",
+            "change": "Q2; adjusted PAT ₹333 Cr",
+            "positive": 1,
+            "valueNum": 427,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 Consolidated Revenue",
+            "value": "₹20,912 Cr",
+            "change": "+38% YoY; reported basis",
+            "positive": 1,
+            "valueNum": 20912,
+            "yoyPct": 38
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Reported consolidated Q2 revenue was ₹10,323 Cr; management also gave adjusted revenue of ₹9,943 Cr after bullion, customs-duty and exceptional-item adjustments.",
+          "Reported consolidated Q2 EBITDA was ₹644 Cr and PAT ₹427 Cr; adjusted EBITDA was ₹593 Cr and adjusted PAT ₹333 Cr.",
+          "H1 consolidated revenue was ₹20,912 Cr (+38% YoY); H1 PAT was ₹776 Cr (+48% YoY), or ₹651 Cr adjusted.",
+          "Q2 India revenue was ₹9,007 Cr versus ₹6,843 Cr; India PAT was ₹424 Cr versus ₹262 Cr. Middle East revenue was ₹960 Cr and profit ₹12 Cr, versus ₹860 Cr and ₹15 Cr a year earlier."
+        ],
+        "highlights": [
+          "Management said festive demand remained robust, Q2 same-store sales growth exceeded 20%, and the first 40 days of Q3 were excellent with volume growth.",
+          "The Tamil Nadu regional brand ATM exceeded initial expectations; four more showrooms are planned in FY27, with two in Q3 and two in Q4.",
+          "Non-GML debt had been repaid and half the collateral was released; one land parcel sale of about ₹86–87 Cr was completed, with ₹16 Cr expected in the ongoing quarter.",
+          "Management said H2 PBT margin should be better than H1 and stable year over year after accounting for one-off customs-duty and prior-year silver/platinum gains."
+        ],
+        "whatChanged": "Compared with Q1, management now says non-GML debt repayment is complete, ATM has opened and exceeded expectations, and Q2/H1 demand has remained strong; the 25% annual revenue growth figure remains a target rather than formal numerical guidance.",
+        "risks": [
+          "Old-gold exchange is margin dilutive; management said exchange plus cash-for-gold transactions were 42% in Q2, with cash-for-gold at 7–8%, and attributed stable Q2 PBT margins partly to this mix and the customs-duty benefit.",
+          "Management acknowledged a higher Q4 comparison base and did not give a Q3/Q4 growth number; it maintained a 10% SSG assumption while describing the 25% annual revenue growth figure as a target, not formal guidance.",
+          "Middle East Q2 profit fell to ₹12 Cr from ₹15 Cr despite revenue growth; jewellery demand remains exposed to gold-price volatility and competitive intensity."
+        ],
+        "guidance": [
+          {
+            "metric": "SSG Assumption",
+            "value": "10%"
+          },
+          {
+            "metric": "Revenue planning target",
+            "value": "25% annual growth; explicitly described as a target, not formal guidance"
+          },
+          {
+            "metric": "Additional ATM stores in FY27",
+            "value": "Four: two in Q3 and two in Q4"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹10,008 Cr", "change": "+38% YoY", "positive": 1 },
@@ -226,6 +363,75 @@
       }
     ],
     "P N Gadgil Jewellers Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue from Operations",
+            "value": "₹2,660 Cr",
+            "change": "+22% YoY; reported Q2",
+            "positive": 1,
+            "valueNum": 2660,
+            "yoyPct": 22
+          },
+          {
+            "label": "Consolidated EBITDA (reported)",
+            "value": "₹224.6 Cr",
+            "change": "+57% YoY; 8.4% margin",
+            "positive": 1,
+            "valueNum": 224.6,
+            "yoyPct": 57
+          },
+          {
+            "label": "Consolidated PAT (reported)",
+            "value": "₹121.1 Cr",
+            "change": "+53% YoY; 4.5% margin",
+            "positive": 1,
+            "valueNum": 121.1,
+            "yoyPct": 53
+          },
+          {
+            "label": "H1 Consolidated Revenue",
+            "value": "₹5,079 Cr",
+            "change": "+31% YoY",
+            "positive": 1,
+            "valueNum": 5079,
+            "yoyPct": 31
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Q2 consolidated revenue from operations was ₹2,660 Cr (+22% YoY); H1 revenue was ₹5,079 Cr (+31% YoY).",
+          "Reported Q2 EBITDA was ₹224.6 Cr (+57%) at an 8.4% margin; reported PAT was ₹121.1 Cr (+53%) at a 4.5% margin.",
+          "Retail revenue rose 31% to ₹2,061 Cr with 25.5% SSSG; retail was 77% of revenue versus 72% a year ago. Franchise revenue grew 35%, while e-commerce fell 84% after deliberate reduction of low-margin coin sales.",
+          "Gold jewellery grew 47% in value and 4% in volume; diamond jewellery grew 21% in value and 11% in volume. Bars and coins fell 24% in value and 48% in volume, to 15.8% of retail revenue."
+        ],
+        "highlights": [
+          "The network ended Q2 at 80 stores; management retained a year-end target of about 103, with 8–10 openings targeted in Q3.",
+          "Management said hedge coverage had risen to approximately 80%; ₹700 Cr was raised through a QIP, and the company reported net worth of ₹2,865 Cr at September 30.",
+          "YOOU by PNG's stud ratio reached 53.1%, up from 32.9% in Q1, and the company completed the 100% acquisition of Silvostyle on October 1."
+        ],
+        "whatChanged": "Compared with Q1, revenue growth moderates to 22% and retail SSSG to 25.5% while reported profit margins improve; management retains the approximately 103-store year-end goal and increases hedge coverage to about 80%.",
+        "risks": [
+          "Navratri sales of about ₹200 Cr shifted from Q2 last year into Q3 this year, complicating quarter comparisons.",
+          "E-commerce revenue declined 84% after management cut low-margin coin sales; the channel's sales trajectory is therefore intentionally weaker during its mix reset.",
+          "About 20% of inventory remains unhedged at the stated 80% coverage; new Northern and Central stores still need to build inventory turns as they mature."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 year-end store network",
+            "value": "Approximately 103 stores; 80 at Q2-end"
+          },
+          {
+            "metric": "FY27 PAT Margin",
+            "value": "4.0%–4.2% (management described this as previously given guidance)"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
@@ -562,5 +768,104 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 3,
+      "overview": "Demand remains constructive across the three available calls, with festive timing and product mix shaping quarterly comparisons. Reported profits include customs-duty or inventory effects at some retailers, so underlying margins need separate assessment. Store rollout and buyer growth remain priorities while high gold prices and competition affect affordability and profitability.",
+      "trends": [
+        {
+          "text": "Retailers emphasize product mix, studded jewellery and affordable designs to support customer demand.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd",
+            "Titan Company Ltd"
+          ]
+        },
+        {
+          "text": "Festive timing shifts demand between quarters and complicates comparisons.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd",
+            "Titan Company Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Management describes encouraging festive or wedding-season demand entering H2.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd",
+            "Titan Company Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "High or volatile gold prices affect customer budgets, affordability and product choices.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd",
+            "Titan Company Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Kalyan expands its regional ATM brand, while PNG develops YOOU and Silvostyle alongside its core network.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd"
+          ]
+        },
+        {
+          "text": "Titan prioritizes buyer growth through lighter designs and lower-caratage offerings.",
+          "companies": [
+            "Titan Company Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Customs-duty, inventory and fair-value effects can make headline profitability differ from underlying operating performance.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd",
+            "Titan Company Ltd"
+          ]
+        },
+        {
+          "text": "Kalyan faces a higher Q4 comparison base; PNG’s new stores must mature and build inventory turns.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "P N Gadgil Jewellers Ltd"
+          ]
+        },
+        {
+          "text": "Titan faces competition and Damas geopolitical exposure, with acquisition-liability remeasurement possible in future quarters.",
+          "companies": [
+            "Titan Company Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Kalyan’s 25% revenue growth figure is a planning target rather than formal guidance; Titan’s roughly 11% margin is an anchor rather than a fixed quarterly promise.",
+          "companies": [
+            "Kalyan Jewellers India Ltd",
+            "Titan Company Ltd"
+          ]
+        },
+        {
+          "text": "PNG’s year-end goal remains approximately 103 stores; the Q2 count of 80 indicates about 23 still to open.",
+          "companies": [
+            "P N Gadgil Jewellers Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

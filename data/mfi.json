@@ -16,6 +16,85 @@
   "concall": {
     "Spandana Sphoorty Financial Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM (Sep 30)",
+            "value": "₹5,364 Cr",
+            "change": "+10% QoQ",
+            "positive": 1,
+            "valueNum": 5364,
+            "yoyPct": null
+          },
+          {
+            "label": "Disbursement (Q2)",
+            "value": "₹1,481 Cr",
+            "change": "54% to new customers",
+            "positive": 1,
+            "valueNum": 1481,
+            "yoyPct": null
+          },
+          {
+            "label": "NIM (Q2)",
+            "value": "13.6%",
+            "change": "vs 12.5% in Q1FY27",
+            "positive": 1,
+            "valueNum": 13.6,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated PAT (Q2)",
+            "value": "₹18 Cr",
+            "change": "vs ₹12 Cr in Q1FY27",
+            "positive": 1,
+            "valueNum": 18,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 AUM was ₹5,364 Cr (+10% QoQ) and disbursements ₹1,481 Cr; consolidated PAT was ₹18 Cr versus ₹12 Cr in Q1.",
+          "PPOP was ₹52 Cr before write-backs and ₹79 Cr including write-backs; standalone PAT of ₹35 Cr included a one-time ₹7.9 Cr deferred-tax-asset reversal charge.",
+          "NIM improved to 13.6% from 12.5%; GNPA fell to about 2.5% and NNPA to 0.5%, using the company’s correction to its opening remarks."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 disbursements",
+            "value": "₹6,000–6,500 Cr; unchanged"
+          },
+          {
+            "metric": "FY27 exit AUM",
+            "value": "Slightly above ₹6,000 Cr; unchanged"
+          },
+          {
+            "metric": "Gross credit cost",
+            "value": "2.5–3%; management declined a firm H2 net-cost forecast after recoveries"
+          },
+          {
+            "metric": "Business-as-usual ROA / ROE aspiration",
+            "value": "3.5–4% / about 14–15%; not a Q4 exit commitment"
+          },
+          {
+            "metric": "March 2028 AUM aspiration",
+            "value": "About ₹10,000 Cr"
+          }
+        ],
+        "highlights": [
+          "X-bucket collection efficiency was 99.6%; 31–90 DPD bucket fell to 0.55% from 0.73% at June-end; GNPA fell to about 2.5% from 3.6% at June-end.",
+          "Cost of borrowings declined to 10.6% from 13.2% in Q3FY26; company raised ₹1,622 Cr during Q2, including ₹995 Cr under CGS; liquidity was ₹1,379 Cr.",
+          "CFL merger awaits regulator approval; new LOS pilot is under way, with full branch migration expected over the next few months."
+        ],
+        "whatChanged": "Versus Q1, AUM rose 10% sequentially and PAT increased from ₹12 Cr to ₹18 Cr; FY27 AUM and disbursement guidance stayed unchanged, while tighter Maharashtra underwriting and the lack of a firm H2 net-credit-cost forecast temper the recovery.",
+        "risks": [
+          "Management identified 18 of 127 Maharashtra branches for special focus; Maharashtra and Karnataka together represented about ₹600 Cr, with approximately 96% current and 3% GNPA.",
+          "Management said the effect of drought/flood conditions may become clearer in November through January; collection pressure in Maharashtra could translate into delayed repayments.",
+          "Earnings benefit from recoveries and write-backs, while standalone profit absorbed a ₹7.9 Cr DTA reversal charge; management declined to quantify H2 net credit cost amid regional uncertainty."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -131,6 +210,86 @@
       }
     ],
     "Satin Creditcare Network Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consolidated AUM (Sep 30)",
+            "value": "₹16,589 Cr",
+            "change": "+31% YoY; +9% in H1FY27",
+            "positive": 1,
+            "valueNum": 16589,
+            "yoyPct": 31
+          },
+          {
+            "label": "Consolidated disbursement (Q2)",
+            "value": "₹3,697 Cr",
+            "change": "+41% YoY",
+            "positive": 1,
+            "valueNum": 3697,
+            "yoyPct": 41
+          },
+          {
+            "label": "Consolidated PAT (Q2)",
+            "value": "₹176 Cr",
+            "change": "+231% YoY; +43% QoQ",
+            "positive": 1,
+            "valueNum": 176,
+            "yoyPct": 231
+          },
+          {
+            "label": "Consolidated PPOP (Q2)",
+            "value": "₹324 Cr",
+            "change": "+53% YoY",
+            "positive": 1,
+            "valueNum": 324,
+            "yoyPct": 53
+          }
+        ],
+        "fyPerformance": [
+          "H1FY27 consolidated PAT was ₹299 Cr versus ₹98 Cr in H1FY26; standalone PAT was ₹292 Cr.",
+          "Standalone GNPA was 1.9%, PAR1 2.9%, and ex-pocket collection efficiency 99.8%; H1 slippages fell 68% YoY to ₹103 Cr.",
+          "Standalone Q2 reported credit cost was 2.47%; H1 credit cost was 2.77%, or about 2% excluding the management overlay, which stood at ₹50 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated AUM growth",
+            "value": "20–25%; management expects to reach within range and aims for its upper end"
+          },
+          {
+            "metric": "FY27 standalone credit cost",
+            "value": "3–3.5%"
+          },
+          {
+            "metric": "FY27 standalone ROA",
+            "value": "3.5–4%"
+          },
+          {
+            "metric": "Management overlay",
+            "value": "Initial internal aim about ₹100 Cr; ₹50 Cr built by Q2, subject to management judgment"
+          },
+          {
+            "metric": "FY30 consolidated AUM",
+            "value": "₹32,000 Cr, with 30% from non-MFI businesses"
+          }
+        ],
+        "highlights": [
+          "Standalone AUM was ₹13,608 Cr (+23% YoY); consolidated H1 disbursement was ₹7,192 Cr (+48% YoY).",
+          "Non-MFI businesses reached 20% of consolidated AUM; Satin Finserv AUM was ₹1,761 Cr (+184% YoY), while Satin Housing Finance AUM was ₹1,219 Cr (+19% YoY).",
+          "Cashless collections reached 25%; consolidated capital adequacy was 27.89%, with ₹2,235 Cr liquidity and about ₹4,600 Cr of undrawn sanctions."
+        ],
+        "whatChanged": "Q2 consolidated AUM rose from ₹15,935 Cr in Q1 to ₹16,589 Cr; AUM grew 9% from FY27 opening in H1 (about 19% annualized), so management kept rather than raised the 20–25% FY27 range and said it expects the upper end.",
+        "risks": [
+          "Management said H1 AUM growth annualizes to about 19%, below the 20–25% FY27 range; delivery depends on seasonally stronger H2.",
+          "Management plans to keep building its ₹50 Cr overlay toward an initial internal aim near ₹100 Cr, which could constrain reported returns despite better underlying collections.",
+          "Satin Housing Finance originations were slowed for two quarters while sourcing and underwriting are rebuilt; the subsidiary's growth is expected to lag Satin Finserv."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -249,6 +408,70 @@
     ],
     "Arman Financial Services Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated AUM (Sep 30)",
+            "value": "₹3,209 Cr",
+            "change": "+51% YoY; +10% QoQ",
+            "positive": 1,
+            "valueNum": 3209,
+            "yoyPct": 51
+          },
+          {
+            "label": "Consolidated disbursement (Q2)",
+            "value": "₹818 Cr",
+            "change": "+72% YoY",
+            "positive": 1,
+            "valueNum": 818,
+            "yoyPct": 72
+          },
+          {
+            "label": "Consolidated PAT (Q2)",
+            "value": "₹51 Cr",
+            "change": "vs ₹8 Cr in Q2FY26",
+            "positive": 1,
+            "valueNum": 51,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated NIM (Q2)",
+            "value": "18.2%",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 18.2,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated AUM was ₹3,209 Cr (+51% YoY), disbursement ₹818 Cr (+72%), and PAT a record ₹51 Cr versus ₹8 Cr a year earlier.",
+          "H1 consolidated PAT was ₹97 Cr versus a ₹7 Cr loss a year earlier, exceeding the ₹57 Cr profit earned in all of FY26.",
+          "Q2 NIM was 18.2%, cost-to-income about 42.6%, overall collection efficiency 96.5%, and GNPA 2.73% versus 2.76% in Q1."
+        ],
+        "guidance": [
+          {
+            "metric": "Operating expenses / AUM by March 2027",
+            "value": "Around 7%; a management aspiration, with actual delivery potentially a few tenths higher or lower"
+          }
+        ],
+        "highlights": [
+          "Q2 consolidated cost-to-income ratio improved to about 42.6% from a Q4FY26 peak of 51.7%; incremental borrowing cost fell to 11.3% from 11.7% in Q1FY27.",
+          "Around 49% of microfinance collections were digital; individual lending was almost 40% of the MFI portfolio.",
+          "Namra Q2 GNPA was 2.59%, NNPA 1.01%; Arman standalone portfolio mix was about 74% MSME, 13% LAP and 12% two-wheeler."
+        ],
+        "whatChanged": "Versus Q1FY27, consolidated AUM rose from ₹2,925 Cr to ₹3,209 Cr and Q2 PAT increased from ₹45 Cr to a record ₹51 Cr; the cost-to-income ratio also improved, while management newly emphasized drought monitoring and the pending CGFMU renewal.",
+        "risks": [
+          "Drought conditions in Maharashtra and Karnataka affect states representing 7.6% of consolidated AUM; management noted a small October fresh-delinquency deterioration in Maharashtra and said stress may emerge with a lag.",
+          "CGFMU renewal remains pending; loans originated from April 1, 2026 were not covered as of the call, and terms/timing remain uncertain. Existing cover applied to about 51% of MFI and 30% of MSME portfolio.",
+          "Management cautioned the new underwriting structure has not yet been tested through a full difficult credit cycle."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -361,6 +584,91 @@
       }
     ],
     "CreditAccess Grameen Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM (Sep 30)",
+            "value": "₹30,946 Cr",
+            "change": "+19.5% YoY; +2.1% QoQ",
+            "positive": 1,
+            "valueNum": 30946,
+            "yoyPct": 19.5
+          },
+          {
+            "label": "PAT (Q2)",
+            "value": "₹502 Cr",
+            "change": "Record quarterly profit",
+            "positive": 1,
+            "valueNum": 502,
+            "yoyPct": null
+          },
+          {
+            "label": "PPOP (Q2)",
+            "value": "₹970 Cr",
+            "change": "+39.6% YoY",
+            "positive": 1,
+            "valueNum": 970,
+            "yoyPct": 39.6
+          },
+          {
+            "label": "NIM (Q2)",
+            "value": "15.1%",
+            "change": "vs 14.4% in Q1FY27",
+            "positive": 1,
+            "valueNum": 15.1,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "AUM grew 19.5% YoY and 2.1% QoQ to ₹30,946 Cr; Q2 disbursements were ₹6,355 Cr (+19.4% YoY).",
+          "Q2 PAT was a record ₹502 Cr; H1 PAT was ₹995 Cr, with annualized H1 ROA of 5.9% and ROE of 23.8%.",
+          "Q2 NIM rose to 15.1% and PPOP to ₹970 Cr (+39.6% YoY); GNPA fell to 1.79%, NNPA to 0.59%, and September X-bucket collection was 99.71%.",
+          "Q2 credit cost was 0.99% on a non-annualized basis; annualized H1 credit cost of 3.43% included a 0.45-percentage-point macroprudential buffer."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "20–25% (retained)"
+          },
+          {
+            "metric": "FY27 ROA",
+            "value": "5.2–5.8% (raised from 4.0–4.8%)"
+          },
+          {
+            "metric": "FY27 ROE",
+            "value": "21–24% (raised from 16–20%)"
+          },
+          {
+            "metric": "FY27 NIM",
+            "value": "14.4–14.7% (raised from 12.8–13.2%)"
+          },
+          {
+            "metric": "FY27 cost-to-income",
+            "value": "29–30%"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "3–4% (retained)"
+          }
+        ],
+        "highlights": [
+          "Retail Finance AUM reached ₹7,200 Cr, 23.3% of total AUM; secured business, housing and two-wheeler book grew 60.9% YoY to ₹695 Cr.",
+          "Group Loan AUM declined 2% from FY27 start to ₹23,746 Cr, mainly due to H1 write-offs and customer graduation; management expects growth to return in H2.",
+          "Cost-to-income was 28.2%; average and marginal cost of borrowing were both 9.1% in Q2."
+        ],
+        "whatChanged": "Q2 AUM increased from ₹30,319 Cr in Q1 and Q2 NIM rose from 14.4% to 15.1%; after H1 performance, management raised FY27 ROA, ROE and NIM guidance while retaining AUM growth and credit-cost ranges.",
+        "risks": [
+          "August–September PAR accretion temporarily increased after heavy rain/flooding and festivals; October drought-related repayment extension requests were reported in pockets of Maharashtra.",
+          "Group Loan AUM was down 2% from FY27 opening after ₹614 Cr of H1 portfolio write-offs, mostly Group Loans; customer acquisition and the return to Group Loan growth are expected in H2.",
+          "Management expects credit costs to inch up somewhat in Q3; lending-rate reductions may be paused if borrowing or credit costs rise."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -480,6 +788,86 @@
     ],
     "Fusion Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM (Sep 30)",
+            "value": "₹8,007 Cr",
+            "change": "+14% YoY",
+            "positive": 1,
+            "valueNum": 8007,
+            "yoyPct": 14
+          },
+          {
+            "label": "Disbursement (Q2)",
+            "value": "₹1,726 Cr",
+            "change": "+33% YoY; -3% QoQ",
+            "positive": 1,
+            "valueNum": 1726,
+            "yoyPct": 33
+          },
+          {
+            "label": "PPOP (Q2)",
+            "value": "₹125 Cr",
+            "change": "+40% YoY; +22% QoQ",
+            "positive": 1,
+            "valueNum": 125,
+            "yoyPct": 40
+          },
+          {
+            "label": "PAT (Q2)",
+            "value": "₹86 Cr",
+            "change": "+39% QoQ; vs ₹22 Cr loss YoY",
+            "positive": 1,
+            "valueNum": 86,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "AUM was ₹8,007 Cr (+14% YoY); Q2 disbursements were ₹1,726 Cr (+33% YoY, down 3% QoQ).",
+          "Q2 PAT and PBT both rounded to ₹86 Cr; PAT rose 39% QoQ, PPOP grew 40% YoY to ₹125 Cr, and annualized ROA reached about 4%.",
+          "NII was ₹265 Cr and NIM 12.52%; annualized gross credit cost was about 2%, distinct from net cost after recoveries.",
+          "GNPA was 1.6% after a ₹54 Cr ARC sale; management put GNPA excluding that transaction at 2.28%, versus 2.51% in Q1."
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-term AUM growth",
+            "value": "20–25%"
+          },
+          {
+            "metric": "Medium-term ROA",
+            "value": "4%+"
+          },
+          {
+            "metric": "FY27 gross credit cost",
+            "value": "2–2.5%"
+          },
+          {
+            "metric": "AUM ambition",
+            "value": "₹10,000 Cr; medium term, with no revised date"
+          },
+          {
+            "metric": "LOS/LMS migration",
+            "value": "Broader branch transition before FY27 year-end"
+          }
+        ],
+        "highlights": [
+          "New Vishwas premium JLG product represented 20% of MFI disbursements in September and October; 83% of onboarded MFI customers had no more than two lender relationships including Fusion.",
+          "Legacy 90-DPD recoveries exceeded ₹30 Cr, including ₹21 Cr from written-off accounts.",
+          "LOS/LMS implementation covered about 15% of branches at the call date; management now targets broader transition before FY27 year-end."
+        ],
+        "whatChanged": "Versus Q1, PAT rose from ₹62 Cr to ₹86 Cr and annualized ROA reached about 4%, but management recast the ₹10,000 Cr FY27 AUM target as an undated medium-term ambition after H1 disruptions.",
+        "risks": [
+          "Flooding and heavy rainfall disrupted customer access in five markets during July–August; Maharashtra October collection efficiency was 98.84% with net flow of 0.57% on a ₹117 Cr book.",
+          "GNPA improvement includes a ₹54 Cr ARC sale; the comparable GNPA measure without the transaction was 2.28%.",
+          "Legacy stress remains a recovery focus; ₹21 Cr of Q2 recoveries came from written-off accounts, and about 102 branches are being rationalized."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -595,6 +983,86 @@
     ],
     "Muthoot Microfin Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM (Sep 30)",
+            "value": "₹15,323 Cr",
+            "change": "+22% YoY",
+            "positive": 1,
+            "valueNum": 15323,
+            "yoyPct": 22
+          },
+          {
+            "label": "Disbursement (Q2)",
+            "value": "₹2,900 Cr",
+            "change": "+28% YoY; +10% QoQ",
+            "positive": 1,
+            "valueNum": 2900,
+            "yoyPct": 28
+          },
+          {
+            "label": "Standalone PAT (Q2)",
+            "value": "₹110.8 Cr",
+            "change": "Q2FY27; opening remarks give ₹110.8 Cr",
+            "positive": 1,
+            "valueNum": 110.8,
+            "yoyPct": null
+          },
+          {
+            "label": "Credit cost (annualized)",
+            "value": "2.6%",
+            "change": "Within 2.5–3% guidance",
+            "positive": 1,
+            "valueNum": 2.6,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1FY27 disbursements were ₹5,545 Cr; H1 total income ₹1,403 Cr, PPOP ₹448 Cr and PAT ₹192 Cr.",
+          "Q2 standalone NIM was 12.5%, PPOP ₹249 Cr, ROA 3.0% and ROE 14.8%; cost of borrowing fell to 9.93% from 10.13% in Q1.",
+          "Q2 GNPA was 3.38%, NNPA 1.05%, X-bucket collection 99.9% and provision coverage about 69.6%."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "20% (management says committed; Q2 growth already 22% YoY)"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "2.5–3%"
+          },
+          {
+            "metric": "FY27 profit",
+            "value": "₹425–450 Cr"
+          },
+          {
+            "metric": "OPEX / AUM",
+            "value": "5.5–5.75% target; management aim"
+          },
+          {
+            "metric": "Digital collections",
+            "value": "75% long-term target, previously guided for 2030; management expects to achieve earlier"
+          }
+        ],
+        "highlights": [
+          "Non-JLG/JLG mix was 31%/69%, already ahead of the 30% non-JLG mix target for FY27; small-business individual loans reached ₹4,164 Cr (27% of AUM).",
+          "Digital collections were 47%; OPEX/GLP fell to 6.1% from 7% a year earlier; standalone cost-to-income was 48.1% in Q2.",
+          "October collection efficiency improved to 99.2% from 98.1% for Q2; over 81% of Maharashtra/Karnataka exposure had natural-calamity cover."
+        ],
+        "whatChanged": "Versus Q1, AUM grew from ₹14,005 Cr to ₹15,323 Cr, non-JLG share rose from 24% to 31%, and average borrowing cost fell below 10%; management retained 20% FY27 AUM growth and ₹425–450 Cr profit guidance.",
+        "risks": [
+          "Management mapped 3.6% of on-book portfolio (about ₹550 Cr) to drought-affected Maharashtra and Karnataka; 81% of this exposure has NATCAT cover and collection trends were stable at the call date.",
+          "The company still had 3.38% GNPA and 1.05% NNPA; ECL releases reflected modelled portfolio improvement, while management cited a ₹24 Cr contingency buffer.",
+          "Rising rates may put upward pressure on funding costs, although the company said liquidity and sanctions provide negotiating capacity."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 / H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -708,5 +1176,136 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 6,
+      "overview": "All six lenders reported sequential AUM growth and continued earnings recovery, supported by collections, operating leverage and more selective lending. Weather-related collection risks remain prominent, while guidance diverges: CreditAccess raised profitability ranges and Fusion deferred the timing of its ₹10,000 Cr ambition.",
+      "trends": [
+        {
+          "text": "Loan books expanded sequentially as lenders balanced growth with tighter borrower selection and collection discipline.",
+          "companies": [
+            "Arman Financial Services Ltd",
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd",
+            "Satin Creditcare Network Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        },
+        {
+          "text": "Improved collection performance and lower reported NPAs supported recovery, with definitions and the effect of portfolio sales requiring company-specific review.",
+          "companies": [
+            "Arman Financial Services Ltd",
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd",
+            "Satin Creditcare Network Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Operating leverage, better branch productivity or cost controls supported margins and earnings.",
+          "companies": [
+            "Arman Financial Services Ltd",
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd",
+            "Satin Creditcare Network Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        },
+        {
+          "text": "Lower borrowing costs were reported as funding access and lender confidence improved.",
+          "companies": [
+            "Arman Financial Services Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Drought, flooding or rainfall disruption prompted close regional monitoring; stable current collections do not settle the eventual credit-cost impact.",
+          "companies": [
+            "Arman Financial Services Ltd",
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd",
+            "Satin Creditcare Network Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        },
+        {
+          "text": "Growth delivery still depends on a stronger H2 or improved disbursement momentum, despite better current profitability.",
+          "companies": [
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Satin Creditcare Network Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Individual borrower graduation and non-JLG lending can deepen existing customer relationships without proportionate branch investment.",
+          "companies": [
+            "Arman Financial Services Ltd",
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd"
+          ]
+        },
+        {
+          "text": "Secured MSME, housing and gold products offer diversification beyond core group microfinance.",
+          "companies": [
+            "CreditAccess Grameen Ltd",
+            "Fusion Finance Ltd",
+            "Muthoot Microfin Ltd",
+            "Satin Creditcare Network Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Arman said loans originated from April 2026 lacked CGFMU cover pending scheme renewal; timing and final terms remained uncertain.",
+          "companies": [
+            "Arman Financial Services Ltd"
+          ]
+        },
+        {
+          "text": "ARC sales contributed to reported asset-quality improvement at Fusion and Spandana, so headline NPA reductions need to be assessed alongside recoveries and credit costs.",
+          "companies": [
+            "Fusion Finance Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "CreditAccess raised FY27 ROA guidance to 5.2–5.8%, ROE to 21–24% and NIM to 14.4–14.7%, while retaining 20–25% AUM growth.",
+          "companies": [
+            "CreditAccess Grameen Ltd"
+          ]
+        },
+        {
+          "text": "Fusion’s ₹10,000 Cr AUM goal is now an undated medium-term ambition; Spandana separately reiterated its March 2028 aspiration.",
+          "companies": [
+            "Fusion Finance Ltd",
+            "Spandana Sphoorty Financial Ltd"
+          ]
+        },
+        {
+          "text": "Satin retained 20–25% FY27 AUM growth and is building buffers; its 31% YoY September growth should not be confused with 9% growth from the start of FY27.",
+          "companies": [
+            "Satin Creditcare Network Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -25,6 +25,76 @@
   "concall": {
     "Apollo Hospitals Enterprise Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹7,615 Cr",
+            "change": "+23% YoY",
+            "positive": 1,
+            "valueNum": 7615,
+            "yoyPct": 23
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹1,191 Cr",
+            "change": "+29% YoY; 15.6% margin",
+            "positive": 1,
+            "valueNum": 1191,
+            "yoyPct": 29
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹630 Cr",
+            "change": "+32% YoY",
+            "positive": 1,
+            "valueNum": 630,
+            "yoyPct": 32
+          },
+          {
+            "label": "Hospital Occupancy",
+            "value": "73%",
+            "change": "vs 70% Q2FY26",
+            "positive": 1,
+            "valueNum": 73,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue was ₹7,615 Cr (+23% YoY), EBITDA ₹1,191 Cr (+29%; 15.6% margin) and PAT ₹630 Cr (+32%).",
+          "Q2 Healthcare Services revenue was ₹3,900 Cr (+23%); established hospitals contributed ₹3,765 Cr (+19%) and new hospitals ₹135 Cr.",
+          "Q2 inpatient volumes grew 14%, occupancy was 73% and average revenue per patient was ₹1,86,880 (+8%).",
+          "H1 consolidated revenue was ₹14,547 Cr (+22%), EBITDA ₹2,268 Cr (+29%) and PAT ₹1,211 Cr (+33%)."
+        ],
+        "guidance": [
+          {
+            "metric": "Hospital capacity rollout",
+            "value": "1,395 census beds planned across FY26–27; 520 commissioned by Q2, remaining planned over next 12–18 months."
+          },
+          {
+            "metric": "Integrated HealthCo FY27 EBITDA",
+            "value": "Management indicated ₹1,500 Cr-plus for the integrated business; current-year margin expectation lowered to about 6% from prior 6.5–7%."
+          }
+        ],
+        "highlights": [
+          "Established hospitals delivered ₹971 Cr EBITDA at 25.8% margin (+61 bps YoY); new hospitals had ₹35 Cr EBITDA loss during ramp-up.",
+          "Apollo HealthCo Q2 revenue was ₹3,286 Cr (+23%), EBITDA ₹193 Cr (+75%) and PAT ₹118 Cr; 24/7 digital cash profit turned positive at ₹1 Cr versus ₹39 Cr loss a year ago.",
+          "AHLL Q2 revenue was ₹429 Cr (+20%), EBITDA ₹61 Cr at a 14.3% margin and PAT ₹26 Cr.",
+          "Management said the three newer hospitals other than Hyderabad are expected to reach EBITDA break-even by year-end; Gurugram commissioning was expected before the next results quarter.",
+          "Demerger completion remains expected in Q4FY27."
+        ],
+        "whatChanged": "Q2 kept strong hospital and group growth, but management lowered the integrated HealthCo FY27 exit-margin expectation to about 6% from the earlier 6.5–7% and described regulatory pricing uncertainty without quantifying its impact.",
+        "risks": [
+          "Potential drug-price regulation remained unquantified; pharmacy management expected an impact and was awaiting revised MRPs effective 9 November.",
+          "New hospitals remained loss-making overall as recently commissioned beds ramp; 875 of the planned 1,395 census beds were not yet commissioned at quarter-end.",
+          "HealthCo’s near-term margin was revised down to about 6%, with one-time scheme/integration and staffing costs cited."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -174,6 +244,84 @@
       }
     ],
     "Max Healthcare Institute Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Network Gross Revenue",
+            "value": "₹3,219 Cr",
+            "change": "+20% YoY",
+            "positive": 1,
+            "valueNum": 3219,
+            "yoyPct": 20
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹820 Cr",
+            "change": "+18% YoY; 26.8% margin",
+            "positive": 1,
+            "valueNum": 820,
+            "yoyPct": 18
+          },
+          {
+            "label": "Network PAT",
+            "value": "₹448 Cr",
+            "change": "+10% YoY normalized",
+            "positive": 1,
+            "valueNum": 448,
+            "yoyPct": 10
+          },
+          {
+            "label": "Network Occupancy",
+            "value": "77%",
+            "change": "Stable YoY; operational beds +14%",
+            "positive": 1,
+            "valueNum": 77,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 network gross revenue was ₹3,219 Cr, up 20% YoY; occupied bed days rose 13% and IP ARPP grew 8% to ₹2.31 lakh.",
+          "Operating EBITDA was ₹820 Cr, up 18% YoY, with 26.8% margin; PAT was ₹448 Cr, up 10% against prior-year PAT normalized for a one-time tax gain.",
+          "H1 gross revenue was ₹6,200 Cr (+18%); operating EBITDA ₹1,524 Cr (+17%) with 25.9% margin; normalized PAT ₹805 Cr (+7%).",
+          "Management reported ₹500 Cr quarterly free cash generation, followed by ₹292 Cr growth investment and ₹195 Cr dividends; net debt was ₹2,369 Cr.",
+          "202 brownfield beds were added to operational capacity during Q2; network occupancy remained 77% despite 14% YoY operational bed growth."
+        ],
+        "highlights": [
+          "Max Smart's newly commissioned 260 beds reached EBITDA breakeven within three months; the remaining 140 beds were expected to open after Diwali puja.",
+          "The board approved ₹415 Cr for 209 brownfield beds at Noida, Vaishali and BLK, including the BLK car park; most capacity is expected over 18–24 months.",
+          "The 500-bed Sector-56 Gurgaon greenfield is expected to begin phased commissioning by FY27 end; management estimated peak EBITDA loss around ₹40–50 Cr, with one-year breakeven planning.",
+          "The company has not yet quantified the new oncology drug trade-margin cap impact."
+        ],
+        "whatChanged": "Versus Q1FY27, Q2 revenue growth accelerated to 20% and operating EBITDA growth to 18%, occupancy held at 77% despite higher capacity, and Max Smart reached breakeven for its first 260 beds; management also added 209 approved brownfield beds to the near-term pipeline.",
+        "risks": [
+          "Initial ramp-up of Max Smart's new beds reduced Saket Complex EBITDA in Q2, though management described the drag as largely normalized.",
+          "Management was still assessing the impact of the oncology drug trade-margin cap.",
+          "Sector-56 Gurgaon and Mohali greenfields entail near-term EBITDA losses; management's estimates remain preliminary until clinician onboarding and commissioning."
+        ],
+        "guidance": [
+          {
+            "metric": "Brownfield beds",
+            "value": "209 approved beds at Noida, Vaishali and BLK; most expected to be available over 18–24 months, alongside ₹85 Cr BLK multi-level car park within the ₹415 Cr approval."
+          },
+          {
+            "metric": "Max Smart",
+            "value": "Remaining 140 beds expected after Diwali puja."
+          },
+          {
+            "metric": "Sector-56 Gurgaon",
+            "value": "Phase commissioning expected by FY27 end; management estimated peak EBITDA loss of about ₹40–50 Cr and typically plans for breakeven within one year."
+          },
+          {
+            "metric": "Zirakpur, Mohali",
+            "value": "Commissioning expected by December 2027; preliminary peak EBITDA loss estimate about ₹30 Cr."
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -325,6 +473,80 @@
     ],
     "Fortis Healthcare Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹2,735 Cr",
+            "change": "+17.3% YoY",
+            "positive": 1,
+            "valueNum": 2735,
+            "yoyPct": 17.3
+          },
+          {
+            "label": "Operating EBITDA, pre-ESOP",
+            "value": "₹663 Cr",
+            "change": "+19.2% YoY; 24.2% margin",
+            "positive": 1,
+            "valueNum": 663,
+            "yoyPct": 19.2
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹317 Cr",
+            "change": "+4% YoY; excluding exceptional gains",
+            "positive": 1,
+            "valueNum": 317,
+            "yoyPct": 4
+          },
+          {
+            "label": "Hospital Occupancy",
+            "value": "72%",
+            "change": "vs 71% Q2FY26",
+            "positive": 1,
+            "valueNum": 72,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 hospital revenue was ₹2,340 Cr (+18.6%); pre-ESOP hospital operating EBITDA was ₹545 Cr at 23.3% margin.",
+          "Q2 Diagnostics gross revenue was ₹448 Cr (+12.2%); pre-ESOP operating EBITDA was ₹118 Cr at 26.2% margin.",
+          "H1 consolidated revenue was ₹5,280 Cr (+17.4%) and adjusted PAT ₹581 Cr (+3.8%); net debt was ₹2,188 Cr and net debt/EBITDA 0.87x at 30 September.",
+          "Q2 occupied beds rose 9% to 3,616; ARPP rose 6.8% to ₹2.1 lakh."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated EBITDA margin",
+            "value": "About 22% post-ESOP, broadly flat with FY26; current-year hospital margin expected flattish."
+          },
+          {
+            "metric": "Agilus FY27 revenue growth",
+            "value": "12–13%; management expects mid-teens growth in a few quarters and a return to industry growth thereafter, without a stated date."
+          },
+          {
+            "metric": "Brownfield expansion pipeline",
+            "value": "About 2,000 beds over 3–4 years; separate 400-bed Delhi greenfield project is additional"
+          }
+        ],
+        "highlights": [
+          "Management said pre-ESOP operating EBITDA excludes a non-cash ESOP charge; ESOP was about 1.5 percentage points of revenue in Q2.",
+          "15 hospitals exceeded 20% operating EBITDA margin and represented about 84% of hospital revenue.",
+          "Suguna Hospital (110 beds, with potential to expand to 150) was acquired; a 400-bed Ashok Vihar greenfield hospital services agreement was also announced.",
+          "A roughly 2,000-bed pipeline over 3–4 years is largely existing-hospital brownfield expansion and completed/identified additions; the separate Delhi 400-bed greenfield project is over and above it.",
+          "Management cited regulatory drug-price uncertainty as a reason for withholding future-year margin guidance."
+        ],
+        "whatChanged": "Management now expects FY27 margins around 22% after ESOP expense and defers longer-term margin forecasts pending drug-pricing clarity; FMRI approvals and Manesar oncology commissioning are taking longer than earlier discussed.",
+        "risks": [
+          "Drug-price rules could reduce profitability; management called the potential impact negative but said it could not yet quantify it.",
+          "Longer-term margin expansion is less certain while management assesses new drug-pricing rules and possible mitigation.",
+          "Bengaluru occupancy remains below group levels while new units ramp; Punjab capacity constraints limit growth until brownfield beds open."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -447,10 +669,94 @@
         ],
         "quote": "\"Fortis is outperforming the sector on margin expansion, specialty growth, international patients, robotic procedures and improving facility-level profitability.\"",
         "quotePerson": "Management Commentary",
-        "asOf": "May 2026"
+        "asOf": "May 2026",
+        "guidance": [
+          {
+            "metric": "FY27 hospital revenue growth",
+            "value": "15%+ on an ongoing basis; acquisitions are incremental"
+          },
+          {
+            "metric": "FY27 hospital EBITDA margin expansion",
+            "value": "150 basis points"
+          }
+        ]
       }
     ],
     "Global Health Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from Operations",
+            "value": "₹1,469 Cr",
+            "change": "+34% YoY",
+            "positive": 1,
+            "valueNum": 1469,
+            "yoyPct": 34
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹370.1 Cr",
+            "change": "+60% YoY; 25.2% margin",
+            "positive": 1,
+            "valueNum": 370.1,
+            "yoyPct": 60
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹219.1 Cr",
+            "change": "+38% YoY",
+            "positive": 1,
+            "valueNum": 219.1,
+            "yoyPct": 38
+          },
+          {
+            "label": "Network Occupancy",
+            "value": "67%",
+            "change": "vs 64% in Q2FY26",
+            "positive": 1,
+            "valueNum": 67,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue from operations was ₹1,469 Cr; operating EBITDA was ₹370.1 Cr (25.2% margin) and PAT ₹219.1 Cr.",
+          "Inpatient volumes grew 30% YoY and outpatient volumes 38%; occupied bed days rose 22%.",
+          "Noida reached quarterly EBITDA breakeven, with ₹105.9 Cr revenue from operations and ₹8.6 Cr operating EBITDA.",
+          "Operational bed capacity reached 3,811 after 74 additions; census bed capacity was 3,115, a distinct measure.",
+          "The network had net cash surplus of ₹781.5 Cr at September 30, 2026; H1 operating cash flow was ₹567.8 Cr."
+        ],
+        "highlights": [
+          "Cluster 1 revenue from operations grew 18% YoY to ₹822.9 Cr; operating EBITDA grew 29% to ₹181.0 Cr.",
+          "Cluster 2 revenue from operations grew 63% YoY to ₹579.0 Cr; operating EBITDA grew 110% to ₹183.7 Cr.",
+          "Ghaziabad 500-bed hospital was board-approved, with approximately ₹1,000 Cr project capex.",
+          "Noida reached EBITDA breakeven within a year of opening; 482 beds were operational at quarter end."
+        ],
+        "whatChanged": "Noida reaches quarterly EBITDA breakeven and Ghaziabad adds a new 500-bed project, but Pitampura is delayed by revised drawings and approvals; revenue and EBITDA reporting now use operating definitions rather than Q1’s total-income basis.",
+        "risks": [
+          "Pitampura is behind the prior schedule while revised drawings and approvals are being addressed.",
+          "The company plans more than ₹6,000 Cr capex over 4–5 years for a pipeline of about 3,450 beds, creating execution and funding requirements.",
+          "Management said Q3 is normally softer due to festivals and flagged possible construction slowdown from pollution-linked restrictions in South Delhi."
+        ],
+        "guidance": [
+          {
+            "metric": "Bed pipeline",
+            "value": "Approximately 3,450 beds over the next few years, taking network capacity to over 7,600 beds."
+          },
+          {
+            "metric": "Expansion capex",
+            "value": "More than ₹6,000 Cr over the next 4–5 years."
+          },
+          {
+            "metric": "Ghaziabad project",
+            "value": "500-bed hospital; approximately ₹1,000 Cr capex."
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -602,6 +908,65 @@
     ],
     "Narayana Hrudayalaya Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": false,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "India Hospital EBITDA Margin",
+            "value": ">26%",
+            "change": "Q2 India hospital business; not group margin",
+            "positive": 1,
+            "valueNum": 26,
+            "yoyPct": null
+          },
+          {
+            "label": "India Inpatient Footfalls",
+            "value": "+4%",
+            "change": "YoY, Q2",
+            "positive": 1,
+            "valueNum": 4,
+            "yoyPct": 4
+          },
+          {
+            "label": "India Outpatient Footfall",
+            "value": "+12.5%",
+            "change": "YoY, Q2",
+            "positive": 1,
+            "valueNum": 12.5,
+            "yoyPct": 12.5
+          },
+          {
+            "label": "Clinic and Insurance Loss",
+            "value": "₹22 Cr",
+            "change": "Combined Q2 loss; down from ₹33 Cr in Q1",
+            "positive": 1,
+            "valueNum": 22,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 operating indicators",
+        "fyPerformance": [
+          "India hospital EBITDA margin exceeded 26% in Q2, with India IP footfalls up 4% YoY and OP footfall up 12.5% YoY",
+          "India ARPOB increased to ₹19.5 million annualized from ₹17.5 million a year earlier; management attributed improvement to higher-end procedures and robotics",
+          "Combined clinic and insurance losses declined to ₹22 Cr in Q2 from ₹33 Cr in Q1; insurance losses in Cayman fell to US$1.1 million from US$3.7 million"
+        ],
+        "outlook": "Management prioritizes patient-volume growth and affordability over a margin target. It expects domestic inpatient and outpatient footfalls to grow in Q3 and Q4 as Eastern-region scheme-patient transition issues settle. No numeric margin or break-even guidance was given. The UK business is being assessed over a 5–7-year horizon; management expects to work through revenue and cost integration challenges.",
+        "highlights": [
+          "Management said current India margins reflect long-running digitization, process and supply-chain efficiencies, and said volume growth remains the priority",
+          "India inpatient footfalls grew 6% sequentially and nearly 4% YoY; management expects stronger Eastern-region growth after a government-scheme transition",
+          "UK private-payer building blocks and cost initiatives are progressing, but NHS contracting and revenue remain volatile"
+        ],
+        "whatChanged": "India margins benefit from operating leverage and volume growth, while combined clinic and insurance losses narrow from Q1; management emphasizes volume and affordability, with UK revenue growth and private-patient acquisition still taking time.",
+        "risks": [
+          "UK revenue has softened and non-NHS patient acquisition is taking longer than expected; NHS contract resets occur annually and are outside management's direct control",
+          "India and Cayman collections were slower in H1, reducing cash conversion temporarily; management expects collections to normalize",
+          "Insurance remains loss-making with no break-even timeline, while oncology price-cap effects remain uncertain"
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -728,6 +1093,84 @@
       }
     ],
     "Krishna Institute of Medical Sciences Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue from Operations",
+            "value": "₹1,344 Cr",
+            "change": "+39.9% YoY",
+            "positive": 1,
+            "valueNum": 1344,
+            "yoyPct": 39.9
+          },
+          {
+            "label": "Consolidated EBITDA, pre-Ind AS",
+            "value": "₹250 Cr",
+            "change": "+24.7% YoY",
+            "positive": 1,
+            "valueNum": 250,
+            "yoyPct": 24.7
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹76 Cr",
+            "change": "vs ₹72 Cr Q2FY26",
+            "positive": 1,
+            "valueNum": 76,
+            "yoyPct": null
+          },
+          {
+            "label": "IP Volumes",
+            "value": "81,668",
+            "change": "+27% YoY",
+            "positive": 1,
+            "valueNum": 81668,
+            "yoyPct": 27
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated total revenue was ₹1,363 Cr; revenue from operations was ₹1,344 Cr, up 39.9% YoY.",
+          "Consolidated EBITDA was ₹279 Cr on the total-revenue presentation, while pre-Ind AS EBITDA was ₹250 Cr; pre-Ind AS EBITDA excluding other income was ₹232 Cr. These definitions are not interchangeable.",
+          "The stated 20.5% margin corresponds to ₹279 Cr EBITDA on ₹1,363 Cr total income; pre-Ind AS EBITDA excluding other income is a different operating measure.",
+          "PAT was ₹76 Cr versus ₹72 Cr in Q2FY26; IP volumes grew 27%, OP volumes 23.3%, average revenue per operating bed 14.9%, and average revenue per patient 9.9% YoY.",
+          "Management attributed Andhra Pradesh margin pressure to two new oncology programs and ₹7.8 Cr doubtful-debt provision; the provision may reverse after government payment."
+        ],
+        "highlights": [
+          "Kondapur expansion revenue was reported to have grown about 70% since the old facility transition; around 500 commissioned beds were at roughly 70% occupancy, with further beds to be commissioned over the next two quarters.",
+          "Management said Q2 was the bottom margin quarter and expected an upward trajectory, assuming no additional hospital commissioning over the next few months.",
+          "Electronic City monthly EBITDA breakeven was reached in September; quarterly breakeven is expected in Q4 rather than Q3.",
+          "About 400–500 beds are expected to be added over the next 24 months; larger Chennai expansion is expected from FY29–FY30 onward."
+        ],
+        "whatChanged": "Versus Q1FY27, revenue and EBITDA grew with the Kondapur ramp-up, but Q2 margin was pressured by the two oncology launches and a ₹7.8 Cr provision for doubtful government receivables; management called Q2 the bottom and gave a Q4 quarterly breakeven expectation for Electronic City.",
+        "risks": [
+          "New oncology programs in Vizag and Anantapur are adding fixed costs; Anantapur may take about a year to reach healthy margins.",
+          "Several insurance empanelments remain incomplete at Thane and Mahadevapura, and Electronic City is still ramping up.",
+          "The three active projects are expected to require about ₹1,100 Cr capex over 18 months; net debt was about ₹2,150 Cr at Q2 end."
+        ],
+        "guidance": [
+          {
+            "metric": "Electronic City",
+            "value": "Quarterly EBITDA breakeven expected in Q4 FY27; monthly breakeven occurred in September."
+          },
+          {
+            "metric": "Near-term beds",
+            "value": "Approximately 400–500 beds over the next 24 months; about 400 beds in Rajahmundry and Ongole planned for commissioning over the next 4–5 months."
+          },
+          {
+            "metric": "Kondapur",
+            "value": "Remaining beds to be commissioned over the next two quarters; stated occupancy was approximately 70% on about 500 commissioned beds."
+          },
+          {
+            "metric": "Capex",
+            "value": "Approximately ₹1,100 Cr across Secunderabad, Rajahmundry and Kondapur over the next 18 months."
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -879,6 +1322,88 @@
     ],
     "Yatharth Hospital & Trauma Care Services Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹431.4 Cr",
+            "change": "Q2 consolidated; +52% YoY",
+            "positive": 1,
+            "valueNum": 431.4,
+            "yoyPct": 52
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹102.0 Cr",
+            "change": "Q2 consolidated; +50% YoY",
+            "positive": 1,
+            "valueNum": 102,
+            "yoyPct": 50
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "23.6%",
+            "change": "Q2 consolidated; 28% adjusted margin excludes New Delhi and Faridabad Sector-20 ramp-up losses",
+            "positive": 1,
+            "valueNum": 23.6,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit After Tax",
+            "value": "₹48.5 Cr",
+            "change": "Q2 consolidated; +17% YoY",
+            "positive": 1,
+            "valueNum": 48.5,
+            "yoyPct": 17
+          }
+        ],
+        "performanceLabel": "Q2 and H1",
+        "fyPerformance": [
+          "Q2 consolidated revenue was ₹431.4 Cr, up 52% YoY; H1 revenue was ₹824.1 Cr, also up 52%",
+          "Q2 consolidated EBITDA was ₹102 Cr, up 50%, at a 23.6% margin; the separately stated 28% adjusted margin excludes ramp-up losses at New Delhi and Faridabad Sector-20",
+          "Q2 PAT was ₹48.5 Cr, up 17%; H1 PAT was ₹93.9 Cr and H1 operating cash flow was ₹111.3 Cr",
+          "Existing hospitals contributed ₹310.9 Cr of Q2 revenue, up 24%; newer hospitals contributed ₹120.5 Cr, or 28% of group revenue, and collectively moved to positive EBITDA during H1"
+        ],
+        "guidance": [
+          {
+            "metric": "Existing Plan Revenue Growth",
+            "value": "About 30% YoY over the next 3–4 years"
+          },
+          {
+            "metric": "Organic Network Capacity",
+            "value": "5,000 beds over about 3–4 years; existing plan unchanged from Q1"
+          },
+          {
+            "metric": "EBITDA Margin",
+            "value": "About 24% or higher for the existing plan; management says guidance is unchanged despite oncology price caps"
+          },
+          {
+            "metric": "Advent-funded Expansion",
+            "value": "Proposed ₹3,150 Cr primary investment, subject to approvals; aims to add about 2,000 beds and build a 7,000–8,000-bed franchise over 3–5 years"
+          },
+          {
+            "metric": "Delhi Model Town Break-even",
+            "value": "Management expects December 2026 to be the break-even month"
+          }
+        ],
+        "highlights": [
+          "The network had about 2,800 beds, but 350–400 beds across Faridabad, Model Town and Agra were not yet operationalized; management expects to open them over the next 2–3 quarters",
+          "Existing hospitals grew revenue 24% YoY with 28%+ EBITDA margins; newer hospitals provided 28% of Q2 group revenue and reached positive EBITDA collectively in H1",
+          "The proposed Advent transaction is a primary equity and warrants investment awaiting approvals; the first tranche and funds had not yet been received at the time of the call",
+          "Management expects limited impact from the current oncology drug cap and retains its roughly 24% group EBITDA-margin outlook."
+        ],
+        "whatChanged": "Q1 described a 5,000-bed organic target; Q2 retains that plan and adds a proposed Advent-funded acquisition program aiming for roughly 2,000 more beds, taking the stated ambition to 7,000–8,000 beds subject to approvals and deal execution.",
+        "risks": [
+          "The ₹3,150 Cr Advent investment is proposed and subject to regulatory approvals; the incremental acquisitions are not yet completed and depend on sourcing assets",
+          "350–400 beds remain unopened and several acquired hospitals are still ramping, including Delhi Model Town, which reported an operating loss in Q2",
+          "Current oncology drug caps and any broader future pricing regulation may affect profitability; mitigation remains an execution task."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1028,6 +1553,80 @@
       }
     ],
     "Rainbow Childrens Medicare Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹548 Cr",
+            "change": "Q2; +23.2% YoY",
+            "positive": 1,
+            "valueNum": 548,
+            "yoyPct": 23.2
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹170 Cr",
+            "change": "Q2; +14.2% YoY; post-Ind AS",
+            "positive": 1,
+            "valueNum": 170,
+            "yoyPct": 14.2
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "31.0%",
+            "change": "Q2; post-Ind AS",
+            "positive": 1,
+            "valueNum": 31,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit After Tax",
+            "value": "₹83.9 Cr",
+            "change": "Q2; +10.9% YoY",
+            "positive": 1,
+            "valueNum": 83.9,
+            "yoyPct": 10.9
+          }
+        ],
+        "performanceLabel": "Q2 and H1",
+        "fyPerformance": [
+          "Q2 revenue was ₹548 Cr, up 23.2% YoY; EBITDA was ₹170 Cr, up 14.2%, with a 31.0% post-Ind AS margin",
+          "Q2 PAT was ₹83.9 Cr, up 10.9% YoY; H1 revenue of ₹1,018 Cr grew 27.6% and H1 EBITDA of ₹304.6 Cr grew 20.6%",
+          "Q2 consultations grew 19%, deliveries 20% and inpatient discharges 15%; H1 growth was 21%, 22% and 21%, respectively",
+          "Q2 capex was ₹81.9 Cr; cash, deposits and mutual fund investments totaled ₹542.8 Cr at September 30"
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue Growth",
+            "value": "High-teens stated growth expectation; management sees potential to deliver higher growth, but gives no fixed FY27 percentage"
+          },
+          {
+            "metric": "Pre-Ind AS EBITDA Margin",
+            "value": "Around 25%–26% while expanding; temporary quarterly pressure could be about 0.5%–1%"
+          },
+          {
+            "metric": "Mature Hospital Occupancy",
+            "value": "Around 60% potential maximum"
+          }
+        ],
+        "highlights": [
+          "Q2 growth came despite a seasonally soft quarter and weaker monsoon-linked disease activity; mature hospitals exceeded 50% occupancy",
+          "New 70-bed Nellore and 50-bed Guntur hospitals commenced operations; these are operating beds at newly started hospitals, separate from the 1,050-bed construction pipeline",
+          "Emerging hospitals generated healthy EBITDA; new hospitals that started in the prior 6–8 months had an approximately negative 16% EBITDA margin",
+          "Fertility contributed about 5% of revenue; management expects IVF to grow with obstetrics OPDs and did not disclose vertical-level margins"
+        ],
+        "whatChanged": "Nellore and Guntur commence operations and emerging hospitals improve, while newer units still dilute margins; management describes high-teens growth expectations and aims to sustain roughly 25% pre-Ind AS margins through expansion.",
+        "risks": [
+          "A large construction pipeline adds commissioning and ramp-up risk; management expects most new hospitals to reach EBITDA break-even within two years, with timing varying by city",
+          "New hospitals were at approximately negative 16% EBITDA margin, and expansion may cause quarterly margin pressure of about 0.5%–1%",
+          "Mature-hospital occupancy was about 54% against management's estimated 60% ceiling; seasonal softness and execution in newer cities affect growth"
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1179,6 +1778,76 @@
     ],
     "Jupiter Life Line Hospitals Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Income",
+            "value": "₹456.5 Cr",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 456.5,
+            "yoyPct": null
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹106.9 Cr",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 106.9,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹56.4 Cr",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 56.4,
+            "yoyPct": null
+          },
+          {
+            "label": "Network Occupancy",
+            "value": "59.5%",
+            "change": "H1; 64.8% excluding Dombivli",
+            "positive": 0,
+            "valueNum": 59.5,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 income was ₹456.5 Cr, EBITDA ₹106.9 Cr and PAT ₹56.4 Cr.",
+          "H1 income was ₹867.5 Cr, EBITDA ₹186.2 Cr and PAT ₹93.9 Cr.",
+          "Reported blended ARPOB was ₹71,800, IP ARPOB ₹58,700 and ALOS 3.79 days; H1 occupancy was 59.5%, or 64.8% excluding Dombivli.",
+          "Dombivli's EBITDA impact narrowed to ₹0.2 Cr in Q2 from ₹9.5 Cr in Q1; management attributed the improvement to organic growth plus seasonal infectious-disease admissions.",
+          "The company had over ₹400 Cr cash and about ₹600 Cr consolidated debt at Q2 end, or around ₹170 Cr net debt."
+        ],
+        "highlights": [
+          "Pune South land acquisition was approved for ₹150 Cr, with ₹50 Cr deposit already paid and ₹100 Cr incremental cash outflow.",
+          "Dombivli occupancy was in the mid-30s; its EBITDA near-breakeven quarter included seasonal benefit, and management did not revise the usual two-year new-hospital breakeven planning assumption.",
+          "Indore remains in a growth phase with ongoing medical hiring; management expects fluctuations in revenue, EBITDA and occupancy as capacity ramps.",
+          "Management stated it does not provide financial guidance; new hospitals are generally planned with a two-year EBITDA drag and debt is capped at 3x EBITDA."
+        ],
+        "whatChanged": "Q2 income and earnings rose sequentially from the Q1 entry, while Dombivli's quarterly EBITDA drag fell sharply; management cautioned that Q2 seasonality helped and did not revise the conservative two-year new-hospital breakeven planning assumption.",
+        "risks": [
+          "Dombivli's Q2 near-breakeven reflected seasonal infectious-disease admissions as well as organic ramp-up; Q3 occupancy is typically lower.",
+          "Indore is still hiring doctors and may show uneven operating results over several quarters.",
+          "Dombivli insurance empanelment is still underway and the hospital remains more reliant on self-pay patients; the three live expansion projects require continued capex."
+        ],
+        "guidance": [
+          {
+            "metric": "New hospital breakeven planning",
+            "value": "Management's conservative budget model assumes about two years to EBITDA breakeven; no revision was made for Dombivli."
+          },
+          {
+            "metric": "Debt ceiling",
+            "value": "Self-imposed maximum of 3x EBITDA."
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1328,6 +1997,83 @@
       }
     ],
     "Artemis Medicare Services Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹311 Cr",
+            "change": "+13.2% YoY",
+            "positive": 1,
+            "valueNum": 311,
+            "yoyPct": 13.2
+          },
+          {
+            "label": "Reported EBITDA",
+            "value": "₹62.89 Cr",
+            "change": "20.2% margin",
+            "positive": 1,
+            "valueNum": 62.89,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹31 Cr",
+            "change": "+3.7% YoY",
+            "positive": 1,
+            "valueNum": 31,
+            "yoyPct": 3.7
+          },
+          {
+            "label": "Gurugram Occupancy",
+            "value": "68%",
+            "change": "vs Q1 stated 70% Q2 target",
+            "positive": 0,
+            "valueNum": 68,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue from operations was ₹311 Cr (+13.2% YoY); reported EBITDA was ₹62.89 Cr (20.2% margin), while adjusted operational EBITDA was ₹71.5 Cr (23.3% margin).",
+          "Q2 PAT was ₹31 Cr (+3.7% YoY). H1 revenue was ₹598.4 Cr (+13%), reported EBITDA ₹124.7 Cr (20.8% margin), adjusted operational EBITDA ₹133.32 Cr (22.4% margin), and PAT ₹62.5 Cr (+22.2%).",
+          "Raipur opened in July; Q2 occupancy was about 10%, ARPOB ₹30,000–32,000 and estimated EBITDA loss ₹9 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "Network capacity",
+            "value": "Around 2,000 beds over the next 3–5 years; 300-bed Raipur facility operational, Gurugram Tower 4 adds 250 beds targeted for H2FY28, and 650-plus-bed South Delhi facility targeted for Q4FY29–30."
+          },
+          {
+            "metric": "Raipur break-even",
+            "value": "Management retains 12–15 months from commencement as its break-even timeline."
+          }
+        ],
+        "highlights": [
+          "Gurugram Hospital reported its highest-ever EBITDA margin at 23.8% (company-reported).",
+          "Raipur started operating theatres and cath lab on 29 July; census capacity is 250 beds within a 300-bed total facility.",
+          "Tower 4’s 250 beds are now targeted together in H2FY28; demolition is underway at South Delhi and management expects operations in Q4FY29–30.",
+          "International patients contributed about 30% of Q2 revenue.",
+          "Management sees a limited but uncertain potential impact from oncology drug-margin regulation, subject to the final rules."
+        ],
+        "whatChanged": "Raipur contributes its first full operating quarter at about 10% occupancy and a ₹9 Cr EBITDA loss, while Gurugram occupancy of 68% falls short of the prior 70% Q2 target; Tower 4 is now scheduled for H2FY28.",
+        "risks": [
+          "Raipur ramp-up is early, with about 10% occupancy and a ₹9 Cr EBITDA loss in Q2.",
+          "Oncology drug-margin regulation could affect profitability; the final policy and the scope of its impact remain uncertain.",
+          "South Delhi demolition and environmental clearance remain project dependencies."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Gurugram occupancy",
+            "guided": "70% by Q2FY27",
+            "actual": "68% in Q2FY27",
+            "status": "missed"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1479,6 +2225,80 @@
     ],
     "Aster DM Healthcare Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Like-for-like Revenue",
+            "value": "₹2,829 Cr",
+            "change": "+19% YoY",
+            "positive": 1,
+            "valueNum": 2829,
+            "yoyPct": 19
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹678 Cr",
+            "change": "+25% YoY; 24.0% margin",
+            "positive": 1,
+            "valueNum": 678,
+            "yoyPct": 25
+          },
+          {
+            "label": "Normalized PAT after NCI",
+            "value": "₹281 Cr",
+            "change": "+34% YoY",
+            "positive": 1,
+            "valueNum": 281,
+            "yoyPct": 34
+          },
+          {
+            "label": "Occupancy",
+            "value": "68%",
+            "change": "+335 bps YoY",
+            "positive": 1,
+            "valueNum": 68,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 like-for-like revenue was ₹2,829 Cr (+19%), operating EBITDA ₹678 Cr (+25%; 24.0% margin) and normalized PAT after NCI ₹281 Cr (+34%).",
+          "H1 like-for-like revenue was ₹5,429 Cr (+20%), operating EBITDA ₹1,255 Cr (+27%; 23.1% margin) and normalized PAT after NCI ₹457 Cr (+27%).",
+          "Q2 occupancy was 68% (+335 bps); operational bed base grew 4% YoY and 2.2 million patients were served (+12%).",
+          "The company delivered ₹16.6 Cr merger synergies in Q2, a ₹65 Cr annualized run-rate; estimated full potential remains about ₹200 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "Bed pipeline",
+            "value": "4,230 additional beds, taking capacity from 10,840 toward more than 15,000; approximately 47% brownfield and 53% greenfield."
+          },
+          {
+            "metric": "Full-year operating EBITDA margin",
+            "value": "24–25% on a full-year basis in 2–3 years post-merger; management cautioned Q2’s 24% was seasonal and H1 stood at 23.1%."
+          },
+          {
+            "metric": "Merger synergies",
+            "value": "₹200 Cr potential; management expects the run-rate over roughly the next 3–4 quarters, with full realization by the sixth or seventh post-merger quarter"
+          }
+        ],
+        "highlights": [
+          "Financial growth comparisons are like-for-like pro forma: reported merger accounting includes Quality Care only from 1 July 2026 and prior reported periods were not restated.",
+          "Mature hospitals (64% of operational beds) generated 73% of hospital revenue and 83% of operating EBITDA; H1 mature-hospital revenue rose 18%.",
+          "Current total bed capacity was 10,840; around 10,600 beds were operational, of which roughly 80–81% census and 20% non-census.",
+          "Management said Q3 and Q4 are seasonally softer; it does not treat Q2’s 24% margin as a new base.",
+          "The 454-bed Aster Trivandrum hospital remains in the FY27 pipeline."
+        ],
+        "whatChanged": "The merger is now reflected in the first full quarter of combined operations, with reported synergies and a stronger 24% quarterly operating margin; management retained the 2–3 year 24–25% full-year margin ambition but cautioned against extrapolating Q2’s seasonal result.",
+        "risks": [
+          "Q2’s 24% operating margin was helped by seasonality and dengue-related medical cases; management expects lower seasonal margins in Q3–Q4.",
+          "Reported historical financials are not directly comparable after the merger; growth rates use company-provided like-for-like combined figures.",
+          "More than 4,000 pipeline beds require disciplined execution; over half are greenfield."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1622,6 +2442,84 @@
       }
     ],
     "HealthCare Global Enterprises Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹731.8 Cr",
+            "change": "+16% YoY; Milann excluded",
+            "positive": 1,
+            "valueNum": 731.8,
+            "yoyPct": 16
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹142.5 Cr",
+            "change": "+17% YoY",
+            "positive": 1,
+            "valueNum": 142.5,
+            "yoyPct": 17
+          },
+          {
+            "label": "Patient volume growth",
+            "value": "+9%",
+            "change": "YoY",
+            "positive": 1,
+            "valueNum": 9,
+            "yoyPct": 9
+          },
+          {
+            "label": "Non-institutional revenue growth",
+            "value": "+21%",
+            "change": "69% of revenue; share +300 bps YoY",
+            "positive": 1,
+            "valueNum": 21,
+            "yoyPct": 21
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹731.8 Cr, up 16% YoY (14% excluding North Bengaluru); all figures exclude the divested Milann Fertility business.",
+          "Q2 EBITDA was ₹142.5 Cr (+17% YoY), including a ₹6.1 Cr loss at North Bengaluru.",
+          "Patient volumes grew 9% and ARPP 7%; non-institutional revenue rose 21% and represented 69% of revenue.",
+          "The company added 25 operational beds in Q2 and 146 in H1; North Bengaluru's EBITDA loss narrowed from ₹7.5 Cr in Q1 to about ₹6 Cr in Q2.",
+          "H1 revenue was ₹1,410 Cr (+15%) and adjusted EBITDA ₹274 Cr (+18%)."
+        ],
+        "highlights": [
+          "The North Bengaluru hospital remained on track for monthly EBITDA breakeven by Q4 FY27; the call clarified this is monthly, not quarterly, breakeven.",
+          "Management expects Gujarat to return to mid-teens growth by Q4 FY27 after deliberately reducing lower-margin institutional business.",
+          "The company estimated the oncology drug trade-margin cap could have a mid-to-high single-digit annualized EBITDA impact; effects begin from Q3 as the measure is effective from November.",
+          "H1 adjusted PAT after normalizing extraordinary expense was ₹28.7 Cr, up 30% YoY; net debt excluding capital leases was ₹575.1 Cr."
+        ],
+        "whatChanged": "Management reaffirmed mid-teens revenue growth and high-teens to 20% EBITDA growth, retained the North Bengaluru monthly breakeven target for Q4 FY27, and added a quantified annualized oncology price-cap headwind; Gujarat's recovery is now expected by Q4.",
+        "risks": [
+          "The oncology drug margin cap is expected to reduce EBITDA by a mid-to-high single-digit percentage on an annualized basis; management says impact starts in Q3.",
+          "Gujarat growth remains moderated while lower-margin institutional business is being rationalized.",
+          "The company recognized ₹11.6 Cr EPCG provision; management attributed the reassessment partly to geopolitical disruptions affecting export projections."
+        ],
+        "guidance": [
+          {
+            "metric": "Revenue growth",
+            "value": "Mid-teens growth; reaffirmed on the call."
+          },
+          {
+            "metric": "EBITDA growth",
+            "value": "High-teens to 20% growth; reaffirmed on the call."
+          },
+          {
+            "metric": "North Bengaluru",
+            "value": "Monthly EBITDA breakeven by Q4 FY27; no change to prior target."
+          },
+          {
+            "metric": "Gujarat",
+            "value": "Mid-teens growth anticipated by Q4 FY27."
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1923,6 +2821,84 @@
     ],
     "Dr Agarwals Health Care Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue from Operations",
+            "value": "₹655 Cr",
+            "change": "+31.4% YoY; +6.7% QoQ",
+            "positive": 1,
+            "valueNum": 655,
+            "yoyPct": 31.4
+          },
+          {
+            "label": "Ind AS EBITDA",
+            "value": "₹186 Cr",
+            "change": "+28.8% YoY; ~28% margin",
+            "positive": 1,
+            "valueNum": 186,
+            "yoyPct": 28.8
+          },
+          {
+            "label": "PAT",
+            "value": "₹57 Cr",
+            "change": "+55.8% YoY; 8.5% margin",
+            "positive": 1,
+            "valueNum": 57,
+            "yoyPct": 55.8
+          },
+          {
+            "label": "Same-store sales growth",
+            "value": "18.8%",
+            "change": "Q2 FY27",
+            "positive": 1,
+            "valueNum": 18.8,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 total income was ₹665 Cr (+31.3% YoY); revenue from operations was ₹655 Cr (+31.4% YoY, +6.7% sequentially).",
+          "Q2 Ind AS EBITDA was ₹186 Cr (+28.8% YoY) at about 28% margin; PAT was ₹57 Cr (+55.8%) at 8.5% margin.",
+          "H1 revenue from operations was ₹1,269 Cr (+28.7%), Ind AS EBITDA ₹362 Cr (+27%; 28.2% margin), and PAT ₹112 Cr (+50.1%; 8.7% margin).",
+          "Q2 SSSG was 18.8%; H1 SSSG 17.7%. Established centers operational before FY23 generated ₹948 Cr H1 revenue (+17.2%)."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 facility additions",
+            "value": "Revised up to 65 facilities, including 55 surgical centers, from prior plan of 60 facilities including 40 surgical; H1 added 39 facilities, including 34 surgical."
+          },
+          {
+            "metric": "H2 FY27 facility additions",
+            "value": "26 facilities planned in H2, including 21 surgical centers."
+          }
+        ],
+        "highlights": [
+          "Q2 added 21 facilities (19 greenfield and two acquired in Delhi NCR); H1 additions totaled 39.",
+          "Network stood at 324 facilities overall (305 in India across 14 states and 5 union territories).",
+          "Management reported about ₹42 Cr of H1 start-up losses across centers opened in FY26 and FY27.",
+          "Pre-Ind AS EBITDA for Q2 was ₹143.2 Cr at 21.5% margin; the headline ₹186 Cr figure is Ind AS EBITDA.",
+          "Q1 plan was 60 total facilities including 40 surgical; guidance was raised after execution and pipeline visibility improved."
+        ],
+        "whatChanged": "Facility-addition guidance was raised from 60 total/40 surgical to 65 total/55 surgical after 39 facilities, including 34 surgical, were added in H1; revenue and PAT growth remained strong despite start-up losses.",
+        "risks": [
+          "Rapid expansion is creating start-up losses: about ₹42 Cr in H1 across FY26 and FY27 center cohorts.",
+          "Doctor attrition was described as roughly 14% overall, while the stated 1–2% senior-level figure was tentative and management promised exact data later.",
+          "Potential regulation of drug/device margins remains unresolved; management declined to estimate impact."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Q2 facility additions",
+            "guided": "12 facilities",
+            "actual": "21 facilities added in Q2 (18 surgical and 3 primary, including acquisitions/greenfields)",
+            "status": "exceeded"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -2045,10 +3021,94 @@
         ],
         "quote": "\"Dr. Agarwal is outperforming the sector on eye care specialization, margin profile, doctor network, patient scale and aggressive network expansion.\"",
         "quotePerson": "Management Commentary",
-        "asOf": "May 2026"
+        "asOf": "May 2026",
+        "guidance": [
+          {
+            "metric": "FY27 facility additions",
+            "value": "60 facilities: 40 surgical centers and 20 clinics"
+          },
+          {
+            "metric": "FY27 rollout cadence",
+            "value": "30 facilities in each half"
+          }
+        ]
       }
     ],
     "Nephrocare Health Services Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹303 Cr",
+            "change": "+23.5% YoY; Q2",
+            "positive": 1,
+            "valueNum": 303,
+            "yoyPct": 23.5
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹68.9 Cr",
+            "change": "+3.3% YoY; Q2",
+            "positive": 1,
+            "valueNum": 68.9,
+            "yoyPct": 3.3
+          },
+          {
+            "label": "Adjusted EBITDA Margin",
+            "value": "22.7%",
+            "change": "Q2",
+            "positive": 0,
+            "valueNum": 22.7,
+            "yoyPct": null
+          },
+          {
+            "label": "Dialysis Treatments",
+            "value": "+12%",
+            "change": "Q2 YoY",
+            "positive": 1,
+            "valueNum": 12,
+            "yoyPct": 12
+          }
+        ],
+        "performanceLabel": "Q2 and H1",
+        "fyPerformance": [
+          "Q2 revenue was ₹303 Cr, up 23.5% YoY; adjusted EBITDA was ₹68.9 Cr, up 3.3%, at a 22.7% margin",
+          "H1 revenue was ₹585 Cr (+23.6%) and adjusted EBITDA margin was 23%.",
+          "H1 adjusted PAT was ₹76.1 Cr, up 34.7%; it includes an add-back of the ₹7.5 Cr Saudi JV loss",
+          "Treatments grew 12% in Q2; the network ended September with 38,814 guests and 570 clinics across six countries"
+        ],
+        "guidance": [
+          {
+            "metric": "Medium-term Revenue Growth",
+            "value": "15%–20% revenue growth over 3–4 years; no annual guidance"
+          },
+          {
+            "metric": "India Clinic Additions",
+            "value": "About 40–50 clinics per year"
+          },
+          {
+            "metric": "Philippines Clinic Additions",
+            "value": "About 10–15 clinics per year"
+          }
+        ],
+        "highlights": [
+          "International operations represented about 47% of H1 revenue versus 42% in FY26.",
+          "H1 adjusted EBITDA margin of 23.0% was 80 bps below FY26's 23.8%; management says quarterly YoY comparisons are distorted by the move from annual to quarterly audit true-ups",
+          "Core clinic cost ratios improved, while other expenses rose with international development, Kazakhstan entry, public-company costs and ECL provisioning",
+          "Kazakhstan entry and the first Riyadh clinic are in ramp-up; Saudi tender outcome is uncertain and bids are due in February 2027"
+        ],
+        "whatChanged": "The 15%–20% medium-term revenue-growth guidance is unchanged from Q1; Q2 adds the Kazakhstan entry and Saudi clinic ramp while explaining that growth investment and public-company costs are tempering margin expansion.",
+        "risks": [
+          "New international geographies can run at suboptimal margins for several years and increase costs before contributing cash flow",
+          "Saudi Ministry of Health tender is competitive, has 12 technically qualified providers, and has a binary outcome; no win or award is assured",
+          "Philippines price increases are not expected near term, and increased competition is emerging even as NephroPlus scales its clinic network"
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -2192,5 +3252,183 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 14,
+      "overview": "Patient volumes, clinical mix and new capacity support growth across the reviewed hospital calls. New-unit losses, commissioning delays and drug-pricing uncertainty make the margin outlook uneven, even where revenue growth remains strong.",
+      "trends": [
+        {
+          "text": "Hospitals are expanding capacity and clinical capability while ramping recently opened facilities.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Artemis Medicare Services Ltd",
+            "Aster DM Healthcare Ltd",
+            "Dr Agarwals Health Care Ltd",
+            "Fortis Healthcare Ltd",
+            "Global Health Ltd",
+            "HealthCare Global Enterprises Ltd",
+            "Jupiter Life Line Hospitals Ltd",
+            "Krishna Institute of Medical Sciences Ltd",
+            "Max Healthcare Institute Ltd",
+            "Narayana Hrudayalaya Ltd",
+            "Rainbow Childrens Medicare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        },
+        {
+          "text": "Patient-volume growth and more complex treatment or favorable payer mix support revenue growth.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Artemis Medicare Services Ltd",
+            "Aster DM Healthcare Ltd",
+            "Dr Agarwals Health Care Ltd",
+            "Fortis Healthcare Ltd",
+            "Global Health Ltd",
+            "HealthCare Global Enterprises Ltd",
+            "Krishna Institute of Medical Sciences Ltd",
+            "Max Healthcare Institute Ltd",
+            "Narayana Hrudayalaya Ltd",
+            "Rainbow Childrens Medicare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Better utilization of established hospitals and maturing new facilities provide operating leverage.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Artemis Medicare Services Ltd",
+            "Aster DM Healthcare Ltd",
+            "Dr Agarwals Health Care Ltd",
+            "Fortis Healthcare Ltd",
+            "Global Health Ltd",
+            "HealthCare Global Enterprises Ltd",
+            "Jupiter Life Line Hospitals Ltd",
+            "Krishna Institute of Medical Sciences Ltd",
+            "Max Healthcare Institute Ltd",
+            "Narayana Hrudayalaya Ltd",
+            "Rainbow Childrens Medicare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "New facilities, clinical hiring and expansion investment create near-term profit drag before occupancy matures.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Artemis Medicare Services Ltd",
+            "Aster DM Healthcare Ltd",
+            "Dr Agarwals Health Care Ltd",
+            "Fortis Healthcare Ltd",
+            "Global Health Ltd",
+            "HealthCare Global Enterprises Ltd",
+            "Jupiter Life Line Hospitals Ltd",
+            "Krishna Institute of Medical Sciences Ltd",
+            "Max Healthcare Institute Ltd",
+            "Nephrocare Health Services Ltd",
+            "Rainbow Childrens Medicare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        },
+        {
+          "text": "Drug-pricing changes introduce uncertainty over profitability, with exposure and estimated impact differing across providers.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Artemis Medicare Services Ltd",
+            "Dr Agarwals Health Care Ltd",
+            "Fortis Healthcare Ltd",
+            "HealthCare Global Enterprises Ltd",
+            "Max Healthcare Institute Ltd",
+            "Narayana Hrudayalaya Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "New hospital and clinic openings expand access in additional cities and catchments.",
+          "companies": [
+            "Artemis Medicare Services Ltd",
+            "Aster DM Healthcare Ltd",
+            "Dr Agarwals Health Care Ltd",
+            "Global Health Ltd",
+            "Jupiter Life Line Hospitals Ltd",
+            "Krishna Institute of Medical Sciences Ltd",
+            "Nephrocare Health Services Ltd",
+            "Rainbow Childrens Medicare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        },
+        {
+          "text": "Merger synergies and new capital partnerships can accelerate expansion, subject to integration and approvals.",
+          "companies": [
+            "Aster DM Healthcare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Apollo lowers its integrated HealthCo margin expectation, Fortis defers future margin guidance, and HCG quantifies a new annualized drug-cap headwind.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Fortis Healthcare Ltd",
+            "HealthCare Global Enterprises Ltd"
+          ]
+        },
+        {
+          "text": "Pitampura, FMRI and other construction or approval-dependent projects face timing risk.",
+          "companies": [
+            "Artemis Medicare Services Ltd",
+            "Fortis Healthcare Ltd",
+            "Global Health Ltd",
+            "Jupiter Life Line Hospitals Ltd",
+            "Krishna Institute of Medical Sciences Ltd"
+          ]
+        },
+        {
+          "text": "International expansion adds tender, reimbursement and integration risks at Narayana and Nephrocare.",
+          "companies": [
+            "Narayana Hrudayalaya Ltd",
+            "Nephrocare Health Services Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "EBITDA and revenue definitions differ: Aster uses combined pro forma growth, Medanta changes operating definitions, and KIMS distinguishes pre-Ind AS and other-income bases.",
+          "companies": [
+            "Aster DM Healthcare Ltd",
+            "Global Health Ltd",
+            "Krishna Institute of Medical Sciences Ltd"
+          ]
+        },
+        {
+          "text": "Monthly hospital breakeven, quarterly breakeven and steady-state profitability are different milestones.",
+          "companies": [
+            "Apollo Hospitals Enterprise Ltd",
+            "Global Health Ltd",
+            "HealthCare Global Enterprises Ltd",
+            "Jupiter Life Line Hospitals Ltd",
+            "Krishna Institute of Medical Sciences Ltd",
+            "Max Healthcare Institute Ltd",
+            "Rainbow Childrens Medicare Ltd",
+            "Yatharth Hospital & Trauma Care Services Ltd"
+          ]
+        },
+        {
+          "text": "Agarwals exceeds its Q2 facility-addition plan, while Artemis misses its Gurugram occupancy target.",
+          "companies": [
+            "Artemis Medicare Services Ltd",
+            "Dr Agarwals Health Care Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

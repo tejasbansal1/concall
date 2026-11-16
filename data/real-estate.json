@@ -30,6 +30,73 @@
   "concall": {
     "Mahindra Lifespace Developers Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "performanceLabel": "H1 FY27 except where stated",
+        "metrics": [
+          {
+            "label": "Residential pre-sales",
+            "value": "₹1,988 Cr",
+            "change": "H1 FY27; residential pre-sales",
+            "positive": 1,
+            "valueNum": 1988,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹16 Cr",
+            "change": "Q2FY27",
+            "positive": 0,
+            "valueNum": 16,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹102 Cr",
+            "change": "H1 FY27 vs ₹99 Cr in H1 FY26",
+            "positive": 1,
+            "valueNum": 102,
+            "yoyPct": null
+          },
+          {
+            "label": "Operating cash flow",
+            "value": "₹341 Cr",
+            "change": "H1 FY27",
+            "positive": 1,
+            "valueNum": 341,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 residential pre-sales were ₹1,988 Cr; H1 residential collections were ₹1,152 Cr.",
+          "H1 business development added ₹7,100 Cr of GDV, compared with ₹5,200 Cr in H1 FY26; the wider identified pipeline was about ₹50,000 Cr.",
+          "Net debt/equity was negative 0.28x; cost of debt was 7.55%."
+        ],
+        "highlights": [
+          "Q2 PAT was ₹16 Cr; H1 PAT was ₹102 Cr, including a ₹25 Cr cost reversal on older projects after obtaining occupancy certificates.",
+          "The company reiterated its FY27 residential pre-sales range and expects H2 launches, including Rivenza sales starting in December subject to approvals."
+        ],
+        "whatChanged": "The FY27 residential pre-sales range of ₹4,500–5,000 Cr was reiterated from Q1; management said sales conversion has slowed and more effort is needed, while H1 industrial leasing revenue was softer with an expected H2 catch-up.",
+        "risks": [
+          "Sales velocity has moderated, with fewer walk-ins amid uncertainty around jobs, markets and global events; management said it is not using discounts to accelerate conversions.",
+          "Several H2 project launches depend on approvals, creating timing and bunching risk.",
+          "The ₹25 Cr reversal of old project costs boosted reported H1 PAT and should not be mistaken for recurring operating improvement."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 residential pre-sales",
+            "value": "₹4,500–5,000 Cr"
+          },
+          {
+            "metric": "FY27 business development additions",
+            "value": "₹10,000–20,000 Cr GDV; management aims toward the upper end"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -185,6 +252,84 @@
       }
     ],
     "Embassy Developments Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations",
+            "value": "₹292 Cr",
+            "change": "−41% YoY, calculated from ₹494 Cr",
+            "positive": -1,
+            "valueNum": 292,
+            "yoyPct": -41
+          },
+          {
+            "label": "Pre-sales / bookings",
+            "value": "₹3,225 Cr",
+            "change": "Q2FY27; H1 ₹4,093 Cr, +574% YoY",
+            "positive": 1,
+            "valueNum": 3225,
+            "yoyPct": null
+          },
+          {
+            "label": "Collections",
+            "value": "₹546 Cr",
+            "change": "Q2FY27; H1 ₹1,041 Cr, +53% YoY",
+            "positive": 1,
+            "valueNum": 546,
+            "yoyPct": null
+          },
+          {
+            "label": "Net loss",
+            "value": "−₹271 Cr",
+            "change": "Q2FY27; EBITDA loss ₹131 Cr",
+            "positive": -1,
+            "valueNum": -271,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 pre-sales reached ₹4,093 Cr (+574% YoY); collections were ₹1,041 Cr (+53% YoY). Q1 pre-sales were ₹868 Cr and collections ₹496 Cr.",
+          "Total income was ₹311 Cr vs ₹537 Cr a year earlier. Completion accounting means booked sales and collections are not recognized revenue.",
+          "At September end, institutional net debt was ₹3,982 Cr after ₹1,258 Cr cash; shareholder debt of ₹1,103 Cr was separately disclosed. A ₹363 Cr shareholder-debt repayment followed in October after warrant exercise."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 pre-sales",
+            "value": "₹8,000 Cr target, comprising ₹6,000 Cr owned projects and ₹2,000 Cr development management"
+          },
+          {
+            "metric": "FY27 collections",
+            "value": "₹3,000 Cr target; management reiterated it expects to achieve this over the next two quarters"
+          },
+          {
+            "metric": "FY27 launches",
+            "value": "₹19,400 Cr launch pipeline retained; Q2 launches actually totaled ₹8,397 Cr GDV, above the ₹7,500 Cr estimate"
+          }
+        ],
+        "highlights": [
+          "Q2 launches included Riverine, South Reserve and Terrazza; reported launch GDV totaled ₹8,397 Cr.",
+          "Management targets operating surplus by March and expects the Panvel project to generate ₹300–400 Cr estimated surplus after construction and interest; this is a forward estimate, not current profit."
+        ],
+        "whatChanged": "Q2 pre-sales rose to ₹3,225 Cr from Q1 ₹868 Cr, while collections were ₹546 Cr versus Q1 ₹496 Cr. Full-year sales and collections targets were maintained. Q2 operating revenue declined under completion accounting and the company remained loss-making.",
+        "risks": [
+          "Institutional and shareholder debt are separate obligations; net institutional debt was ₹3,982 Cr and shareholder debt ₹1,103 Cr at September end.",
+          "Panvel requires around ₹40 Cr of monthly spending before completion unlocks customer receivables, putting pressure on funding and collection timing.",
+          "The annual launch plan, collections and March surplus depend on execution and customer collections; legal matters and delayed project progress remain relevant risks."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Q2 project launches",
+            "guided": "Four projects planned in Q1 for Q2",
+            "actual": "Three Q2 launches disclosed, with ₹8,397 Cr combined GDV; Embassy One North Tower moved beyond Q2",
+            "status": "partial"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -342,6 +487,79 @@
     ],
     "SignatureGlobal India Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "H1 revenue recognized from completed projects",
+            "value": "About ₹1,400 Cr",
+            "change": "H1FY27; approximate company-call figure, not Q2 revenue",
+            "positive": 1,
+            "valueNum": 1400,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 sales / pre-sales value",
+            "value": "₹3,800 Cr",
+            "change": "H1FY27; about 675 units and 1.6 million sq ft; no H1 YoY rate stated on call",
+            "positive": 1,
+            "valueNum": 3800,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 collections",
+            "value": "About ₹1,700 Cr",
+            "change": "H1FY27; management described collections as steady",
+            "positive": 1,
+            "valueNum": 1700,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 cash surplus before land, approvals and debt repayment",
+            "value": "₹480 Cr",
+            "change": "H1FY27; before land/approval investment and debt repayment, as specified on the call",
+            "positive": 1,
+            "valueNum": 480,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 sales represented about 38% of the ₹10,000 Cr FY27 sales target; management normally plans for 40% in H1 and 60% in H2.",
+          "H1 EBITDA margin was about 13%, compared with about 18% in Q2.",
+          "Net debt was about ₹450 Cr, versus gross debt of ₹2,870 Cr and cash above ₹2,400 Cr.",
+          "The company added about 10 million sq ft of developable area in H1 while selling about 1.6 million sq ft; 169 acres of the 194-acre Farrukhnagar parcel are under collaboration."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 sales / pre-sales",
+            "value": "₹10,000 Cr; retained in Q2"
+          },
+          {
+            "metric": "FY27 revenue recognition from completions",
+            "value": "About ₹5,000 Cr; Q2 management said the company remained confident in this annual completion guidance"
+          },
+          {
+            "metric": "FY27 cash surplus",
+            "value": "₹1,200–1,500 Cr by year-end; before land, approvals and debt repayment"
+          }
+        ],
+        "highlights": [
+          "Portfolio realizations crossed ₹17,000 per sq ft following the Tonino Lamborghini branded-residences launch.",
+          "Management said about 27 million sq ft is being prepared for launch over the next two years; RMZ's 5.6 million sq ft mixed-use project remains in design and approvals, with no construction start yet.",
+          "CARE rating remained A+ with stable outlook."
+        ],
+        "whatChanged": "Management reiterated the ₹10,000 Cr FY27 sales target and said H1 achieved about 38%; the ₹480 Cr H1 cash surplus was before land, approvals and debt repayment, with a ₹1,200–1,500 Cr year-end range described as achievable.",
+        "risks": [
+          "The annual plan relies on a stronger H2 for completions, collections and revenue recognition; these outcomes are lumpy and subject to timely completion and handover.",
+          "GRAP and pollution-related construction restrictions recur in NCR; management plans around about ten active construction months per year.",
+          "The Farrukhnagar farmhouse/villa concept is outside the zoned area and cannot be high-rise; most of the 194 acres is collaboration land rather than outright-owned land."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "H1 FY27 except where stated"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -497,6 +715,79 @@
       }
     ],
     "Aditya Birla Real Estate Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total income",
+            "value": "₹268 Cr",
+            "change": "+755% YoY",
+            "positive": 1,
+            "valueNum": 268,
+            "yoyPct": 755
+          },
+          {
+            "label": "Net bookings / pre-sales",
+            "value": "₹298 Cr",
+            "change": "Q2 net sales; excludes gross sales before cancellations",
+            "positive": 0,
+            "valueNum": 298,
+            "yoyPct": null
+          },
+          {
+            "label": "Collections",
+            "value": "₹752 Cr",
+            "change": "+47% YoY",
+            "positive": 1,
+            "valueNum": 752,
+            "yoyPct": 47
+          },
+          {
+            "label": "H1 collections",
+            "value": "₹1,465 Cr",
+            "change": "+39% YoY",
+            "positive": 1,
+            "valueNum": 1465,
+            "yoyPct": 39
+          }
+        ],
+        "fyPerformance": [
+          "H1 net bookings were about ₹627 Cr, calculated from ₹329 Cr in Q1 and ₹298 Cr in Q2.",
+          "H1 collections reached ₹1,465 Cr (+39% YoY); Birla Tisya recorded ₹181 Cr EBITDA at 28% margin and Birla Navya ₹39 Cr at 35% margin.",
+          "The Worli Tower C redesign adds ₹1,900 Cr net GDV to the Worli parcel; Tower C GDV rises about ₹3,000 Cr, with launch shifted to around Q2 next FY.",
+          "The Hinjewadi, Pune JDA has about ₹1,650 Cr GDV, with 75% revenue share to Birla Estates and about ₹50 Cr upfront payment."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 business-development GDV addition",
+            "value": "₹10,000–15,000 Cr; management said it remains on track and expects to cross ₹10,000 Cr"
+          },
+          {
+            "metric": "Pre-sales",
+            "value": "₹15,000 Cr by FY29; no near-term FY27 pre-sales guidance was given"
+          },
+          {
+            "metric": "Commercial rental income",
+            "value": "Long-term portfolio aspiration above ₹1,500 Cr annual income; timing not specified"
+          }
+        ],
+        "highlights": [
+          "H1 collections rose 39% year on year to ₹1,465 Cr and cumulative collections crossed ₹10,000 Cr.",
+          "The company added a 5.6-acre Hinjewadi residential JDA in October with approximately ₹1,650 Cr GDV.",
+          "Management said 78% of portfolio inventory was sold; Birla Niyaara Tower A had sold 401 of 413 apartments and Tower B 119 of 148.",
+          "CARE upgraded Birla Estates Private Limited's credit outlook from AA Stable to AA Positive."
+        ],
+        "whatChanged": "Worli Tower C moves from the Q1 plan of a Q3 launch to around Q2FY28 after redesign, adding ₹1,900 Cr of net Worli GDV; quarterly net bookings ease to ₹298 Cr and management declines a replacement FY27 sales forecast.",
+        "risks": [
+          "Worli Tower C redesign pushes its launch to around Q2FY28, reducing near-term launch supply; management said FY27 pre-sales will be below ₹8,000 Cr but gave no replacement forecast.",
+          "Birla Mrida plotted sales are slower amid investor sentiment, while Arika and Pravaah cancellations were reported; management said several cancelled apartments were resold or rebooked at higher prices.",
+          "Management said most current-year revenue recognition is already complete, so remaining FY27 recognition will not be substantial; possession timing drives recognition."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -654,6 +945,82 @@
     ],
     "Sobha Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated total income",
+            "value": "₹1,017 Cr",
+            "change": "About −31% YoY, calculated from ₹1,469 Cr",
+            "positive": -1,
+            "valueNum": 1017,
+            "yoyPct": -31
+          },
+          {
+            "label": "Sales value / pre-sales",
+            "value": "₹2,206 Cr",
+            "change": "+16% YoY; Q2FY27",
+            "positive": 1,
+            "valueNum": 2206,
+            "yoyPct": 16
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹119 Cr",
+            "change": "Q2 FY27",
+            "positive": 0,
+            "valueNum": 119,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹33 Cr",
+            "change": "Q2FY27",
+            "positive": 0,
+            "valueNum": 33,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 sales value reached ₹5,862 Cr (+47.2% YoY); Sobha's share of sales was ₹4,874 Cr.",
+          "H1 total income was ₹2,347 Cr, EBITDA ₹249 Cr and PAT ₹84 Cr.",
+          "H1 operating cash inflow was ₹4,009 Cr and operating cash flow ₹755 Cr; quarter-end net cash was ₹322 Cr, with gross debt ₹1,505 Cr and cash ₹1,827 Cr.",
+          "Q2 delivered 720 homes across 1.49 million sq ft; H1 completions were 1,391 homes across 2.56 million sq ft."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT growth",
+            "value": "At least 50% above FY26; management said Q3/Q4 should show higher margins as recognition improves"
+          },
+          {
+            "metric": "H2FY27 EBITDA margin",
+            "value": "Above 15% for H2, as clarified in Q&A"
+          },
+          {
+            "metric": "FY27 net debt",
+            "value": "Management remains focused on maintaining a zero net-debt position"
+          },
+          {
+            "metric": "FY27 deliveries",
+            "value": "About 6 million sq ft for the year; about 3.5 million sq ft planned for H2, with handover and revenue recognition timing caveats"
+          }
+        ],
+        "highlights": [
+          "Q2 sales were the second-highest quarterly result; average realization increased 13.7% YoY to ₹15,522 per sq ft.",
+          "H1 launches covered 7.91 million sq ft with about ₹11,200 Cr estimated sales potential; further launches are planned in H2.",
+          "The completed-and-ongoing portfolio showed projected project-level margin cash flow of ₹12,517 Cr; including forthcoming projects the estimate was ₹19,748 Cr."
+        ],
+        "whatChanged": "Q2 sales rose 16% YoY and H1 sales grew 47.2%, while the call added a specific minimum 50% FY27 PAT-growth expectation and clarified H2 EBITDA margin above 15%; reported Q2 total income and profit remained low as project revenue recognition was uneven.",
+        "risks": [
+          "Management attributed weak reported margins to uneven handovers, fixed overheads and older low-margin projects; timing of completions and handovers can delay the expected H2 recovery.",
+          "The H2 launch program is approval- and preparation-dependent; management said some projects could move from Q3 to Q4.",
+          "Management acknowledged caution around interest rates, geopolitics and AI-related uncertainty, though inquiries and site visits were described as steady."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -810,6 +1177,86 @@
     ],
     "Brigade Enterprises Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated revenue (all segments)",
+            "value": "₹1,250 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 1250,
+            "yoyPct": null
+          },
+          {
+            "label": "Residential net sales / pre-sales",
+            "value": "₹1,827 Cr",
+            "change": "−10% YoY; +72% vs Q1FY27",
+            "positive": 0,
+            "valueNum": 1827,
+            "yoyPct": -10
+          },
+          {
+            "label": "Collections (consolidated, all segments)",
+            "value": "₹1,633 Cr",
+            "change": "₹1,115 Cr real estate; ₹343 Cr leasing; ₹175 Cr hospitality",
+            "positive": 1,
+            "valueNum": 1633,
+            "yoyPct": null
+          },
+          {
+            "label": "Real Estate segment EBITDA",
+            "value": "₹178 Cr",
+            "change": "+62% YoY; 24% margin",
+            "positive": 1,
+            "valueNum": 178,
+            "yoyPct": 62
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated EBITDA was ₹478 Cr (38% margin) and consolidated PAT ₹219 Cr (+29% YoY); PAT after minority interest was ₹194 Cr.",
+          "Real Estate segment revenue was ₹760 Cr; office-only lease revenue was ₹201 Cr (+8% YoY).",
+          "H1 residential net sales were approximately ₹2,888 Cr; Q2 presales were lower YoY mainly due to launch timing, while two-thirds of Q2 residential volume came from sustenance sales.",
+          "Gross debt was ₹5,439 Cr and cash ₹2,674 Cr, leaving net debt of ₹2,765 Cr; net debt-to-equity was 0.31x, with 85% of debt backed by leasing and hospitality cash flows."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 residential pre-sales",
+            "value": "₹9,000 Cr, reiterated"
+          },
+          {
+            "metric": "H2FY27 residential launch pipeline",
+            "value": "About 7 million sq ft with approximately ₹7,600 Cr GDV; two Bengaluru township launches targeted for Q3, subject to approvals"
+          },
+          {
+            "metric": "FY27 consolidated net debt-to-equity",
+            "value": "Expected to remain below 0.5x"
+          }
+        ],
+        "highlights": [
+          "Q2 launches totaled 2.4 million sq ft at approximately ₹3,000 Cr GDV; Brigade Barcelona in Hyderabad generated ₹475 Cr in launch-quarter sales.",
+          "Operational leasing area reached 9.6 million sq ft at 90% occupancy; rental collections were 99%.",
+          "Hospitality Q2 RevPAR rose 10% YoY to ₹5,922 at 75% occupancy; PAT more than doubled to ₹22 Cr."
+        ],
+        "whatChanged": "Residential net sales increased 72% sequentially from ₹1,061 Cr in Q1 to ₹1,827 Cr in Q2, but remained 10% below Q2FY26; management retained the ₹9,000 Cr FY27 goal as the launch cycle returned.",
+        "risks": [
+          "The FY27 sales target relies on a back-ended launch slate; one Chennai project may slip into FY28 and other launches remain approval-dependent.",
+          "Brigade Barcelona's absorption is slower than Brigade Gateway Hyderabad; management expects about ₹300–325 Cr more sales in the remaining FY27 period.",
+          "About ₹250–260 Cr of September-billed collections remained outstanding after quarter-end, delaying Q2 cash generation; management expects collection in the following period."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Q2 residential launches",
+            "guided": "About 2.36 million sq ft",
+            "actual": "About 2.4 million sq ft launched",
+            "status": "met"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -959,6 +1406,76 @@
       }
     ],
     "Godrej Properties Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total income",
+            "value": "₹2,575 Cr",
+            "change": "+38% YoY; reported revenue/profit are lumpy under completion accounting",
+            "positive": 1,
+            "valueNum": 2575,
+            "yoyPct": 38
+          },
+          {
+            "label": "Booking value / pre-sales",
+            "value": "₹8,008 Cr",
+            "change": "−6% YoY and −7% QoQ; H1 ₹16,669 Cr, +7% YoY",
+            "positive": 0,
+            "valueNum": 8008,
+            "yoyPct": -6
+          },
+          {
+            "label": "Collections",
+            "value": "₹5,318 Cr",
+            "change": "+31% YoY; H1 ₹9,666 Cr, +25% YoY",
+            "positive": 1,
+            "valueNum": 5318,
+            "yoyPct": 31
+          },
+          {
+            "label": "PAT",
+            "value": "₹154 Cr",
+            "change": "−62% YoY; EBITDA ₹171 Cr, −72%",
+            "positive": 0,
+            "valueNum": 154,
+            "yoyPct": -62
+          }
+        ],
+        "fyPerformance": [
+          "H1 total income ₹3,912 Cr (+13%), EBITDA ₹717 Cr (−53%), PAT ₹504 Cr (−50%); back-ended project deliveries were cited for lower earnings.",
+          "Q2 operating cash flow was ₹1,584 Cr (+33% YoY); H1 OCF ₹1,983 Cr. Q2 sustenance bookings were ₹5,054 Cr (+83% YoY).",
+          "Added four projects in H1 with about 9 msf saleable area and expected booking value ₹15,500 Cr; delivered 2.5 msf in Q2."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 bookings outlook",
+            "value": "Management expects to surpass its annual target; H2 bookings estimated at ₹22,500–25,000 Cr"
+          },
+          {
+            "metric": "H2 collections / operating cash flow",
+            "value": "₹15,000 Cr collections and ₹7,000 Cr OCF; management also said H2 free cash flow positive, subject to business development"
+          },
+          {
+            "metric": "FY28",
+            "value": "20% reported ROE and positive free cash flow expectation; project completion accounting applies"
+          }
+        ],
+        "highlights": [
+          "Sustenance sales grew 83% YoY to ₹5,054 Cr and Q2 bookings remained above ₹7,000 Cr for the seventh consecutive quarter.",
+          "Management said H2 will be the strongest period for launches and sales; 80% of planned Q3 approvals were secured before quarter start, with remaining approvals still in process."
+        ],
+        "whatChanged": "Bookings were down 6% YoY and 7% QoQ, although H1 bookings rose 7%. Collections and operating cash flow strengthened. Relative to Q1, the launch slate shifted toward H2; Sector 63A/Verano moved from Q2 toward Q3, while earnings remained back-ended under completion accounting.",
+        "risks": [
+          "H2 launch and booking outlook depends on approvals and execution; only one-third of expected annual launch pipeline had launched in H1.",
+          "Reported P&L can swing with completion and handover timing; H1 EBITDA and PAT fell despite higher total income.",
+          "Construction acceleration is exposed to NCR NGT restrictions and other delays; high business development could affect free cash flow."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1116,6 +1633,82 @@
     ],
     "Prestige Estates Projects Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated revenue from operations",
+            "value": "₹2,222 Cr",
+            "change": "Q2 FY27",
+            "positive": 1,
+            "valueNum": 2222,
+            "yoyPct": null
+          },
+          {
+            "label": "Residential sales / pre-sales",
+            "value": "₹7,225 Cr",
+            "change": "+20% YoY; Q2FY27",
+            "positive": 1,
+            "valueNum": 7225,
+            "yoyPct": 20
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹1,088 Cr",
+            "change": "Q2FY27; consolidated result as reported on call",
+            "positive": 1,
+            "valueNum": 1088,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹256 Cr",
+            "change": "Q2FY27; consolidated result as reported on call",
+            "positive": 1,
+            "valueNum": 256,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 residential sales reached ₹13,804 Cr (+20% YoY); collections were ₹10,096 Cr.",
+          "H1 revenue was ₹5,057 Cr, EBITDA ₹2,108 Cr and PAT ₹527 Cr; Q2 operating cash flow was ₹2,679 Cr and H1 operating cash flow ₹4,168 Cr.",
+          "Q2 launches totaled about ₹4,020 Cr GDV; Q2 completed 4.27 million sq ft of residential projects, while H1 residential completions reached 5 million sq ft.",
+          "The first ₹1,500 Cr tranche of CPP Investments' ₹3,000 Cr hospitality-platform commitment was received in October, after quarter-end."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 residential sales",
+            "value": "₹36,000 Cr; retained in Q2"
+          },
+          {
+            "metric": "FY27 gross collections",
+            "value": "₹24,000–25,000 Cr"
+          },
+          {
+            "metric": "FY27 operating cash flow",
+            "value": "About ₹9,000 Cr"
+          },
+          {
+            "metric": "FY27 construction spend / business development spend",
+            "value": "₹10,000–11,000 Cr construction spend; ₹4,000–5,000 Cr business development spend"
+          }
+        ],
+        "highlights": [
+          "Q2 sales volume was 5.84 million sq ft across 3,910 units; average realization was ₹12,375 per sq ft.",
+          "H1 residential launches reached 23.14 million sq ft with more than ₹16,200 Cr GDV; future launches depend on approvals and RERA registration.",
+          "Retail mall occupancy was 99% at September-end, with Q2 gross turnover of ₹721 Cr (+10% YoY)."
+        ],
+        "whatChanged": "Q2 sales rose 20% YoY to ₹7,225 Cr and management retained the ₹36,000 Cr FY27 sales target; the call added clearer H2 collection and operating-cash-flow ranges while noting launch timing remains approval-dependent.",
+        "risks": [
+          "The Upcoming launch plan depends on RERA and other approvals; management said Cuffe Parade could move to April–May 2027, and Thane phase two depends on phase-one absorption.",
+          "Some annuity rental estimates for FY28–FY29 were reduced because approvals for upcoming projects were delayed; ongoing construction was described as on schedule.",
+          "Management called out oversupply in some Hyderabad micro-markets and said it must be selective on product positioning and launch timing."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1272,6 +1865,72 @@
     ],
     "Phoenix Mills Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,153 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 1153,
+            "yoyPct": null
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹710 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 710,
+            "yoyPct": null
+          },
+          {
+            "label": "Retail rental income",
+            "value": "₹605 Cr",
+            "change": "Q2FY27; +15% YoY",
+            "positive": 1,
+            "valueNum": 605,
+            "yoyPct": 15
+          },
+          {
+            "label": "Retail consumption",
+            "value": "₹4,685 Cr",
+            "change": "Q2FY27; +25% YoY",
+            "positive": 1,
+            "valueNum": 4685,
+            "yoyPct": 25
+          }
+        ],
+        "fyPerformance": [
+          "H1 retail rental income was ₹1,200 Cr (+16% YoY) and retail consumption ₹9,415 Cr (+28%).",
+          "H1 annuity EBITDA was ₹1,318 Cr (+20%); Q2 PAT after minority interest was ₹326 Cr.",
+          "Net debt was ₹3,479 Cr at September-end, ₹179 Cr lower quarter-on-quarter but ₹319 Cr higher than March-end."
+        ],
+        "highlights": [
+          "Core annuity revenue was ₹1,055 Cr (+16%) and core EBITDA ₹669 Cr (+21%) in Q2; these are distinct from consolidated revenue and total operating EBITDA.",
+          "Management said it expects FY27 retail rental growth to exceed the formal 15% guide after strong festive trading, but had not formally raised the target; FY28 guide remains 14–15%."
+        ],
+        "whatChanged": "The Q1 mid-teens rental-growth outlook for FY27 and FY28 was retained; after strong October trading, management said FY27 could exceed 15%, while waiting for October–November data before any formal revision.",
+        "risks": [
+          "Mall fit-outs and repositioning affecting about 5% of leasable area temporarily reduced consumption by an estimated 2–3%.",
+          "Around half of retail area comes up for lease expiry during FY27–29, requiring renewals and tenant transitions.",
+          "Net debt remained above March-end after construction spending and the ISMDPL acquisition-related transaction."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 retail rental growth",
+            "value": "Formal guide 15%; management expects to exceed it, potentially by 1–2 percentage points, subject to October–November trading; no formal increase announced"
+          },
+          {
+            "metric": "FY28 retail rental growth",
+            "value": "14–15%"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1421,6 +2080,84 @@
       }
     ],
     "Lodha Developers Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "performanceLabel": "H1 FY27",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹9,460 Cr",
+            "change": "H1 FY27; +30% YoY",
+            "positive": 1,
+            "valueNum": 9460,
+            "yoyPct": 30
+          },
+          {
+            "label": "Pre-sales",
+            "value": "₹9,600 Cr",
+            "change": "H1 FY27; +7% YoY",
+            "positive": 1,
+            "valueNum": 9600,
+            "yoyPct": 7
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹2,386 Cr",
+            "change": "H1 FY27; +63% YoY",
+            "positive": 1,
+            "valueNum": 2386,
+            "yoyPct": 63
+          },
+          {
+            "label": "Collections",
+            "value": "₹7,600 Cr",
+            "change": "H1 FY27; +19% YoY",
+            "positive": 1,
+            "valueNum": 7600,
+            "yoyPct": 19
+          }
+        ],
+        "fyPerformance": [
+          "H1 pre-sales of ₹9,600 Cr were 40.3% of the ₹24,000 Cr FY27 target; the Q1 call had set an H1 pace expectation of 40–42%.",
+          "H1 operating cash flow was ₹2,700 Cr; net debt was ₹5,200 Cr, approximately 0.2x equity."
+        ],
+        "highlights": [
+          "Management expects to comfortably beat its earlier FY27 PAT growth guide of 20%.",
+          "Management expects FY27 operating cash flow of approximately ₹8,500 Cr and maintained the ₹24,000 Cr pre-sales outlook, with substantial Q3/Q4 contribution expected."
+        ],
+        "whatChanged": "H1 pre-sales landed within the previously stated 40–42% pace for the ₹24,000 Cr annual target, but implied Q2 pre-sales of about ₹4,970 Cr were just below Q1’s ₹5,000 Cr Q2 floor. One launch shifted from Q4 to Q1 FY28, reducing the launch calendar from ₹25,000 Cr to ₹23,100 Cr without changing the full-year sales outlook.",
+        "risks": [
+          "FY27 sales delivery is weighted to H2 and depends on Q3/Q4 launches and a planned Q4 data-centre land transaction.",
+          "If elevated energy and construction input costs persist, management estimated a 1–1.5% increase in project costs over a three-to-four-year build cycle.",
+          "One project has already shifted to Q1 FY28; further launch timing can move by a month or two."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 pre-sales",
+            "value": "₹24,000 Cr"
+          },
+          {
+            "metric": "FY27 operating cash flow",
+            "value": "Approximately ₹8,500 Cr"
+          },
+          {
+            "metric": "FY27 PAT growth",
+            "value": "Earlier guide was 20%; management now expects to comfortably exceed it"
+          }
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "H1 pre-sales pace",
+            "guided": "40–42% of the FY27 target",
+            "actual": "40.3% stated by management; H1 sales approximately ₹9,600 Cr",
+            "status": "met"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1578,6 +2315,76 @@
     ],
     "DLF Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total income",
+            "value": "₹2,298 Cr",
+            "change": "Includes ₹738 Cr one-time valuation gain",
+            "positive": 1,
+            "valueNum": 2298,
+            "yoyPct": null
+          },
+          {
+            "label": "New sales bookings / pre-sales",
+            "value": "₹3,800 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 3800,
+            "yoyPct": null
+          },
+          {
+            "label": "Collections",
+            "value": "₹2,780 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 2780,
+            "yoyPct": null
+          },
+          {
+            "label": "Operating cash flow",
+            "value": "₹1,858 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 1858,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 EBITDA was ₹1,060 Cr and reported net profit exceeded ₹1,300 Cr; total income includes a one-time valuation gain.",
+          "Net cash stood at ₹15,100 Cr at quarter end, after ₹1,980 Cr dividend; rental portfolio was 50 msf with 96% occupancy by area and 97% by value.",
+          "DLF rental business and DCCDL are separate reporting items: DCCDL Q2 revenue ₹2,014 Cr, EBITDA ₹1,537 Cr and PAT above ₹750 Cr (+17%); DCCDL is equity accounted and is not additive to DLF consolidated figures."
+        ],
+        "guidance": [
+          {
+            "metric": "DCCDL exit rental outlook",
+            "value": "Around ₹6,800 Cr; call did not specify a delivery date"
+          },
+          {
+            "metric": "Other income excluding exceptional gains",
+            "value": "Around ₹150–200 Cr per quarter expected"
+          },
+          {
+            "metric": "Mall of India, Gurugram completion",
+            "value": "FY30"
+          }
+        ],
+        "highlights": [
+          "Aureva launch generated about ₹1,900 Cr of bookings against roughly ₹1,985 Cr launch value; management noted a few bookings posted after the reporting cutoff.",
+          "Management expects reported revenue and profit to rise as projects reach completion and accounting recognition in FY27–28."
+        ],
+        "whatChanged": "Aureva lifts bookings to about ₹3,800 Cr from ₹657 Cr in Q1; Q2 total income includes a ₹738 Cr valuation gain, while forthcoming Mumbai and Gurgaon launches remain subject to approvals.",
+        "risks": [
+          "Reported revenue depends on completion and possession timing; management described FY27–28 as an inflection period under its accounting policy.",
+          "Launch timing in Mumbai and Gurgaon remains approval dependent; management cited GRAP construction restrictions and potential labor migration as execution constraints.",
+          "Pollution restrictions and seasonal labor migration may slow construction spending and collections linked to milestones."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -1727,6 +2534,74 @@
       }
     ],
     "Ajmera Realty & Infra India Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total revenue",
+            "value": "₹320 Cr",
+            "change": "+45% YoY",
+            "positive": 1,
+            "valueNum": 320,
+            "yoyPct": 45
+          },
+          {
+            "label": "Sales value / pre-sales",
+            "value": "₹224 Cr",
+            "change": "Q2FY27; 72,883 sq ft carpet area",
+            "positive": 1,
+            "valueNum": 224,
+            "yoyPct": null
+          },
+          {
+            "label": "Collections",
+            "value": "₹190 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 190,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹49 Cr",
+            "change": "+55% YoY",
+            "positive": 1,
+            "valueNum": 49,
+            "yoyPct": 55
+          }
+        ],
+        "fyPerformance": [
+          "H1 sales were ₹370 Cr across 116,620 sq ft; collections were ₹363 Cr.",
+          "H1 total revenue was ₹639 Cr (+33% YoY), EBITDA ₹178 Cr (+28%; 28% margin), and PAT ₹93 Cr (+32%).",
+          "Debt fell by ₹34 Cr sequentially to ₹646 Cr; debt-to-equity was 0.44x and weighted average cost of debt was 10.75%.",
+          "Project revenue visibility of ₹3,510 Cr comprises ₹1,550 Cr from committed sales and ₹1,960 Cr of inventory yet to sell; the separate upcoming-launch pipeline is estimated at ₹7,008 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 sales / pre-sales",
+            "value": "₹2,200 Cr target; management said it remains confident of achieving it"
+          },
+          {
+            "metric": "FY27 launches",
+            "value": "About 8 launches, approximately 3.8 million sq ft and ₹7,000 Cr top-line potential; approvals and schedules remain subject to execution"
+          }
+        ],
+        "highlights": [
+          "Revenue from the 33Fifteen Bandra commercial project was recognized for the first time in Q2.",
+          "Ajmera Manhattan 1 was 95% sold and Greenfinity Phase 2 over 94% sold; Vihara was 84% sold and Solis Phase 1 87% sold.",
+          "Revenue visibility from current projects plus upcoming launches is above ₹10,500 Cr; management estimates more than ₹3,900 Cr pretax cash flow after debt over project lifecycles."
+        ],
+        "whatChanged": "Q2 sales value rose from ₹146 Cr in Q1 to ₹224 Cr and H1 sales reached ₹370 Cr; management maintained the ₹2,200 Cr FY27 goal while a material launch slate shifted into H2.",
+        "risks": [
+          "Kanjurmarg land conversion depends on government and legal clearances; management could not provide a firm completion date and said prior timelines had slipped.",
+          "Seven launches are concentrated in Q4 and may slip if approvals are delayed; management allowed that one or two could move, while remaining confident in the sales target.",
+          "Vann had only about 4% sales and remains at excavation; management cited competition and said customer traction may strengthen as construction advances."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1884,6 +2759,82 @@
     ],
     "Arvind SmartSpaces Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹157 Cr",
+            "change": "Q2 FY27",
+            "positive": 1,
+            "valueNum": 157,
+            "yoyPct": null
+          },
+          {
+            "label": "Bookings / pre-sales",
+            "value": "₹906 Cr",
+            "change": "+110% YoY, calculated from rounded figures",
+            "positive": 1,
+            "valueNum": 906,
+            "yoyPct": 110
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹45 Cr",
+            "change": "+46% YoY",
+            "positive": 1,
+            "valueNum": 45,
+            "yoyPct": 46
+          },
+          {
+            "label": "PAT",
+            "value": "₹23 Cr",
+            "change": "+25% YoY",
+            "positive": 1,
+            "valueNum": 23,
+            "yoyPct": 25
+          }
+        ],
+        "fyPerformance": [
+          "H1 bookings were ₹1,338 Cr (+120% YoY); H1 collections were ₹754 Cr (+77% YoY) and operating cash flow was ₹233 Cr.",
+          "H1 revenue was ₹475 Cr (+96% YoY), EBITDA ₹197 Cr (3.5x YoY) and PAT ₹120 Cr (4x YoY).",
+          "Net debt was ₹200 Cr at 30 September 2026, versus ₹215 Cr at 30 June; estimated unrealized operating cash flows from the existing portfolio were ₹5,197 Cr.",
+          "New Sarjapur Road project added approximately ₹470 Cr of top-line potential; FY27 business development additions were approximately ₹3,100 Cr as of September."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 bookings",
+            "value": "₹2,600–2,700 Cr, or 70–75% YoY growth; raised from ₹2,100–2,200 Cr and 35–40% in Q1"
+          },
+          {
+            "metric": "FY27 business-development GDV",
+            "value": "₹4,000–5,000 Cr; management sees a strong likelihood of reaching the upper end"
+          },
+          {
+            "metric": "EBITDA margin on new sales",
+            "value": "22–25%, reiterated"
+          },
+          {
+            "metric": "Medium-term bookings growth",
+            "value": "About 30% year on year; management said ₹5,000 Cr bookings is reachable in the medium term"
+          }
+        ],
+        "highlights": [
+          "Two Q2 launches in Bengaluru and Ahmedabad contributed about 65% of quarterly bookings; sustenance sales contributed the remaining 35%.",
+          "Arvind Sylva in Bengaluru booked over ₹500 Cr within 30 days, about 60% of project inventory by value.",
+          "Management aims to shift the portfolio from 65% horizontal today to 65% vertical development over the next four years."
+        ],
+        "whatChanged": "Quarterly bookings more than doubled from ₹432 Cr in Q1 to ₹906 Cr in Q2, and management raised FY27 bookings guidance to ₹2,600–2,700 Cr from ₹2,100–2,200 Cr.",
+        "risks": [
+          "Some planned Bengaluru and Mumbai launches may fall into Q4 rather than Q3 because final approvals are pending.",
+          "Management described the property cycle as advanced and said geopolitical and commodity inflation can raise construction costs, although recent project underwriting includes contingency buffers.",
+          "The growth plan requires continued ₹4,000–5,000 Cr annual GDV additions; management said this level is needed to sustain medium-term booking growth."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -2040,6 +2991,90 @@
     ],
     "Ashiana Housing Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations",
+            "value": "₹576 Cr",
+            "change": "+247% YoY; calculated from ₹166 Cr in Q2FY26",
+            "positive": 1,
+            "valueNum": 576,
+            "yoyPct": 247
+          },
+          {
+            "label": "Value of area booked / pre-sales",
+            "value": "₹834 Cr",
+            "change": "+175% YoY; 9.47 lakh sq ft",
+            "positive": 1,
+            "valueNum": 834,
+            "yoyPct": 175
+          },
+          {
+            "label": "Collections",
+            "value": "₹487 Cr",
+            "change": "+20% YoY",
+            "positive": 1,
+            "valueNum": 487,
+            "yoyPct": 20
+          },
+          {
+            "label": "PAT",
+            "value": "₹51 Cr",
+            "change": "+82% YoY; calculated from ₹28 Cr in Q2FY26",
+            "positive": 1,
+            "valueNum": 51,
+            "yoyPct": 82
+          }
+        ],
+        "fyPerformance": [
+          "H1 value of area booked was ₹1,192 Cr (+62% YoY); collections were ₹896 Cr (+13%).",
+          "H1 revenue from operations rose 49% to ₹683 Cr and PAT rose 59% to ₹64 Cr.",
+          "Q2 deliveries and revenue recognition covered 8.63 lakh sq ft; handovers began at Ashiana Amarah Phase 1 and Ashiana Anmol Phase 3 in Gurugram.",
+          "Senior-living value of area booked was ₹176 Cr in Q2 and ₹310 Cr in H1; the business now represents more than ₹9,000 Cr of GDV."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 senior-living value of area booked",
+            "value": "₹700 Cr+; management said it remains on track"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "Above ₹250 Cr; management said deliveries remain on schedule, with some project timing risk"
+          },
+          {
+            "metric": "Senior-living annual value of area booked",
+            "value": "₹1,500 Cr by 2030"
+          },
+          {
+            "metric": "Medium-term PAT",
+            "value": "Cross ₹500 Cr; management now expects the ₹2,000 Cr cumulative PAT goal around H1FY31 rather than FY30"
+          }
+        ],
+        "highlights": [
+          "Ashiana OMA in Jaipur contributed ₹402 Cr of Q2 bookings across 238 units.",
+          "Average Q2 realization was ₹8,813 per sq ft, up 20% YoY; area booked in H1 rose 30% and H1 realization rose 25% to ₹9,119 per sq ft.",
+          "CARE upgraded the issuer rating from CARE A to CARE A+; the company reported a net-cash position."
+        ],
+        "whatChanged": "Q2 bookings rose to ₹834 Cr from ₹358 Cr in Q1 and revenue recognition rose to ₹576 Cr from ₹107 Cr as Gurugram handovers began; management also moved the cumulative ₹2,000 Cr PAT milestone to around H1FY31.",
+        "risks": [
+          "Management expects pollution-related construction bans in NCR to create some delivery slippage; Ashiana Swarang was the one project not then on schedule.",
+          "Some phases including Aaroham are expected to shift into FY31, moving the cumulative ₹2,000 Cr PAT goal from FY30 to around H1FY31.",
+          "A Lavasa land-boundary dispute is sub judice; management denied encroachment and said there had been no material development."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "H1 FY27 bookings",
+            "guided": "₹1,050–1,100 Cr by September-end, stated in Q1",
+            "actual": "₹1,192 Cr in H1",
+            "status": "exceeded"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -2189,6 +3224,79 @@
       }
     ],
     "Sunteck Realty Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹320 Cr",
+            "change": "+27% YoY",
+            "positive": 1,
+            "valueNum": 320,
+            "yoyPct": 27
+          },
+          {
+            "label": "Pre-sales",
+            "value": "₹824 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 824,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 operating cash-flow surplus",
+            "value": "₹350 Cr",
+            "change": "+27% YoY; H1 FY27",
+            "positive": 1,
+            "valueNum": 350,
+            "yoyPct": 27
+          },
+          {
+            "label": "H1 EBITDA",
+            "value": "₹160 Cr",
+            "change": "+23% YoY; H1FY27",
+            "positive": 1,
+            "valueNum": 160,
+            "yoyPct": 23
+          }
+        ],
+        "fyPerformance": [
+          "H1 pre-sales were ₹1,611 Cr; collections were ₹780 Cr.",
+          "H1 revenue was ₹510 Cr (+16% YoY), EBITDA ₹160 Cr (+23%) and PAT ₹100 Cr (+20%).",
+          "H1 operating cash-flow surplus was ₹350 Cr, equal to 45% of collections; business-development investment was ₹390 Cr during the same half.",
+          "The company acquired an adjoining 4.5-acre Borivali West parcel, expanding the assembled site to 11.5 acres and taking stated estimated GDV to ₹8,000 Cr."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 pre-sales growth",
+            "value": "About 25% YoY; management said it remained confident and could maintain this expectation"
+          },
+          {
+            "metric": "FY27 launch pipeline",
+            "value": "About ₹7,000 Cr, excluding Dubai; H2-weighted"
+          },
+          {
+            "metric": "Nepean Sea Road launch",
+            "value": "Management aims to launch with RERA before FY27-end; subject to approvals"
+          }
+        ],
+        "highlights": [
+          "H1 pre-sales grew 19% YoY despite no major launches; Q2 sales mix was 25% uber luxury, 51% premium luxury and 25% aspirational luxury (rounded).",
+          "Dubai was moved out of the near-term to-be-launched GDV pipeline because launch visibility was lacking for the next one or two quarters; management said project economics remained attractive.",
+          "Annualized annuity income was ₹86 Cr versus ₹76 Cr in FY26."
+        ],
+        "whatChanged": "The FY27 sales-growth expectation was narrowed from Q1's 25–30% range to about 25% YoY, while the ₹7,000 Cr H2-weighted launch plan explicitly excludes Dubai after management moved it to the upcoming pipeline.",
+        "risks": [
+          "Dubai has no clear launch visibility for the next one or two quarters and has been removed from the near-term launch pipeline.",
+          "The ₹7,000 Cr H2 launch plan depends on project approvals and includes several phases across existing sites; Nepean Sea Road still awaited approvals despite active demolition.",
+          "Milestone-linked collections lag early-stage sales, while business-development spending consumes cash before new projects generate receipts."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1 FY27"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -2346,6 +3454,80 @@
     ],
     "Keystone Realtors Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations",
+            "value": "₹497 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 497,
+            "yoyPct": null
+          },
+          {
+            "label": "Pre-sales",
+            "value": "₹1,423 Cr",
+            "change": "Q2FY27; +84% YoY",
+            "positive": 1,
+            "valueNum": 1423,
+            "yoyPct": 84
+          },
+          {
+            "label": "Collections",
+            "value": "₹541 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 541,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹101 Cr",
+            "change": "Q2FY27 vs ₹10 Cr in Q2FY26; includes one-line JV profit",
+            "positive": 1,
+            "valueNum": 101,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 pre-sales were ₹2,041 Cr (+11% YoY) and collections were ₹1,141 Cr.",
+          "H1 revenue from operations was ₹967 Cr (+25%); EBITDA was ₹179.4 Cr and PAT ₹153.1 Cr.",
+          "Net debt was ₹132 Cr at September-end, versus net cash of ₹63 Cr at March-end; net debt/equity was 0.04x."
+        ],
+        "highlights": [
+          "Q2 EBITDA was ₹74.2 Cr, about double the prior-year quarter; reported PAT includes the contribution of an equity-accounted joint venture.",
+          "Ozone Skye and 25HQ launches together represented ₹2,242 Cr GDV; Q2 operating cash flow was ₹125 Cr and H1 operating cash flow ₹193 Cr."
+        ],
+        "whatChanged": "Management retained FY27 pre-sales and launch goals, while its operating cash-flow outlook is now ₹700–800 Cr for the year; two projects moved to H1 FY28.",
+        "risks": [
+          "Dindoshi and Om Nagar launches have shifted to H1 FY28; FY27's ₹8,000 Cr launch plan depends on other projects and approvals.",
+          "Net debt moved from ₹63 Cr net cash in March to ₹132 Cr net debt at September-end as project and land spending accelerated.",
+          "Management now expects FY27 operating cash flow of ₹700–800 Cr, below the approximately ₹1,000 Cr aspiration discussed earlier."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 pre-sales",
+            "value": "₹5,000 Cr"
+          },
+          {
+            "metric": "FY27 launches",
+            "value": "₹8,000 Cr GDV"
+          },
+          {
+            "metric": "FY27 collections",
+            "value": "₹3,000–3,100 Cr"
+          },
+          {
+            "metric": "FY27 operating cash flow",
+            "value": "₹700–800 Cr expected for the full year"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -2501,6 +3683,82 @@
       }
     ],
     "Puravankara Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations",
+            "value": "₹1,033 Cr",
+            "change": "+60% YoY, calculated from ₹1,033 Cr vs ₹644 Cr disclosed on call",
+            "positive": 1,
+            "valueNum": 1033,
+            "yoyPct": 60
+          },
+          {
+            "label": "Pre-sales, including Purva Zentech monetization",
+            "value": "₹2,762 Cr",
+            "change": "+109% YoY; includes ₹626 Cr Zentech asset monetization",
+            "positive": 1,
+            "valueNum": 2762,
+            "yoyPct": 109
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹289 Cr",
+            "change": "27.5% stated margin, including Zentech effects",
+            "positive": 1,
+            "valueNum": 289,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹82 Cr",
+            "change": "Reported profit; quarter includes a ₹149 Cr exceptional gain",
+            "positive": 1,
+            "valueNum": 82,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 residential and commercial sales were ₹3,575 Cr; adding the ₹626 Cr Zentech transaction gives total sales achievement of about ₹4,201 Cr, or 37.5% of the ₹11,200 Cr FY27 target.",
+          "H1 collections were ₹2,500 Cr (+31% YoY); H1 total income was ₹1,928 Cr and PAT ₹107 Cr.",
+          "Q2 direct cash-flow statement showed ₹596 Cr operating surplus before interest and tax and ₹413 Cr after interest and tax; net debt fell ₹470 Cr QoQ to ₹2,366 Cr.",
+          "Management cited a 14.5 million sq ft planned launch program with about ₹22,600 Cr GDV, subject to approvals."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 total sales, including Zentech asset monetization",
+            "value": "₹11,200 Cr; retained from Q1"
+          },
+          {
+            "metric": "FY27 collections",
+            "value": "About ₹6,000 Cr"
+          },
+          {
+            "metric": "FY27 operating surplus",
+            "value": "Above ₹1,000 Cr"
+          },
+          {
+            "metric": "FY27 GDV additions",
+            "value": "About ₹15,000 Cr; management said it had nearly reached this level by the call"
+          }
+        ],
+        "highlights": [
+          "Q2 pre-sales volume was 2.38 million sq ft and average realization rose 32% YoY to ₹11,607 per sq ft.",
+          "The company handed over 977 homes covering about 0.97 million sq ft in Q2; H1 handovers totaled 1,722 homes.",
+          "Net debt-to-equity was 1.26x and weighted average cost of debt declined to 10.94%."
+        ],
+        "whatChanged": "Revenue from operations reached ₹1,033 Cr and pre-sales included a ₹626 Cr Zentech monetization; management retained the ₹11,200 Cr FY27 sales target, explicitly on a basis that includes this transaction.",
+        "risks": [
+          "The FY27 launch program is back-ended and approval-dependent; management said some South projects could slip into next year and Cuffe Parade may move into Q1FY28.",
+          "Q2 PAT includes a ₹149 Cr exceptional gain, so the reported profit improvement does not represent recurring earnings alone.",
+          "Q2 operating surplus included Zentech proceeds, and management said leverage decisions will depend on future business-development opportunities."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -2658,6 +3916,76 @@
     ],
     "Ganesh Housing Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue (all Q2 revenue from land sales)",
+            "value": "₹121 Cr",
+            "change": "About −30% YoY from rounded ₹174 Cr",
+            "positive": -1,
+            "valueNum": 121,
+            "yoyPct": -30
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹98 Cr",
+            "change": "80.7% margin on reported revenue",
+            "positive": 1,
+            "valueNum": 98,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹67 Cr",
+            "change": "About −38% YoY from rounded ₹108 Cr",
+            "positive": -1,
+            "valueNum": 67,
+            "yoyPct": -38
+          },
+          {
+            "label": "H1 revenue",
+            "value": "₹402 Cr",
+            "change": "H1 EBITDA ₹208 Cr; PAT ₹109 Cr",
+            "positive": 1,
+            "valueNum": 402,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 revenue ₹402 Cr, EBITDA ₹208 Cr and PAT ₹109 Cr; Q1 revenue was ₹280 Cr, EBITDA ₹110 Cr and PAT ₹42 Cr.",
+          "Million Minds Tower 1 was 68.4% leased (versus 43% LOI in July); contracted rent roll was ₹55.7 Cr annualized, not current collected rent.",
+          "Malabar Retreat was 87% complete; 76 units were sold and collections were ₹132 Cr. Management expects recognition on completion in Q4."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue",
+            "value": "₹1,000–1,200 Cr, reiterated"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "₹300–325 Cr, reiterated"
+          },
+          {
+            "metric": "Million Minds Tower 1 leasing",
+            "value": "90% leased by March 2027; Q4 rent commencement expected"
+          }
+        ],
+        "highlights": [
+          "Tower 1 was 68.4% leased; annual rent at full occupancy is now estimated at ₹84 Cr versus the earlier ₹70 Cr, while the contracted rent roll is ₹55.7 Cr.",
+          "Management described 513 acres as fully paid across Godhavi and campus land; larger parcels under negotiation were not included."
+        ],
+        "whatChanged": "Q2 revenue was ₹121 Cr versus Q1 ₹280 Cr, with H1 at ₹402 Cr. The company maintained annual revenue and PAT ranges, but management said much of the remaining delivery and land monetization would occur in H2, including Malabar Q4 recognition.",
+        "risks": [
+          "FY27 guidance relies on material H2 land sales; management did not provide a firm date or fixed plan for monetizing the larger Godhavi land parcels.",
+          "Malabar revenue recognition depends on completion; the project was 87% complete in Q2 and expected in Q4.",
+          "Million Minds Tower 1 leasing progress is not yet equivalent to rent recognized; Q4 rental start and 90% March occupancy remain targets."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -2790,6 +4118,76 @@
       }
     ],
     "Kalpataru Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹437 Cr",
+            "change": "Q2FY27; adjusted EBITDA ₹73 Cr, 16.6% margin; net loss ₹71 Cr",
+            "positive": 0,
+            "valueNum": 437,
+            "yoyPct": null
+          },
+          {
+            "label": "Pre-sales / bookings",
+            "value": "₹1,258 Cr",
+            "change": "−5% YoY; H1 ₹2,587 Cr, broadly flat YoY",
+            "positive": 0,
+            "valueNum": 1258,
+            "yoyPct": -5
+          },
+          {
+            "label": "Collections",
+            "value": "₹1,189 Cr",
+            "change": "Q2FY27, broadly flat YoY; H1 ₹2,554 Cr, +9%",
+            "positive": 1,
+            "valueNum": 1189,
+            "yoyPct": null
+          },
+          {
+            "label": "Net debt",
+            "value": "₹8,323 Cr",
+            "change": "Net debt-to-equity 2.1x",
+            "positive": 0,
+            "valueNum": 8323,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 revenue ₹909 Cr, adjusted EBITDA ₹167 Cr and net loss ₹100 Cr.",
+          "H1 completions were 2.37 million sq ft against the 5.5 million sq ft annual plan.",
+          "Presales were ₹1,329 Cr in Q1 and ₹1,258 Cr in Q2; collections ₹1,365 Cr in Q1 and ₹1,189 Cr in Q2."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 pre-sales",
+            "value": "₹6,500 Cr target retained"
+          },
+          {
+            "metric": "FY27 project completions",
+            "value": "5.5 msf target retained"
+          },
+          {
+            "metric": "FY27 net debt",
+            "value": "Broadly flat versus FY26 while funding construction and business development"
+          }
+        ],
+        "highlights": [
+          "H1 sales were broadly flat and collections grew 9%; Q2 had 1.26 msf launches with Pune planned in Q3 and Chembur/Nagpur in Q4, subject to approvals.",
+          "Management expects H2 sales to be weighted toward sustenance and reiterated its annual targets."
+        ],
+        "whatChanged": "Q2 presales eased to ₹1,258 Cr from Q1 ₹1,329 Cr; H1 was ₹2,587 Cr, broadly flat year on year. Collections were lower sequentially but H1 rose 9%. The company retained its ₹6,500 Cr pre-sales and 5.5 msf completion targets.",
+        "risks": [
+          "The company remained loss-making in Q2 and net debt was ₹8,323 Cr, with gross debt ₹9,179 Cr.",
+          "H2 sales depend on sustaining demand and approval-dependent launches; management said luxury walk-ins were not yet translating proportionally into conversions.",
+          "Completion target and H2 launch schedule depend on execution; H1 completed 2.37 msf against 5.5 msf full-year target."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -2940,6 +4338,72 @@
       }
     ],
     "Max Estates Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹53 Cr",
+            "change": "Q2FY27 vs ₹49 Cr in Q2FY26; +8% YoY",
+            "positive": 1,
+            "valueNum": 53,
+            "yoyPct": 8
+          },
+          {
+            "label": "Pre-sales",
+            "value": "Approximately ₹2,100 Cr",
+            "change": "Q2FY27; all sales were from existing projects, with no new launch in the quarter",
+            "positive": 1,
+            "valueNum": 2100,
+            "yoyPct": null
+          },
+          {
+            "label": "Collections",
+            "value": "₹560 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 560,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹4.7 Cr",
+            "change": "Q2FY27",
+            "positive": 0,
+            "valueNum": 4.7,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 pre-sales were approximately ₹3,200 Cr and collections about ₹1,100 Cr.",
+          "H1 consolidated revenue was ₹375 Cr and EBITDA ₹13.5 Cr.",
+          "Quarter-end external debt was ₹2,100 Cr and cash including other balances ₹1,900 Cr, implying about ₹200 Cr net debt; ₹950 Cr of lease-rental-discounting debt is included in gross debt."
+        ],
+        "highlights": [
+          "Q2 PBT was ₹7.2 Cr; residential revenue is recognized on handover, so pre-sales and reported revenue reflect different stages of the business.",
+          "Operating commercial assets were fully occupied, generating ₹39 Cr of Q2 lease rental income."
+        ],
+        "whatChanged": "Q2 pre-sales rose to about ₹2,100 Cr, all from sustenance sales; the Q2 call reiterated FY27 operating cash flow guidance of ₹750–1,000 Cr but did not reaffirm Q1 collection or launch targets.",
+        "risks": [
+          "The planned Sector 59 launch, with about ₹4,000 Cr GDV, remained subject to final approvals and was expected in Q3.",
+          "Ghaziabad and West Delhi land transactions were still MOUs subject to due diligence, approvals and definitive documentation.",
+          "FY27 operating cash flow guidance depends on H2 execution; residential revenue recognition also depends on completed handovers."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 operating cash flow",
+            "value": "₹750–1,000 Cr"
+          },
+          {
+            "metric": "FY27 construction spend",
+            "value": "Around ₹1,500 Cr"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -3095,5 +4559,206 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 20,
+      "overview": "Sales and collections improve at many developers, supported by established brands, sustenance sales and premium projects, while annuity portfolios continue to grow. The outlook remains mixed: several launch or profit milestones move out, and many annual targets require substantially stronger H2 delivery. Project-completion accounting and asset transactions make reported earnings less comparable with bookings.",
+      "trends": [
+        {
+          "text": "Sustenance sales from existing projects complement new launches and help maintain customer activity.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "Ajmera Realty & Infra India Ltd",
+            "Arvind SmartSpaces Ltd",
+            "Brigade Enterprises Ltd",
+            "DLF Ltd",
+            "Embassy Developments Ltd",
+            "Godrej Properties Ltd",
+            "Kalpataru Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Mahindra Lifespace Developers Ltd",
+            "Max Estates Ltd",
+            "Prestige Estates Projects Ltd",
+            "Sobha Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        },
+        {
+          "text": "Developers continue to add land, redevelopment opportunities or new phases to support future launch pipelines.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "Ajmera Realty & Infra India Ltd",
+            "Arvind SmartSpaces Ltd",
+            "Ashiana Housing Ltd",
+            "Brigade Enterprises Ltd",
+            "DLF Ltd",
+            "Embassy Developments Ltd",
+            "Ganesh Housing Ltd",
+            "Godrej Properties Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Mahindra Lifespace Developers Ltd",
+            "Max Estates Ltd",
+            "Prestige Estates Projects Ltd",
+            "Puravankara Ltd",
+            "SignatureGlobal India Ltd",
+            "Sobha Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Brand strength, premium positioning and differentiated products support sales or pricing.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "Ajmera Realty & Infra India Ltd",
+            "Arvind SmartSpaces Ltd",
+            "Ashiana Housing Ltd",
+            "Brigade Enterprises Ltd",
+            "DLF Ltd",
+            "Embassy Developments Ltd",
+            "Godrej Properties Ltd",
+            "Kalpataru Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Mahindra Lifespace Developers Ltd",
+            "Max Estates Ltd",
+            "Prestige Estates Projects Ltd",
+            "Puravankara Ltd",
+            "SignatureGlobal India Ltd",
+            "Sobha Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Approvals, launch schedules and construction timing keep a substantial share of planned sales or completions dependent on H2 execution.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "Ajmera Realty & Infra India Ltd",
+            "Arvind SmartSpaces Ltd",
+            "Ashiana Housing Ltd",
+            "Brigade Enterprises Ltd",
+            "DLF Ltd",
+            "Embassy Developments Ltd",
+            "Godrej Properties Ltd",
+            "Kalpataru Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Mahindra Lifespace Developers Ltd",
+            "Max Estates Ltd",
+            "Prestige Estates Projects Ltd",
+            "Puravankara Ltd",
+            "SignatureGlobal India Ltd",
+            "Sobha Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Office, retail and hospitality portfolios provide rental and operating-income opportunities alongside residential development.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "Brigade Enterprises Ltd",
+            "DLF Ltd",
+            "Ganesh Housing Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Max Estates Ltd",
+            "Phoenix Mills Ltd",
+            "Prestige Estates Projects Ltd",
+            "SignatureGlobal India Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        },
+        {
+          "text": "Arvind raises its FY27 bookings forecast; Lodha expects to beat its profit-growth target, and Sobha expects at least 50% PAT growth.",
+          "companies": [
+            "Arvind SmartSpaces Ltd",
+            "Lodha Developers Ltd",
+            "Sobha Ltd"
+          ]
+        },
+        {
+          "text": "Senior living remains an expanding focus for Ashiana, with further projects and launches planned.",
+          "companies": [
+            "Ashiana Housing Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Deferred launches or milestones at Aditya Birla, Ashiana, Keystone, Lodha and Sunteck qualify the growth outlook.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "Ashiana Housing Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        },
+        {
+          "text": "Debt, construction spending and the conversion of sales into collections need monitoring before assuming free cash flow.",
+          "companies": [
+            "Ajmera Realty & Infra India Ltd",
+            "Brigade Enterprises Ltd",
+            "Embassy Developments Ltd",
+            "Kalpataru Ltd",
+            "Keystone Realtors Ltd",
+            "Lodha Developers Ltd",
+            "Max Estates Ltd",
+            "Prestige Estates Projects Ltd",
+            "Puravankara Ltd",
+            "SignatureGlobal India Ltd",
+            "Sobha Ltd",
+            "Sunteck Realty Ltd"
+          ]
+        },
+        {
+          "text": "One-time gains and completion-based recognition can lift reported profit without establishing a recurring earnings run rate.",
+          "companies": [
+            "Aditya Birla Real Estate Ltd",
+            "DLF Ltd",
+            "Ganesh Housing Ltd",
+            "Godrej Properties Ltd",
+            "Kalpataru Ltd",
+            "Max Estates Ltd",
+            "Phoenix Mills Ltd",
+            "Puravankara Ltd",
+            "Sobha Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Ashiana exceeds its H1 bookings expectation and Brigade delivers about 2.4 million sq ft of Q2 launches; their annual targets remain open.",
+          "companies": [
+            "Ashiana Housing Ltd",
+            "Brigade Enterprises Ltd"
+          ]
+        },
+        {
+          "text": "Puravankara’s annual sales target includes the Zentech monetization, while DLF total income includes a valuation gain.",
+          "companies": [
+            "DLF Ltd",
+            "Puravankara Ltd"
+          ]
+        },
+        {
+          "text": "Phoenix reports broad mall consumption growth without new operational retail area, and Max Estates’ quarterly residential sales are entirely from sustenance.",
+          "companies": [
+            "Max Estates Ltd",
+            "Phoenix Mills Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

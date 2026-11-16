@@ -22,6 +22,74 @@
   "concall": {
     "FSN E-Commerce Ventures Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "GMV",
+            "value": "₹6,151 Cr",
+            "change": "+30% YoY",
+            "positive": 1,
+            "valueNum": 6151,
+            "yoyPct": 30
+          },
+          {
+            "label": "Net Revenue",
+            "value": "₹3,006 Cr",
+            "change": "+28% YoY",
+            "positive": 1,
+            "valueNum": 3006,
+            "yoyPct": 28
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹263 Cr",
+            "change": "+65% YoY",
+            "positive": 1,
+            "valueNum": 263,
+            "yoyPct": 65
+          },
+          {
+            "label": "PAT",
+            "value": "₹101 Cr",
+            "change": "+207% YoY",
+            "positive": 1,
+            "valueNum": 101,
+            "yoyPct": 207
+          }
+        ],
+        "fyPerformance": [
+          "Q2 net revenue rose 28% YoY to ₹3,006 Cr; EBITDA rose 65% to ₹263 Cr and PAT rose 207% to ₹101 Cr.",
+          "Beauty NSV grew 28% YoY; Fashion NSV grew 47% to ₹509 Cr.",
+          "Fashion EBITDA was positive for a third consecutive quarter at about ₹1 Cr; Beauty EBITDA margin crossed 10%."
+        ],
+        "highlights": [
+          "First-half net revenue reached ₹5,788 Cr, up 29% YoY.",
+          "House of Nykaa recorded ₹535 Cr Q2 NSV, up 39% YoY; stated annualized NSV run rate was ₹2,300 Cr.",
+          "Nykaa announced an 82% acquisition of Simply Nam for ₹33 Cr, expected to close in Q3 subject to approvals."
+        ],
+        "whatChanged": "Q2 revenue growth moderated to 28% from 29% in Q1, while revenue, EBITDA and PAT increased sequentially; management said festive demand shifts into Q3.",
+        "risks": [
+          "Superstore growth was constrained as management prioritized efficiency; its GMV-to-NSV gap partly reflected the prior-year GST change.",
+          "Management declined to forecast festive demand before the Diwali period was complete.",
+          "Simply Nam acquisition closing remains subject to regulatory approvals."
+        ],
+        "guidance": [
+          {
+            "metric": "Fashion EBITDA margin",
+            "value": "High single digits by FY30; 10%+ at steady state"
+          },
+          {
+            "metric": "Beauty store network",
+            "value": "About 600 stores over the next few years"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2FY27; H1 revenue separately identified"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -171,6 +239,84 @@
       }
     ],
     "Eternal Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "B2C NOV",
+            "value": "₹35,644 Cr",
+            "change": "+54% YoY",
+            "positive": 1,
+            "valueNum": 35644,
+            "yoyPct": 54
+          },
+          {
+            "label": "Consolidated Adjusted Revenue",
+            "value": "₹24,621 Cr",
+            "change": "+76% YoY; +58% LFL",
+            "positive": 1,
+            "valueNum": 24621,
+            "yoyPct": 76
+          },
+          {
+            "label": "Consolidated Adjusted EBITDA",
+            "value": "₹666 Cr",
+            "change": "+197% YoY",
+            "positive": 1,
+            "valueNum": 666,
+            "yoyPct": 197
+          },
+          {
+            "label": "Blinkit NOV",
+            "value": "₹20,940 Cr",
+            "change": "+79.3% YoY",
+            "positive": 1,
+            "valueNum": 20940,
+            "yoyPct": 79.3
+          }
+        ],
+        "performanceLabel": "Q2FY27; company-defined NOV, adjusted revenue and EBITDA",
+        "fyPerformance": [
+          "B2C NOV increased 54% YoY to ₹35,644 Cr; consolidated Adjusted Revenue grew 76% to ₹24,621 Cr, or 58% like-for-like.",
+          "Consolidated Adjusted EBITDA grew 197% YoY to ₹666 Cr.",
+          "Blinkit NOV grew 79.3% YoY to ₹20,940 Cr; 308 net stores were added, taking the network to 2,751."
+        ],
+        "highlights": [
+          "Food delivery NOV increased 21.5% YoY to ₹11,445 Cr; Adjusted EBITDA was ₹627 Cr, 5.5% of NOV.",
+          "Blinkit Adjusted EBITDA was ₹184 Cr, equal to 0.9% of NOV; this compared with a ₹156 Cr loss a year earlier.",
+          "District NOV was ₹3,259 Cr, up 58% YoY; Adjusted EBITDA loss was ₹64 Cr and 2.0% of NOV.",
+          "Hyperpure Adjusted Revenue was ₹1,154 Cr, up 13% reported and 23% LFL; Adjusted EBITDA was ₹10 Cr.",
+          "Adjusted revenue includes the full value of goods sold under quick-commerce inventory ownership; like-for-like consolidated growth was 58%."
+        ],
+        "whatChanged": "Management raised the Blinkit March 2027 store expectation to more than 3,500 from 3,000 and indicated about 5,000 by March 2028, while retaining the FY29 $1 billion adjusted EBITDA ambition and reinvesting food-delivery earnings in growth.",
+        "risks": [
+          "Food-delivery competition increased, and management said it would reinvest in customer acquisition and frequency while broadly maintaining margins over the next 1–2 years.",
+          "Quick-commerce expansion raises variable technology/server costs, including costs denominated in dollars; management said smaller cities are the focus of expansion.",
+          "dark.ai was not yet monetized; management said it remained several months from launch and could require infrastructure investment if response is unusually strong."
+        ],
+        "guidance": [
+          {
+            "metric": "Blinkit store network",
+            "value": "More than 3,500 by March 2027, versus prior 3,000; about 5,000 by March 2028"
+          },
+          {
+            "metric": "Eternal Adjusted EBITDA",
+            "value": "$1 billion in FY29; maintained on the call"
+          },
+          {
+            "metric": "Blinkit NOV per store",
+            "value": "About ₹11 lakh per day at steady state"
+          },
+          {
+            "metric": "Food delivery margins",
+            "value": "Broadly flattish over the next 1–2 years"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -322,6 +468,78 @@
     ],
     "Swiggy Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "B2C GOV",
+            "value": "₹20,793 Cr",
+            "change": "+24.6% YoY",
+            "positive": 1,
+            "valueNum": 20793,
+            "yoyPct": 24.6
+          },
+          {
+            "label": "Consolidated Adjusted Revenue",
+            "value": "₹7,909 Cr",
+            "change": "+33.8% YoY",
+            "positive": 1,
+            "valueNum": 7909,
+            "yoyPct": 33.8
+          },
+          {
+            "label": "Consolidated Adjusted EBITDA",
+            "value": "-₹760 Cr",
+            "change": "Loss widened ₹64 Cr YoY",
+            "positive": -1,
+            "valueNum": -760,
+            "yoyPct": null
+          },
+          {
+            "label": "Food delivery Adjusted EBITDA",
+            "value": "₹341 Cr",
+            "change": "3.4% of GOV; +58 bps YoY",
+            "positive": 1,
+            "valueNum": 341,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2FY27; company-defined GOV, adjusted revenue and adjusted EBITDA",
+        "fyPerformance": [
+          "B2C GOV increased 24.6% YoY to ₹20,793 Cr; consolidated Adjusted Revenue rose 33.8% to ₹7,909 Cr.",
+          "Consolidated Adjusted EBITDA loss was ₹760 Cr, ₹64 Cr wider YoY; B2C Adjusted EBITDA margin was -2.6% of GOV.",
+          "Food delivery GOV grew 17.7% to ₹10,054 Cr and its Adjusted EBITDA reached a record ₹341 Cr, or 3.4% of GOV."
+        ],
+        "highlights": [
+          "Instamart NOV grew 13.4% QoQ to ₹6,594 Cr; GOV grew 31.4% YoY to ₹9,230 Cr.",
+          "Instamart added 69 net stores to reach 1,240 across 133 cities; contribution margin was -1.0% of GOV.",
+          "Toing had reached 50+ cities; management said two-thirds of its new users were new to Swiggy or long-term dormant."
+        ],
+        "whatChanged": "Instamart NOV growth accelerated to 13.4% QoQ from 2.5% in Q1; management retained 18–20% annual food-delivery GOV growth guidance and reiterated sequential operating-margin improvement for Instamart.",
+        "risks": [
+          "Instamart Adjusted EBITDA loss was ₹895 Cr, up ₹46 Cr YoY, while the company continued investment in assortment, availability and service quality.",
+          "Contribution margin remained negative at -1.0% of GOV; management kept near-term guidance at 0% to -100 bps.",
+          "Toing remained experimental; management said another one or two quarters were needed to assess the model."
+        ],
+        "guidance": [
+          {
+            "metric": "Food delivery GOV growth",
+            "value": "18–20% for FY27, excluding Toing; unchanged"
+          },
+          {
+            "metric": "Instamart adjusted EBITDA margin",
+            "value": "Improve about 100 bps sequentially in Q3 FY27"
+          },
+          {
+            "metric": "Instamart contribution margin",
+            "value": "0% to -100 bps near term"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -471,6 +689,63 @@
       }
     ],
     "Pine Labs Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue growth",
+            "value": "+24% YoY",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 24,
+            "yoyPct": 24
+          },
+          {
+            "label": "Adjusted EBITDA growth",
+            "value": "+27% YoY",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 27,
+            "yoyPct": 27
+          },
+          {
+            "label": "Flow-based income growth",
+            "value": "+25% YoY",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 25,
+            "yoyPct": 25
+          },
+          {
+            "label": "Payment volumes growth",
+            "value": "About +50% YoY",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 50,
+            "yoyPct": 50
+          }
+        ],
+        "fyPerformance": [
+          "Revenue grew 24% YoY and Adjusted EBITDA grew 27% YoY in Q2.",
+          "Flow-based income increased 25% YoY while transaction volumes grew about 50% YoY.",
+          "India issuing and acquiring platform business grew 40% YoY, as discussed in Q&A."
+        ],
+        "highlights": [
+          "Management said it had deployed close to 100,000 terminals in mid-market over the trailing 12 months.",
+          "Pine Labs was processing about 100,000 daily transactions in UAE; its Malaysian installed POS base was near 100,000 and Philippines base was 50,000."
+        ],
+        "whatChanged": "Management characterized execution as broad-based and faster than market across business lines; it did not restate Q1 FY27’s annual revenue-growth or full-year contribution-margin targets on this call.",
+        "risks": [
+          "Management plans continued sales investment in H2, including international hiring.",
+          "UPI MDR timing remained dependent on NPCI; management gave no launch date.",
+          "Diwali trading outlook was still uncertain at the call date; management had visibility only through Navratri and Dussehra."
+        ],
+        "outlook": "Management expects revenue growth to continue in H2 while investing in sales; no fresh numeric full-year guidance was given on this call.",
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -622,6 +897,70 @@
     ],
     "One97 Communications Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations",
+            "value": "₹2,648 Cr",
+            "change": "+28.5% YoY",
+            "positive": 1,
+            "valueNum": 2648,
+            "yoyPct": 28.5
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹225 Cr",
+            "change": "Reported consolidated result",
+            "positive": 1,
+            "valueNum": 225,
+            "yoyPct": null
+          },
+          {
+            "label": "Payment devices added",
+            "value": "About 700,000",
+            "change": "Q2 additions",
+            "positive": 1,
+            "valueNum": 700000,
+            "yoyPct": null
+          },
+          {
+            "label": "Net payment margin ex-UPI",
+            "value": "9 bps",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 9,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27 consolidated reported financials; Revenue from operations and PAT are as reported in the unaudited consolidated results. Payment-device additions and net payment margin are operating measures discussed on the call.",
+        "fyPerformance": [
+          "Consolidated reported revenue from operations was ₹2,648 Cr, up 28.5% YoY; reported profit after tax was ₹225 Cr.",
+          "Management said it added about 700,000 payment devices in Q2.",
+          "Net payment margin excluding UPI was 9 bps in Q2; management said this was affected by the exit of a large, negative-contribution customer.",
+          "Management stated its EBITDA is reported without an ESOP add-back."
+        ],
+        "highlights": [
+          "Management described consumer-loan distribution as zero-DLG, while merchant lending may include lender-requested DLG; DLG costs are charged in the quarter rather than deferred.",
+          "Management said 2.5 bps of payment-processing-margin improvement could accrue over two to three quarters."
+        ],
+        "whatChanged": "Management’s Q2 discussion emphasized a 2.5 bps payment-processing-margin opportunity and renewed consumer market-share investment; prior medium-term 15–20% margin guidance was not clearly reaffirmed in this call.",
+        "risks": [
+          "A large low-contribution GMV customer contract ended, depressing the reported net-payment-margin/GMV mix despite management’s focus on profitable GMV.",
+          "DLG costs are recognized immediately and can weigh on quarterly profitability even when expected to support future lender distribution.",
+          "Management said AI monetization would take time, with roughly a one-year horizon discussed; no material revenue target was set."
+        ],
+        "guidance": [
+          {
+            "metric": "Payment processing margin",
+            "value": "Potential 2.5 bps improvement over 2–3 quarters"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -771,6 +1110,77 @@
       }
     ],
     "Urban Company Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated NTV",
+            "value": "₹1,432.3 Cr",
+            "change": "+39.1% YoY",
+            "positive": 1,
+            "valueNum": 1432.3,
+            "yoyPct": 39.1
+          },
+          {
+            "label": "Revenue from operations",
+            "value": "₹537.3 Cr",
+            "change": "+41.4% YoY",
+            "positive": 1,
+            "valueNum": 537.3,
+            "yoyPct": 41.4
+          },
+          {
+            "label": "Adjusted EBITDA excluding InstaHelp",
+            "value": "₹30 Cr positive",
+            "change": "+213% YoY",
+            "positive": 1,
+            "valueNum": 30,
+            "yoyPct": 213
+          },
+          {
+            "label": "Adjusted EBITDA consolidated",
+            "value": "-₹144 Cr",
+            "change": "₹174 Cr InstaHelp investment included",
+            "positive": -1,
+            "valueNum": -144,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated NTV rose 39.1% YoY to ₹1,432.3 Cr and revenue from operations rose 41.4% to ₹537.3 Cr.",
+          "Adjusted EBITDA excluding InstaHelp was positive ₹30 Cr, up 213% YoY; consolidated Adjusted EBITDA loss was ₹144 Cr, reflecting ₹174 Cr invested in InstaHelp.",
+          "India Consumer Services grew 26.3% YoY; Native grew 35.4%; international grew 66.2%."
+        ],
+        "highlights": [
+          "InstaHelp orders increased 63% QoQ to 6.23 million; loss per order declined 19% QoQ to ₹279.",
+          "The company closed the quarter with ₹1,901 Cr cash and treasury investments.",
+          "Management said the proposed fundraise could be up to ₹2,500 Cr for strategic flexibility."
+        ],
+        "whatChanged": "Headline YoY growth eased from Q1’s 42% NTV and 44% revenue to 39.1% and 41.4%; management reaffirmed consolidated Adjusted EBITDA breakeven by Q3 FY28 and the FY31 ₹1,000 Cr goal while continuing deliberate InstaHelp investment.",
+        "risks": [
+          "InstaHelp required ₹174 Cr of quarterly investment; low per-order pricing and elevated competition make future unit economics dependent on pricing and utilization improving.",
+          "Native sales depend on festive timing; management’s 50–55% combined Q2/Q3 growth expectation requires a stronger Q3.",
+          "Proposed capital raise of up to ₹2,500 Cr and any M&A remained prospective, with no imminent acquisition identified."
+        ],
+        "guidance": [
+          {
+            "metric": "Consolidated Adjusted EBITDA breakeven",
+            "value": "By Q3 FY28"
+          },
+          {
+            "metric": "Adjusted EBITDA",
+            "value": "₹1,000 Cr by FY31"
+          },
+          {
+            "metric": "Native growth",
+            "value": "Q2 and Q3 combined YoY growth of 50–55%"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -922,6 +1332,76 @@
     ],
     "PB Fintech Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Insurance Premium",
+            "value": "₹9,385 Cr",
+            "change": "+38% YoY",
+            "positive": 1,
+            "valueNum": 9385,
+            "yoyPct": 38
+          },
+          {
+            "label": "Consolidated Operating Revenue",
+            "value": "₹2,178 Cr",
+            "change": "+35% YoY",
+            "positive": 1,
+            "valueNum": 2178,
+            "yoyPct": 35
+          },
+          {
+            "label": "PAT",
+            "value": "₹192 Cr",
+            "change": "+43% YoY",
+            "positive": 1,
+            "valueNum": 192,
+            "yoyPct": 43
+          },
+          {
+            "label": "Core Online New Health & Term Growth",
+            "value": "+42%",
+            "change": "YoY",
+            "positive": 1,
+            "valueNum": 42,
+            "yoyPct": 42
+          }
+        ],
+        "fyPerformance": [
+          "Core renewal and trail revenue reached about ₹1,100 Cr on a rolling 12-month basis, up 42% YoY.",
+          "Core credit disbursals grew 22% YoY for a fifth consecutive quarter.",
+          "PB Partners, UAE business and PB for Business together generated ₹826 Cr revenue, up 40%, and were close to break-even.",
+          "Management expects total insurance premium to exceed ₹40,000 Cr in FY27."
+        ],
+        "highlights": [
+          "Core new premium excluding savings grew above 34% for the 14th consecutive quarter.",
+          "New health grew 46% YoY; UAE premium grew 36% YoY.",
+          "Reported PAT margin improved to 9% from 8% a year earlier.",
+          "Management said the IRDAI discussion paper's lower distribution payouts would reduce insurance distribution revenue if adopted.",
+          "The company plans tighter cost discipline while preserving customer choice, transparency and claims support."
+        ],
+        "whatChanged": "Management moved from the Q1 emphasis on fresh premium growth and expansion to more explicit cost discipline and planning for potential regulatory changes, while keeping customer proposition and growth investment central.",
+        "risks": [
+          "A proposed reduction in distribution payouts could reduce insurance distribution revenue; the final regulatory framework was not yet known.",
+          "Management described insurance demand as tough and said higher marketing spend was needed to generate leads.",
+          "The POSP business's economics and cash timing remain exposed to the final commission rules; management said it pays POSPs before insurer receipts."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Total Insurance Premium",
+            "value": "Over ₹40,000 Cr"
+          },
+          {
+            "metric": "PB Health",
+            "value": "₹40–45 Cr monthly run rate by around March 2027 (about ₹500 Cr annualized); target break-even"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1071,6 +1551,85 @@
       }
     ],
     "PhysicsWallah Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹1,242 Cr",
+            "change": "+18% YoY",
+            "positive": 1,
+            "valueNum": 1242,
+            "yoyPct": 18
+          },
+          {
+            "label": "Online Revenue",
+            "value": "₹694 Cr",
+            "change": "+26.4% YoY",
+            "positive": 1,
+            "valueNum": 694,
+            "yoyPct": 26.4
+          },
+          {
+            "label": "Pre-Ind AS EBITDA",
+            "value": "₹233 Cr",
+            "change": "+45% YoY; 18.8% margin",
+            "positive": 1,
+            "valueNum": 233,
+            "yoyPct": 45
+          },
+          {
+            "label": "PAT",
+            "value": "₹142 Cr",
+            "change": "Versus ₹70 Cr a year earlier",
+            "positive": 1,
+            "valueNum": 142,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 consolidated revenue was ₹2,293 Cr, up 21% YoY; H1 PAT was ₹55 Cr versus a ₹59 Cr loss a year earlier.",
+          "H1 Pre-Ind AS EBITDA was ₹190 Cr versus ₹72 Cr; Q2 EBITDA margin expanded 350 bps YoY.",
+          "H1 core online revenue grew 34%; online revenue grew 29% and offline revenue grew 12% YoY.",
+          "Q2 revenue was highest in company history; reported EBITDA is Pre-Ind AS, after lease payments and excluding other income."
+        ],
+        "performanceLabel": "Q2 and H1FY27; consolidated, EBITDA pre-Ind AS after lease payments",
+        "highlights": [
+          "Q2 unique enrollments rose 12.9% to 1.5 million and ACPU rose 9.2% to ₹4,280.",
+          "Skills enrollments grew 10.3x; CA enrollments grew 19% and NEET PG enrollments grew 35%.",
+          "NEET recovery was incomplete: full-cycle online NEET collections remained 7% below last year and enrollments 13% lower; offline NEET enrollments were 8% lower.",
+          "The FinZ loan book of ₹96 Cr was sold to Auxilo; future student lending will be through third-party NBFCs.",
+          "PW Digital University was notified in the Punjab Gazette on October 29, 2026."
+        ],
+        "whatChanged": "The company held its FY27 growth and EBITDA targets despite the NEET and government-exam shortfall, with online and newer categories offsetting some of the weakness; management said the 30% revenue target includes planned M&A.",
+        "risks": [
+          "NEET demand has not fully recovered, and management expects the lower offline NEET enrollment base to affect full-year NEET numbers.",
+          "Government-exam enrollments fell 24% as vacancies and exam notifications were delayed, affecting Utkarsh Classes.",
+          "The 30% full-year revenue growth target includes M&A; planned acquisitions remained subject to closing and disclosure requirements."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "About 30% YoY, including planned M&A (management estimated M&A contribution below 5%)"
+          },
+          {
+            "metric": "FY27 EBITDA Growth",
+            "value": "About 100% YoY"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "Remain PAT-positive for the full year"
+          },
+          {
+            "metric": "Offline Business",
+            "value": "Near break-even this year; Vidyapeeth expected to break even or make money"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1376,6 +1935,68 @@
     ],
     "Zinka Logistics Solutions Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": false,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹253 Cr",
+            "change": "+51% YoY",
+            "positive": 1,
+            "valueNum": 253,
+            "yoyPct": 51
+          },
+          {
+            "label": "Net Revenue",
+            "value": "₹183 Cr",
+            "change": "+35% YoY",
+            "positive": 1,
+            "valueNum": 183,
+            "yoyPct": 35
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹55 Cr",
+            "change": "+29% YoY",
+            "positive": 1,
+            "valueNum": 55,
+            "yoyPct": 29
+          },
+          {
+            "label": "PAT",
+            "value": "₹41.4 Cr",
+            "change": "+42% YoY",
+            "positive": 1,
+            "valueNum": 41.4,
+            "yoyPct": 42
+          }
+        ],
+        "fyPerformance": [
+          "Revenue from operations grew 56% YoY; net revenue grew 35% to ₹183 Cr.",
+          "Reported EBITDA rose 39% to ₹51 Cr; adjusted EBITDA rose 29% to ₹55 Cr, including investment in newer businesses.",
+          "Tolling GTV reached about ₹7,070 Cr, up 17% YoY.",
+          "Transacting customers were about 9 lakh (+13% YoY); power users were about 4.8 lakh (+20%)."
+        ],
+        "highlights": [
+          "Core businesses grew 31% YoY and 11% sequentially; contribution margin remained above 90%.",
+          "Growth businesses, mainly Super Loads and vehicle finance, grew 166% YoY and 25% sequentially.",
+          "Telematics device sales reached another record; revenue recognition is deferred over the service period.",
+          "Vehicle finance remained on track for EBITDA break-even during FY27.",
+          "Management said the UPI MDR effect should be close to zero, based on transaction thresholds and early pilots; actual impact would be known after implementation."
+        ],
+        "whatChanged": "The FY27 vehicle-finance break-even path disclosed in Q1 remained on track; Q2 added stronger telematics momentum and a 166% year-on-year increase in growth-business revenue while investment spending rose.",
+        "risks": [
+          "The UPI MDR impact remains unproven until implementation, though management expects it to be close to zero based on early pilots.",
+          "Telematics growth has a lower contribution margin and revenue is recognized over time after device sales.",
+          "Higher customer acquisition spend and Super Loads investment lifted expenses; tolling GTV is seasonally weaker during the monsoon quarter."
+        ],
+        "outlook": "Vehicle finance is on track to reach EBITDA break-even in FY27; management plans continued Super Loads investment as its city-level operating model develops.",
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2FY27; total income, net revenue and adjusted EBITDA are distinct measures"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1525,6 +2146,87 @@
       }
     ],
     "RateGain Travel Technologies Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Operating Revenue",
+            "value": "₹745.4 Cr",
+            "change": "+152.6% YoY",
+            "positive": 1,
+            "valueNum": 745.4,
+            "yoyPct": 152.6
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹169.1 Cr",
+            "change": "+215.4% YoY; 22.7% margin",
+            "positive": 1,
+            "valueNum": 169.1,
+            "yoyPct": 215.4
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹90.8 Cr",
+            "change": "+78% YoY",
+            "positive": 1,
+            "valueNum": 90.8,
+            "yoyPct": 78
+          },
+          {
+            "label": "H1 Organic Growth",
+            "value": "15.7%",
+            "change": "Combined business; FY27 target range 12–15%",
+            "positive": 1,
+            "valueNum": 15.7,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Reported EBITDA was ₹153 Cr (+185.4% YoY; 20.5% margin); adjusted EBITDA adds back ₹16.1 Cr deferred consideration payable to the Sojern team.",
+          "Reported PAT was ₹74.7 Cr (+46.5%); adjusted PAT was ₹90.8 Cr after the same deferred-consideration add-back.",
+          "Q2 combined organic growth was 14% YoY in rupees; H1 combined organic growth was 15.7%.",
+          "MarTech grew 300% YoY, largely because of Sojern consolidation; DaaS grew 7% in Q2 and distribution was broadly flat.",
+          "Net debt was ₹494 Cr at September 30; management said 43% of the Sojern acquisition loan had been repaid after the November 5 payment."
+        ],
+        "highlights": [
+          "Properties and destinations each grew over 20% organically in H1; the combined MarTech businesses represented over 80% of revenue.",
+          "Corporate declined about 14% organically in H1; management expected it to be broadly flat in H2.",
+          "Middle East revenue was about US$0.5 million monthly in Q2, compared with US$0.97 million before disruption.",
+          "Free cash flow was ₹282 Cr in H1; EBITDA-to-free-cash-flow conversion was 87%, partly helped by accelerated collection from acquired Sojern businesses.",
+          "Management said the Q1 FIFA-related US$2.5 million revenue uplift did not recur, while Q2 also had seasonal softness in destinations.",
+          "Reported Q2 EBITDA was ₹153 Cr and reported PAT ₹74.7 Cr; adjusted figures add back deferred Sojern consideration."
+        ],
+        "whatChanged": "After raising FY27 revenue and margin guidance in Q1, management maintained the upper end of the revenue range and the 22.5–23.5% adjusted EBITDA margin target; it flagged slower corporate recovery and said H1 organic growth was above the full-year organic range.",
+        "risks": [
+          "Corporate was down about 14% organically in H1; management aimed only for a broadly flat H2 and expected a return to growth after FY27 if its recovery plan works.",
+          "Middle East disruption kept monthly revenue at about US$0.5 million versus US$0.97 million before the disruption.",
+          "Q2 organic growth and margins remain exposed to destination seasonality and acquisition accounting; reported and adjusted EBITDA/PAT differ because of deferred Sojern consideration."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "Upper end of ₹3,000–3,100 Cr range"
+          },
+          {
+            "metric": "FY27 Organic Growth",
+            "value": "12–15% YoY over pro forma FY26"
+          },
+          {
+            "metric": "FY27 Adjusted EBITDA Margin",
+            "value": "22.5–23.5%"
+          },
+          {
+            "metric": "Net Debt",
+            "value": "Net debt-free by FY28"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1FY27; reported and adjusted measures distinguished"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1676,6 +2378,82 @@
     ],
     "CarTrade Tech Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹213 Cr",
+            "change": "+10% YoY",
+            "positive": 1,
+            "valueNum": 213,
+            "yoyPct": 10
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹76 Cr",
+            "change": "+20% YoY; 36% margin",
+            "positive": 1,
+            "valueNum": 76,
+            "yoyPct": 20
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹106 Cr",
+            "change": "Cash proxy",
+            "positive": 1,
+            "valueNum": 106,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹66 Cr",
+            "change": "+3% YoY",
+            "positive": 1,
+            "valueNum": 66,
+            "yoyPct": 3
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated H1 revenue grew 13% YoY; H1 EBITDA grew 30% and margin rose to 34% from 29%.",
+          "Q2 total income was ₹236 Cr and consolidated revenue was ₹213 Cr, both record quarterly levels.",
+          "OLX revenue grew 26% YoY, with EBITDA growth of 36%; Remarketing EBITDA grew 29%.",
+          "PAT growth was held to 3% by a ₹10 Cr prior-year write-back and higher OLX tax; reported PBT reached a record ₹85 Cr.",
+          "Cash balances were ₹1,400 Cr at September 30."
+        ],
+        "highlights": [
+          "Management expected Q3 to be the strongest quarter to date in most businesses and anticipated similar sequential EBITDA growth from Q2 to Q3.",
+          "Management expected OLX growth to reach 30–35% in coming quarters, from 26% in Q2.",
+          "Consumer revenue growth was 4% as the prior-year GST-driven Q2 created a high base; management cited about 20% two-year CAGR in New Auto.",
+          "The Landmark partnership is structured around CarTrade providing technology, product and customers while the partner provides physical operations; working-capital participation was still under discussion.",
+          "Management said buybacks or dividends were not currently allowed while tax benefits remained in the standalone company."
+        ],
+        "whatChanged": "The Q1 profit-growth narrative continued, but Q2 PAT grew only 3% because of prior-year write-backs and higher OLX tax; management remained confident in OLX acceleration and forecast a record Q3.",
+        "risks": [
+          "The consumer business faced a high GST-comparison base and Q2 revenue growth of 4%; the management's stronger Q3 outlook was qualitative rather than a quantified whole-year target.",
+          "Prior-year OLX write-backs and lower tax shelters depressed the current PAT comparison; continued standalone tax benefits also restricted shareholder distributions.",
+          "The Landmark arrangement's margin-sharing and potential working-capital contribution had not been finalized."
+        ],
+        "guidance": [
+          {
+            "metric": "OLX Growth",
+            "value": "30–35% in coming quarters"
+          },
+          {
+            "metric": "Group EBITDA",
+            "value": "About 20% sequential growth from Q2 to Q3; Q3 expected to be a record quarter"
+          },
+          {
+            "metric": "PAT Ambition",
+            "value": "₹1,000 Cr over the next 4–5 years"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1FY27; operating revenue excludes other income"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1824,5 +2602,139 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 11,
+      "overview": "Growth remained positive across the reviewed platforms, but profit conversion varied sharply. Mature businesses showed operating leverage while quick commerce, home services and newer initiatives continued to absorb investment; PB Fintech faces material uncertainty over proposed insurance-distribution changes. Affle’s canceled call is excluded.",
+      "trends": [
+        {
+          "text": "Revenue or transaction measures grew year-on-year, although GMV, NOV, GOV and revenue have different definitions and should be compared within each company.",
+          "companies": [
+            "FSN E-Commerce Ventures Ltd",
+            "Eternal Ltd",
+            "Swiggy Ltd",
+            "Pine Labs Ltd",
+            "One97 Communications Ltd",
+            "Urban Company Ltd",
+            "PB Fintech Ltd",
+            "PhysicsWallah Ltd",
+            "Zinka Logistics Solutions Ltd",
+            "RateGain Travel Technologies Ltd",
+            "CarTrade Tech Ltd"
+          ]
+        },
+        {
+          "text": "Customer acquisition, cross-selling and broader service offerings remain central to expanding platform monetization.",
+          "companies": [
+            "FSN E-Commerce Ventures Ltd",
+            "Eternal Ltd",
+            "Swiggy Ltd",
+            "Pine Labs Ltd",
+            "One97 Communications Ltd",
+            "Urban Company Ltd",
+            "PB Fintech Ltd",
+            "PhysicsWallah Ltd",
+            "Zinka Logistics Solutions Ltd",
+            "CarTrade Tech Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Growth spending and newer initiatives continue to absorb cash or constrain near-term margin conversion.",
+          "companies": [
+            "Eternal Ltd",
+            "Swiggy Ltd",
+            "Pine Labs Ltd",
+            "One97 Communications Ltd",
+            "Urban Company Ltd",
+            "PB Fintech Ltd",
+            "Zinka Logistics Solutions Ltd"
+          ]
+        },
+        {
+          "text": "Reported growth and profit comparisons require adjustments for accounting changes, acquisitions, seasonality or exceptional items.",
+          "companies": [
+            "Eternal Ltd",
+            "Swiggy Ltd",
+            "One97 Communications Ltd",
+            "Urban Company Ltd",
+            "PhysicsWallah Ltd",
+            "RateGain Travel Technologies Ltd",
+            "CarTrade Tech Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Nykaa’s Fashion profitability and owned brands, alongside CarTrade’s OLX monetization, offer opportunities to improve operating leverage.",
+          "companies": [
+            "FSN E-Commerce Ventures Ltd",
+            "CarTrade Tech Ltd"
+          ]
+        },
+        {
+          "text": "Eternal and Swiggy see smaller cities, frequency and assortment as growth opportunities, with investment and profitability tradeoffs.",
+          "companies": [
+            "Eternal Ltd",
+            "Swiggy Ltd"
+          ]
+        },
+        {
+          "text": "Payments platforms are expanding value-added services and financial-service distribution, while Urban Company is scaling new service use cases.",
+          "companies": [
+            "Pine Labs Ltd",
+            "One97 Communications Ltd",
+            "Urban Company Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "PB Fintech expects lower distribution payouts under the proposed framework to reduce insurance-distribution revenue; mitigation and final rules remain uncertain.",
+          "companies": [
+            "PB Fintech Ltd"
+          ]
+        },
+        {
+          "text": "Swiggy and Urban Company remain exposed to substantial investment losses in Instamart and InstaHelp respectively.",
+          "companies": [
+            "Swiggy Ltd",
+            "Urban Company Ltd"
+          ]
+        },
+        {
+          "text": "PhysicsWallah’s NEET/government-exam recovery and RateGain’s corporate-travel recovery remain incomplete.",
+          "companies": [
+            "PhysicsWallah Ltd",
+            "RateGain Travel Technologies Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Eternal’s 76% adjusted-revenue growth includes inventory accounting; the like-for-like rate is 58%.",
+          "companies": [
+            "Eternal Ltd"
+          ]
+        },
+        {
+          "text": "RateGain’s 152.6% reported revenue growth includes Sojern consolidation, versus 14% Q2 organic growth on a combined-business basis.",
+          "companies": [
+            "RateGain Travel Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Paytm’s reported PAT comparison benefits from a prior-year exceptional loss; CarTrade’s PAT growth is depressed by a prior-year write-back and tax differences.",
+          "companies": [
+            "One97 Communications Ltd",
+            "CarTrade Tech Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

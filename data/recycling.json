@@ -16,6 +16,84 @@
   "concall": {
     "Gravita India Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹1,427 Cr",
+            "change": "+38% YoY; Q2",
+            "positive": 1,
+            "valueNum": 1427,
+            "yoyPct": 38
+          },
+          {
+            "label": "Adjusted Consolidated EBITDA",
+            "value": "₹143.37 Cr",
+            "change": "+28% YoY; margin over 10%",
+            "positive": 1,
+            "valueNum": 143.37,
+            "yoyPct": 28
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹102 Cr",
+            "change": "+6% YoY; margin over 7%",
+            "positive": 1,
+            "valueNum": 102,
+            "yoyPct": 6
+          },
+          {
+            "label": "Total Volume",
+            "value": "52,199 MT",
+            "change": "+3% YoY; Q2",
+            "positive": 1,
+            "valueNum": 52199,
+            "yoyPct": 3
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Consolidated Q2 revenue grew 38% YoY to ₹1,427 Cr; adjusted EBITDA rose 28% to ₹143.37 Cr and PAT rose 6% to ₹102 Cr.",
+          "Q2 total volumes increased 3% YoY to 52,199 MT. Value-added products represented 64% of consolidated revenue in Q2 and 64% of total sales in H1, as described by management.",
+          "RMIL contributed ₹420 Cr of Q2 consolidated revenue at an 8.5% EBITDA margin; copper operated at 50% utilization in H1 and copper sales rose 12%.",
+          "Q2 EBITDA per tonne was ₹22,620 in lead, ₹22,664 in aluminium, ₹10,334 in plastics and ₹84,671 in copper."
+        ],
+        "highlights": [
+          "Management said scrap availability and logistics constrained lead volumes, but new sourcing geographies and domestic procurement were beginning to improve; it expected lead volumes to recover in coming quarters.",
+          "The Mandvi 29,400 TPA copper recycling facility remained on track for commissioning within 12 months; a 59,200 TPA Mundra copper expansion was announced for phased commissioning by March 2029.",
+          "Management reiterated an 800,000 TPA capacity roadmap and ₹1,680 Cr total capex through FY29.",
+          "Gravita Recyclers USA was newly incorporated as a scrap-sourcing arm; management said it had no operations yet and expected leased yards to require working capital."
+        ],
+        "whatChanged": "Against Q1's 55,455 MT volume, ₹1,475 Cr revenue, ₹145 Cr adjusted EBITDA and ₹106.39 Cr PAT, Q2 volumes and reported figures eased while year-over-year growth remained positive; management attributed weaker lead volumes to raw-material constraints and described sourcing diversification as starting to take effect.",
+        "risks": [
+          "Lead volumes remained under pressure from reduced scrap availability and shipping disruption; the company said booked material can take about 90 days to reach India and recovery would take several quarters.",
+          "RMIL's utilization was about 50%; management said debottlenecking should lift it to 65%–70% over 2–3 quarters, while further capacity expansion could take about three years.",
+          "Copper's Q2 EBITDA per tonne included a favorable product mix and high-value orders; management described ₹65–70/kg as a sustainable near-term level and ₹80–90/kg only after backward integration in 2–3 years."
+        ],
+        "guidance": [
+          {
+            "metric": "Copper EBITDA per kg, near term",
+            "value": "₹65–70"
+          },
+          {
+            "metric": "Lead volume growth over the next three years",
+            "value": "18%–20% CAGR"
+          },
+          {
+            "metric": "Capacity by FY29",
+            "value": "800,000 TPA"
+          },
+          {
+            "metric": "Total capex through FY29",
+            "value": "₹1,680 Cr"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -318,6 +396,88 @@
     ],
     "Jain Resources Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue from Operations",
+            "value": "₹3,337 Cr",
+            "change": "+58% YoY; +22% QoQ",
+            "positive": 1,
+            "valueNum": 3337,
+            "yoyPct": 58
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹138 Cr",
+            "change": "+27% QoQ; 4.2% margin vs 4.0% in Q1",
+            "positive": 1,
+            "valueNum": 138,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹90 Cr",
+            "change": "+30% QoQ; 2.7% margin vs 2.5% in Q1",
+            "positive": 1,
+            "valueNum": 90,
+            "yoyPct": null
+          },
+          {
+            "label": "Copper and Copper Ingot Sales Volume",
+            "value": "16,411 MT",
+            "change": "+73% YoY; Q2",
+            "positive": 1,
+            "valueNum": 16411,
+            "yoyPct": 73
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Consolidated Q2 revenue from operations was ₹3,337 Cr, up 58% YoY and 22% QoQ; EBITDA was ₹138 Cr and PAT ₹90 Cr, both higher sequentially.",
+          "Q2 copper and copper ingot volume reached 16,411 MT, up about 73% YoY; copper segment EBITDA was ₹61 Cr and ₹37,237 per tonne.",
+          "Lead volume rose sequentially to 34,851 MT from 32,150 MT in Q1, but remained below the year-ago quarter; lead segment EBITDA increased to ₹67 Cr.",
+          "Management reported H1 operating cash inflow of about ₹129 Cr, working-capital cycle of 49 days versus 66 days at FY26-end, and net debt-to-equity of about 0.5x."
+        ],
+        "highlights": [
+          "Both 800 T/month copper anode phases were commissioned; Phase II was in trial run. H1 sales of value-added copper products were about 3,575 MT.",
+          "The first 750 T/month copper cathode phase was still awaiting commissioning; wire rod and busbar/profile projects remained targeted for Q3FY27.",
+          "Jain CY Circular Solutions began commercial operations and recorded about ₹25.4 Cr of Q2 revenue; its input capacity is about 71,000 TPA.",
+          "Management said domestic sourcing represented about 38%–39% of overall purchases and reduced cash tied up in imported-material transit."
+        ],
+        "whatChanged": "Q2 revenue and profits increased sequentially and management expects FY27 revenue growth above 30%, but the copper cathode Phase I commissioning planned for Q2 was still pending at the November call; Kuwait also remains delayed by logistics.",
+        "risks": [
+          "Lead sourcing faces shipping disruption and high freight costs; management said it was offsetting this through local and new-area sourcing, but the Kuwait project had been delayed by logistics.",
+          "The company expects some EBITDA-margin moderation as copper volume and the product mix scale; several new projects still require stable utilization, quality and customer approvals.",
+          "Management described reverse-charge mechanism benefits for sourcing as uncertain and said it was not very bullish on the effect for lead procurement."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue growth",
+            "value": "More than 30%, subject to market conditions and execution"
+          },
+          {
+            "metric": "Wire rod and busbar/profile commissioning",
+            "value": "Q3FY27; planned capacities of 600 and 1,500 tonnes per month respectively"
+          },
+          {
+            "metric": "Dedicated plastics facility",
+            "value": "Q3FY27 start; planned capex about ₹15 Cr"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Copper cathode Phase I commissioning",
+            "guided": "Q2FY27",
+            "actual": "Still pending at the 4 November call; management described commissioning as imminent",
+            "status": "missed"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -471,6 +631,92 @@
       }
     ],
     "Tinna Rubber and Infrastructure Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹157 Cr",
+            "change": "+31% YoY; Q2",
+            "positive": 1,
+            "valueNum": 157,
+            "yoyPct": 31
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹29 Cr",
+            "change": "+37% YoY; 18.8% margin",
+            "positive": 1,
+            "valueNum": 29,
+            "yoyPct": 37
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹17 Cr",
+            "change": "+45% YoY; 10.9% margin",
+            "positive": 1,
+            "valueNum": 17,
+            "yoyPct": 45
+          },
+          {
+            "label": "H1 Consolidated Revenue",
+            "value": "₹313 Cr",
+            "change": "+25% YoY; H1",
+            "positive": 1,
+            "valueNum": 313,
+            "yoyPct": 25
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Consolidated Q2 revenue was ₹157 Cr (+31% YoY), EBITDA ₹29 Cr (+37%) and PAT ₹17 Cr (+45%).",
+          "H1 consolidated revenue was ₹313 Cr (+25% YoY), EBITDA ₹63 Cr (+50%) and PAT ₹38 Cr (+60%); EBITDA and PAT margins were 20.4% and 12.2%.",
+          "Tyre-crushing volumes grew 30% YoY to 86,000 tonnes in H1; MRP and reclaimed-rubber production rose 19%.",
+          "Oman ran at 90% utilization in H1 and its EBITDA margin rose to 11.5% from 6.4% in FY26; South Africa and Saudi Arabia together had a ₹0.94 Cr start-up loss."
+        ],
+        "highlights": [
+          "TPO began commercial sales in Q2 and is expected to stabilize in Q3; recovered carbon black production was expected to start in Q3, with commercial sales in Q4.",
+          "The 3,500 TPA MRP expansion remained on track for Q3 commissioning, taking total MRP capacity to 20,000 TPA.",
+          "The company acquired 40 acres in Andhra Pradesh for an integrated recycling complex and expects to invest about ₹250 Cr over three years.",
+          "Management said PCMB should contribute 8%–10% of FY27 revenue, consistent with its earlier guidance; H1 PCMB revenue was ₹27 Cr."
+        ],
+        "whatChanged": "FY27 revenue remains around the top of Q1’s ₹675–700 Cr range, with Q2 targets of ₹126 Cr EBITDA and ₹70 Cr PAT; South Africa Phase II is delayed by three to four months, Saudi construction awaits improved conditions, and the Andhra complex adds a new investment plan.",
+        "risks": [
+          "Saudi construction is on hold pending geopolitical stabilization; management had not released advances or work orders, and South Africa Phase 2 was delayed 3–4 months by supply-chain disruption.",
+          "The Panipat land may be acquired by the Haryana government; management said the facility is small and movable, but the representation remains pending.",
+          "Subsidiary start-up costs and geopolitical uncertainty moderated profitability from Q1; PCMB is a lower-margin business while it is new and spending on R&D."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated revenue",
+            "value": "About ₹700 Cr"
+          },
+          {
+            "metric": "FY27 consolidated EBITDA",
+            "value": "₹126 Cr"
+          },
+          {
+            "metric": "FY27 consolidated PAT",
+            "value": "₹70 Cr"
+          },
+          {
+            "metric": "FY27 EBITDA margin aspiration",
+            "value": "18%+"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Tyre pyrolysis oil commercial sales",
+            "guided": "Q2FY27",
+            "actual": "Commercial sales began in Q2; stabilization remains expected in Q3",
+            "status": "met"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -784,6 +1030,84 @@
     ],
     "Ganesha Ecosphere Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue Growth",
+            "value": "+41.2% YoY",
+            "change": "+21.1% QoQ",
+            "positive": 1,
+            "valueNum": 41.2,
+            "yoyPct": 41.2
+          },
+          {
+            "label": "Consolidated Sales Volume",
+            "value": "49,382 MT",
+            "change": "Q2; up from 40,113 MT in Q1",
+            "positive": 1,
+            "valueNum": 49382,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹60.6 Cr",
+            "change": "Q2",
+            "positive": 0,
+            "valueNum": 60.6,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 Consolidated EBITDA",
+            "value": "₹120.42 Cr",
+            "change": "+105.4% YoY; H1",
+            "positive": 1,
+            "valueNum": 120.42,
+            "yoyPct": 105.4
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Consolidated revenue grew 41.2% YoY and 21.1% sequentially in Q2; H1 consolidated turnover grew 33.7% YoY.",
+          "Consolidated sales volume increased to 49,382 MT from 40,113 MT in Q1; standalone volume was 31,808 MT versus 25,321 MT.",
+          "Q2 standalone EBITDA was ₹24.51 Cr and consolidated EBITDA ₹60.6 Cr; H1 consolidated EBITDA was ₹120.42 Cr versus ₹58.63 Cr a year earlier.",
+          "Standalone utilization was about 99%, while Warangal utilization was about 67%; the fourth rPET line received FSSAI approval for food-grade use."
+        ],
+        "highlights": [
+          "The fourth Warangal rPET line received FSSAI food-grade approval; management said it had operated at about 60% utilization before approval and was ramping up afterward.",
+          "A fire halted Warangal rPSF operations in August; management estimated a 2,500–3,000 tonne quarterly volume impact and expected restoration by Q4FY27.",
+          "The fifth rPET granule line was under installation for expected Q4FY27 commissioning; management said Warangal capacity would reach about 100,000 tonnes and larger additions would be elsewhere.",
+          "Management said 85%–90% of rPET capacity was on annual formula-priced contracts, with one-month pass-through of raw-material movements."
+        ],
+        "whatChanged": "Management now expects FY27 EBITDA around ₹235–240 Cr within its prior ₹225–250 Cr range; the fourth rPET line gained food-grade approval, while the August fire halted Warangal rPSF output and restoration is expected in Q4.",
+        "risks": [
+          "The Warangal rPSF fire is reducing output and EBITDA while fixed costs continue; management said the loss was insured but still under assessment.",
+          "PET scrap and finished-product prices were volatile; management said input-price changes are passed through to contracted rPET buyers with a one-month lag.",
+          "Management said Q2 fire restoration depends on imported equipment procurement and estimated restart by February–March 2027; the exact loss and schedule remain uncertain."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated EBITDA",
+            "value": "₹225–250 Cr; expected near ₹235–240 Cr"
+          },
+          {
+            "metric": "Warangal rPSF restoration",
+            "value": "By Q4FY27; dependent on imported equipment procurement"
+          },
+          {
+            "metric": "Fifth rPET granule line commissioning",
+            "value": "Q4FY27"
+          },
+          {
+            "metric": "Long-run EBITDA per kg on subsidiary business",
+            "value": "₹20–22/kg"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -936,5 +1260,92 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 4,
+      "overview": "The four reviewed calls show growth and investment in more valuable recycling products, alongside persistent sourcing and execution constraints. Project delays at Jain and Tinna, and Ganesha’s fire-related outage, qualify the growth outlook.",
+      "trends": [
+        {
+          "text": "Companies continued to add capacity and move toward more value-added processing, with new recycling lines and downstream products under construction, commissioning or ramp-up.",
+          "companies": [
+            "Gravita India Ltd",
+            "Jain Resources Ltd",
+            "Tinna Rubber and Infrastructure Ltd",
+            "Ganesha Ecosphere Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Management cited recycled-content mandates and customer demand as support for rPET, recovered materials and value-added recycling products.",
+          "companies": [
+            "Tinna Rubber and Infrastructure Ltd",
+            "Ganesha Ecosphere Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Geopolitical and shipping disruption affected scrap availability, freight, sourcing or project timing for multiple recyclers.",
+          "companies": [
+            "Gravita India Ltd",
+            "Jain Resources Ltd",
+            "Tinna Rubber and Infrastructure Ltd"
+          ]
+        },
+        {
+          "text": "Operational disruption also affected company-specific plants and projects, including Ganesha's fire-related outage and Tinna's delayed overseas expansion.",
+          "companies": [
+            "Ganesha Ecosphere Ltd",
+            "Tinna Rubber and Infrastructure Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Copper backward integration and downstream copper products are intended to improve product mix and sourcing control.",
+          "companies": [
+            "Gravita India Ltd",
+            "Jain Resources Ltd"
+          ]
+        },
+        {
+          "text": "Food-grade approvals and added rPET lines may support participation in the growing recycled PET market, subject to ramp-up and restoration timing.",
+          "companies": [
+            "Ganesha Ecosphere Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Feedstock sourcing remains exposed to logistics, geography, freight cost and regulatory changes.",
+          "companies": [
+            "Gravita India Ltd",
+            "Jain Resources Ltd",
+            "Tinna Rubber and Infrastructure Ltd"
+          ]
+        },
+        {
+          "text": "Expansion execution can be delayed by geopolitical conditions, equipment shipment or local issues; Tinna also faces a pending Panipat land-acquisition matter.",
+          "companies": [
+            "Jain Resources Ltd",
+            "Tinna Rubber and Infrastructure Ltd",
+            "Ganesha Ecosphere Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Copper profitability depends on product mix and the ramp-up of new capacity: Gravita’s unusually strong quarterly copper realization is above its near-term sustainable range, while Jain expects volume growth to matter more than percentage margins.",
+          "companies": [
+            "Gravita India Ltd",
+            "Jain Resources Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

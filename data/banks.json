@@ -22,6 +22,82 @@
   "concall": {
     "Bandhan Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹1,58,000 Cr",
+            "change": "+13.1% YoY; +1.8% QoQ",
+            "positive": 1,
+            "valueNum": 158000,
+            "yoyPct": 13.1
+          },
+          {
+            "label": "Deposits",
+            "value": "₹1,73,000 Cr",
+            "change": "+9.2% YoY; +4.7% QoQ",
+            "positive": 1,
+            "valueNum": 173000,
+            "yoyPct": 9.2
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹2,960 Cr",
+            "change": "+14.4% YoY; +1.4% QoQ",
+            "positive": 1,
+            "valueNum": 2960,
+            "yoyPct": 14.4
+          },
+          {
+            "label": "PAT",
+            "value": "₹622 Cr",
+            "change": "5.5x YoY as stated by management; +23.9% QoQ",
+            "positive": 1,
+            "valueNum": 622,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances reached ₹1.58 lakh Cr (+13.1% YoY); non-EEB advances grew about 20% and secured portfolio was 57.3% of advances, up from 54.9% a year earlier.",
+          "Deposits were ₹1.73 lakh Cr (+9.2% YoY; +4.7% QoQ). Retail deposits grew 11.9% YoY and retail term deposits 16.8%; CASA was ₹46,132 Cr and 26.7% of deposits. Net CD ratio was 89.5% versus about 92% in Q1.",
+          "NII was ₹2,960 Cr (+14.4% YoY); NIM was 6.1% versus 6.2% in Q1. Net total income was ₹3,655 Cr (+17%), operating profit ₹1,556 Cr (+18.8%) and PAT ₹622 Cr (5.5x YoY per management).",
+          "GNPA/NNPA were 3.1%/0.9%; credit cost was 1.8%. PCR was 71.2% excluding technical write-offs and 74.3% including security-receipt provisions. ROA/ROE were 1.2%/9.3%."
+        ],
+        "whatChanged": "Q2 loan growth was modest sequentially, with EEB contraction arrested and non-EEB/secured growth carrying the mix; deposits improved sequentially but savings-balance outflows and funding costs remain watchpoints. Management maintained roughly 14% FY27 loan growth and a Q4 exit ROA range of 1.2–1.4%.",
+        "risks": [
+          "Savings balances saw outflows after rate-bucket recalibration; deposits grew more slowly than advances and the net CD ratio remains elevated at 89.5%.",
+          "EEB growth has stabilized but recovery is not yet a sustained growth trend; management described near-term housing growth disruption and continued elevated funding/technology costs.",
+          "ECL transition is estimated at about ₹2,200 Cr from the March 2026 estimate, to be absorbed through capital over five years; management said the estimate will be refreshed using the March 2027 book."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 loan growth",
+            "value": "About 14%"
+          },
+          {
+            "metric": "Q4FY27 exit ROA",
+            "value": "1.2–1.4%"
+          },
+          {
+            "metric": "FY27 operating expenses / assets",
+            "value": "About 4.2%"
+          },
+          {
+            "metric": "Near-term NIM",
+            "value": "Management expects roughly 6.1–6.2%"
+          }
+        ],
+        "highlights": [
+          "The secured/non-EEB portfolio supported diversification; EEB was ₹52,616 Cr, nearly flat sequentially and +1.7% YoY, while non-EEB was about two-thirds of advances.",
+          "Collections excluding NPAs were 99.4%; EEB collections were 99.3%. Gross slippages were ₹1,125 Cr, recoveries/upgrades ₹481 Cr, and GNPA was 3.1%.",
+          "Management retained its Q4 exit ROA goal of 1.2–1.4%, with funding and technology costs weighing on the recovery."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -171,6 +247,78 @@
       }
     ],
     "Bank of Maharashtra": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Advances growth",
+            "value": "+30% YoY",
+            "change": "Including IBU; domestic advances grew 23% YoY",
+            "positive": 1,
+            "valueNum": 30,
+            "yoyPct": 30
+          },
+          {
+            "label": "Deposits growth",
+            "value": "+22% YoY",
+            "change": "Including FCNR(B); deposits excluding FCNR(B) grew 19% YoY",
+            "positive": 1,
+            "valueNum": 22,
+            "yoyPct": 22
+          },
+          {
+            "label": "Net profit growth",
+            "value": "+41% YoY",
+            "change": "Operating profit grew 31% YoY",
+            "positive": 1,
+            "valueNum": 41,
+            "yoyPct": 41
+          },
+          {
+            "label": "NIM",
+            "value": "3.97%",
+            "change": "+12 bps YoY; ROA was 2.02% and ROE 26.98%",
+            "positive": 1,
+            "valueNum": 3.97,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Total business crossed ₹7 lakh Cr (+25% YoY). Advances grew 30% including the GIFT City IBU; domestic credit excluding IBU grew 23%. Of ₹36,000 Cr YoY large-credit growth, ₹18,000 Cr came from IBU and ₹18,000 Cr from domestic large credit (+19%).",
+          "Deposits grew 22% YoY including FCNR(B), or 19% excluding it; CASA grew 12%.",
+          "GNPA/NNPA were 1.25%/0.12%; PCR was 98.53%. Stress was 3.26%, down from 4.93%; SMA 1+2 was 1.37%. NIM was 3.97%, ROA 2.02% and ROE 26.98%.",
+          "Operating profit grew 31% and net profit 41% YoY. Cost of deposits was 4.38%; overall cost of funds 4.07%. Standard-asset provisions rose to ₹603 Cr, including ₹500 Cr ECL provision."
+        ],
+        "whatChanged": "Growth remained strong but headline advances and deposits include IBU/FCNR contributions; domestic credit still grew 23%, above the 18% annual credit-growth guidance. Management said the FCNR window is no longer available, while its domestic pipeline and branch additions support growth.",
+        "risks": [
+          "A material part of reported growth is IBU/FCNR-linked; domestic credit grew 23% and deposits excluding FCNR 19%, the more comparable measures for domestic franchise momentum.",
+          "The estimated ECL provision requirement was ₹2,500 Cr over four years; ₹750 Cr had been provided by September 2026, which management said covered more than one year and FY27–28 requirements.",
+          "Drought/El Niño may affect agriculture; management reported no visible stress and said it was monitoring the situation. Agricultural gold lending is a substantial source of agri growth."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 domestic credit growth",
+            "value": "18% annual guidance; management expects to remain above it"
+          },
+          {
+            "metric": "Written-off account recoveries",
+            "value": "₹1,300–1,500 Cr annually for the next 4–5 years"
+          },
+          {
+            "metric": "ECL provisioning",
+            "value": "₹2,500 Cr estimated over four years; ₹750 Cr provided by September 2026"
+          }
+        ],
+        "highlights": [
+          "Credit growth of 23% excluding IBU exceeded the 18% FY27 guidance pace at H1; management cited ₹23,000 Cr of proposals and estimated ₹10,000 Cr disbursement by March 2027.",
+          "Written-off book recoveries reached ₹1,023 Cr through September; management targets ₹1,300–1,500 Cr annually for the next 4–5 years.",
+          "Management retained its annual credit-growth guidance despite strong H1 growth; it expects the domestic pipeline and branch expansion to support the second half."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -322,6 +470,82 @@
     ],
     "City Union Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Advances",
+            "value": "₹72,442 Cr",
+            "change": "+26% YoY; +₹4,800 Cr and over 7% QoQ",
+            "positive": 1,
+            "valueNum": 72442,
+            "yoyPct": 26
+          },
+          {
+            "label": "Deposits",
+            "value": "₹83,893 Cr",
+            "change": "+21% YoY; +6% QoQ",
+            "positive": 1,
+            "valueNum": 83893,
+            "yoyPct": 21
+          },
+          {
+            "label": "PAT",
+            "value": "₹416 Cr",
+            "change": "+27% YoY; H1 PAT ₹798 Cr, +26%",
+            "positive": 1,
+            "valueNum": 416,
+            "yoyPct": 27
+          },
+          {
+            "label": "NIM",
+            "value": "3.87%",
+            "change": "Up from 3.78% in Q1; H1 3.83% versus 3.59%",
+            "positive": 1,
+            "valueNum": 3.87,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Advances reached ₹72,442 Cr (+26% YoY); the bank crossed ₹1.5 lakh Cr in total business. MSME was ₹42,862 Cr, secured retail ₹7,802 Cr and gold loans ₹21,777 Cr.",
+          "Deposits were ₹83,893 Cr (+21% YoY) and CASA was 27%. Average CD ratio was 86%.",
+          "PAT was ₹416 Cr (+27% YoY); Interest income was ₹2,092 Cr (+27% YoY). NIM improved to 3.87% from 3.78% in Q1; management explained part of the increase as a shift of mutual-fund income from other income in Q1 into investment interest income in Q2.",
+          "GNPA/NNPA were 1.44%/0.48%; SMA-2 was 0.67%. Q2 included ₹50 Cr of contingency provision; ₹803 Cr of live and technically written-off accounts were sold to ARC for ₹131 Cr consideration, with ₹792 Cr provisions held against the pool."
+        ],
+        "whatChanged": "Q2 loan and deposit growth remained strong, while the NIM rose despite Q1’s expectation of a marginal decline. Management projected 3.85–3.95% NIM for Q3/Q4 and ROA above 1.6%; the next quarters’ deposit cost may rise.",
+        "risks": [
+          "Management said sustaining 20% deposit growth over the next two years may be challenging; current growth benefits from expanding branches and granular deposits.",
+          "Gold lending is about 30% of advances; management capped its desired mix at 31–32% and disclosed ₹173 Cr of gold-loan SMA accounts.",
+          "Q2 asset-sale/ARC recoveries supported other income; ₹803 Cr face amount was sold for ₹131 Cr, and the bank said no provision reversal was taken in P&L."
+        ],
+        "guidance": [
+          {
+            "metric": "Credit growth",
+            "value": "2–3 percentage points above industry growth"
+          },
+          {
+            "metric": "Q3/Q4 FY27 NIM",
+            "value": "3.85–3.95%"
+          },
+          {
+            "metric": "FY27 ROA",
+            "value": "Above 1.6%; management’s closing range was about 1.6–1.65%"
+          },
+          {
+            "metric": "FY27 cost-to-income",
+            "value": "45–47%"
+          }
+        ],
+        "highlights": [
+          "NIM rose to 3.87% despite earlier expectations of deposit-cost pressure; management now expects 3.85–3.95% in Q3/Q4.",
+          "Recoveries of ₹317 Cr exceeded Q2 slippages of ₹175 Cr. Net NPA was below 0.5%, at 0.48%, and PCR was 82% including technical write-offs and 67% excluding them.",
+          "Q2 reported NII included ₹12.5 Cr mutual-fund income that was recognized under other income in Q1; the bank exited those funds and shifted to interest-earning investments. Period classification affects quarter-on-quarter line comparisons."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -472,6 +696,82 @@
     ],
     "CSB Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross advances growth",
+            "value": "+22% YoY",
+            "change": "Gold advances grew 36% YoY",
+            "positive": 1,
+            "valueNum": 22,
+            "yoyPct": 22
+          },
+          {
+            "label": "Deposits growth",
+            "value": "+18% YoY",
+            "change": "CASA ratio 18.96%; CD ratio 90.39%",
+            "positive": 1,
+            "valueNum": 18,
+            "yoyPct": 18
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹510 Cr",
+            "change": "+20% YoY; +7% QoQ",
+            "positive": 1,
+            "valueNum": 510,
+            "yoyPct": 20
+          },
+          {
+            "label": "PAT",
+            "value": "₹183 Cr",
+            "change": "+14% YoY; +22% QoQ",
+            "positive": 1,
+            "valueNum": 183,
+            "yoyPct": 14
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances grew 22% YoY and deposits 18%. Gold and corporate advances grew 36% and 44%, respectively; SME growth remained moderate as the bank continued to repair and screen the portfolio.",
+          "NII was ₹510 Cr (+20% YoY); operating profit ₹276 Cr (+10% QoQ); PAT ₹183 Cr (+14% YoY, +22% QoQ). NIM was 3.81%, versus 3.66% in Q1 and 3.81% a year earlier.",
+          "ROA was 1.29%, up from 1.09% in Q1; ROE was 14.74%. Cost-to-income was 64.8%. GNPA/NNPA were 1.58%/0.33%; PCR was 87.65% including PWO and 79.19% excluding PWO; provisioning buffer was about ₹177 Cr.",
+          "The bank had 872 branches and 844 ATMs at September-end. It said repledger gold lending was effectively stopped and unsecured growth would remain calibrated while the liability franchise is built."
+        ],
+        "whatChanged": "Asset quality and NIM improved sequentially, and management said wholesale, SME and retail capabilities were entering a scale phase. Gold remains a key growth engine, but management intends to lower its portfolio share gradually and wait for liability growth before accelerating unsecured retail.",
+        "risks": [
+          "SME remains cautious because of earlier portfolio issues and supply-chain uncertainty; Q1 management expected some identified SME slippages to upgrade in Q2/Q3, but Q2 did not disclose a comparable specific upgrade result.",
+          "CASA was 18.96% and CD ratio 90.39%; management said balance-sheet growth depends on building a retail liability franchise and that this takes time.",
+          "Gold remains a significant portfolio concentration; management plans to reduce its share gradually while building other secured lending and retail deposits."
+        ],
+        "guidance": [
+          {
+            "metric": "Growth versus system",
+            "value": "30–50% faster than the system (management’s general growth guidance)"
+          },
+          {
+            "metric": "FY27 ROA",
+            "value": "Between Q2’s 1.29% and 1.5%; management said it expects this year between current level and 1.5%"
+          },
+          {
+            "metric": "NIM",
+            "value": "About 3.75–3.8% full-year/medium-term aim"
+          },
+          {
+            "metric": "FY27 fee / total income",
+            "value": "Around 17–18% overall fee contribution"
+          }
+        ],
+        "highlights": [
+          "Q1 had expected some SME accounts to upgrade in Q2 or Q3; Q2 management said the portfolio issues were largely corrected and growth should start contributing from Q3, but did not quantify delivered upgrades against that expectation.",
+          "Q2 loan growth was led by gold (+36%) and corporate (+44%); gold disbursements fell as the bank stopped repledger business and consciously reduced reliance on gold as it aims for a more balanced mix.",
+          "Management expects FY27 ROA between the current 1.29% and 1.5%, with a 1.5–1.8% aspiration for FY28."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -621,6 +921,90 @@
       }
     ],
     "DCB Bank Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Advances growth",
+            "value": "+21% YoY",
+            "change": "Loan and deposit balances doubled over four years",
+            "positive": 1,
+            "valueNum": 21,
+            "yoyPct": 21
+          },
+          {
+            "label": "Deposits growth",
+            "value": "+19% YoY",
+            "change": "Revenue grew 21% YoY",
+            "positive": 1,
+            "valueNum": 19,
+            "yoyPct": 19
+          },
+          {
+            "label": "Net interest income growth",
+            "value": "+17% YoY",
+            "change": "NIM was 3.3%; excess liquidity weighed on Q2 margin",
+            "positive": 1,
+            "valueNum": 17,
+            "yoyPct": 17
+          },
+          {
+            "label": "PAT",
+            "value": "₹236 Cr",
+            "change": "+29% YoY; fifth consecutive quarterly record",
+            "positive": 1,
+            "valueNum": 236,
+            "yoyPct": 29
+          }
+        ],
+        "fyPerformance": [
+          "Advances grew 21% YoY and deposits 19%; both had doubled over September 2022 in four years, as management noted. Revenue grew 21%, operating profit 26% and PAT 29% YoY.",
+          "Net profit was ₹236 Cr, the highest quarterly result to date; ROA was 1.03% for Q2 and 1.00% for H1; ROE was 14.6% for Q2 and 14.12% for H1.",
+          "GNPA/NNPA were 2.29%/0.73%; PCR was 81.38% including technical write-offs and 68.75% excluding them.",
+          "Cost-to-average-assets was 2.47%, cost-to-income 59.64%, and operating costs grew 18% YoY. Management said staff reached 12,002 and expected 12,800–12,900 by year-end, below its earlier 13,000 aspiration."
+        ],
+        "whatChanged": "Q2 ROA crossed 1% and asset-quality ratios improved, while NIM fell to 3.3% due to excess liquidity carried during the quarter. Management expects Q3/Q4 NIM improvement as excess liquidity reduces and floating-rate loans reprice, but did not issue a revised ROE target pending potential capital actions.",
+        "risks": [
+          "Management cited low-yield excess liquidity from FCNR(B) inflows as the main Q2 NIM drag; projected margin recovery depends on loan repricing and deposit-cost reductions.",
+          "Gold loans were 23% of assets, about 70% inorganic via co-lending/DA; management’s stated ceiling is 25%. Slippages in partner-originated gold loans do not always follow the bank’s 1-DPD collection cadence.",
+          "SMAs remain the main ECL uncertainty; model work is ongoing. Management cited ₹218 Cr of floating provisions and a secured book, but did not quantify the final ECL requirement."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 cost-to-average-assets",
+            "value": "Below 2.5%; management expects 2.47% to remain broadly in line"
+          },
+          {
+            "metric": "FY27 GNPA / NNPA",
+            "value": "Below 2.5% / below 1%"
+          },
+          {
+            "metric": "FY27 ROE",
+            "value": "Above 13.5%; open year-end target, despite Q2 quarterly ROE of 14.6%"
+          },
+          {
+            "metric": "NIM",
+            "value": "Management expects improvement in Q3 and Q4; no numerical quarterly progression given"
+          }
+        ],
+        "highlights": [
+          "Q1’s 13.5% FY27 ROE goal and 14.5% FY28 goal remain annual targets; Q2 ROE of 14.6% is quarterly and does not establish full-year delivery. Management deferred a new target pending a capital raise decision.",
+          "Q1 management expected NIM to rise beginning in Q2; Q2 NIM was 3.30% versus 3.35% in Q1, a directional miss. The CEO attributed weakness to carrying excess liquidity through most of the quarter. This is a Q2-due directional expectation; annual targets remain open.",
+          "The bank expects year-end staff of 12,800–12,900 while keeping cost-to-average-assets broadly in line with the current 2.47%."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "Q2 NIM direction",
+            "guided": "Expected to increase from Q1 onward",
+            "actual": "3.30% in Q2 versus 3.35% in Q1",
+            "status": "missed"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -922,6 +1306,86 @@
     ],
     "IDFC First Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross loan book",
+            "value": "₹3,47,000 Cr",
+            "change": "+30.1% YoY including FCNR-backed loans; management also reported ₹3.29 lakh Cr on a gross-of-IBPC, ex-FCNR basis, +22.2% YoY",
+            "positive": 1,
+            "valueNum": 347000,
+            "yoyPct": 30.1
+          },
+          {
+            "label": "Reported PAT",
+            "value": "₹1,045 Cr",
+            "change": "+196.5% YoY; core PAT was a separate ₹1,036 Cr measure",
+            "positive": 1,
+            "valueNum": 1045,
+            "yoyPct": 196.5
+          },
+          {
+            "label": "NIM",
+            "value": "5.58%",
+            "change": "Q2 excluding Q1 tax-refund interest; CFO cited 5.90% in Q1 on the same basis",
+            "positive": 0,
+            "valueNum": 5.58,
+            "yoyPct": null
+          },
+          {
+            "label": "Credit cost",
+            "value": "1.38%",
+            "change": "On average funded assets; 1.30% excluding FCNR-backed loans and associated provisions; 1.01% on average total assets",
+            "positive": 1,
+            "valueNum": 1.38,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Loans including FCNR-backed lending reached ₹3.47 lakh Cr (+30.1% YoY); separately reported gross-of-IBPC loan assets excluding FCNR were ₹3.29 lakh Cr (+22.2%).",
+          "Reported PAT was ₹1,045 Cr (+196.5% YoY); management separately cited core PAT of ₹1,036 Cr.",
+          "NII rose 21% YoY and 3.5% sequentially (4.5% after adjusting for prior-quarter tax-refund interest); Q2 NIM was 5.58% versus 5.90% in Q1 on the stated comparison basis. FCNR lending, temporary excess liquidity and asset mix affected Q2 NIM.",
+          "Deposits including certificates of deposit reached ₹3.48 lakh Cr (+25.9% YoY); customer deposits excluding FCNR grew 14.1% YoY. Average CASA ratio was 48.4%; quarter-end ratio was 47.6% after FCNR inflows."
+        ],
+        "whatChanged": "Q2 reported PAT exceeded ₹1,000 Cr for a second quarter, but FCNR-backed lending materially lifted reported balance-sheet growth and diluted headline NIM; credit cost eased from Q1 on the bank’s funded-asset basis.",
+        "risks": [
+          "Management cautioned that El Niño, drought in some states and West Asia uncertainty could affect future asset quality; it said no immediate Q3/Q4 impact was visible and retained a ₹515 Cr contingency provision.",
+          "FCNR inflows created temporary low-yield liquidity that reduced Q2 NIM; the bank expected deployment to normalize this drag, while a draft IRDAI commission rule remains a possible fee-income headwind.",
+          "The reported loan growth of 30.1% includes ₹25,000 Cr of FCNR-backed customer loans; the ex-FCNR growth rate uses gross-of-IBPC loan assets and is not a direct reconciliation to the headline figure."
+        ],
+        "guidance": [
+          {
+            "metric": "Q4FY27 NIM",
+            "value": "Approximately 5.8%"
+          },
+          {
+            "metric": "H2 FY27 incremental cost-to-income",
+            "value": "About 55% on incremental income and costs"
+          },
+          {
+            "metric": "Underlying loan growth",
+            "value": "Around 20%"
+          },
+          {
+            "metric": "Operating jaws",
+            "value": "Above 500 bps, management broadly on track for H1"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "1.5–1.6%, reaffirmed"
+          }
+        ],
+        "highlights": [
+          "Management expects excess-liquidity drag to fade by Q3 and projected NIM recovery to approximately 5.8% by Q4; Q3 was expected to be broadly range-bound.",
+          "FCNR(B) deposit mobilization was ₹34,390 Cr; related customer lending was approximately ₹25,000 Cr. Management estimated FCNR funding to be about 100 bps cheaper than equivalent domestic funding after costs, but this is an estimate, not a guaranteed spread.",
+          "The draft insurance-commission effect was described as manageable through FCNR funding benefits, rate repricing and product mix; the regulation was still under consultation."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1072,6 +1536,82 @@
     ],
     "Karnataka Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹92,015 Cr",
+            "change": "+25% YoY; +6% QoQ",
+            "positive": 1,
+            "valueNum": 92015,
+            "yoyPct": 25
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹982.44 Cr",
+            "change": "+35% YoY; +5% QoQ",
+            "positive": 1,
+            "valueNum": 982.44,
+            "yoyPct": 35
+          },
+          {
+            "label": "PAT",
+            "value": "₹435.89 Cr",
+            "change": "+37% YoY; +4% QoQ",
+            "positive": 1,
+            "valueNum": 435.89,
+            "yoyPct": 37
+          },
+          {
+            "label": "Gross NPA",
+            "value": "2.27%",
+            "change": "Down 31 bps QoQ and 106 bps YoY",
+            "positive": 1,
+            "valueNum": 2.27,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Aggregate business was ₹2,07,132 Cr (+17% YoY); gross advances were ₹92,015 Cr (+25%) and deposits ₹1,15,117 Cr (+12%).",
+          "Q2 NII was ₹982.44 Cr (+35% YoY); PAT was ₹435.89 Cr (+37%). NIM was 3.17% versus 3.20% in Q1, while RoA was 1.26% versus 1.29%.",
+          "GNPA fell to 2.27% from 2.58% in June; NNPA declined to 0.74% from 0.87%. PCR excluding technical write-offs was 68.05%, and PCR including technically written-off accounts was 85.78%.",
+          "RAM advances reached ₹56,968 Cr, +19% YoY; the bank continued replacing low-yield IBPC balances with higher-yield loans."
+        ],
+        "whatChanged": "Advances and PAT growth accelerated, while GNPA and NNPA continued to improve; management retained its growth strategy and issued a more specific H2 growth outlook, but warned that Q1/Q2 run-rate should not be annualized mechanically.",
+        "risks": [
+          "Weak monsoon, drought, geopolitical uncertainty, commodity prices and tighter global financial conditions could affect borrower cash flows; management said it was monitoring conditions and had not seen immediate serious stress.",
+          "Deposit mix and rising rates could pressure margins; CASA ratio was 31.80%, lower than June’s 32.42%, while management expects competition in pricing and deposit costs.",
+          "Draft ECL rules may require incremental provisions; application and transition timing remain under review."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 advance growth",
+            "value": "15–20%"
+          },
+          {
+            "metric": "FY27 business growth",
+            "value": "About 15%"
+          },
+          {
+            "metric": "FY27 deposit growth",
+            "value": "10–15%"
+          },
+          {
+            "metric": "FY27 NIM / RoA outlook",
+            "value": "NIM 3.0–3.4%; RoA 1.1–1.35%"
+          }
+        ],
+        "highlights": [
+          "Management’s stated portfolio-mix ambition is to increase retail from 56% to 60%, mid-corporate from 20% to 22%, and reduce large-corporate exposure from 24% to 18%; these are composition goals, not annual target-tracking results.",
+          "The bank added 15 branches in H1 and planned 31 for FY27; management said 17 premises were under construction and expected 15 new openings before December-end.",
+          "Asset quality improved, with GNPA falling to 2.27% and NNPA to 0.74%; management continues to replace low-yield IBPC balances with higher-yield loans."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1221,6 +1761,82 @@
       }
     ],
     "Karur Vysya Bank Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Advances",
+            "value": "₹1,11,589 Cr",
+            "change": "+7% QoQ",
+            "positive": 1,
+            "valueNum": 111589,
+            "yoyPct": null
+          },
+          {
+            "label": "NIM",
+            "value": "4.26%",
+            "change": "4.26% excluding an 8-bp recovery benefit; 4.34% including it",
+            "positive": 1,
+            "valueNum": 4.26,
+            "yoyPct": null
+          },
+          {
+            "label": "Net profit",
+            "value": "₹788 Cr",
+            "change": "+37% YoY; +4% QoQ",
+            "positive": 1,
+            "valueNum": 788,
+            "yoyPct": 37
+          },
+          {
+            "label": "Credit cost",
+            "value": "0.43%",
+            "change": "Annualized; includes ₹25 Cr additional floating provision",
+            "positive": 0,
+            "valueNum": 0.43,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Total business reached ₹2,39,712 Cr (+18% YoY); advances were ₹1,11,589 Cr and deposits ₹1,28,123 Cr. Advances rose 7% sequentially.",
+          "NII grew 25% YoY and 5% QoQ. Management stated NIM of 4.26% excluding an 8-bp recovery benefit on written-off accounts, and 4.34% including it.",
+          "Net profit was ₹788 Cr (+37% YoY); Q2 credit cost was 0.43% annualized after ₹94 Cr provision for migrations/standard/restructured assets and ₹25 Cr additional floating provision.",
+          "GNPA fell 5 bps sequentially to 0.69%; NNPA declined 1 bp to 0.18%. Gross slippages were ₹123 Cr, or 0.44% annualized and 0.11% of the loan book sequentially."
+        ],
+        "whatChanged": "The bank lifted its FY27 NIM outlook from Q1’s 3.7–3.8% to above 4% and retained calibrated 18–20% credit growth; Q2 delivered 4.26% NIM excluding the recovery benefit and 2.1% RoA while management flagged funding and pricing pressure.",
+        "risks": [
+          "Management expects deposit funding costs to remain under upward pressure and sees competition potentially lowering loan yields; it said Q2 NIM of 4.26% may not be maintained, while retaining a 4%+ full-year floor.",
+          "Textile customers showed limited capex and muted working-capital utilization amid US tariff and geopolitical uncertainty; management characterized customers as cautious and in wait-and-watch mode.",
+          "Jewel loans are 29% of advances; management cited daily LTV alerts and margin calls, but falling gold prices and drought remain risks to collateral and repayment behavior."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 credit growth",
+            "value": "18–20%"
+          },
+          {
+            "metric": "FY27 NIM",
+            "value": "Above 4%"
+          },
+          {
+            "metric": "FY27 RoA",
+            "value": "Above 2%"
+          },
+          {
+            "metric": "GNPA / NNPA / slippages",
+            "value": "Below 1.5% / below 1% / below 1% of loan book"
+          }
+        ],
+        "highlights": [
+          "The Q1 transcript guided NIM at 3.7–3.8%, GNPA below 1.5%, NNPA below 1% and slippages below 1%; Q2 retains the asset-quality thresholds but updates the full-year NIM outlook to 4%+.",
+          "Advances grew 7% sequentially, while deposits grew 5%; management retained its calibrated 18–20% FY27 credit-growth range.",
+          "ROA was 2.1%, while GNPA/NNPA improved to 0.69%/0.18%; annualized credit cost was 0.43% including additional floating provisions."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1522,6 +2138,82 @@
     ],
     "South Indian Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹1,09,517 Cr",
+            "change": "+19% YoY; +20% YoY excluding prior-year technical write-offs",
+            "positive": 1,
+            "valueNum": 109517,
+            "yoyPct": 19
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹1,116 Cr",
+            "change": "+38% YoY",
+            "positive": 1,
+            "valueNum": 1116,
+            "yoyPct": 38
+          },
+          {
+            "label": "Net profit",
+            "value": "₹426 Cr",
+            "change": "+21% YoY; record quarterly profit",
+            "positive": 1,
+            "valueNum": 426,
+            "yoyPct": 21
+          },
+          {
+            "label": "NIM",
+            "value": "3.33%",
+            "change": "+10 bps QoQ and +53 bps YoY",
+            "positive": 1,
+            "valueNum": 3.33,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Gross advances grew 19% YoY to ₹1,09,517 Cr; management said growth excluding ₹1,163 Cr of prior-year technical write-offs was 20%. Deposits were ₹1,37,279 Cr, +19% YoY.",
+          "NII reached a record ₹1,116 Cr, +38% YoY; net profit was a record ₹426 Cr, +21% YoY. RoA was 1.08% and RoE 14%.",
+          "GNPA fell to 1.24% from 2.93% a year earlier; NNPA was 0.09%. PCR excluding technical write-offs rose to 92.42% from 81.29%.",
+          "The bank added account-specific provisions to increase PCR; management said these were not general or floating provisions."
+        ],
+        "whatChanged": "The new CEO reaffirmed the 15–16% FY27 loan and deposit growth guidance and preferred the higher end; Q2 NIM of 3.33% exceeded the earlier 3.25% reference, while RoA held above 1% despite additional asset-specific provisioning.",
+        "risks": [
+          "Additional account-specific provisions support coverage but can affect the pace of profit growth.",
+          "Current-account balances included one-off IPO-related inflows that management said may reverse; the bank’s CASA ratio and deposit cost could be affected by funding mix.",
+          "The shift toward a higher RAM share remains gradual: corporate was still about 39% of advances, and management said it needed faster retail/MSME growth to reach its intended mix."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 loan and deposit growth",
+            "value": "15–16%, preferably toward the higher end and benchmarked to market growth"
+          },
+          {
+            "metric": "Near-term NIM",
+            "value": "3.36–3.38%"
+          },
+          {
+            "metric": "NIM over 12 months / four quarters",
+            "value": "3.45–3.50%"
+          },
+          {
+            "metric": "Medium-term RoA",
+            "value": "1.25–1.30%"
+          }
+        ],
+        "highlights": [
+          "Q2 NIM was above the earlier 3.25% reference; management discussed 3.36–3.38% near term and 3.45–3.50% over 12 months/four quarters. Q1 had not assigned a numeric NIM target in its call, instead expecting positive outcomes as rates repriced.",
+          "Retail/agri/MSME was 61% of advances and corporate 39%; management aims to lift retail toward 65% over time and gold loans from about 25% toward 30–35% in phases.",
+          "The draft bancassurance circular is expected to have limited direct effect because third-party commissions are only about 5–7% of fee income, according to management."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1672,6 +2364,82 @@
     ],
     "Tamilnad Mercantile Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Advances",
+            "value": "₹60,691 Cr",
+            "change": "+29.32% YoY",
+            "positive": 1,
+            "valueNum": 60691,
+            "yoyPct": 29.32
+          },
+          {
+            "label": "Net profit",
+            "value": "₹451 Cr",
+            "change": "+42.09% YoY; record quarterly profit",
+            "positive": 1,
+            "valueNum": 451,
+            "yoyPct": 42.09
+          },
+          {
+            "label": "Deposits",
+            "value": "₹69,546 Cr",
+            "change": "+25.49% YoY",
+            "positive": 1,
+            "valueNum": 69546,
+            "yoyPct": 25.49
+          },
+          {
+            "label": "NIM",
+            "value": "4.19%",
+            "change": "Down 10 bps QoQ; +36 bps YoY",
+            "positive": 1,
+            "valueNum": 4.19,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Total business was ₹1,30,237 Cr (+27.25% YoY), with advances ₹60,691 Cr (+29.32%) and deposits ₹69,546 Cr (+25.49%).",
+          "Net profit was ₹451 Cr (+42.09% YoY); operating profit was ₹642 Cr (+41.80%) and NII ₹807 Cr.",
+          "NIM was 4.19%, down 10 bps QoQ and up 36 bps YoY; credit cost was reported at 0.09% and net NPA at 0.14%.",
+          "The bank fully provided for SMA-1/SMA-2 under its ECL preparation; total provisions of ₹304.24 Cr covered about 80% of its ₹385 Cr estimated transition requirement."
+        ],
+        "whatChanged": "Q2 raised minimum FY27 deposit-growth guidance from 18%+ to 20%+ and advances growth from 21–22% to 22%+; the bank retained an H2 NIM outlook around 4.10% ±5 bps despite Q2’s 4.19% result.",
+        "risks": [
+          "Gold-price volatility creates collateral risk; the portfolio LTV was 62.35%, with daily monitoring and margin calls.",
+          "Term deposits grew 29% YoY versus CASA growth of 16.26%, raising cost of deposits to 5.85%; refinance funding at roughly 7–7.5% also lifted cost of funds to 5.93%.",
+          "The estimated ECL requirement was ₹385 Cr, with ₹304.24 Cr already covered; the remaining amount and transition schedule were not finalized."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 deposit growth",
+            "value": "20%+"
+          },
+          {
+            "metric": "FY27 advances growth",
+            "value": "22%+"
+          },
+          {
+            "metric": "H2 FY27 NIM",
+            "value": "Around 4.10% ±5 bps"
+          },
+          {
+            "metric": "FY27 cost-to-income ratio",
+            "value": "Below 44%"
+          }
+        ],
+        "highlights": [
+          "Q1 had already raised expected FY27 advances growth to 21–22%, deposits to about 18%, total business growth to about 20%, and said NIM should exceed 4%; Q2 raised deposits to 20%+ and advances to 22%+.",
+          "Management said rising cost of term funding was partly offset by repricing and yield changes in gold/MSME advances; 52% of advances were repo-linked, 43% MCLR-linked, and 5% treasury-linked.",
+          "The company’s long-term aim is to grow 4–5 percentage points faster than industry, not a fixed annual growth rate; this is not tracked as a Q2 FY target."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1820,5 +2588,159 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 10,
+      "overview": "Loan growth and profitability improved across the ten reviewed banks, supported by secured lending and better asset quality. Deposit competition, funding mix and ECL preparation remain key constraints. FCNR-linked balances lift some reported growth rates, while margin trajectories differ across lenders.",
+      "trends": [
+        {
+          "text": "Banks expand secured retail, MSME or gold lending while adjusting portfolio mix.",
+          "companies": [
+            "Bandhan Bank Ltd",
+            "Bank of Maharashtra",
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "DCB Bank Ltd",
+            "Karnataka Bank Ltd",
+            "Karur Vysya Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        },
+        {
+          "text": "Banks improve asset-quality ratios or strengthen provision coverage.",
+          "companies": [
+            "Bandhan Bank Ltd",
+            "Bank of Maharashtra",
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "DCB Bank Ltd",
+            "IDFC First Bank Ltd",
+            "Karnataka Bank Ltd",
+            "Karur Vysya Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Loan growth and higher operating income support profit growth.",
+          "companies": [
+            "Bandhan Bank Ltd",
+            "Bank of Maharashtra",
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "DCB Bank Ltd",
+            "IDFC First Bank Ltd",
+            "Karnataka Bank Ltd",
+            "Karur Vysya Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        },
+        {
+          "text": "Recoveries, collection discipline and stronger coverage support credit performance.",
+          "companies": [
+            "Bandhan Bank Ltd",
+            "Bank of Maharashtra",
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "DCB Bank Ltd",
+            "Karnataka Bank Ltd",
+            "Karur Vysya Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Deposit competition and changes in funding mix create margin-management pressure.",
+          "companies": [
+            "Bandhan Bank Ltd",
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "DCB Bank Ltd",
+            "IDFC First Bank Ltd",
+            "Karnataka Bank Ltd",
+            "Karur Vysya Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        },
+        {
+          "text": "ECL transition requires provisioning or capital planning, with final effects dependent on implementation.",
+          "companies": [
+            "Bandhan Bank Ltd",
+            "Bank of Maharashtra",
+            "City Union Bank Ltd",
+            "DCB Bank Ltd",
+            "Karnataka Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Branch expansion and a broader retail liability franchise can support more balanced growth.",
+          "companies": [
+            "Bank of Maharashtra",
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "Karnataka Bank Ltd"
+          ]
+        },
+        {
+          "text": "Asset repricing and deployment of temporary liquidity can help margins recover.",
+          "companies": [
+            "DCB Bank Ltd",
+            "IDFC First Bank Ltd",
+            "South Indian Bank Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "FCNR and IBU balances materially affect headline growth or margins; domestic and adjusted bases differ.",
+          "companies": [
+            "Bank of Maharashtra",
+            "DCB Bank Ltd",
+            "IDFC First Bank Ltd"
+          ]
+        },
+        {
+          "text": "Gold-price volatility and rising gold exposure require disciplined collateral monitoring.",
+          "companies": [
+            "City Union Bank Ltd",
+            "CSB Bank Ltd",
+            "DCB Bank Ltd",
+            "Karur Vysya Bank Ltd",
+            "South Indian Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "TMB raises FY27 deposit and advances growth floors to 20%+ and 22%+; KVB lifts its annual NIM outlook above 4%.",
+          "companies": [
+            "Karur Vysya Bank Ltd",
+            "Tamilnad Mercantile Bank Ltd"
+          ]
+        },
+        {
+          "text": "DCB misses its Q2 NIM-rise expectation, while IDFC First expects recovery toward 5.8% by Q4.",
+          "companies": [
+            "DCB Bank Ltd",
+            "IDFC First Bank Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

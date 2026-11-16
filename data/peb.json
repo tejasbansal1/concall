@@ -13,6 +13,87 @@
   "concall": {
     "Interarch Building Solutions Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue (Q2)",
+            "value": "₹505 Cr",
+            "change": "+2.9% YoY",
+            "positive": 1,
+            "valueNum": 505,
+            "yoyPct": 2.9
+          },
+          {
+            "label": "EBITDA (Q2)",
+            "value": "₹41.7 Cr",
+            "change": "Broadly flat YoY; 8.3% margin vs 8.5%",
+            "positive": 0,
+            "valueNum": 41.7,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT (Q2)",
+            "value": "₹30.7 Cr",
+            "change": "-5.0% YoY",
+            "positive": -1,
+            "valueNum": 30.7,
+            "yoyPct": -5.0
+          },
+          {
+            "label": "Residual Order Book",
+            "value": ">₹2,000 Cr",
+            "change": "As of 31 Oct 2026; post-quarter",
+            "positive": 1,
+            "valueNum": 2000,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹505 Cr versus ₹491 Cr a year earlier; EBITDA was ₹41.7 Cr versus a similar prior-year quarter, with margin at 8.3% versus 8.5%.",
+          "H1 revenue was ₹965 Cr, up 10.7% YoY; H1 EBITDA was ₹81.1 Cr, up 10.7%, at an 8.4% margin. H1 PAT was ₹58.9 Cr versus ₹60.7 Cr.",
+          "Q2 volume was 41,600 tonnes, up about 1% YoY. The residual order book exceeded ₹2,000 Cr at 31 October, after the quarter ended."
+        ],
+        "highlights": [
+          "Andhra Pradesh Phase 1 and both Gujarat phases were operational by the call; the Andhra heavy-structure plant began operations on 24 September.",
+          "Management identified roughly 15–20% of the residual order book as heavy-structure work, including data centers, a hospital, hotel and commercial buildings.",
+          "Management said the heavy-structure and export verticals should improve margin protection and operating leverage over time, while their start-up expenses are weighing on current-year margins.",
+          "Management retained its FY27 revenue execution goal of ₹2,150 Cr; it expects H2 execution to improve with seasonal clearances and a larger order book."
+        ],
+        "whatChanged": "The AP heavy-structure plant began commercial production on 24 September and both Gujarat phases were operational by the call, while management retained ₹2,150 Cr FY27 revenue execution despite flat Q2 EBITDA and costs incurred ahead of new-vertical revenue.",
+        "risks": [
+          "Steel prices were unusually high and supply disruption raised inventory needs; only roughly 30–40% of the order book was described as variable-price, leaving a fixed-price portion exposed until repricing or execution.",
+          "Larger project billing cycles, higher steel inventories and new-plant ramp-up tied up working capital; net working capital after customer advances was about 44 days.",
+          "New-vertical design, selling and engineering expenses precede revenue, limiting near-term margin improvement despite the planned H2 execution ramp."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹2,150 Cr; retained, no change"
+          },
+          {
+            "metric": "H2FY27 revenue execution",
+            "value": "About ₹1,200 Cr"
+          },
+          {
+            "metric": "H2 EBITDA margin expectation",
+            "value": "Improvement expected, but not beyond roughly 9–9.5%"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1FY27; order book at 31 October",
+        "guidanceTracking": [
+          {
+            "metric": "AP heavy-structure commercial production",
+            "guided": "End-August / early-September 2026, per Q1 call",
+            "actual": "Started 24 September, later than the indicated timing but within Q2",
+            "status": "missed"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -55,6 +136,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -118,6 +201,99 @@
     ],
     "EPACK Prefab Technologies Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue (Q2, consolidated)",
+            "value": "₹501.1 Cr",
+            "change": "+15.5% YoY",
+            "positive": 1,
+            "valueNum": 501.1,
+            "yoyPct": 15.5
+          },
+          {
+            "label": "PAT (Q2, consolidated)",
+            "value": "₹29.6 Cr",
+            "change": "+0.4% YoY",
+            "positive": 0,
+            "valueNum": 29.6,
+            "yoyPct": 0.4
+          },
+          {
+            "label": "EBITDA ex other income (Q2)",
+            "value": "₹50.6 Cr",
+            "change": "+1.2% YoY; 10.1% margin vs 11.5%",
+            "positive": 0,
+            "valueNum": 50.6,
+            "yoyPct": 1.2
+          },
+          {
+            "label": "Order Book",
+            "value": "₹1,462.5 Cr",
+            "change": "+59% YoY; at 30 September",
+            "positive": 1,
+            "valueNum": 1462.5,
+            "yoyPct": 59
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue reached ₹501.1 Cr, a quarterly record, up 15.5% YoY; H1 revenue was ₹867 Cr, up 18.9% YoY.",
+          "Q2 EBITDA excluding other income was ₹50.6 Cr, up 1.2%, at a 10.1% margin versus 11.5% a year earlier; Q2 margin improved from 9.4% in Q1. Q2 PAT was ₹29.6 Cr, up 0.4%; H1 EBITDA was ₹85.1 Cr (+5.1%) and PAT ₹47.8 Cr (+5.0%).",
+          "H1 gross margin fell around 2.3 percentage points as input costs increased faster than pass-through on existing orders.",
+          "H1 order inflow rose 71% to about ₹1,124 Cr; the September-end order book was ₹1,462.5 Cr, providing eight-to-nine months of stated visibility.",
+          "Operating cash flow was negative in H1 and working capital rose to about 60 days, above management's 40–55 day range; receivables backed by letters of credit and deliberate steel inventory accounted for much of the increase."
+        ],
+        "highlights": [
+          "Ghiloth added 13,000 tonnes of steel processing capacity after Q2; management described sandwich-panel commissioning in late October, with commercial production from November and a ramp over the remaining fiscal months.",
+          "The Gujarat greenfield plant is planned to commission in Q4 FY27; first-phase capacity is 50,000 tonnes, within an 80,000-plus-tonne design.",
+          "Management expects H2 revenue and margins to improve as new orders reflect current input prices and steel inventory protects supply and costs.",
+          "Management expected a first structural-steel data-center supply order in Q3 and said existing facilities can serve the enquiries in hand without additional capex; the separate data-center subsidiary opportunity remained under discussion."
+        ],
+        "whatChanged": "Q2 margin recovered to 10.1% but missed the Q1 call’s 10.5–11.5% expectation, while management now guides FY27 margin at 10–10.5% and retains ₹1,900 Cr-plus revenue amid higher working capital and negative H1 operating cash flow.",
+        "risks": [
+          "Steel and other input costs rose faster than pass-through on work already in execution, reducing gross margin by about 2.3 percentage points; price-escalation clauses are not yet standard.",
+          "Working capital reached about 60 days versus the 40–55 day range, and operating cash flow was negative in H1; management expects LC-related receivables to normalize in Q3.",
+          "Ghiloth and Gujarat capacity still need ramp-up; management said the Ghiloth panel-line ramp prioritizes volume and is not expected to lift margins during the ramp period."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹1,900 Cr-plus"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "10–10.5%"
+          },
+          {
+            "metric": "Revenue Growth",
+            "value": "25–30% CAGR endeavor for the next couple of years"
+          },
+          {
+            "metric": "Gujarat phase-one commissioning",
+            "value": "Q4FY27; 50,000 tonnes of capacity"
+          }
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "EBITDA margin from Q2 onward",
+            "guided": "10.5–11.5%, per Q1 call",
+            "actual": "10.1% in Q2FY27",
+            "status": "missed"
+          },
+          {
+            "metric": "Ghiloth sandwich-panel commissioning",
+            "guided": "By end-Q2FY27, per Q1 call",
+            "actual": "Commissioned after September-end; late October per call, commercial production from November",
+            "status": "missed"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1FY27; consolidated financials"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -161,6 +337,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -224,6 +402,85 @@
     ],
     "M&B Engineering Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue (Q2, consolidated)",
+            "value": "₹385 Cr",
+            "change": "+25.4% YoY",
+            "positive": 1,
+            "valueNum": 385,
+            "yoyPct": 25.4
+          },
+          {
+            "label": "Reported EBITDA (Q2)",
+            "value": "₹43 Cr",
+            "change": "+17.6% YoY",
+            "positive": 1,
+            "valueNum": 43,
+            "yoyPct": 17.6
+          },
+          {
+            "label": "PAT (Q2, consolidated)",
+            "value": "₹29 Cr",
+            "change": "+32.8% YoY",
+            "positive": 1,
+            "valueNum": 29,
+            "yoyPct": 32.8
+          },
+          {
+            "label": "Order Book",
+            "value": "₹1,109 Cr",
+            "change": "+19% YoY",
+            "positive": 1,
+            "valueNum": 1109,
+            "yoyPct": 19
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue grew 25.4% to ₹385 Cr; H1 revenue grew 24.1% to ₹676 Cr.",
+          "Q2 consolidated EBITDA was ₹43 Cr, up 17.6%, and PAT was ₹29 Cr, up 32.8%; H1 EBITDA was ₹79 Cr, up 12.1%, and PAT was ₹51 Cr, up 28%.",
+          "The Q2-end order book was ₹1,109 Cr, up 19% YoY; Phenix was ₹874 Cr and Proflex ₹235 Cr. Export orders within Phenix were ₹272 Cr.",
+          "Q2 export revenue was ₹67 Cr, up 25% YoY; H1 export revenue was ₹95 Cr, up 68% YoY."
+        ],
+        "highlights": [
+          "Sanand's additional 20,000-tonne PEB capacity entered commercial production on 26 October, after quarter-end; capacity rose from 104,000 to 124,000 tonnes across the two PEB facilities.",
+          "The 10,000-tonne Sanand structural-steel line remains scheduled for Q1 FY28; a 20,000-tonne Cheyyar PEB expansion is planned for Q3 FY28, taking combined capacity to about 154,000 tonnes.",
+          "A data-center order and a multi-storey building order were secured after Q2 and were not included in the ₹1,109 Cr quarter-end order book.",
+          "Sanand received CE certification for UK and European sales; management intends to start UK business in FY28.",
+          "Management expects H2 margins to improve as export dispatches increase and freight eases; it gave no firm company-wide numeric margin target."
+        ],
+        "whatChanged": "With FY27 revenue-growth guidance above 25% maintained, Sanand’s 20,000-tonne PEB expansion entered production on 26 October and new data-center/high-rise orders were secured after Q2, while freight and steel costs continued to temper margin recovery.",
+        "risks": [
+          "Freight remained above pre-war levels despite easing from about USD12,000 to USD7,000–8,000 per container; management expects improvement but customers only absorb part of the cost.",
+          "Steel-price movements pressured gross margin under largely fixed-price contracts, while freight remains above original cost assumptions and export enquiries have converted slowly.",
+          "The new data-center and high-rise opportunities are early-stage for the company; their size and contribution were not disclosed, and the new orders were post-quarter."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Over 25%"
+          },
+          {
+            "metric": "Medium-term Growth",
+            "value": "Over 20% CAGR for 3–4 years, with progressive profitability improvement"
+          },
+          {
+            "metric": "Sanand structural-steel addition",
+            "value": "10,000 tonnes by Q1FY28"
+          },
+          {
+            "metric": "Cheyyar PEB addition",
+            "value": "20,000 tonnes by Q3FY28"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1FY27; consolidated"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -267,6 +524,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -332,5 +591,112 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 3,
+      "overview": "PEB demand and order pipelines remained healthy, but steel inflation and execution costs constrained profit conversion. Capacity additions and new building applications support the growth outlook; H2 delivery, margin recovery and cash conversion remain important, with EPACK reducing its margin range.",
+      "trends": [
+        {
+          "text": "Industrial and infrastructure enquiries and order books continue to support execution visibility.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd",
+            "M&B Engineering Ltd"
+          ]
+        },
+        {
+          "text": "Capacity additions are expanding the addressable market, although several commissioning milestones occurred after Q2.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd",
+            "M&B Engineering Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Management expects stronger H2 execution as projects progress and additional capacity ramps.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd",
+            "M&B Engineering Ltd"
+          ]
+        },
+        {
+          "text": "Data-center and more complex building applications offer new business opportunities; enquiry conversion and revenue timing vary by company.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd",
+            "M&B Engineering Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Steel-price inflation and the lag in repricing older orders constrain margin recovery.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd",
+            "M&B Engineering Ltd"
+          ]
+        },
+        {
+          "text": "Larger-project billing and deliberate steel inventories have tied up working capital.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Interarch is expanding heavy structures and export capabilities to improve margin protection and operating leverage over time.",
+          "companies": [
+            "Interarch Building Solutions Ltd"
+          ]
+        },
+        {
+          "text": "M&B’s post-quarter data-center/high-rise wins and UK/US West Coast plans create potential new growth avenues.",
+          "companies": [
+            "M&B Engineering Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "EPACK missed the Q2 margin expectation and its planned quarter-end Ghiloth commissioning, while negative H1 operating cash flow makes collections a priority.",
+          "companies": [
+            "EPACK Prefab Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Interarch’s new-vertical expenses precede revenue; M&B’s freight costs remain above original assumptions.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "M&B Engineering Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Interarch is favoring variable-price orders; M&B still reports largely fixed-price exposure, so steel-risk protection differs.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "M&B Engineering Ltd"
+          ]
+        },
+        {
+          "text": "New capacity and orders disclosed after September-end should be distinguished from Q2 operating delivery.",
+          "companies": [
+            "Interarch Building Solutions Ltd",
+            "EPACK Prefab Technologies Ltd",
+            "M&B Engineering Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

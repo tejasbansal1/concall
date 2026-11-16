@@ -172,6 +172,81 @@
     ],
     "Dixon Technologies India Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹21,806 Cr",
+            "change": "+47% YoY, management-stated",
+            "positive": 1,
+            "valueNum": 21806,
+            "yoyPct": 47
+          },
+          {
+            "label": "EBITDA ex-fair-value gain",
+            "value": "₹609 Cr",
+            "change": "Excluding Aditya Infotech fair-value gain",
+            "positive": 0,
+            "valueNum": 609,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT after minority ex-fair-value gain",
+            "value": "₹293 Cr",
+            "change": "Q2; excluding Aditya Infotech fair-value gain",
+            "positive": 0,
+            "valueNum": 293,
+            "yoyPct": null
+          },
+          {
+            "label": "Mobile and other EMS revenue",
+            "value": "₹20,093 Cr",
+            "change": "Q2 segment revenue",
+            "positive": 0,
+            "valueNum": 20093,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹21,806 Cr; EBITDA excluding the Aditya Infotech fair-value gain was ₹609 Cr and PAT after minority interest on the same adjusted basis was ₹293 Cr.",
+          "Mobile and other EMS revenue was ₹20,093 Cr; smartphone manufacturing volume was described as broadly stable YoY despite a 26% Q2 market decline."
+        ],
+        "highlights": [
+          "Management expects FY27 mobile volumes of about 33–34 million units excluding Vivo; H1 volume was about 17.2 million.",
+          "IT hardware revenue is expected at ₹6,000–6,500 Cr in FY27; the IT capex commitment rises from ₹250 Cr to ₹500 Cr.",
+          "Vivo consolidation is now expected from Q4 FY27, compared with Q3 expected on the Q1 call.",
+          "FY27 capex is expected to close near ₹1,200 Cr; display project investment is about ₹1,000 Cr spread over this, next and following year."
+        ],
+        "whatChanged": "Against Q1's expectation of roughly 32–33 million mobile units and Vivo operations from Q3, management now sees 33–34 million ex-Vivo units but moved the Vivo start target to Q4; near-term margins remain pressured by input-cost inflation and mix.",
+        "risks": [
+          "Memory prices rose sharply with AI infrastructure demand; higher selling prices inflate reported revenue while percentage margins compress.",
+          "ODM appliance lines face a lag in cost pass-through: management cited washing-machine margin down to about 8.3% from a 10.5–11% normal range, with roughly 3 percentage points impact in H1.",
+          "Vivo consolidation moves from Q3 to Q4; future export, component and JV ramps remain dependent on execution."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 mobile manufacturing volume excluding Vivo",
+            "value": "About 33–34 million units"
+          },
+          {
+            "metric": "FY27 IT hardware revenue",
+            "value": "₹6,000–6,500 Cr"
+          },
+          {
+            "metric": "FY27 total capex",
+            "value": "Around ₹1,200 Cr"
+          },
+          {
+            "metric": "Display business potential after ramp-up",
+            "value": "₹6,000–7,000 Cr revenue potential over the next couple of years; substantial share captive"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -479,6 +554,82 @@
       }
     ],
     "Syrma SGS Technology Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated total revenue",
+            "value": "About ₹2,000 Cr",
+            "change": "Q2; +73% YoY",
+            "positive": 1,
+            "valueNum": 2000,
+            "yoyPct": 73
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹193 Cr",
+            "change": "Q2; +68% YoY",
+            "positive": 1,
+            "valueNum": 193,
+            "yoyPct": 68
+          },
+          {
+            "label": "PAT",
+            "value": "₹124 Cr",
+            "change": "Q2; +87% YoY",
+            "positive": 1,
+            "valueNum": 124,
+            "yoyPct": 87
+          },
+          {
+            "label": "Open order book visibility",
+            "value": "₹7,420 Cr",
+            "change": "At September end",
+            "positive": 1,
+            "valueNum": 7420,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "H1 consolidated total revenue was ₹3,603 Cr (+71% YoY); H1 operating EBITDA was ₹355 Cr (+68%) and PAT ₹230 Cr (+98%).",
+          "H1 exports were ₹901 Cr (+80% YoY) and ODM revenue ₹591 Cr (+117%); H1 operating EBITDA margin was 9.9%.",
+          "H1 operating cash flow was about ₹120 Cr; net working-capital cycle improved to 63 days and the September-end net cash position was ₹258 Cr."
+        ],
+        "highlights": [
+          "FY27 revenue growth outlook was raised to 40–45%, implying around ₹7,000 Cr revenue; management expects exports above ₹1,700 Cr.",
+          "FY27 EBITDA margin outlook is 10–10.5%; FY28 outlook is 10.5–11% or marginally above as higher-margin projects ramp.",
+          "PCB equipment power-on and trials are expected around March–April 2027, followed by customer approvals and volume production during FY28."
+        ],
+        "whatChanged": "Versus Q1's 35%+ FY27 revenue-growth outlook and 10.5–11% EBITDA-margin guidance, management raised revenue growth to 40–45% but lowered FY27 margin expectations to 10–10.5% amid supply constraints and cost-push dilution.",
+        "risks": [
+          "Electronic-component shortages and longer 36–42-week lead times constrain customer output; front-loaded orders in H1 may also rationalise in H2.",
+          "Supply-chain cost push is passed through without value-add, diluting percentage margins; management expects constraints to persist into 2027.",
+          "Inventory was ₹1,570 Cr at September end and strategic component stocks may remain elevated; management aims for roughly 60–65 working-capital days."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue growth",
+            "value": "40–45%; around ₹7,000 Cr revenue"
+          },
+          {
+            "metric": "FY27 operating EBITDA margin",
+            "value": "10–10.5% (Q1 had guided 10.5–11%)"
+          },
+          {
+            "metric": "FY27 exports",
+            "value": "Above ₹1,700 Cr"
+          },
+          {
+            "metric": "FY28 revenue",
+            "value": "Cross US$1 billion"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -788,6 +939,83 @@
     ],
     "PG Electroplast Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated revenue",
+            "value": "₹934 Cr",
+            "change": "Q2; +42.5% YoY",
+            "positive": 1,
+            "valueNum": 934,
+            "yoyPct": 42.5
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹69.14 Cr",
+            "change": "Q2; +54.8% YoY",
+            "positive": 1,
+            "valueNum": 69.14,
+            "yoyPct": 54.8
+          },
+          {
+            "label": "Net income",
+            "value": "₹13.67 Cr",
+            "change": "Q2; versus ₹2.76 Cr YoY",
+            "positive": 1,
+            "valueNum": 13.67,
+            "yoyPct": null
+          },
+          {
+            "label": "EBITDA margin",
+            "value": "7.4%",
+            "change": "Q2 FY27",
+            "positive": 0,
+            "valueNum": 7.4,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Consolidated Q2 revenue was ₹934 Cr (+42.5% YoY), EBITDA ₹69.14 Cr (+54.8%) and net income ₹13.67 Cr.",
+          "H1 revenue exceeded ₹2,950 Cr; AC grew 36.2% to ₹1,561 Cr and washing-machine revenue grew 60.7% to above ₹500 Cr.",
+          "Product business was 70.3% of H1 sales; electronics grew 90.3% and was 12% of H1 revenue."
+        ],
+        "highlights": [
+          "Management expects full-year room-AC volume growth around 20% (roughly 20% plus/minus 2–3 points); H1 volume growth was about 22%.",
+          "Compressor first 2 million-unit capacity is due online in FY27; trial production was expected by end-November, mass production around January–February, and CY27 output target is 1.5–1.8 million.",
+          "Sri City refrigerator plant targets trial production in January–February and FY27 commercial start; installed capacity is 1.2 million units, with FY28 output target around 700,000 units.",
+          "The FY27 capex programme remains around ₹400 Cr and is largely on track; FY28 capex is expected around ₹150–200 Cr."
+        ],
+        "whatChanged": "Q1 targeted compressor mass production in December–January; Q2 now expects January–February, adds a CY2027 output target of 1.5–1.8 million units, and retains the refrigerator plant's Q4 start.",
+        "risks": [
+          "Q2 room-AC volume was flat YoY despite a strong order book; execution must catch up in H2 to meet the full-year volume outlook.",
+          "Higher copper, aluminium, plastic and rupee costs lower percentage gross margins under per-unit contract economics; price adjustments are quarterly, with another increase aligned from January.",
+          "New refrigerator and compressor projects require successful production ramp-up; higher inventory values also tie up working capital and raise financing needs."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 room AC volume growth",
+            "value": "Around 20% (management indicated 20% plus/minus 2–3 points); 2.1–2.2 million units versus 1.7 million last year"
+          },
+          {
+            "metric": "Compressor production, CY27",
+            "value": "Target 1.5–1.8 million units"
+          },
+          {
+            "metric": "Sri City refrigerator production, FY28",
+            "value": "Around 700,000 units; 1.2 million installed capacity"
+          },
+          {
+            "metric": "FY28 capex",
+            "value": "Around ₹150–200 Cr, versus about ₹400 Cr in FY27"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -941,6 +1169,75 @@
       }
     ],
     "Epack Durable Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations",
+            "value": "₹439 Cr",
+            "change": "Q2; +106% YoY",
+            "positive": 1,
+            "valueNum": 439,
+            "yoyPct": 106
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹7.1 Cr",
+            "change": "Q2; versus ₹0.5 Cr YoY",
+            "positive": 1,
+            "valueNum": 7.1,
+            "yoyPct": null
+          },
+          {
+            "label": "EBITDA margin",
+            "value": "1.62%",
+            "change": "Q2; versus 0.23% reported YoY; prior-year ₹8 Cr PLI makes this non-comparable",
+            "positive": 0,
+            "valueNum": 1.62,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 revenue from operations",
+            "value": "₹1,325 Cr",
+            "change": "H1 FY27; +51.3% YoY",
+            "positive": 1,
+            "valueNum": 1325,
+            "yoyPct": 51.3
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "H1 revenue reached ₹1,325 Cr (+51.3% YoY); Q2 revenue was ₹439 Cr (+106% YoY).",
+          "Q2 like-for-like EBITDA improved about ₹14.6 Cr YoY after excluding ₹8 Cr prior-year PLI income; EBITDA margin was 1.62% reported.",
+          "Q2 RAC revenue was ₹161 Cr versus ₹61 Cr a year ago (+160%); SDA/LDA revenue grew 57%, components 45%, and non-RAC business was 63% of Q2 revenue."
+        ],
+        "highlights": [
+          "Management estimates H1 RAC revenue growth of 58%, while Q2's corrected like-for-like RAC growth was 160% from a weak base.",
+          "The company serves 72 customers across 19 categories; top-two customer concentration fell to 32% from 72% earlier in FY26.",
+          "₹370 Cr of the previously announced ₹470 Cr capex was actualized through September; remaining roughly ₹100 Cr is staggered over 6–12 months.",
+          "Hisense front-load washing-machine pilot production is due to finish in November, with mass production from December."
+        ],
+        "whatChanged": "Against Q1's end-September/October target for Hisense front-load washer mass production, Q2 now targets December; revenue growth accelerates, but profitability remains constrained by FX, pricing lags and new-capacity costs.",
+        "risks": [
+          "No Q2 PLI was accrued versus ₹8 Cr in prior-year Q2; withdrawal of customer discounts linked to PLI is phased and government extension remains uncertain.",
+          "Currency weakness, especially rupee depreciation against USD/CNY, is not passed through in real time and was called a margin concern; commodity-cost pass-through also lags by a quarter.",
+          "Gross debt was ₹770–775 Cr and is expected to remain broadly similar in the medium term as remaining capex is deployed; new capacity utilisation is central to margin recovery."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Remaining planned capex",
+            "value": "About ₹100 Cr over the next 6–12 months"
+          },
+          {
+            "metric": "Hisense front-load washer mass production",
+            "value": "From December 2026, after pilot completion in November"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1096,6 +1393,75 @@
     ],
     "Virtuoso Optoelectronics Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "H1 consolidated revenue",
+            "value": "₹544.8 Cr",
+            "change": "H1 FY27; +80.1% YoY, calculated from ₹302.56 Cr",
+            "positive": 1,
+            "valueNum": 544.8,
+            "yoyPct": 80.1
+          },
+          {
+            "label": "H1 consolidated ebitda",
+            "value": "About ₹56 Cr",
+            "change": "H1 FY27; +77% YoY as stated",
+            "positive": 1,
+            "valueNum": 56,
+            "yoyPct": 77
+          },
+          {
+            "label": "H1 consolidated pat",
+            "value": "₹11.74 Cr",
+            "change": "H1 FY27; versus ₹2.54 Cr YoY",
+            "positive": 1,
+            "valueNum": 11.74,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "H1 FY27 unless indicated",
+        "fyPerformance": [
+          "H1 consolidated revenue was ₹544.8 Cr versus ₹302.56 Cr a year earlier (+80.1%, calculated).",
+          "H1 consolidated EBITDA was about ₹56 Cr versus ₹31.7 Cr (+77% as stated); PAT was ₹11.74 Cr versus ₹2.54 Cr.",
+          "Q2 was described as a lean seasonal quarter; management described a strong Q3–Q4 order book."
+        ],
+        "highlights": [
+          "Management said it would give a pass on FY28 numeric guidance; current outlook is consistent 30%+ CAGR, later clarified as 30–35% over a five-year period.",
+          "Total compressor capacity is targeted to reach 6 million units by FY27 end, with 40–60% utilization expected in FY28.",
+          "About 70% of planned additional IDU capex was completed, not operationalised; management expects IDU peak capacity around 1.5–1.6 million by January.",
+          "New EMS capacity is expected live by December and initially used largely for captive controllers; cost pass-through effects should start appearing in Q3."
+        ],
+        "whatChanged": "Q1 stated a 35–40% revenue CAGR aspiration over 3–5 years and 9–10% EBITDA margin; Q2 softened the long-term growth outlook to 30–35% over five years, declined a FY28 revenue number, and kept EBITDA margin range-bound at 9–10%.",
+        "risks": [
+          "Compressor margins remain below other segments while imports set pricing; management expects improvement only as imports reduce and backward integration advances.",
+          "Additional AC/compressor and EMS capacities still need to be commissioned, customer-qualified and utilised; FY28 utilisation on new capacity is not yet assured.",
+          "The subsidiary has ₹150 Cr of bridge OCD funding planned for bank refinancing over 15–16 months; management may seek external equity as growth requires capital."
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term revenue growth",
+            "value": "30–35% CAGR over five years (Q1 had stated 35–40% over 3–5 years)"
+          },
+          {
+            "metric": "EBITDA margin",
+            "value": "Range-bound at 9–10%; no FY28 revenue number"
+          },
+          {
+            "metric": "New compressor capacity utilisation, FY28",
+            "value": "40–60%"
+          },
+          {
+            "metric": "IDU peak capacity",
+            "value": "Around 1.5–1.6 million units by January"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1248,5 +1614,102 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 5,
+      "overview": "Growth is strong across the five available calls, but commodity inflation, currency movements and capacity ramp-ups complicate profit conversion. Revenue growth includes price pass-through, while Syrma lowers its FY27 margin outlook and several projects still await commissioning or customer ramp-up. Virtuoso reports H1 financials in this call.",
+      "trends": [
+        {
+          "text": "Manufacturers are adding capacity and integrating components to expand their addressable market and improve value addition.",
+          "companies": [
+            "Dixon Technologies India Ltd",
+            "Epack Durable Ltd",
+            "PG Electroplast Ltd",
+            "Syrma SGS Technology Ltd",
+            "Virtuoso Optoelectronics Ltd"
+          ]
+        },
+        {
+          "text": "Higher input prices and currency movements pressure margin percentages or recovery timing even when sales rise.",
+          "companies": [
+            "Dixon Technologies India Ltd",
+            "Epack Durable Ltd",
+            "PG Electroplast Ltd",
+            "Syrma SGS Technology Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "New products, customer additions and broader product portfolios provide concrete growth opportunities.",
+          "companies": [
+            "Dixon Technologies India Ltd",
+            "Epack Durable Ltd",
+            "PG Electroplast Ltd",
+            "Syrma SGS Technology Ltd",
+            "Virtuoso Optoelectronics Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Dixon and Syrma see exports and deeper component manufacturing as additional growth engines.",
+          "companies": [
+            "Dixon Technologies India Ltd",
+            "Syrma SGS Technology Ltd"
+          ]
+        },
+        {
+          "text": "PG and Virtuoso are expanding compressor capacity; ramp-up and customer demand will determine utilization.",
+          "companies": [
+            "PG Electroplast Ltd",
+            "Virtuoso Optoelectronics Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Dixon shifts Vivo consolidation to Q4; PG now targets compressor mass production in January–February, and Virtuoso’s Star Eltech arrangement remains on hold.",
+          "companies": [
+            "Dixon Technologies India Ltd",
+            "PG Electroplast Ltd",
+            "Virtuoso Optoelectronics Ltd"
+          ]
+        },
+        {
+          "text": "Syrma raises revenue guidance but lowers its FY27 EBITDA margin range to 10–10.5% amid input and supply-chain pressure.",
+          "companies": [
+            "Syrma SGS Technology Ltd"
+          ]
+        },
+        {
+          "text": "Expansion ties up capital: EPACK has substantial gross debt, PG faces higher inventory funding needs and Virtuoso may require external capital.",
+          "companies": [
+            "Epack Durable Ltd",
+            "PG Electroplast Ltd",
+            "Virtuoso Optoelectronics Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Dixon’s mobile revenue benefits from higher selling prices while volumes remain broadly stable; PG also separates price-led growth from volume growth.",
+          "companies": [
+            "Dixon Technologies India Ltd",
+            "PG Electroplast Ltd"
+          ]
+        },
+        {
+          "text": "EPACK’s reported EBITDA comparison includes prior-year PLI income, while PG expects much of its PLI booking later in the year.",
+          "companies": [
+            "Epack Durable Ltd",
+            "PG Electroplast Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

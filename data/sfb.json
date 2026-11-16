@@ -17,6 +17,79 @@
   "concall": {
     "Capital Small Finance Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹9,755 Cr",
+            "change": "Q2-end; +23.4% YoY, +7.5% QoQ",
+            "positive": 1,
+            "valueNum": 9755,
+            "yoyPct": 23.4
+          },
+          {
+            "label": "Deposits",
+            "value": "₹10,831 Cr",
+            "change": "Q2-end; +16.2% YoY, +2.2% QoQ",
+            "positive": 1,
+            "valueNum": 10831,
+            "yoyPct": 16.2
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹46 Cr",
+            "change": "+31% YoY",
+            "positive": 1,
+            "valueNum": 46,
+            "yoyPct": 31
+          },
+          {
+            "label": "Net interest margin",
+            "value": "4.24%",
+            "change": "Q2; versus 4.04% YoY and 4.21% in Q1",
+            "positive": 1,
+            "valueNum": 4.24,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Q2-end gross advances were ₹9,755 Cr (+23.4% YoY) and deposits were ₹10,831 Cr (+16.2%); advances grew 7.5% QoQ.",
+          "Q2 PAT was ₹46 Cr (+31% YoY), NII ₹139 Cr (+24%), and PPOP ₹68 Cr (+31%); NIM was 4.24% versus 4.04% a year earlier.",
+          "GNPA was 2.36%, NNPA 1.12%, and Q2 credit cost 0.18%; 97% of the loan book remained secured."
+        ],
+        "highlights": [
+          "Q2-end advances were up 23.4% YoY versus 22% in Q1; management described a positive bias to growth but did not reset the full-year target.",
+          "Out-of-Punjab advances grew 39% YoY and formed 25.7% of advances; management targets 30%+ of branches outside Punjab by FY29 and estimates that geography could represent 32–37% of advances.",
+          "Average credit-to-deposit ratio was 85.4%; management sees medium-term room to move into the mid-to-high 80s and cited this as a margin and return lever.",
+          "The FY29 Vision target remains advances above ₹16,000 Cr and 300+ branches; management also discussed a 1.6%+ FY29 ROTA aspiration."
+        ],
+        "whatChanged": "Advance growth accelerated from 22% YoY in Q1 to 23.4% in Q2 and ROTA improved to 1.39%; management cites a positive bias to its original FY27 growth range and retains the FY29 scale roadmap.",
+        "risks": [
+          "CASA eased to 34.5% from 36.7% in Q1 as term-deposit pricing remains competitive; cost of deposits was 5.68% in Q2 versus 5.6% in Q1.",
+          "Management said RBI's October repo increase would begin to affect EBR-linked loans from November, while deposit repricing and funding spreads will shape margins.",
+          "Management saw no material monsoon-related agriculture stress in Punjab and Haryana, but described conditions in Rajasthan as less encouraging and said it is not yet opening agriculture lending there."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 gross advance growth",
+            "value": "Original 20–22% range, with management now citing a positive bias"
+          },
+          {
+            "metric": "FY29 gross advances and branches",
+            "value": "More than ₹16,000 Cr and 300+ branches"
+          },
+          {
+            "metric": "FY29 ROTA",
+            "value": "1.6%+ aspiration; management also discussed 15%+ ROE"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -176,6 +249,83 @@
       }
     ],
     "Jana Small Finance Bank Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹38,752 Cr",
+            "change": "Q2-end; +22% YoY",
+            "positive": 1,
+            "valueNum": 38752,
+            "yoyPct": 22
+          },
+          {
+            "label": "Net interest margin",
+            "value": "7.54%",
+            "change": "Q2; versus 6.5% in Q2 FY26",
+            "positive": 1,
+            "valueNum": 7.54,
+            "yoyPct": null
+          },
+          {
+            "label": "Secured share of assets",
+            "value": "73.7%",
+            "change": "Q2-end",
+            "positive": 1,
+            "valueNum": 73.7,
+            "yoyPct": null
+          },
+          {
+            "label": "Gross NPA",
+            "value": "2.17%",
+            "change": "Q2-end; net NPA was 1.08%, with ₹68 Cr guarantee claims lodged",
+            "positive": 1,
+            "valueNum": 2.17,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Gross advances were ₹38,752 Cr, up 22% YoY; secured assets reached 73.7% of the portfolio.",
+          "Q2 NIM was 7.54% versus 6.5% a year earlier; H1 PAT of ₹326 Cr matched FY26’s full-year profit.",
+          "GNPA was 2.17% and NNPA 1.08%; management said lodged guarantee claims of ₹68 Cr would bring NNPA below 1% when realized."
+        ],
+        "highlights": [
+          "Management raised FY27 PAT growth guidance from 80% to 100%; it maintained loan growth guidance of 19–21% and deposit growth of 23–25%.",
+          "FY27 credit-cost guidance remained below 2%; management said H1 credit costs were 0.43% and 0.49% by quarter, with H2 expected lower than H1.",
+          "The CGFMU portal was not open for new guarantees at the call date; Jana said it had already accrued the 1% guarantee cost and its PAT outlook assumes the program reopens and new H2 lending is covered.",
+          "Management attributed some Q2 slippages to drought-affected areas in Assam, Maharashtra, and Karnataka, plus a secured loan one-off; it expected slippages and credit costs to fall in H2."
+        ],
+        "whatChanged": "Against Q1's 80% FY27 PAT growth goal, management raised the target to 100% after H1 profit matched FY26's full-year PAT; the 19–21% loan-growth and 23–25% deposit-growth ranges were maintained, while guarantee-portal access remains an execution dependency.",
+        "risks": [
+          "The CGFMU portal was not open for new guarantees; management's 100% PAT-growth guidance assumes reopening and guarantee coverage of H2 originations, although the guarantee cost has already been accrued.",
+          "Management linked 0.3 percentage points of Q2 slippages to drought-affected regions and also cited a secured-loan one-off; drought impact was expected to be non-material but remains a monitorable.",
+          "Gross NPA was 2.17% but NNPA was 1.08%; management deferred extra provisioning while ₹68 Cr of guarantee claims were pending, so the sub-1% NNPA outcome depends on realization."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT growth",
+            "value": "100%, raised from 80% in Q1"
+          },
+          {
+            "metric": "FY27 gross loan growth",
+            "value": "19–21%, maintained"
+          },
+          {
+            "metric": "FY27 deposit growth",
+            "value": "23–25%, maintained"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "Below 2%; management expects H2 lower than H1"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -337,6 +487,83 @@
     ],
     "ESAF Small Finance Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹23,934 Cr",
+            "change": "Q2-end; +25% YoY",
+            "positive": 1,
+            "valueNum": 23934,
+            "yoyPct": 25
+          },
+          {
+            "label": "Deposits",
+            "value": "₹28,466 Cr",
+            "change": "Q2-end; +24% YoY",
+            "positive": 1,
+            "valueNum": 28466,
+            "yoyPct": 24
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹160 Cr",
+            "change": "Doubled QoQ",
+            "positive": 1,
+            "valueNum": 160,
+            "yoyPct": null
+          },
+          {
+            "label": "Net interest margin",
+            "value": "8.2%",
+            "change": "Q2; cost of funds stable; funding cost may rise marginally in Q3",
+            "positive": 1,
+            "valueNum": 8.2,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Q2-end gross advances were ₹23,934 Cr (+25% YoY), deposits ₹28,466 Cr (+24%), and Q2 PAT ₹160 Cr versus ₹80 Cr in Q1.",
+          "Secured advances were ₹15,377 Cr, or 64% of the book; MARG was ₹13,938 Cr, 58% of the portfolio, while the emerging-household segment grew 134% YoY.",
+          "Q2 NIM was 8.2%, GNPA 2.8% and NNPA 0.3%; the bank wrote off ₹626 Cr of legacy NPAs, while annualized credit cost was 2.6%."
+        ],
+        "highlights": [
+          "Management said FY27 ROA guidance changed from an earlier Q4 exit target of 2% to 2% for the full year; it will provide FY28 guidance next quarter.",
+          "StratoNeXt went live on October 26 after migration to Oracle FLEXCUBE; management said the immediate focus is system stability, transaction accuracy, and customer support.",
+          "The group-loan microfinance portfolio declined 65% YoY as eligible borrowers progress into secured and emerging-household lending; management described this as a deliberate mix change.",
+          "Gold loans were ₹10,456 Cr with GNPA of 0.1%; management attributed higher SMA-0/SMA-1 levels mainly to gold-price volatility and cited a current average LTV near 76%."
+        ],
+        "whatChanged": "Q2 advanced the shift toward secured and emerging-household assets, with secured balances at ₹15,377 Cr and the group-loan book down 65% YoY; management changed the previously stated 2% Q4 exit ROA objective into a 2% full-year FY27 guidance.",
+        "risks": [
+          "Gold-price swings lifted gold-loan SMA-0/SMA-1; management expects recovery after price stabilization, but the remaining elevated watch-list needs monitoring.",
+          "Drought conditions in Maharashtra and Karnataka have not materially affected collections yet, but management said a prolonged situation could affect collections.",
+          "StratoNeXt has just gone live; the bank is focused on stabilization, and management expects technology capitalization expense in H2 while targeting a roughly 60% FY27 cost-to-income ratio."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 full-year ROA",
+            "value": "2% (changed from Q1's approximate 2% Q4 exit target)"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "Around 2% for the full year"
+          },
+          {
+            "metric": "FY27 cost-to-income ratio",
+            "value": "Around 60%"
+          },
+          {
+            "metric": "FY28 credit cost",
+            "value": "Management described 1.5% as a reasonable estimate, not formal guidance"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -497,6 +724,83 @@
     ],
     "Suryoday Small Finance Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross advances including IBPC",
+            "value": "₹14,972 Cr",
+            "change": "Q2-end; +34.6% YoY",
+            "positive": 1,
+            "valueNum": 14972,
+            "yoyPct": 34.6
+          },
+          {
+            "label": "Total deposits",
+            "value": "₹16,184 Cr",
+            "change": "Q2-end; +35% YoY",
+            "positive": 1,
+            "valueNum": 16184,
+            "yoyPct": 35
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹76.5 Cr",
+            "change": "Q2; net profit margin 15.5%",
+            "positive": 1,
+            "valueNum": 76.5,
+            "yoyPct": null
+          },
+          {
+            "label": "Net interest margin",
+            "value": "7.2%",
+            "change": "Q2; +28 bps YoY",
+            "positive": 1,
+            "valueNum": 7.2,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Q2-end gross advances including IBPC were ₹14,972 Cr (+34.6% YoY); deposits were ₹16,184 Cr (+35%).",
+          "Q2 NII was ₹368.8 Cr (+42.8% YoY), NIM 7.2%, net total income ₹495.3 Cr (+46.5%), and PAT ₹76.5 Cr.",
+          "Reported GNPA declined to 2.9% from 6.5% at Q1-end, following ₹387 Cr of CGFMU claims and ₹596 Cr of legacy stressed-asset write-offs/OTS; Q2 current-bucket collection efficiency was 99.3%."
+        ],
+        "highlights": [
+          "FY27 advances growth guidance of 30–35% was maintained; management said growth should be above the lower end of the range.",
+          "The FY27 Q4-exit ROA objective is now approximately 1.4–1.5%, compared with Q1’s explicit 1.6% exit objective.",
+          "Management retained its FY27 PAT objective of about ₹300 Cr and a medium-term 45:55 inclusive-finance/retail-assets mix ambition, but said 45:55 may not be reached by year-end.",
+          "₹1,000–1,100 Cr of advances were in the drought-affected districts discussed; management had not seen a material collection change through October but warned impact could lag."
+        ],
+        "whatChanged": "Q1’s explicit 1.6% FY27 exit ROA target is now 1.4–1.5%, while the ₹300 Cr annual PAT objective is retained; reported asset quality improved after guarantee receipts and legacy write-offs.",
+        "risks": [
+          "CGFMU renewal for FY27 disbursements was not yet open; management had accrued about ₹40–45 Cr of first-half premium cost and expected the scheme to reopen, with eligible April–September originations to be covered later.",
+          "The 2.9% reported GNPA includes the benefit of ₹387 Cr CGFMU claims and ₹596 Cr of legacy write-offs/OTS; this reported fall should not be read as purely organic improvement in underlying collections.",
+          "Management cited drought exposure of around ₹1,000–1,100 Cr in affected districts and warned that collection effects could appear with a lag, despite stable September/October collections so far."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 advances growth",
+            "value": "30–35%; maintained, expected above the lower end"
+          },
+          {
+            "metric": "FY27 exit ROA",
+            "value": "Approximately 1.4–1.5%, reduced from Q1's 1.6% exit objective"
+          },
+          {
+            "metric": "FY27 PAT",
+            "value": "About ₹300 Cr; maintained"
+          },
+          {
+            "metric": "Medium-term book mix",
+            "value": "45:55 inclusive finance to retail assets; management said it may not be reached by FY27-end"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -652,6 +956,78 @@
       }
     ],
     "Equitas Small Finance Bank Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross advances",
+            "value": "₹50,669 Cr",
+            "change": "Q2-end; +30% YoY, +6% QoQ",
+            "positive": 1,
+            "valueNum": 50669,
+            "yoyPct": 30
+          },
+          {
+            "label": "Deposits",
+            "value": "₹52,483 Cr",
+            "change": "Q2-end; +19% YoY, +7% QoQ",
+            "positive": 1,
+            "valueNum": 52483,
+            "yoyPct": 19
+          },
+          {
+            "label": "Net interest margin",
+            "value": "6.69%",
+            "change": "Q2; daily-average basis; down 55 bps QoQ on excess liquidity and funding cost",
+            "positive": -1,
+            "valueNum": 6.69,
+            "yoyPct": null
+          },
+          {
+            "label": "Return on assets",
+            "value": "1.31%",
+            "change": "Q2; up from 1.18% in Q1",
+            "positive": 1,
+            "valueNum": 1.31,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Q2-end gross advances were ₹50,669 Cr (+30% YoY), deposits ₹52,483 Cr (+19%); quarterly disbursements reached ₹7,450 Cr.",
+          "NII was ₹1,026 Cr and total net income ₹1,313 Cr for Q2; NIM was 6.69% on a daily-average basis, versus 7.24% in Q1.",
+          "GNPA was 2.29%, NNPA 0.70%, and net slippage 1.39%; reported credit cost was 0.94% of average gross advances, or 1.12% excluding the ARC sale effect."
+        ],
+        "highlights": [
+          "Management raised FY27 full-year ROA guidance to around 1.35% from 1.2% in Q1; it expects excess liquidity deployment to support gradual NIM recovery.",
+          "The CEO said he intends to step down; the board began a successor search and estimated a 3–4 month process including regulatory approval. The CEO will continue until a successor takes over.",
+          "Advances grew 30% YoY with broad product growth; non-MFI advances grew 24% and secured lending remained a key growth driver."
+        ],
+        "whatChanged": "Q1's FY27 ROA guidance of about 1.2% was raised to around 1.35% after stronger H1 performance, while Q2 NIM fell to 6.69% as excess funding and liquidity weighed on margins; a CEO succession process is a new material execution uncertainty.",
+        "risks": [
+          "CEO succession remains subject to candidate selection and regulatory approval; the board expects the full transition to take around three to four months.",
+          "Q2 NIM fell 55 bps QoQ; management expects roughly 18–20 bps recovery by Q4 as surplus liquidity is deployed, while the CFO expects cost of funds to rise 8–10 bps over the next two quarters.",
+          "Drought conditions in Maharashtra and Karnataka remain under watch, even though management reports limited exposure and stable collection trends."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 full-year ROA",
+            "value": "Around 1.35%, raised from about 1.2% in Q1"
+          },
+          {
+            "metric": "NIM recovery",
+            "value": "Management indicated roughly 18–20 bps improvement by Q4 from Q2's 6.69%"
+          },
+          {
+            "metric": "Medium-term ROA",
+            "value": "About 1.5% average over the next four years; CEO said 1.5% may be reached next year"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -821,6 +1197,83 @@
     ],
     "Utkarsh Small Finance Bank Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross loan portfolio growth",
+            "value": "+7.5% YoY",
+            "change": "Q2-end; +2.3% QoQ",
+            "positive": 1,
+            "valueNum": 7.5,
+            "yoyPct": 7.5
+          },
+          {
+            "label": "Pre-provision operating profit",
+            "value": "₹85 Cr",
+            "change": "Q2; versus operating loss of ₹3 Cr in Q2 FY26; +34% QoQ",
+            "positive": 1,
+            "valueNum": 85,
+            "yoyPct": null
+          },
+          {
+            "label": "Net loss",
+            "value": "₹70 Cr",
+            "change": "Q2; down close to 80% YoY; Q1 reported net loss was ₹34 Cr but included one-off benefits",
+            "positive": -1,
+            "valueNum": 70,
+            "yoyPct": null
+          },
+          {
+            "label": "Gross NPA",
+            "value": "5.9%",
+            "change": "Q2-end; improved around 630 bps YoY",
+            "positive": 1,
+            "valueNum": 5.9,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 PPOP was ₹85 Cr (+34% QoQ) and Q2 net loss ₹70 Cr, versus ₹104 Cr net loss for H1; Q2 net loss was lower YoY but higher than Q1's reported ₹34 Cr loss.",
+          "Gross loan portfolio grew 7.5% YoY and 2.3% QoQ; deposits grew 7% YoY, secured lending reached 52% of the portfolio, and GNPA improved to 5.9%.",
+          "H1 credit cost was 2.8%, down from 9.1% in H1 FY26; this is a half-year measure and should not be read as the Q2 credit-cost ratio."
+        ],
+        "highlights": [
+          "Fresh NPA slippages net of recoveries/upgrades were about ₹175 Cr in Q2 versus ₹415 Cr a year ago; JLG X-bucket collection efficiency was 99.6%.",
+          "Reported Q2 credit cost was 3.3%, versus 2.3% in Q1; management put Q1 at 5.1% excluding guarantee and ARC benefits, indicating improvement on that adjusted basis.",
+          "CGFMU covered about ₹6,500 Cr of the book by September 30; the fresh-guarantee window was not open, though 1% fees had been accrued for eligible disbursements.",
+          "Management retained an exit FY27 double-digit ROE objective and FY28 ROE of about 15%; FY28 aspirations also include 25–30% loan growth, 55% secured mix and around 8% NIM."
+        ],
+        "whatChanged": "PPOP improved to ₹85 Cr, but the reported net loss widened to ₹70 Cr from ₹34 Cr in Q1; management attributes the comparison to Q1 guarantee and ARC benefits and expects lower underlying credit costs as its turnaround progresses.",
+        "risks": [
+          "Loan growth was 7.5% YoY in H1 against management's 25–30% FY27 aspiration, implying materially faster H2 delivery; management said Q2 disbursement was temporarily affected by the core-banking launch.",
+          "Fresh Q2 slippages were ₹239 Cr, including ₹173 Cr non-microbanking; working-capital secured lending was a notable outlier with ₹33 Cr fresh slippages, and vehicle recovery processes can take time.",
+          "CGFMU cover is not open for new guarantees; about 80% of microfinance book including H1 disbursements was covered or expected to be covered, and management had accrued a 1% fee, leaving scheme timing as a risk."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 loan-book growth",
+            "value": "25–30%; management retained this despite 7.5% H1 YoY growth"
+          },
+          {
+            "metric": "FY27 exit ROE",
+            "value": "Double-digit"
+          },
+          {
+            "metric": "FY28 ROE",
+            "value": "Around 15%"
+          },
+          {
+            "metric": "FY28 secured mix and NIM",
+            "value": "Around 55% secured and around 8% NIM"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -959,6 +1412,87 @@
       }
     ],
     "Ujjivan Small Finance Bank Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross loan book",
+            "value": "₹45,699 Cr",
+            "change": "Q2-end; +32.1% YoY, +12.4% year-to-date",
+            "positive": 1,
+            "valueNum": 45699,
+            "yoyPct": 32.1
+          },
+          {
+            "label": "Total deposits",
+            "value": "₹50,643 Cr",
+            "change": "Q2-end; +29.2% YoY; CASA ratio 26%",
+            "positive": 1,
+            "valueNum": 50643,
+            "yoyPct": 29.2
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹365 Cr",
+            "change": "Q2; all-time quarterly high",
+            "positive": 1,
+            "valueNum": 365,
+            "yoyPct": null
+          },
+          {
+            "label": "Return on assets",
+            "value": "2.4%",
+            "change": "Q2; management said full-year result could beat the upper end of prior guidance",
+            "positive": 1,
+            "valueNum": 2.4,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Q2 gross loan book was ₹45,699 Cr (+32.1% YoY; +12.4% year-to-date) and deposits ₹50,643 Cr (+29.2%); secured lending was 52.1% of the book.",
+          "Q2 PAT was ₹365 Cr, ROA 2.4%, ROE 19.7%, NII ₹1,244 Cr (+35% YoY) and NIM 8.45%.",
+          "Q2 credit cost was 0.7% of average total assets; GNPA was 2.1%, NNPA 0.3%, and bucket-X collection efficiency 99.7%."
+        ],
+        "highlights": [
+          "Management said FY27 ROA could beat the upper end of Q1's 1.8–2.0% range, but did not issue a new numeric full-year range.",
+          "Opex-to-average-total-assets guidance improved from 6.4% to around 6.2%; Q2 management said a 30% CASA ratio by year-end would be difficult and indicated a level roughly 2 percentage points lower.",
+          "The bank proposed a ₹409 Cr preferential equity issue subject to shareholder approval; this had not been raised as of the call. A separate ₹500 Cr securitization was executed in October after quarter-end and described as NIM-accretive and P&L-neutral.",
+          "Q2 NIM was 8.45%; management estimated around 8.35% for H2 after the 25 bp repo increase, partly offset by planned DA transactions."
+        ],
+        "whatChanged": "Management now expects ROA to beat the upper end of Q1’s 1.8–2% FY27 range and lowers expected expense intensity from 6.4% to 6.2% of assets, while indicating roughly 28% CASA as the earlier 30% objective looks difficult.",
+        "risks": [
+          "The repo hike is expected to reduce H2 NIM by about 10 bps to 8.35%; deposit repricing may increase funding costs, while management expects DA to offset part of the impact.",
+          "The 30% CASA year-end objective was described as difficult; management indicated an approximate 28% level instead, though it did not formally reset a CASA target.",
+          "The ₹409 Cr equity issue remained subject to shareholder approval and was not yet raised; it is distinct from the ₹500 Cr post-quarter securitization."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 advances growth",
+            "value": "Around 25%; Q2-end year-to-date growth was 12.4%"
+          },
+          {
+            "metric": "FY27 ROA",
+            "value": "Prior 1.8–2% range; management now sees a likely beat above the upper end without issuing a new range"
+          },
+          {
+            "metric": "FY27 secured share",
+            "value": "Around 56% by year-end; Q2-end was 52.1%"
+          },
+          {
+            "metric": "FY27 opex to average total assets",
+            "value": "Around 6.2%, compared with Q1's 6.4% expectation"
+          },
+          {
+            "metric": "H2 FY27 NIM",
+            "value": "Around 8.35%, after an estimated 10 bps repo-rate impact"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1124,5 +1658,133 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 7,
+      "overview": "Loan books and secured lending expanded across the seven banks, with stronger operating earnings at several franchises. The recovery remains uneven: Utkarsh is loss-making, guarantee receipts and write-offs affect reported asset quality, and funding costs, succession and weather risks qualify the outlook.",
+      "trends": [
+        {
+          "text": "Banks continue to diversify toward secured lending and more individual or retail products while growing loan books.",
+          "companies": [
+            "Capital Small Finance Bank Ltd",
+            "Equitas Small Finance Bank Ltd",
+            "ESAF Small Finance Bank Ltd",
+            "Jana Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        },
+        {
+          "text": "Retail deposits and deeper customer relationships remain central to funding growth.",
+          "companies": [
+            "Capital Small Finance Bank Ltd",
+            "Equitas Small Finance Bank Ltd",
+            "ESAF Small Finance Bank Ltd",
+            "Jana Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Improving collections and lower incremental credit stress support earnings recovery, although reported ratios can also benefit from write-offs, guarantees or asset sales.",
+          "companies": [
+            "Equitas Small Finance Bank Ltd",
+            "ESAF Small Finance Bank Ltd",
+            "Jana Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Competition for deposits and repricing of liabilities keep funding costs and margins under pressure.",
+          "companies": [
+            "Capital Small Finance Bank Ltd",
+            "Equitas Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd"
+          ]
+        },
+        {
+          "text": "Drought and other weather disruptions require close monitoring of borrower cash flows and collections.",
+          "companies": [
+            "Equitas Small Finance Bank Ltd",
+            "ESAF Small Finance Bank Ltd",
+            "Jana Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Capital’s expansion outside Punjab and ESAF’s technology upgrade offer routes to wider distribution and better productivity.",
+          "companies": [
+            "Capital Small Finance Bank Ltd",
+            "ESAF Small Finance Bank Ltd"
+          ]
+        },
+        {
+          "text": "Ujjivan and Suryoday are expanding product reach while seeking better productivity from their lending and deposit platforms.",
+          "companies": [
+            "Suryoday Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Fresh CGFMU guarantees are not yet open; Jana, Suryoday and Utkarsh rely on reopening or future cover despite accruing fees.",
+          "companies": [
+            "Jana Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        },
+        {
+          "text": "Equitas and Ujjivan are managing CEO succession, with regulatory selection and approval still ahead.",
+          "companies": [
+            "Equitas Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd"
+          ]
+        },
+        {
+          "text": "Utkarsh’s continuing loss and Suryoday’s lower exit ROA objective show that the recovery is not uniform.",
+          "companies": [
+            "Suryoday Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Credit-cost denominators differ: Equitas quotes average gross advances, while Ujjivan uses average total assets; direct ratio comparisons can mislead.",
+          "companies": [
+            "Equitas Small Finance Bank Ltd",
+            "Ujjivan Small Finance Bank Ltd"
+          ]
+        },
+        {
+          "text": "Guarantee claims, legacy write-offs and asset-sale effects need to be separated from underlying collection improvement.",
+          "companies": [
+            "Equitas Small Finance Bank Ltd",
+            "ESAF Small Finance Bank Ltd",
+            "Jana Small Finance Bank Ltd",
+            "Suryoday Small Finance Bank Ltd",
+            "Utkarsh Small Finance Bank Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

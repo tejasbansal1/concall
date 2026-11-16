@@ -15,6 +15,89 @@
   "concall": {
     "Aadhar Housing Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM (reported)",
+            "value": "₹32,643 Cr",
+            "change": "+18% reported YoY; +20% like-for-like",
+            "positive": 1,
+            "valueNum": 32643,
+            "yoyPct": 18
+          },
+          {
+            "label": "Q2 disbursement",
+            "value": "₹2,577 Cr",
+            "change": "+22% YoY; cheque-clearance basis",
+            "positive": 1,
+            "valueNum": 2577,
+            "yoyPct": 22
+          },
+          {
+            "label": "Q2 PAT (reported)",
+            "value": "₹308 Cr",
+            "change": "+15.8% YoY reported; +20% adjusted for ESOP cost",
+            "positive": 1,
+            "valueNum": 308,
+            "yoyPct": 15.8
+          },
+          {
+            "label": "Exit spread",
+            "value": "5.73%",
+            "change": "At 30 Sep 2026; vs 5.8% at Q1 exit",
+            "positive": 0,
+            "valueNum": 5.73,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "September-end AUM was ₹32,643 Cr, up 18% reported YoY; management said cheque-clearance like-for-like growth was 20%.",
+          "Q2 disbursement was ₹2,577 Cr, up 22% YoY; H1 like-for-like disbursement growth was 21% after the move from cheque handover to clearance.",
+          "Q2 PAT was ₹308 Cr versus ₹266 Cr, up 15.8% reported; adjusted for ESOP expense, Q2 PAT growth was 20%. H1 PAT was ₹591 Cr.",
+          "Q2 exit portfolio yield was 13.4% and exit spread 5.73%; GNPA was 1.34% versus 1.42% a year earlier."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 / medium-term AUM growth",
+            "value": "20%"
+          },
+          {
+            "metric": "FY27 / medium-term PAT growth",
+            "value": "20%, adjusted for ESOP cost"
+          },
+          {
+            "metric": "Medium-term disbursement growth",
+            "value": "18%-20%; management expects 20%+ disbursement growth in H2 FY27"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "25 bps for the full year"
+          },
+          {
+            "metric": "FY27 branch additions",
+            "value": "40-50 branches"
+          }
+        ],
+        "highlights": [
+          "The company now recognizes disbursements on cheque-clearance rather than cheque-handover basis; Q2 management said the transition had evened out by Q2.",
+          "Home loans were 73% of AUM; average ticket size was ₹11.3 lakh and LTV 61%.",
+          "The network reached 632 branches across 23 states and more than 555 districts.",
+          "Q2 collection efficiency was 99%; GNPA improved 8 bps YoY to 1.34%.",
+          "All three rating agencies had assigned AA+ on a standalone basis; 75% of assets and liabilities were floating rate."
+        ],
+        "whatChanged": "Versus Q1, Aadhar kept its 20% AUM/PAT goals, reported stronger Q2 disbursement, and said H1 like-for-like AUM growth was 20%; it described an 18%-20% medium-term disbursement band and expects 20%+ in H2, while exit spread eased from 5.8% to 5.73%.",
+        "risks": [
+          "Q2 credit cost was 31 bps against the 25 bps full-year guide; management remained confident of returning to the annual target, so the remaining-year delivery is still open.",
+          "Stage 2 rose sequentially to about 3.55%; management attributed this to seasonality and said it saw no specific geography driving the movement.",
+          "Management flagged El Niño and geopolitical effects on borrower cash flows, while a 25 bps repo increase may feed into funding costs with a lag; 75% floating assets support repricing, but spread timing risk remains."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -58,6 +141,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -125,6 +210,89 @@
     ],
     "AAVAS Financiers Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹24,800 Cr",
+            "change": "+16.1% YoY",
+            "positive": 1,
+            "valueNum": 24800,
+            "yoyPct": 16.1
+          },
+          {
+            "label": "H1 disbursement",
+            "value": "₹3,510 Cr",
+            "change": "+30% YoY",
+            "positive": 1,
+            "valueNum": 3510,
+            "yoyPct": 30
+          },
+          {
+            "label": "H1 net profit",
+            "value": "₹350 Cr",
+            "change": "+16.4% YoY",
+            "positive": 1,
+            "valueNum": 350,
+            "yoyPct": 16.4
+          },
+          {
+            "label": "Q2 NIM",
+            "value": "7.81%",
+            "change": "+11 bps QoQ",
+            "positive": 1,
+            "valueNum": 7.81,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "H1 disbursement reached ₹3,510 Cr, up 30% YoY; AUM was ₹24,800 Cr, up 16.1% YoY.",
+          "H1 net profit grew 16.4% to ₹350 Cr; H1 NIM was 7.76%, while Q2 NIM expanded 11 bps sequentially to 7.81%.",
+          "H1 credit cost was 24 bps; 1+ DPD was 3.81%, gross Stage 3 1.11% and net Stage 3 0.70% at Q2 end.",
+          "Cost of borrowing was 7.64% for H1; management said spreads remained above 5% and expected NIM/spreads to improve over coming quarters."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 disbursement growth",
+            "value": "Above 20%"
+          },
+          {
+            "metric": "FY27 AUM growth",
+            "value": "16%-17%"
+          },
+          {
+            "metric": "Medium/long-term AUM growth",
+            "value": "Above 20%"
+          },
+          {
+            "metric": "Medium-term operating cost / AUM",
+            "value": "Below 3%"
+          },
+          {
+            "metric": "Spread floor",
+            "value": "Above 5%"
+          }
+        ],
+        "highlights": [
+          "Management expected AUM to cross ₹25,000 Cr during October; H1 added more than 21,500 customers.",
+          "Relationship-officer productivity improved from 1.1 files per month in Q1 to 1.2 in Q2 and 1.3 in September; the FY27 aim is about 1.5.",
+          "The company added branches to reach 443 across 15 states.",
+          "Q2 repayment rate normalized to about 17%; cost-to-income improved 195 bps YoY to 42.9% in H1.",
+          "Management said it expected spreads and NIM to improve, with higher lending rates on new originations supporting yields."
+        ],
+        "whatChanged": "Relative to Q1's 17%-18% FY27 AUM growth guide, management confirmed a lower 16%-17% FY27 AUM range while retaining disbursement growth above 20%; H1 disbursements were up 30% but AUM growth remained 16.1%.",
+        "risks": [
+          "The FY27 AUM growth indication was reduced from Q1's 17%-18% to 16%-17%, despite faster H1 disbursements.",
+          "A 25 bps repo-rate increase was expected to raise borrowing costs; no PLR change had yet been made, and management was monitoring pass-through while targeting spreads above 5%.",
+          "Insurance commissions contribute about 4% of PBT; management expects to offset part of potential distribution-rule pressure through higher attachment and pricing, but the ultimate impact remains uncertain."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -168,6 +336,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Constructive",
+        "toneColor": "#D97706",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -235,6 +405,89 @@
     ],
     "Aptus Value Housing Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated AUM",
+            "value": "₹14,177 Cr",
+            "change": "+20% YoY",
+            "positive": 1,
+            "valueNum": 14177,
+            "yoyPct": 20
+          },
+          {
+            "label": "Q2 disbursement",
+            "value": "₹1,153 Cr",
+            "change": "+20% YoY; consolidated",
+            "positive": 1,
+            "valueNum": 1153,
+            "yoyPct": 20
+          },
+          {
+            "label": "Q2 PAT",
+            "value": "₹267 Cr",
+            "change": "+18% YoY; consolidated",
+            "positive": 1,
+            "valueNum": 267,
+            "yoyPct": 18
+          },
+          {
+            "label": "Q2 spread",
+            "value": "8.9%",
+            "change": "Down 10 bps QoQ",
+            "positive": 0,
+            "valueNum": 8.9,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27; consolidated unless stated",
+        "fyPerformance": [
+          "H1 disbursement grew 27% YoY to ₹2,206 Cr; Q2 disbursement was ₹1,153 Cr, up 20% YoY.",
+          "September-end consolidated AUM was ₹14,177 Cr, up 20% YoY; the HFC was above ₹10,000 Cr and the NBFC above ₹4,000 Cr.",
+          "H1 PAT grew 19% YoY to ₹528 Cr; Q2 PAT was ₹267 Cr, up 18% YoY. Management reported ROA of 7.7% and ROE of 20.1%.",
+          "H1 annualized credit cost was 67 bps consolidated, 25 bps in the HFC and 169 bps in the NBFC; consolidated GNPA was 1.68%, versus 1.70% in Q1."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "22%; Q3 may moderate, with catch-up expected in Q4"
+          },
+          {
+            "metric": "FY27 branch additions",
+            "value": "About 70; 58 had been added in H1"
+          },
+          {
+            "metric": "FY27 operating expense / AUM",
+            "value": "2.6%-2.8%"
+          },
+          {
+            "metric": "FY27 ROE",
+            "value": "Above 20%; unchanged"
+          },
+          {
+            "metric": "Consolidated FY27 credit cost",
+            "value": "Raised by about 5-10 bps versus Q1 guidance; management did not state a precise revised range"
+          }
+        ],
+        "highlights": [
+          "Management began separate disclosures for the HFC and NBFC; HFC asset quality remained stronger than the NBFC's.",
+          "The connector channel contributed 12% of incremental business, up from 8% in Q1; the group added 58 branches in H1 to reach 397.",
+          "The company sold ₹89-90 Cr of lower-value and delinquent assets to an ARC, recording a ₹90 lakh loss; management said the pool included 0-90 DPD and some NPAs.",
+          "Management tightened NBFC underwriting and strengthened collections and legal recovery, with one or two quarters expected for NBFC normalization.",
+          "The loan book remained asset-backed; management said it would not enter unsecured lending."
+        ],
+        "whatChanged": "Against Q1's 22%-24% AUM growth outlook, Q2 management described a moderated Q3 and Q4 catch-up path and raised consolidated FY27 credit-cost guidance by 5-10 bps; profitability and operating-cost guidance were unchanged.",
+        "risks": [
+          "NBFC delinquencies drove consolidated 30+ DPD to 7.08% from 6.87%; NBFC GNPA was 2.17%, Stage 2 was 6.88%, and Karnataka was identified as a pocket of higher NBFC delinquency.",
+          "H1 consolidated credit cost was 67 bps, with NBFC credit cost about 169 bps; management raised FY27 consolidated credit-cost guidance by 5-10 bps and expects Q3 growth moderation.",
+          "Management said competition from small finance banks was increasing pre-closures; draft insurance rules could reduce commissions, but the final rules and quantified impact remained unresolved."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -279,6 +532,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -346,6 +601,97 @@
     ],
     "Home First Finance Company Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹18,010 Cr",
+            "change": "+27% YoY; +6.3% QoQ",
+            "positive": 1,
+            "valueNum": 18010,
+            "yoyPct": 27
+          },
+          {
+            "label": "Q2 disbursement",
+            "value": "₹1,705 Cr",
+            "change": "+32.2% YoY; +4.7% QoQ",
+            "positive": 1,
+            "valueNum": 1705,
+            "yoyPct": 32.2
+          },
+          {
+            "label": "Q2 PAT",
+            "value": "₹170 Cr",
+            "change": "+29.1% YoY; +6.5% QoQ",
+            "positive": 1,
+            "valueNum": 170,
+            "yoyPct": 29.1
+          },
+          {
+            "label": "Spread / NIM",
+            "value": "5.2% / 6.0%",
+            "change": "Spread excludes co-lending; NIM Q2FY27",
+            "positive": 0,
+            "valueNum": 5.2,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2FY27",
+        "fyPerformance": [
+          "AUM grew 27% YoY to ₹18,010 Cr; Q2 disbursement grew 32.2% YoY to ₹1,705 Cr.",
+          "PAT grew 29.1% YoY to ₹170 Cr, supported by 31.9% YoY NII growth; ROA was 4.2% and ROE 14.9%.",
+          "Spread excluding co-lending was 5.2%; NIM was 6.0%. Cost of borrowing was about 7.8% and incremental borrowing cost 7.5%.",
+          "Credit cost was 40 bps; 1+ DPD was 4.7%, 30+ DPD 3.2%, and gross Stage 3 improved 10 bps sequentially to 1.7%."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "25%; ₹20,000 Cr by March 2027"
+          },
+          {
+            "metric": "FY27 exit ROE",
+            "value": "15%"
+          },
+          {
+            "metric": "FY28 exit ROE",
+            "value": "16%"
+          },
+          {
+            "metric": "FY27 branch additions",
+            "value": "20-25 annual run rate; 10 added and 10-15 expected in H2"
+          },
+          {
+            "metric": "FY27 credit cost / gross NPA",
+            "value": "About 40 bps / about 1.7%"
+          },
+          {
+            "metric": "Operating cost / assets",
+            "value": "2.6% for FY27; reduce by 10 bps YoY"
+          },
+          {
+            "metric": "Medium-term spread",
+            "value": "5.0%-5.2%"
+          }
+        ],
+        "highlights": [
+          "Individual housing loans formed 84% of the portfolio; origination yield excluding co-lending was 13%.",
+          "The network reached 181 branches and 379 touch points after six Q2 additions.",
+          "Operating cost to assets improved to 2.6% from 2.8% in Q1; cost-to-income improved to 30.8% from 32.7%.",
+          "Co-lending disbursements were only ₹1.8 Cr as new RBI guidelines took longer to implement; management expected an uptick in Q3.",
+          "Management said 25% AUM growth and 15% exit ROE remain the FY27 goals, with possible upside if current momentum continues."
+        ],
+        "whatChanged": "AUM growth accelerated to 27% YoY from 25.7% in Q1 while operating cost/assets fell to 2.6%; management retained its 25% FY27 AUM goal and indicated exit-ROE targets of 15% in FY27 and 16% in FY28.",
+        "risks": [
+          "A draft change to insurance-distribution fees was estimated by management to affect ROA by about 35 bps before potential concessions; the company expects to offset most of the eventual impact through mix, assignment and pricing levers.",
+          "A 25 bps repo increase had not yet passed through to borrowing cost; management planned repricing only after borrowing costs rose about 10-15 bps, leaving a lag risk.",
+          "Co-lending transactions slowed to ₹1.8 Cr in Q2 while revised RBI requirements were being implemented; management expected improvement in Q3."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -389,6 +735,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -457,6 +805,93 @@
     ],
     "India Shelter Finance Corporation Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross AUM",
+            "value": "₹11,997 Cr",
+            "change": "+23% reported; management cited 26%-27% after cheque-clearance normalization",
+            "positive": 1,
+            "valueNum": 11997,
+            "yoyPct": 23
+          },
+          {
+            "label": "Q2 disbursement",
+            "value": "₹1,126 Cr",
+            "change": "+21% YoY; +8% QoQ on clearance basis",
+            "positive": 1,
+            "valueNum": 1126,
+            "yoyPct": 21
+          },
+          {
+            "label": "Q2 PAT",
+            "value": "₹146 Cr",
+            "change": "+19% YoY; +25% excluding lower direct-assignment impact, per management",
+            "positive": 1,
+            "valueNum": 146,
+            "yoyPct": 19
+          },
+          {
+            "label": "Q2 NIM",
+            "value": ">9%",
+            "change": "Stable; spread improved 20 bps YoY",
+            "positive": 1,
+            "valueNum": 9,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2FY27 and H1FY27",
+        "fyPerformance": [
+          "Gross AUM reached ₹11,997 Cr; reported growth was 23%, while management gave normalized growth estimates of 26%-27% after the Q1 cheque-clearance change.",
+          "Q2 disbursement was ₹1,126 Cr, up 21% YoY and 8% sequentially; management called it a quarterly record.",
+          "Q2 PAT was ₹146 Cr, up 19% YoY; the company said PAT growth would be 25% excluding the direct-assignment transition effect. H1 PAT growth was 20% reported and 28% normalized for lower DA.",
+          "Q2 portfolio yield was 14.8%, finance cost 8.2%, and NIM remained above 9%; GNPA and 30+ DPD were stable QoQ at 1.5% and 5.2%."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 gross AUM growth",
+            "value": "25–30% retained framework; management also indicated a current-year expectation of 25–27%"
+          },
+          {
+            "metric": "FY27 disbursement growth",
+            "value": "About 20% or above"
+          },
+          {
+            "metric": "FY27 credit cost",
+            "value": "40-50 bps; management said it expected about 50 bps this year"
+          },
+          {
+            "metric": "Medium-term spread",
+            "value": "Above 6%"
+          },
+          {
+            "metric": "FY27 branch additions",
+            "value": "40-45 branches"
+          },
+          {
+            "metric": "FY27 operating expense / gross AUM",
+            "value": "Improve by about 15 bps YoY"
+          }
+        ],
+        "highlights": [
+          "The company changed disbursement recognition from cheque handover to cheque clearance in Q1; management said this shifted ₹350-400 Cr of disbursement/AUM recognition and had no P&L impact.",
+          "Collection efficiency improved to 98% from 97%; Stage 3 and 30+ DPD were stable QoQ at 1.5% and 5.2%.",
+          "Management said 75%-80% of customers were self-employed and that agri income was not included in FOIR underwriting.",
+          "About 750 of 8,000 monitored pincodes had tighter underwriting guardrails; management said the approach was deliberately micro-market based.",
+          "Q2 digital-sourcing disbursements were 7%, up from 4% in Q2FY26."
+        ],
+        "whatChanged": "Compared with Q1, management reiterated the 25%-30% AUM, 40-50 bps credit-cost, above-6% spread and 40-45 branch goals; Q2 disbursement and collections improved, but reported AUM growth still reflects the clearance-accounting transition and H1 credit cost was above the full-year target pace.",
+        "risks": [
+          "H1 credit cost was about 60 bps versus the 40-50 bps full-year range; management said the year would likely end near 50 bps, so stronger H2 recoveries are required. This is interim pace, not a full-year miss verdict.",
+          "Delinquency was higher in loans below ₹8 lakh; the company tightened underwriting across roughly 700-750 pincodes and maintained a 50% sanction ratio.",
+          "Management cautioned about uneven monsoons and identified stressed smaller-ticket borrower pockets; it said no clear broad deterioration was yet visible and expected H2 collections to improve."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -500,6 +935,8 @@
       },
       {
         "quarter": "Q4FY26",
+        "tone": "Bullish",
+        "toneColor": "#059669",
         "hasNumericGuidance": true,
         "metrics": [
           {
@@ -566,5 +1003,139 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 5,
+      "overview": "Affordable housing lending continued to grow, supported by distribution and productivity, but momentum and asset quality diverged. Home First maintained strong growth, while AAVAS indicated a lower FY27 AUM range and Aptus raised its credit-cost outlook; funding-cost transmission and insurance-income uncertainty require monitoring.",
+      "trends": [
+        {
+          "text": "AUM and disbursements continued to grow, with branch productivity and distribution supporting expansion.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "AAVAS Financiers Ltd",
+            "Aptus Value Housing Finance Ltd",
+            "Home First Finance Company Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        },
+        {
+          "text": "Lenders are using technology, sourcing and collection processes to improve productivity while maintaining underwriting discipline.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "AAVAS Financiers Ltd",
+            "Aptus Value Housing Finance Ltd",
+            "Home First Finance Company Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Management continues to see demand from underserved homebuyers and scope to deepen existing markets.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "AAVAS Financiers Ltd",
+            "Aptus Value Housing Finance Ltd",
+            "Home First Finance Company Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        },
+        {
+          "text": "Branch maturation and operating efficiency offer further scale benefits, although delivery varies by lender.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "AAVAS Financiers Ltd",
+            "Aptus Value Housing Finance Ltd",
+            "Home First Finance Company Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Rising funding costs can precede asset repricing, creating pressure on spreads during transmission.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "AAVAS Financiers Ltd",
+            "Home First Finance Company Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        },
+        {
+          "text": "Potential insurance-distribution changes create uncertainty over fee income and mitigation through pricing or business mix.",
+          "companies": [
+            "AAVAS Financiers Ltd",
+            "Aptus Value Housing Finance Ltd",
+            "Home First Finance Company Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Home First is combining 27% AUM growth with lower operating cost/assets and stronger Stage 3 performance.",
+          "companies": [
+            "Home First Finance Company Ltd"
+          ]
+        },
+        {
+          "text": "AAVAS targets higher relationship-officer productivity and lower medium-term operating cost/AUM.",
+          "companies": [
+            "AAVAS Financiers Ltd"
+          ]
+        },
+        {
+          "text": "Aadhar and India Shelter expect stronger H2 disbursement and improved normalization after the cheque-clearance transition.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Aptus’s NBFC stress drove higher consolidated credit costs and a revised FY27 credit-cost view, with possible Q3 growth moderation.",
+          "companies": [
+            "Aptus Value Housing Finance Ltd"
+          ]
+        },
+        {
+          "text": "India Shelter’s H1 credit cost is above its full-year target pace, making H2 recoveries important.",
+          "companies": [
+            "India Shelter Finance Corporation Ltd"
+          ]
+        },
+        {
+          "text": "Weather, borrower cash-flow stress and smaller-ticket pockets require granular monitoring rather than assuming uniform sector deterioration.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "Aptus Value Housing Finance Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Aadhar and India Shelter distinguish reported growth from management-normalized figures after switching disbursement recognition to cheque clearance.",
+          "companies": [
+            "Aadhar Housing Finance Ltd",
+            "India Shelter Finance Corporation Ltd"
+          ]
+        },
+        {
+          "text": "Aptus has begun separate HFC/NBFC disclosure; stronger HFC asset quality should not be attributed to the entire group.",
+          "companies": [
+            "Aptus Value Housing Finance Ltd"
+          ]
+        },
+        {
+          "text": "Home First retains 25% FY27 AUM growth despite running above that rate in Q2; the annual target remains open.",
+          "companies": [
+            "Home First Finance Company Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

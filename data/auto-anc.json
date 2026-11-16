@@ -179,6 +179,76 @@
     ],
     "ASK Automotive Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue growth (consolidated, reported)",
+            "value": "47.5%",
+            "change": "YoY; management-adjusted net revenue growth 29.5%",
+            "positive": 1,
+            "valueNum": 47.5,
+            "yoyPct": 47.5
+          },
+          {
+            "label": "EBITDA (consolidated)",
+            "value": "₹185 Cr",
+            "change": "+30% YoY; 11.8% margin",
+            "positive": 1,
+            "valueNum": 185,
+            "yoyPct": 30
+          },
+          {
+            "label": "PAT (consolidated)",
+            "value": "₹102 Cr",
+            "change": "+27.3% YoY",
+            "positive": 1,
+            "valueNum": 102,
+            "yoyPct": 27.3
+          }
+        ],
+        "fyPerformance": [
+          "Q2 reported consolidated revenue grew 47.5%; management-adjusted net revenue grew 29.5% after accounting for alloy-price pass-through and the exited wheel-assembly business.",
+          "H1 net revenue grew 27.6%; EBITDA ₹348 Cr (+31.3%), PAT ₹187 Cr (+28%)."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 net revenue growth",
+            "value": "High teens"
+          },
+          {
+            "metric": "FY27 capex",
+            "value": "Around ₹700 Cr budgeted"
+          },
+          {
+            "metric": "FY28 capex",
+            "value": "Around ₹500 Cr"
+          },
+          {
+            "metric": "FY27 alloy-wheel supplies to Japanese customer",
+            "value": "About ₹80 Cr"
+          },
+          {
+            "metric": "FY28 alloy-wheel orders for Japanese customer",
+            "value": "Up to ₹240 Cr"
+          }
+        ],
+        "highlights": [
+          "Q2 was a record quarter for revenue, EBITDA and PAT.",
+          "HPDC alloy-wheel regular supply began 3 August 2026; another Indian OEM remains in safety testing.",
+          "Bikaner captive solar plant (11.55 MW) was operationalized in October 2026."
+        ],
+        "whatChanged": "Q2 retained the high-teens net revenue growth outlook and ₹700 Cr FY27 capex plan already set in Q1; regular Japanese-customer alloy-wheel supplies began in August.",
+        "risks": [
+          "Alloy-price pass-through lifts reported revenue and depresses margin percentage; management cites denominator effect.",
+          "Minimum-wage increases and contractual labour costs raised operating expenses.",
+          "Expansion and higher commodity values require capital; management aims to keep leverage within its stated comfort levels."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -332,6 +402,80 @@
       }
     ],
     "Sona BLW Precision Forgings Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,546 Cr",
+            "valueNum": 1546,
+            "change": "+35% YoY; +18% QoQ",
+            "yoyPct": 35,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹356 Cr",
+            "valueNum": 356,
+            "change": "+23% YoY; 23.0% margin",
+            "yoyPct": 23,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹223 Cr",
+            "valueNum": 223,
+            "change": "+29% YoY; 14.4% margin",
+            "yoyPct": 29,
+            "positive": 1
+          },
+          {
+            "label": "H1 Revenue",
+            "value": "₹2,857 Cr",
+            "valueNum": 2857,
+            "change": "+43% YoY",
+            "yoyPct": 43,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Q2 delivered record revenue, EBITDA and PAT, BEV revenue reached 51% of automotive sales, and order additions were ₹36 Bn; management held its 23–25% EBITDA-margin range despite mix and inflation pressure.",
+        "risks": [
+          "Traction motors grew nearly 50% QoQ and have lower margins than the company average, while steel, copper, oil derivatives and freight inflation pressured the percentage margin.",
+          "Heavy rare-earth magnet export restrictions continue; management said current production is using light rare-earth alternatives and sees no near-term easing.",
+          "Robotics/physical-AI orders remain an early and small business with uncertain timing; management said it cannot predict the inflection point or revenue scale."
+        ],
+        "performanceLabel": "Q2 and H1 FY27 Performance",
+        "fyPerformance": [
+          "Q2 revenue grew 35% to ₹1,546 Cr, EBITDA rose 23% to ₹356 Cr at 23.0% margin and PAT grew 29% to ₹223 Cr at 14.4% margin.",
+          "H1 revenue increased 43% to ₹2,857 Cr; EBITDA grew 34% to ₹659 Cr at 23.1% margin and PAT rose 36% to ₹404 Cr at 14.1% margin.",
+          "Q2 BEV revenue grew 129% YoY and represented 51% of automotive product sales; H1 BEV revenue was ₹1,042 Cr, up 119%, representing 48% of automotive product sales.",
+          "Q2 order additions were ₹36 Bn and net order book was ₹251 Bn; traction and suspension motors reached an annualized revenue run-rate of about ₹1,400 Cr together."
+        ],
+        "guidance": [
+          {
+            "metric": "EBITDA Margin",
+            "value": "23–25% range retained, with product-mix and inflation sensitivity"
+          },
+          {
+            "metric": "Sona Comstar 2.0",
+            "value": "Ambition to build another 10x company over the next decade; long-term aspiration, not a near-term revenue forecast"
+          },
+          {
+            "metric": "Medium-term Growth",
+            "value": "Management said it feels good about the 25% CAGR aspiration at company level; not formal FY27 guidance"
+          }
+        ],
+        "highlights": [
+          "BEV revenue grew 129% YoY and 40% QoQ; growth came from Indian electric 2/3-wheelers and global EV driveline sales.",
+          "Three products were commercialized: helical limited-slip differential, railway air springs and two-wheeler rear radar sensors.",
+          "The company won ₹36 Bn of new business across driveline, motors, sensors and railway products; net order book reached ₹251 Bn.",
+          "H1 free cash flow from operations was ₹446 Cr after ₹148 Cr capex; cash and investments were ₹1,966 Cr at September-end."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -487,6 +631,61 @@
     ],
     "Gabriel India Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from operations (consolidated)",
+            "value": "₹1,608 Cr",
+            "change": "+23% YoY; H1 ₹3,034 Cr (+19%)",
+            "positive": 1,
+            "valueNum": 1608,
+            "yoyPct": 23
+          },
+          {
+            "label": "EBITDA (consolidated)",
+            "value": "₹141 Cr",
+            "change": "+12% YoY; 8.8% margin; H1 ₹265 Cr (+9%), 8.7% margin",
+            "positive": 1,
+            "valueNum": 141,
+            "yoyPct": 12
+          },
+          {
+            "label": "Adjusted EBITDA (standalone)",
+            "value": "₹115 Cr",
+            "change": "+15% YoY; 8.2% margin; H1 ₹222 Cr (+13%), 8.3% margin",
+            "positive": 1,
+            "valueNum": 115,
+            "yoyPct": 15
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated Q2 revenue was ₹1,608 Cr (+23%), EBITDA ₹141 Cr (+12%, 8.8% margin); H1 revenue ₹3,034 Cr (+19%), EBITDA ₹265 Cr (+9%, 8.7% margin).",
+          "Standalone Q2 revenue was ₹1,399 Cr (+23%) and adjusted EBITDA ₹115 Cr (+15%, 8.2% margin); H1 revenue ₹2,673 Cr (+21%) and adjusted EBITDA ₹222 Cr (+13%, 8.3% margin)."
+        ],
+        "highlights": [
+          "Signed 50%-minus-one-share JV with FORVIA for passenger-vehicle seat frames and complete seating systems.",
+          "Consolidated PBT before exceptional items was ₹148 Cr (+14%) in Q2 and ₹281 Cr (+10%) in H1; management separately framed ₹50,000 Cr FY30 as a Group-level aspiration.",
+          "Issued ₹1,000 Cr three-year NCDs at 8.15% annual coupon in September 2026.",
+          "FORVIA seating JV closing targeted by December-end; management indicated about ₹150 Cr of frame-business revenue excluding mechanisms, subject to completion."
+        ],
+        "whatChanged": "The Mando investment completed in September and the new FORVIA seating JV broadens the strategy beyond suspension; Q2 includes only a few days of Mando contribution, with fuller associate earnings expected later.",
+        "risks": [
+          "Commodity and logistics cost recovery lags customer price realization; Q2 inflation also affected Anchemco inputs.",
+          "Q2 includes only a few days of HL Mando contribution; later quarters will include a full-quarter associate contribution.",
+          "PV shock-absorber mix lagged industry because models where Gabriel participates underperformed; sunroof programmes faced a supplier-fire disruption, while some new models are still ramping."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Consolidated capex run-rate",
+            "value": "₹1,000–1,500 Cr annually, capacity-driven"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -640,6 +839,72 @@
       }
     ],
     "Lumax Industries Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue (consolidated)",
+            "value": "₹1,342 Cr",
+            "change": "+33% YoY; H1 ₹2,565 Cr (+33%)",
+            "positive": 1,
+            "valueNum": 1342,
+            "yoyPct": 33
+          },
+          {
+            "label": "EBITDA (consolidated)",
+            "value": "₹110 Cr",
+            "change": "+21% YoY; 8.2% margin",
+            "positive": 1,
+            "valueNum": 110,
+            "yoyPct": 21
+          },
+          {
+            "label": "PAT incl. associates (consolidated)",
+            "value": "₹52 Cr",
+            "change": "+46% YoY; 3.9% margin",
+            "positive": 1,
+            "valueNum": 52,
+            "yoyPct": 46
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹1,342 Cr (+33% YoY), EBITDA ₹110 Cr (+21%, 8.2% margin), PAT including associates ₹52 Cr (+46%, 3.9% margin).",
+          "H1 revenue was ₹2,565 Cr (+33%); LED lighting was 63% of revenue, up 200 bps YoY."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue growth",
+            "value": "Around 25% or higher, versus Q1’s 15–20% outlook"
+          },
+          {
+            "metric": "FY27 EBITDA margin",
+            "value": "Double digit (Q1 range 10.5–11%)"
+          },
+          {
+            "metric": "FY27 capex",
+            "value": "₹200–250 Cr"
+          },
+          {
+            "metric": "H2 FY27 EBITDA margin",
+            "value": "10.5–11%; expected Q3 lower and Q4 higher, subject to no significant further West Asia cost volatility"
+          }
+        ],
+        "highlights": [
+          "Order book stood at ₹2,580 Cr, with customer wins supporting expansion beyond the largest OEM accounts.",
+          "H1 LED share reached 63% of revenue, up 200 basis points YoY.",
+          "Net long-term debt was ₹188 Cr at 30 September."
+        ],
+        "whatChanged": "Management raised FY27 revenue growth expectations from Q1’s 15–20% to around 25% or higher, while retaining a double-digit full-year EBITDA margin aspiration dependent on H2 cost recovery.",
+        "risks": [
+          "H1 margin absorbed roughly 100–120 bps of input-cost increases not yet recovered.",
+          "Electronics imports, commodity inflation, freight and rupee depreciation pressure costs and supply chain.",
+          "H2 YoY growth expected to ease against a higher base, despite higher absolute quarterly revenue."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -949,6 +1214,78 @@
     ],
     "Lumax Auto Technologies Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue (consolidated)",
+            "value": "₹1,556 Cr",
+            "change": "+35% YoY; H1 ₹2,919 Cr (+34%)",
+            "positive": 1,
+            "valueNum": 1556,
+            "yoyPct": 35
+          },
+          {
+            "label": "EBITDA (consolidated, incl. other income)",
+            "value": "₹228 Cr",
+            "change": "+34% YoY; 14.7% margin; H1 ₹434 Cr (+42%), 14.9% margin",
+            "positive": 1,
+            "valueNum": 228,
+            "yoyPct": 34
+          },
+          {
+            "label": "PAT before minority interest",
+            "value": "₹117 Cr",
+            "change": "+50% YoY; H1 ₹215 Cr (+64%)",
+            "positive": 1,
+            "valueNum": 117,
+            "yoyPct": 50
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue reached ₹1,556 Cr (+35%); EBITDA including other income was ₹228 Cr (+34%, 14.7% margin), PAT before minority interest ₹117 Cr (+50%).",
+          "H1 revenue was ₹2,919 Cr (+34%); EBITDA ₹434 Cr (+42%, 14.9% margin), PAT before minority interest ₹215 Cr (+64%).",
+          "Order book reached ₹1,879 Cr from ₹1,600 Cr at Q1 close; 59% expected to execute in FY28."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue growth",
+            "value": "20–25%; around ₹6,000 Cr revenue"
+          },
+          {
+            "metric": "FY27 capex",
+            "value": "Around ₹300 Cr"
+          },
+          {
+            "metric": "FY28 EBITDA",
+            "value": "Around ₹1,000 Cr"
+          },
+          {
+            "metric": "New Manesar mechatronics facility capex",
+            "value": "Around ₹150 Cr; commissioned in phases from Q3 FY28, peak annual turnover around ₹500 Cr"
+          },
+          {
+            "metric": "FY25–FY31 revenue growth aspiration",
+            "value": "20% CAGR; by Q2 management said 20% could be achieved organically, with FY31 revenue around ₹11,000 Cr"
+          }
+        ],
+        "highlights": [
+          "Manesar BCM/electronics plant to be commissioned in two phases from Q3 FY28.",
+          "Nashik Greenfuel facility commenced production in Q3 FY27.",
+          "EV and CNG account for 29% of the order book; 85% is new business.",
+          "Aftermarket grew 9% in H1 and 11% in Q2; management retained a 15–20% growth aspiration over 3–5 years."
+        ],
+        "whatChanged": "Management now expects FY27 revenue growth of 20–25%, above the initial two-year growth framework, while retaining the ₹1,000 Cr FY28 EBITDA target and approving a ₹150 Cr Manesar facility.",
+        "risks": [
+          "Input cost inflation in electronics, polymers, freight and currency remains a monitorable, with customer recovery timing lagging.",
+          "H2 industry growth is expected to moderate after the low base and GST-related demand boost.",
+          "₹150 Cr Manesar project is debt and internally funded and commissioning starts only in Q3 FY28."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1102,6 +1439,82 @@
       }
     ],
     "Endurance Technologies Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total income (consolidated)",
+            "value": "₹4,811 Cr",
+            "change": "+33% YoY",
+            "positive": 1,
+            "valueNum": 4811,
+            "yoyPct": 33
+          },
+          {
+            "label": "EBITDA (consolidated)",
+            "value": "₹584 Cr",
+            "change": "+17.3% YoY; 12.1% margin",
+            "positive": 1,
+            "valueNum": 584,
+            "yoyPct": 17.3
+          },
+          {
+            "label": "PAT (consolidated)",
+            "value": "₹274 Cr",
+            "change": "+21% YoY; includes ₹36 Cr acquisition gain, offset by ₹31 Cr accelerated depreciation",
+            "positive": 1,
+            "valueNum": 274,
+            "yoyPct": 21
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated Q2 total income rose 33% to ₹4,811 Cr; EBITDA grew 17.3% to ₹584 Cr (12.1% margin) and PAT rose 21% to ₹274 Cr.",
+          "Standalone Q2 total income was ₹3,761 Cr (+40%); EBITDA ₹395 Cr (+18%, 10.5% margin) and PAT ₹213 Cr (+14%).",
+          "Q2 net cash was ₹436 Cr as of 30 September 2026."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 India capex",
+            "value": "Around ₹1,100 Cr"
+          },
+          {
+            "metric": "FY27 consolidated capex",
+            "value": "Around ₹1,250 Cr"
+          },
+          {
+            "metric": "4W suspension, brakes and driveshaft cumulative SOP",
+            "value": "₹100 Cr in FY28, scaling to ₹800 Cr by FY31"
+          },
+          {
+            "metric": "Non-auto cumulative SOP",
+            "value": "₹250 Cr in FY28, scaling to ₹650 Cr by FY31"
+          },
+          {
+            "metric": "FY27 driveshaft revenue",
+            "value": "Expected to exceed ₹100 Cr"
+          },
+          {
+            "metric": "FY31 proprietary 4W revenue",
+            "value": "Management said crossing ₹1,500 Cr by FY31 is possible; not an FY27/Q2 due target"
+          }
+        ],
+        "highlights": [
+          "India standalone EV sales grew 185% to ₹229 Cr; Shendra commenced production on 25 September.",
+          "H1 order wins were ₹748 Cr excluding Bajaj; €28m new Europe orders won in H1.",
+          "Fondalpress was acquired in Italy; Stöferle ownership reached 100%.",
+          "Management said EV-related business is margin-accretive overall; Q2 EV sales span existing products plus new battery-pack revenue."
+        ],
+        "whatChanged": "Against Q1’s Q2/Q3 ABS program start expectations, Bajaj supplies began in October and the Royal Enfield program is now expected in Q4; management sets FY27 consolidated capex at about ₹1,250 Cr while cost recovery and new-plant ramp-up remain incomplete.",
+        "risks": [
+          "OEM recovery of fuel, tooling and conversion-cost increases remained incomplete through Q2; management expects improvement in Q3, with some settlements possible in Q4 or FY28.",
+          "Four greenfield facilities reduced Q2 PBT margin by about 0.5 percentage points; management expects the drag to ease and turn positive next FY.",
+          "West Asia volatility raises energy, freight, commodity and supply-chain uncertainty; European market remains slow."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1257,6 +1670,80 @@
     ],
     "Sansera Engineering Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,091.5 Cr",
+            "valueNum": 1091.5,
+            "change": "+32% YoY",
+            "yoyPct": 32,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹211.2 Cr",
+            "valueNum": 211.2,
+            "change": "+48% YoY; 19.4% margin",
+            "yoyPct": 48,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹108.6 Cr",
+            "valueNum": 108.6,
+            "change": "+52% YoY; 10.0% margin",
+            "yoyPct": 52,
+            "positive": 1
+          },
+          {
+            "label": "H1 Revenue",
+            "value": "₹2,112.7 Cr",
+            "valueNum": 2112.7,
+            "change": "+33% YoY",
+            "yoyPct": 33,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Sansera raised FY27 capex to ₹800 Cr as ADS and automotive orders accelerated; management now indicated FY27 revenue of ₹4,250–4,300 Cr, while also flagging Karnataka wage provisions, higher net debt and working capital.",
+        "risks": [
+          "The ₹16.7 Cr Q2 provision for Karnataka minimum-wage revision is ongoing and provisional; the final government order and any legal challenge remain unresolved.",
+          "H1 net debt increased to ₹261.2 Cr from ₹60.4 Cr at March-end as capex, JV investment and working capital absorbed cash; FY27 capex rose to ₹800 Cr.",
+          "ADS growth depends on customer validations and production ramp-up; the semiconductor business is concentrated in one customer while diversification is pursued."
+        ],
+        "performanceLabel": "Q2 and H1 FY27 Performance",
+        "fyPerformance": [
+          "Q2 revenue reached a record ₹1,091.5 Cr, up 32%; EBITDA was ₹211.2 Cr, up 48%, at 19.4% margin; PAT was ₹108.6 Cr, up 52%.",
+          "H1 revenue was ₹2,112.7 Cr, up 33%; EBITDA was ₹407.3 Cr, up 48%, at 19.3% margin. Reported PAT was ₹196.0 Cr; normalized PAT excluding the Q1 litigation settlement was ₹208.7 Cr.",
+          "Q2 ADS revenue was ₹164.3 Cr and H1 ADS revenue ₹309.7 Cr; ADS lifetime backlog executable over five years rose to ₹5,870 Cr, while ex-ADS peak annual-sales order book rose to ₹2,241 Cr.",
+          "Auto ICE sales grew 18% to ₹669.7 Cr in Q2; non-automotive sales exceeded ₹200 Cr and contributed 20.9% of total sales."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue",
+            "value": "₹4,250–4,300 Cr indicated at Q2 call; Q1 outlook was high-teens top-line growth"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹800 Cr, staged with customer validations; approximately ₹400 Cr for ADS"
+          },
+          {
+            "metric": "ADS Share of Revenue",
+            "value": "Management target 35–40% toward the end of the decade; not a FY27 target"
+          }
+        ],
+        "highlights": [
+          "Q2 auto ICE, passenger vehicles, motorcycles and scooters each posted record quarterly sales; Auto-Tech Agnostic and xEV sales also reached a record ₹136.3 Cr.",
+          "The Sansera-Nichidai JV is expected to start commercial or sample production toward the end of H2 FY27; the new defense facility is expected around Q3/Q4.",
+          "ADS backlog increased to ₹5,870 Cr from ₹4,440 Cr in Q1; ex-ADS peak annual-sales order book increased to ₹2,241 Cr from ₹1,850 Cr.",
+          "Management attributed margin resilience to richer mix and operating leverage despite freight, cutting-tool and wage-cost pressure."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1410,6 +1897,75 @@
       }
     ],
     "Pricol Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue from Operations",
+            "value": "₹1,334.02 Cr",
+            "valueNum": 1334.02,
+            "change": "+35.03% YoY",
+            "yoyPct": 35.03,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Margin",
+            "value": "11.82%",
+            "valueNum": 11.82,
+            "change": "Q2; reported by management",
+            "yoyPct": null,
+            "positive": 0
+          },
+          {
+            "label": "PAT",
+            "value": "₹85.21 Cr",
+            "valueNum": 85.21,
+            "change": "6.39% margin; Q2",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "H1 Revenue from Operations",
+            "value": "₹2,417.60 Cr",
+            "valueNum": 2417.6,
+            "change": "+29.59% YoY",
+            "yoyPct": 29.59,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Q2 revenue growth accelerated to 35.03% YoY and H1 revenue reached ₹2,417.60 Cr, but EBITDA margin remained below the Q1 steady-state range as new PCB, memory, labour and freight costs were not yet fully recovered from customers.",
+        "risks": [
+          "Management expects elevated bare-PCB, memory, foreign-exchange and labour costs to persist for several quarters, and said 100% recovery of first-time increases is unlikely.",
+          "The company is operating near full capacity in polymers; the ₹350 Cr P3L capex is planned over six quarters and the growth benefit is expected mainly from FY28 onward.",
+          "Demerger approvals remain dependent on multiple agencies; management said completion may take at least four quarters and could take longer."
+        ],
+        "performanceLabel": "Q2 and H1 FY27 Performance",
+        "fyPerformance": [
+          "Q2 revenue from operations was ₹1,334.02 Cr, up 35.03% YoY; EBITDA margin was 11.82% and PAT was ₹85.21 Cr at 6.39% margin.",
+          "H1 revenue was ₹2,417.60 Cr with EBITDA margin of 11.64%, PAT margin of 6.30% and EPS of ₹12.49; H1 revenue and EBITDA growth were 29.59% and 24.95% YoY.",
+          "Management said the three divisions grew at broadly similar rates; two-wheeler demand, Bajaj Pulsar TFT clusters and value-added fuel/water pumps supported growth.",
+          "For P3L polymer subsidiary, Q2 revenue was ₹312 Cr at 9.9% EBITDA margin; management cited near-100% utilization and 3–3.25x asset turns on planned capex."
+        ],
+        "guidance": [
+          {
+            "metric": "P3L Capex",
+            "value": "₹350 Cr over the next six quarters; asset turn 3–3.25x"
+          },
+          {
+            "metric": "FY31 Revenue Aspiration",
+            "value": "₹8,000 Cr, primarily organic with some inorganic growth; reiterated from Q1 call"
+          }
+        ],
+        "highlights": [
+          "Customer recovery discussions for first-time inflation in bare PCBs, memory, labour, casting and power costs were ongoing; management hoped to conclude them in the next quarter.",
+          "P3L's top customers include TVS, Ather, Royal Enfield, Autoliv and Honda Motorcycles; new capacity is intended to relieve polymer constraints.",
+          "Demerger work had begun operationally from October; full internal divisionalization was planned from April 2027, subject to approvals."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1789,6 +2345,83 @@
     ],
     "S J S Enterprises Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹282.73 Cr",
+            "valueNum": 282.73,
+            "change": "+16.9% YoY",
+            "yoyPct": 16.9,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹89.64 Cr",
+            "valueNum": 89.64,
+            "change": "+23.1% YoY; management-stated margin 31%",
+            "yoyPct": 23.1,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹58.33 Cr",
+            "valueNum": 58.33,
+            "change": "+34.8% YoY; 20.6% margin",
+            "yoyPct": 34.8,
+            "positive": 1
+          },
+          {
+            "label": "H1 Revenue",
+            "value": "₹543.73 Cr",
+            "valueNum": 543.73,
+            "change": "+20.4% YoY",
+            "yoyPct": 20.4,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Q2 record profitability and the new Pune and Bengaluru capacity support a growth restart, but management lowered FY27 outperformance guidance to 1.2–1.5x PV-plus-motorcycle industry growth from 1.5–2x while raising EBITDA-margin guidance to 29–30% from 27–28%.",
+        "risks": [
+          "Consumer demand and sentiment were subdued amid macro uncertainty; Walter Pack rationalized low-margin consumer OEM SKUs and SJS has limited exposure to faster-growing scooters.",
+          "Q2/H1 exports and new programs are growing, but export contribution was 10% in Q2 versus the 14–15% FY28 target; new capacity needs commissioning and ramp-up.",
+          "The reported H1 PAT of ₹132.75 Cr includes a ₹24.17 Cr one-time sale gain; underlying H1 PAT was ₹108.58 Cr, so reported growth overstates recurring earnings."
+        ],
+        "performanceLabel": "Q2 and H1 FY27 Performance",
+        "fyPerformance": [
+          "Q2 consolidated revenue rose 16.9% to ₹282.73 Cr; EBITDA increased 23.1% to ₹89.64 Cr at a record 31.0% margin and PAT rose 34.8% to ₹58.33 Cr.",
+          "H1 revenue grew 20.4% to ₹543.73 Cr; EBITDA grew 28.9% to ₹169.60 Cr at 30.5% margin. Reported PAT was ₹132.75 Cr including a ₹24.17 Cr facility-sale gain; underlying PAT was ₹108.58 Cr, up 39.4%.",
+          "Q2 exports grew 23.1% to ₹28.25 Cr (10% of revenue); H1 export growth was 45.8%. Management retained a 14–15% export-share target by FY28.",
+          "Automotive revenue grew 21.7% YoY against 17.8% automotive industry production growth; the company cited product mix, higher exports and efficiency for margin expansion."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth vs PV + Motorcycle Industry",
+            "value": "1.2–1.5x; recalibrated from 1.5–2x in Q1"
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "29–30%; raised from 27–28% in Q1"
+          },
+          {
+            "metric": "FY28 Export Share",
+            "value": "14–15% of consolidated revenue"
+          },
+          {
+            "metric": "FY31 Display Revenue",
+            "value": "Internal target ₹500–700 Cr; management described this as an internal target, not group revenue guidance"
+          }
+        ],
+        "highlights": [
+          "Pune chrome-plating expansion commenced in August, doubling SJS Decoplast capacity; Bengaluru expansion adds 20% capacity and is expected to start commercial production in Q3.",
+          "SJS Display Electronics is setting up an automotive display plant in Pune, expected to be operational in Q2 FY28; Walter Pack's consolidated plant is expected to start by May 2027.",
+          "Net cash was ₹331.87 Cr at September-end; H1 operating cash flow was ₹107.05 Cr."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -2097,6 +2730,79 @@
     ],
     "NDR Auto Components Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹247.86 Cr",
+            "valueNum": 247.86,
+            "change": "Q2 FY27; reported basis as stated on call",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹27.47 Cr",
+            "valueNum": 27.47,
+            "change": "Q2 FY27; reported basis as stated on call",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹19.78 Cr",
+            "valueNum": 19.78,
+            "change": "Q2 FY27; reported basis as stated on call",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "Order Book",
+            "value": "₹1,190 Cr",
+            "valueNum": 1190,
+            "change": "Consolidated at quarter end: ₹1,150 Cr standalone + ₹40 Cr Hayashi JV",
+            "yoyPct": null,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "The disclosed order book rose to ₹1,190 Cr, including new seating and component wins; a DYA seat-assembly JV is expected to add a future ₹800–1,000 Cr opportunity, while near-term ramp-up and wage costs make execution and margins less certain.",
+        "risks": [
+          "Haryana minimum-wage increases raised other expenses; management was still negotiating recovery of part of the cost with OEMs.",
+          "Order-book execution is back-ended: management said FY29–FY30 should be larger years, and some new-model SOPs can face last-minute delays.",
+          "The DYA JV's ₹800–1,000 Cr opportunity is targeted for FY31, with slightly lower margins than standalone; the stated ₹3,000 Cr FY30 vision depends on additional initiatives."
+        ],
+        "performanceLabel": "Q2 FY27 Performance",
+        "fyPerformance": [
+          "Q2 revenue was ₹247.86 Cr, EBITDA ₹27.47 Cr and PAT ₹19.78 Cr; management reported an 11.08% EBITDA margin.",
+          "The consolidated order book was ₹1,190 Cr at quarter end: ₹1,150 Cr NDR Auto standalone and ₹40 Cr NDR Hayashi JV; management said the organic order book is expected to execute by FY30.",
+          "Capacity utilization was about 90%; management said most raw-material prices are passed through without a lag, but some Haryana wage costs remained under negotiation."
+        ],
+        "guidance": [
+          {
+            "metric": "EBITDA Margin",
+            "value": "11–11.5% sustainable target; management also described the usual band as 11–12%"
+          },
+          {
+            "metric": "DYA JV Combined Seat Value",
+            "value": "₹800–1,000 Cr targeted for FY31; includes NDR frames and covers"
+          },
+          {
+            "metric": "Long-term Revenue Vision",
+            "value": "₹3,000 Cr by FY30, subject to additional initiatives; not a near-term FY27/FY28 forecast"
+          }
+        ],
+        "highlights": [
+          "Order wins were mainly from Maruti Suzuki and Suzuki two-wheelers, with new Toyota business; order book also includes non-seating products.",
+          "NDR South had begun production; the ₹1,150 Cr standalone order book is expected to ramp by FY30, with FY29–FY30 larger years.",
+          "The DYA JV will assemble full seats for Kia/Hyundai; management said the cited ₹800–1,000 Cr opportunity is for Kia and includes frames/covers supplied by NDR.",
+          "The company said it currently has no exports; it is developing export initiatives."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -2249,5 +2955,130 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 10,
+      "overview": "Domestic demand, new products and richer vehicle content support strong growth across the ten available calls. Profit conversion varies as commodity inflation, wage increases and new-capacity costs weigh on some companies; SJS lowers its relative growth outlook even as it raises margin guidance. Several longer-term opportunities still depend on commissioning and customer ramp-up.",
+      "trends": [
+        {
+          "text": "New products, customer programs and greater content per vehicle support growth beyond existing volumes.",
+          "companies": [
+            "ASK Automotive Ltd",
+            "Endurance Technologies Ltd",
+            "Gabriel India Ltd",
+            "Lumax Auto Technologies Ltd",
+            "Lumax Industries Ltd",
+            "NDR Auto Components Ltd",
+            "Pricol Ltd",
+            "S J S Enterprises Ltd",
+            "Sansera Engineering Ltd",
+            "Sona BLW Precision Forgings Ltd"
+          ]
+        },
+        {
+          "text": "Capacity expansion and new facilities support growth plans but require investment and successful ramp-up.",
+          "companies": [
+            "ASK Automotive Ltd",
+            "Endurance Technologies Ltd",
+            "Gabriel India Ltd",
+            "Lumax Auto Technologies Ltd",
+            "Lumax Industries Ltd",
+            "NDR Auto Components Ltd",
+            "Pricol Ltd",
+            "S J S Enterprises Ltd",
+            "Sansera Engineering Ltd",
+            "Sona BLW Precision Forgings Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Healthy domestic automotive demand and premiumization support the current order and revenue environment.",
+          "companies": [
+            "ASK Automotive Ltd",
+            "Endurance Technologies Ltd",
+            "Gabriel India Ltd",
+            "Lumax Auto Technologies Ltd",
+            "Lumax Industries Ltd",
+            "NDR Auto Components Ltd",
+            "Pricol Ltd",
+            "S J S Enterprises Ltd",
+            "Sansera Engineering Ltd",
+            "Sona BLW Precision Forgings Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Inflation in materials, freight, currencies or wages raises costs or complicates customer price recovery.",
+          "companies": [
+            "ASK Automotive Ltd",
+            "Endurance Technologies Ltd",
+            "Gabriel India Ltd",
+            "Lumax Auto Technologies Ltd",
+            "Lumax Industries Ltd",
+            "Pricol Ltd",
+            "Sansera Engineering Ltd",
+            "Sona BLW Precision Forgings Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Seating and adjacent vehicle systems open new markets through partnerships, with future scale dependent on customer wins.",
+          "companies": [
+            "Gabriel India Ltd",
+            "NDR Auto Components Ltd"
+          ]
+        },
+        {
+          "text": "ADS, export programs and electrification diversify growth beyond traditional auto components.",
+          "companies": [
+            "Endurance Technologies Ltd",
+            "Sansera Engineering Ltd",
+            "Sona BLW Precision Forgings Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Endurance shifts ABS program starts; near-term growth plans remain sensitive to commissioning and customer execution.",
+          "companies": [
+            "Endurance Technologies Ltd"
+          ]
+        },
+        {
+          "text": "SJS reduces its FY27 relative growth outlook as consumer demand and product rationalization weigh on revenue.",
+          "companies": [
+            "S J S Enterprises Ltd"
+          ]
+        },
+        {
+          "text": "Sansera’s higher capex and working capital increase net debt, while Gabriel adds financing for strategic expansion.",
+          "companies": [
+            "Sansera Engineering Ltd",
+            "Gabriel India Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "ASK’s reported revenue growth includes alloy-price pass-through; its management-adjusted net growth provides a separate view.",
+          "companies": [
+            "ASK Automotive Ltd"
+          ]
+        },
+        {
+          "text": "Order-book measures differ: Sansera separates five-year ADS lifetime orders from non-ADS peak annual sales, and NDR’s DYA opportunity extends to FY31.",
+          "companies": [
+            "Sansera Engineering Ltd",
+            "NDR Auto Components Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

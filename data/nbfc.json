@@ -26,6 +26,80 @@
   "concall": {
     "Bajaj Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Assets under management (consolidated group)",
+            "value": "₹5,84,624 Cr",
+            "change": "+26.5% YoY; net AUM addition about ₹38,000 Cr in quarter",
+            "positive": 1,
+            "valueNum": 584624,
+            "yoyPct": 26.5
+          },
+          {
+            "label": "PAT (reported, after macro overlay)",
+            "value": "₹6,367 Cr",
+            "change": "+29% YoY; excluding additional macro overlay PAT was ₹6,619 Cr (+34%)",
+            "positive": 1,
+            "valueNum": 6367,
+            "yoyPct": 29
+          },
+          {
+            "label": "Reported PBT",
+            "value": "₹8,537 Cr",
+            "change": "+29% YoY; ₹8,874 Cr before the ₹337 Cr macro overlay",
+            "positive": 1,
+            "valueNum": 8537,
+            "yoyPct": 29
+          },
+          {
+            "label": "Net NPA",
+            "value": "0.42%",
+            "change": "42 bps at quarter end; gross NPA 1.06%",
+            "positive": 1,
+            "valueNum": 0.42,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 new loans were just under 13.5 million; 4.5 million customers added; total customer franchise was about 129 million.",
+          "ROA was 4.6%, ROE 20.6%, and credit cost was described as within the expected corridor; H1 AUM growth was 26.5% YoY.",
+          "Gold loan AUM was about ₹24,000 Cr; a short-tenure scheme caused a temporary Stage 2 increase, with management saying about 55% had already normalized."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "Raised to 26–27%; Q1 discussion referenced the earlier 22–24% growth corridor"
+          },
+          {
+            "metric": "FY27 operating efficiency",
+            "value": "25–40 bps improvement in opex-to-NTI expected"
+          },
+          {
+            "metric": "FY27 customer and loan additions",
+            "value": "18–20 million new customers and 60–62 million new loans"
+          },
+          {
+            "metric": "FY27 NIM compression",
+            "value": "Some additional pressure beyond the earlier 10–15 bps expectation"
+          }
+        ],
+        "highlights": [
+          "Management expects 60–62 million new loans and 18–20 million customer additions in FY27; these are open annual outlooks.",
+          "Board-approved ₹11,700 Cr QIP and ₹5,800 Cr preferential warrants were described as growth capital, subject to approvals."
+        ],
+        "whatChanged": "Bajaj raises its FY27 AUM-growth expectation to 26–27% from the earlier 22–24% corridor, while anticipating additional margin pressure as funding rates rise.",
+        "risks": [
+          "A ₹337 Cr macro overlay reduced Q2 reported profit; inflation, oil prices and uneven rainfall remain risks to borrower cash flows.",
+          "Gold-loan Stage 2 assets rose with short-tenure bullet products; management is shifting to longer tenure options, and the transition could affect customer experience and loan growth.",
+          "Management is pruning origination in drought-affected districts and reducing 2PL/3PL exposure; regulation on revolving credit and insurance distribution remains unsettled."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -181,6 +255,76 @@
       }
     ],
     "Cholamandalam Investment and Finance Company Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Assets under management (company lending book)",
+            "value": "₹2,68,009 Cr",
+            "change": "+25% YoY",
+            "positive": 1,
+            "valueNum": 268009,
+            "yoyPct": 25
+          },
+          {
+            "label": "Aggregate disbursements",
+            "value": "₹35,872 Cr",
+            "change": "+47% YoY; reported growth partly reflects prior-quarter timing alignment",
+            "positive": 1,
+            "valueNum": 35872,
+            "yoyPct": 47
+          },
+          {
+            "label": "Return on equity",
+            "value": "19.4%",
+            "change": "vs 18.1% a year earlier",
+            "positive": 1,
+            "valueNum": 19.4,
+            "yoyPct": null
+          },
+          {
+            "label": "Gross Stage 3",
+            "value": "3.25%",
+            "change": "vs 3.29% in June 2026; GNPA under RBI norms 4.44% vs 4.50%",
+            "positive": 1,
+            "valueNum": 3.25,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Vehicle-finance AUM was ₹1,29,787 Cr (+21% YoY); secured SME AUM ₹72,356 Cr (+27%); consumer-loan AUM ₹45,902 Cr (+32%).",
+          "Q2 aggregate disbursements were ₹35,872 Cr; management said reporting alignment meant some Q1 Home Loan, LAP and smaller SME/SBPL disbursements were not reflected in that quarter.",
+          "Credit cost reduced by 37 bps YoY; management said net credit cost was about 1.4% in H1, and capital adequacy was 20.62% at September end."
+        ],
+        "guidance": [
+          {
+            "metric": "Annual growth outlook",
+            "value": "Management retains its growth commitment, describing around 25% as the objective; it declines a formal upward revision"
+          },
+          {
+            "metric": "FY27 net credit cost",
+            "value": "Around 1.4%"
+          },
+          {
+            "metric": "Q3 disbursement growth",
+            "value": "Around 20–22% YoY based on current festive-season trends"
+          }
+        ],
+        "highlights": [
+          "The Board approved an enabling capital raise of up to ₹5,000 Cr, subject to shareholder and regulatory approvals; management described it as flexibility, not an imminent transaction.",
+          "Management reported October disbursements trending 18–20% YoY and expected Q3 disbursements to grow about 20–22% YoY; these are interim trends, not annual guidance."
+        ],
+        "whatChanged": "AUM grows 25% YoY and asset-quality ratios improve, while management retains its annual growth and credit-cost commitments; disbursement comparisons are affected by the earlier recognition-policy change.",
+        "risks": [
+          "Vehicle finance in tractor and small-ticket used vehicles is more exposed to rainfall-related rural cash flows; management said it was cautious and monitoring the post-monsoon period.",
+          "Q2's reported disbursement growth partly reflects Q1 recognition timing alignment, while management said underlying Q1/Q2 business volumes were broadly similar.",
+          "A potential ₹5,000 Cr capital raise still requires approvals and a final decision; funding costs may rise in H2 and some floating-rate borrowings are benchmark-sensitive."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -338,6 +482,78 @@
     ],
     "L&T Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated loan book",
+            "value": "₹1,36,635 Cr",
+            "change": "+28% YoY",
+            "positive": 1,
+            "valueNum": 136635,
+            "yoyPct": 28
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹975 Cr",
+            "change": "+33% YoY",
+            "positive": 1,
+            "valueNum": 975,
+            "yoyPct": 33
+          },
+          {
+            "label": "Credit Cost",
+            "value": "2.46%",
+            "change": "Down 8 bps QoQ from 2.54%",
+            "positive": 1,
+            "valueNum": 2.46,
+            "yoyPct": null
+          },
+          {
+            "label": "RoA",
+            "value": "2.60%",
+            "change": "Q2FY27; Q4FY27 exit corridor 2.8–3.0% reiterated",
+            "positive": 1,
+            "valueNum": 2.6,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated PAT grew 33% YoY to ₹975 Cr; retail disbursements rose 27% to ₹24,027 Cr.",
+          "Retail book reached ₹1,34,600 Cr, up 29% YoY; consolidated book was ₹1,36,635 Cr, up 28%.",
+          "Credit cost moderated 8 bps sequentially to 2.46%; NIM plus fees was 10.48% versus 10.47% in Q1, and RoA was 2.60%.",
+          "Gold-loan disbursements were ₹3,237 Cr (+229% YoY) and the book was ₹5,043 Cr (+242%); expansion is from a small base."
+        ],
+        "whatChanged": "Credit cost fell from Q1’s 2.54% to 2.46%, while management retained its Q4FY27 exit targets; the IRDAI consultation introduces a new, unresolved commission risk.",
+        "risks": [
+          "The IRDAI consultation on insurance distribution commissions could affect economics; management’s view that disruption should be limited is not a final regulatory outcome.",
+          "Rural disbursement was moderated amid drought and rainfall uncertainty; management described localized stress and heightened guardrails.",
+          "Funding costs may rise with the rate cycle, although the company cited liability management and asset repricing as offsets."
+        ],
+        "guidance": [
+          {
+            "metric": "Credit cost by Q4FY27",
+            "value": "2.0–2.2%"
+          },
+          {
+            "metric": "RoA exit Q4FY27",
+            "value": "2.8–3.0%"
+          },
+          {
+            "metric": "NIM plus fees",
+            "value": "10.0–10.5% corridor"
+          }
+        ],
+        "highlights": [
+          "Retail credit performance and collections supported sequential credit-cost improvement; management cited 99.7–99.8% rural-business collection efficiency, with a temporary two-wheeler collection dip in September normalizing in October.",
+          "Cross-sell and digital initiatives progressed, including early gold-loan lead conversion above 14%; full Hercules workflows were still being implemented.",
+          "Insurance commission exposure remained under consultation; management had not treated the draft as a settled policy change."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -494,6 +710,78 @@
     ],
     "Mahindra & Mahindra Financial Services Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Lending AUM",
+            "value": "₹1,56,000 Cr",
+            "change": "Overall lending AUM as stated on the call",
+            "positive": 1,
+            "valueNum": 156000,
+            "yoyPct": null
+          },
+          {
+            "label": "PAT",
+            "value": "₹882 Cr",
+            "change": "+55% YoY; management cautioned that this growth rate is not a sustainable run-rate",
+            "positive": 1,
+            "valueNum": 882,
+            "yoyPct": 55
+          },
+          {
+            "label": "Credit Cost",
+            "value": "1.6%",
+            "change": "Q2FY27 versus 1.5% in Q1FY27",
+            "positive": 0,
+            "valueNum": 1.6,
+            "yoyPct": null
+          },
+          {
+            "label": "Gross Stage 2 + Stage 3",
+            "value": "8.1%",
+            "change": "Both components declined sequentially",
+            "positive": 1,
+            "valueNum": 8.1,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Overall lending AUM was about ₹1,56,000 Cr; the stated 20% non-wheels share includes some seasonal trade advances.",
+          "Q2 PAT rose 55% to ₹882 Cr; management attributed part of the strong increase to credit-cost effects and cautioned against extrapolating that growth rate.",
+          "Management reported broad-based disbursement growth of 22% YoY across wheels and newer businesses.",
+          "Trade advances are seasonal, short-duration, non-earning assets that can lift the reported AUM/disbursement denominator before festive-season lending; they are not equivalent to outstanding interest-earning loans."
+        ],
+        "whatChanged": "AUM growth accelerated from Q1’s 13% to 15% YoY, while credit cost moved from 1.5% to 1.6%; management retained its through-cycle credit-cost range and avoided annual AUM or RoA guidance.",
+        "risks": [
+          "Rural demand and repayment conditions remain sensitive to rainfall and localized drought; the company reduced lending in selected stressed districts and has an existing ₹852 Cr overlay.",
+          "The Q2 PAT increase is partly credit-cost driven and management said the 55% growth should not be treated as a recurring run-rate.",
+          "Higher funding costs and seasonal trade advances can weigh on near-term profitability and reported AUM quality; the company cited a rising cost-of-funds trend."
+        ],
+        "guidance": [
+          {
+            "metric": "Through-cycle credit cost",
+            "value": "1.3–1.7%"
+          },
+          {
+            "metric": "Medium/long-term AUM growth ambition",
+            "value": "16–18%"
+          },
+          {
+            "metric": "Medium-term RoA ambition",
+            "value": "2.2–2.5%"
+          }
+        ],
+        "highlights": [
+          "The company said it does not provide annual disbursement or RoA guidance; its 16–18% AUM growth and 2.2–2.5% RoA are medium/long-term operating ambitions.",
+          "Gross Stage 3 declined 3 bps sequentially and Stage 2 declined 17 bps, taking their combined share to 8.1%.",
+          "The liquidity buffer was higher than a year earlier and trade advances were seasonally elevated, both of which can affect quarterly return ratios."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -626,6 +914,73 @@
       }
     ],
     "HDB Financial Services Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Gross loan book",
+            "value": "₹1,24,469 Cr",
+            "change": "+11.7% YoY; +2.2% QoQ",
+            "positive": 1,
+            "valueNum": 124469,
+            "yoyPct": 11.7
+          },
+          {
+            "label": "Disbursements",
+            "value": "₹18,522 Cr",
+            "change": "+18.7% YoY",
+            "positive": 1,
+            "valueNum": 18522,
+            "yoyPct": 18.7
+          },
+          {
+            "label": "PAT",
+            "value": "₹780 Cr",
+            "change": "+34% YoY",
+            "positive": 1,
+            "valueNum": 780,
+            "yoyPct": 34
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹2,534 Cr",
+            "change": "+15.6% YoY",
+            "positive": 1,
+            "valueNum": 2534,
+            "yoyPct": 15.6
+          }
+        ],
+        "fyPerformance": [
+          "HDB had 24.8 million customers (+18.4% YoY); secured loans were 73.9% of the gross loan book.",
+          "NIM was 8.23% versus 7.95% in Q2FY26 and 8.35% in Q1FY27; lending cost-to-income was 39.3%.",
+          "Gross Stage 3 was 2.43% versus 2.81% a year earlier and 2.34% in June; credit cost was 2.37% versus 2.32% in Q1. Management attributed a small Stage 2 increase to seasonal CV/CE movements."
+        ],
+        "outlook": "Management hopes AUM growth directionally reaches 17–18% by FY28, with Q4 showing the turn; this was not a formal FY27 target. The 2.3% ± credit-cost range was described as a medium-term steady-state aspiration, not full-year guidance.",
+        "highlights": [
+          "Enterprise Lending mortgage disbursements grew 30% YoY; gold-loan disbursements rose over 60%. Consumer Finance disbursements grew over 25%.",
+          "AI tele-calling handled more than one in five early-bucket calls; total capital adequacy was 21.37%."
+        ],
+        "whatChanged": "Disbursements grew 18.7% YoY and PAT 34%, while gross loan-book growth remained 11.7%; Q2 management remained hopeful that growth would move toward 17–18% by FY28, with Q4 marking an initial turn.",
+        "risks": [
+          "High repayments restrain loan-book growth, while seasonal CV and construction-equipment movements increase Stage 2 assets.",
+          "Credit cost was 2.37% and management described 2.3% ± only as a medium-term steady-state range, not annual guidance; macro impacts remain possible.",
+          "Interest-rate increases may pressure funding costs and NIM; management said it was managing borrowing mix and pricing to limit the impact."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Near-term NIM objective",
+            "value": "Around 8.2% or better, subject to further interest-rate changes"
+          },
+          {
+            "metric": "FY28 growth ambition",
+            "value": "Directionally 17–18% AUM growth; not a formal FY27 forecast"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -783,6 +1138,76 @@
     ],
     "Aditya Birla Capital Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated revenue (group)",
+            "value": "₹16,545 Cr",
+            "change": "+31% YoY; +12% QoQ",
+            "positive": 1,
+            "valueNum": 16545,
+            "yoyPct": 31
+          },
+          {
+            "label": "Consolidated PAT (group)",
+            "value": "₹1,288 Cr",
+            "change": "+38% YoY; +10% QoQ",
+            "positive": 1,
+            "valueNum": 1288,
+            "yoyPct": 38
+          },
+          {
+            "label": "NBFC AUM (segment)",
+            "value": "₹1,76,557 Cr",
+            "change": "+26.5% YoY; +5.4% QoQ",
+            "positive": 1,
+            "valueNum": 176557,
+            "yoyPct": 26.5
+          },
+          {
+            "label": "NBFC PAT (segment)",
+            "value": "₹1,008 Cr",
+            "change": "+41% YoY; NBFC ROA 2.45%",
+            "positive": 1,
+            "valueNum": 1008,
+            "yoyPct": 41
+          }
+        ],
+        "fyPerformance": [
+          "Q2 NBFC sourcing was ₹24,708 Cr and quarterly AUM addition ₹9,101 Cr; 85% of the addition came from Retail and MSME.",
+          "Housing finance AUM was ₹57,373 Cr (+50% YoY), PAT ₹261 Cr (+73%), and ROA 2.12%; this is a separate lending subsidiary from the NBFC segment.",
+          "H1 life insurance individual first-year premium grew 25% and VNB margin was 16.1%; health insurance gross written premium grew 43%."
+        ],
+        "guidance": [
+          {
+            "metric": "NBFC ROA",
+            "value": "Management said the Q4FY27 commitment is about 2.5%; Q2 ROA was 2.45%"
+          },
+          {
+            "metric": "Housing finance",
+            "value": "AUM above ₹1 lakh Cr and ROE near 15% over 8–10 quarters; forward aspiration, not FY27 target"
+          },
+          {
+            "metric": "Life insurance",
+            "value": "Individual FYP CAGR above 20% over three years; VNB margin above 20% and double net VNB in three years"
+          }
+        ],
+        "highlights": [
+          "Retail and MSME together were 71% of H1 disbursements versus 67% a year earlier; MSME AUM crossed ₹1 lakh Cr (+30% YoY).",
+          "Gold loans launched in August; the network reached 70 branches and about ₹200 Cr AUM as of the call, with further rollout planned."
+        ],
+        "whatChanged": "Q2 NBFC AUM grew 26.5% YoY and NBFC ROA improved to 2.45%, nearing the Q4 commitment of about 2.5%; management maintained the life insurance growth and margin outlook described in Q1.",
+        "risks": [
+          "Gold-loan expansion and housing-finance branch additions require investment before the new distribution becomes fully productive.",
+          "Management said it is adjusting customer onboarding monthly for emerging inflation or regional risks; Q&A noted drought and higher food/energy prices as monitorables.",
+          "Potential insurance distribution and expense regulations remain unresolved; management said final rules could affect partnership economics and operating ratios."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -933,6 +1358,72 @@
     ],
     "Five Star Business Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Assets under management",
+            "value": "₹14,640 Cr",
+            "change": "+14% YoY; +6.7% QoQ",
+            "positive": 1,
+            "valueNum": 14640,
+            "yoyPct": 14
+          },
+          {
+            "label": "Disbursements",
+            "value": "₹2,078 Cr",
+            "change": "+74% YoY; historical high and +39% QoQ",
+            "positive": 1,
+            "valueNum": 2078,
+            "yoyPct": 74
+          },
+          {
+            "label": "PAT (reported)",
+            "value": "₹299 Cr",
+            "change": "+5% YoY; includes ₹19 Cr prior-year tax benefit; excluding it PAT was about ₹281 Cr",
+            "positive": 1,
+            "valueNum": 299,
+            "yoyPct": 5
+          },
+          {
+            "label": "Credit cost (as % of average AUM)",
+            "value": "1.80%",
+            "change": "vs 1.85% in Q1; credit cost improved 5 bps QoQ",
+            "positive": 1,
+            "valueNum": 1.8,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 PAT was ₹571 Cr (+3% YoY); reported Q2 PAT included a one-time ₹19 Cr tax benefit, while adjusted quarter PAT was about ₹281 Cr.",
+          "Collection efficiency improved to 98.2% from 97.7% in Q1; 30+ DPD fell to 11.5% from 12.38%, and current-bucket AUM rose to 84.78%.",
+          "Gross Stage 3 was 3.48%; NIM was 19.87%, reported ROA 8.39% and ROE 15.25%. The tax benefit supports reported return ratios."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "Management expects to comfortably surpass the earlier 20% objective; it declines to provide a revised number before Q3"
+          },
+          {
+            "metric": "H2 credit quality",
+            "value": "Slippages and credit cost expected to remain broadly flat through the rest of FY27"
+          }
+        ],
+        "highlights": [
+          "Quarterly disbursements were a record ₹2,078 Cr; 19 branches were added in Q2 and 75 over the prior year.",
+          "Management said October 2026 yield increases on incremental disbursements should help cushion higher funding costs."
+        ],
+        "whatChanged": "Disbursements accelerated to ₹2,078 Cr (+74% YoY) and AUM growth reached 14% YoY; collections and early-bucket metrics improved, and management now expects to comfortably exceed its original FY27 AUM-growth guidance.",
+        "risks": [
+          "The quarter's ₹299 Cr PAT includes a ₹19 Cr prior-year tax benefit; the adjusted ₹281 Cr figure is a separate, management-calculated measure.",
+          "Management expects some compression in spreads/NIM as funding rates tighten, relying on higher yields for new disbursements and operating leverage to offset it.",
+          "Gross Stage 3 remained 3.48% and management expects slippages and credit cost to stay flattish, not fall, through the rest of the year."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1082,6 +1573,82 @@
       }
     ],
     "MAS Financial Services Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated AUM",
+            "value": "₹17,042 Cr",
+            "change": "+23.31% YoY",
+            "positive": 1,
+            "valueNum": 17042,
+            "yoyPct": 23.31
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹115 Cr",
+            "change": "About +26% YoY",
+            "positive": 1,
+            "valueNum": 115,
+            "yoyPct": 26
+          },
+          {
+            "label": "Standalone GNPA",
+            "value": "2.63%",
+            "change": "Versus 2.58% at June 2026; standalone NNPA was 1.70%",
+            "positive": -1,
+            "valueNum": 2.63,
+            "yoyPct": null
+          },
+          {
+            "label": "Average borrowing cost",
+            "value": "9.19%",
+            "change": "Down 6 bps QoQ and 43 bps YoY",
+            "positive": 1,
+            "valueNum": 9.19,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated AUM reached ₹17,042 Cr, up 23.31% YoY; consolidated PAT was ₹115 Cr, up about 26% YoY.",
+          "H1 consolidated profit was ₹225 Cr, up 26.54%; this is a half-year figure, not Q2 profit.",
+          "Standalone AUM rose 23.17% to ₹16,011.38 Cr; standalone PAT was ₹110.05 Cr, up 22.69% YoY.",
+          "Standalone GNPA was 2.63% and NNPA 1.70%; a ₹17 Cr management overlay was not netted from NNPA."
+        ],
+        "whatChanged": "AUM growth remained within the company’s 20–25% range and consolidated PAT grew about 26%; standalone GNPA edged up 5 bps from June while NNPA was unchanged, with overlay reported separately.",
+        "risks": [
+          "Management noted broad-based movement in early delinquency buckets, led by wheels, and increased prudential provisions; it did not characterize this as a collection-led write-off cleanup.",
+          "Funding costs could rise if rates increase further; management estimated a 20–25 bps borrowing-cost impact from a further 25 bps repo hike, with the transmission dependent on liability and asset reset mix.",
+          "The company has material rural-linked exposure in drought-declared areas, although direct agriculture is less than 1% of the book and management reported no current stress."
+        ],
+        "guidance": [
+          {
+            "metric": "AUM growth",
+            "value": "20–25%"
+          },
+          {
+            "metric": "Credit cost range",
+            "value": "1.25–1.75%; product-mix dependent"
+          },
+          {
+            "metric": "RoA range",
+            "value": "2.75–3.0%"
+          },
+          {
+            "metric": "Gross 90+ / net NPA guardrails",
+            "value": "2.5–2.75% / below 2%"
+          }
+        ],
+        "highlights": [
+          "The housing-finance subsidiary crossed ₹1,000 Cr AUM and reported strong profitability growth with net Stage 3 below 1%.",
+          "The housing finance subsidiary had ₹1,031.47 Cr AUM and ₹4.62 Cr PAT; its ₹3.69 Cr management overlay also remained outside net Stage 3.",
+          "Borrowings include fixed, MCLR-linked and repo-reset portions, while much of the asset book is fixed-rate; management described repricing as staggered rather than immediate."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1239,6 +1806,78 @@
     ],
     "Northern Arc Capital Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹19,003 Cr",
+            "change": "+34% YoY",
+            "positive": 1,
+            "valueNum": 19003,
+            "yoyPct": 34
+          },
+          {
+            "label": "PAT",
+            "value": "₹129 Cr",
+            "change": "+41% YoY",
+            "positive": 1,
+            "valueNum": 129,
+            "yoyPct": 41
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹425 Cr",
+            "change": "+32% YoY",
+            "positive": 1,
+            "valueNum": 425,
+            "yoyPct": 32
+          },
+          {
+            "label": "Credit cost",
+            "value": "2.6%",
+            "change": "Flat QoQ and within the reiterated 2.6–2.8% range",
+            "positive": 0,
+            "valueNum": 2.6,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "AUM reached ₹19,003 Cr, up 34% YoY; PAT was ₹129 Cr, up 41%, and net interest income grew 32% to ₹425 Cr.",
+          "Consumer finance was ₹6,912 Cr (+19% QoQ), MSME ₹4,240 Cr (+39% YoY), rural finance ₹1,350 Cr (+12% QoQ), and retail book ₹12,502 Cr.",
+          "Stage III increased after one legacy wholesale exposure was reclassified from Stage I following settlement; the exposure was fully provided, so management said the reclassification had no net P&L impact.",
+          "Collection efficiency was 99.7%, net NPA 0.5% and Stage 3 provision coverage 58.9%."
+        ],
+        "whatChanged": "Q2 AUM grows 34% YoY; management states a 23–25% annual growth band and widens the credit-cost range to 2.6–2.8% from Q1’s 2.6–2.7%.",
+        "risks": [
+          "Management added overlays in MSME and rural portfolios against macro uncertainty even though current portfolio indicators were described as stable; this may keep near-term credit costs elevated.",
+          "A legacy wholesale account was reclassified into Stage III after settlement; it was fully provided, but it increased reported Stage III balances.",
+          "Cost of funds was 8.55% and management expected higher incremental borrowing costs through Q3–Q4 as market rates rose."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "23–25%"
+          },
+          {
+            "metric": "Blended credit cost",
+            "value": "2.6–2.8%"
+          },
+          {
+            "metric": "ROA",
+            "value": "Around 3% exit FY27; 3.4–3.5% exit FY28"
+          }
+        ],
+        "highlights": [
+          "Q2 AUM growth of 34% YoY is above the full-year target range at the half-year point; management held the 23–25% FY27 range rather than formally raising it.",
+          "Direct-to-customer AUM crossed ₹12,500 Cr and reached 66% of the lending portfolio.",
+          "The company said rural exposure in drought-affected Karnataka is about 2% of total AUM and partly covered by CGFMU; direct crude exposure was described as below 2%."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1388,6 +2027,72 @@
       }
     ],
     "Tata Capital Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated AUM",
+            "value": "₹3,08,030 Cr",
+            "change": "Q2FY27; +26% YoY and +6% QoQ",
+            "positive": 1,
+            "valueNum": 308030,
+            "yoyPct": 26
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹1,660 Cr",
+            "change": "Q2FY27; +51% YoY and +7% QoQ",
+            "positive": 1,
+            "valueNum": 1660,
+            "yoyPct": 51
+          },
+          {
+            "label": "Consolidated disbursements",
+            "value": "₹51,665 Cr",
+            "change": "Q2FY27; +29% YoY",
+            "positive": 1,
+            "valueNum": 51665,
+            "yoyPct": 29
+          },
+          {
+            "label": "Annualized credit cost",
+            "value": "0.9%",
+            "change": "Q2FY27 vs 1.0% in Q1FY27",
+            "positive": 1,
+            "valueNum": 0.9,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Retail and SME were 85.4% of consolidated AUM; high-margin business disbursements rose 40% YoY and AUM growth reached 14% versus 10% in Q1.",
+          "Gross Stage 3 was stable at 1.9% and provision coverage improved to 59%; ROA was 2.3% and ROE about 14%.",
+          "Cost of funds increased from 7.28% in Q1 to 7.33%; total available liquidity was approximately ₹36,400 Cr."
+        ],
+        "highlights": [
+          "Tata Capital Housing Finance AUM was ₹95,098 Cr (+26% YoY); its Q2 PAT was ₹552 Cr.",
+          "A 20–25 bps floating-rate PLR increase was approved, effective 1 November; management expected NIM plus fees to be stable or slightly better in Q3 and improve in Q4."
+        ],
+        "whatChanged": "Tata retains its 23–25% FY27 AUM-growth outlook and expects Motor Finance to stabilize in Q3 and grow in Q4, while repricing floating-rate loans to offset higher funding costs.",
+        "risks": [
+          "Motor Finance remained in runoff; growth was two to three quarters behind plan, and Q2 included a ₹30 Cr macro provision for that business.",
+          "Funding costs are rising and prime home-loan competition reduced Q2 NIM by about 10 bps; insurance commission and revolving-credit rules remain unresolved drafts.",
+          "Some SME loan screens were tightened due to cost pressures, and uneven monsoon conditions could weigh on rural demand even though the direct rural portfolio is limited."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "23–25%"
+          },
+          {
+            "metric": "NIM plus fees trajectory",
+            "value": "Q3 expected stable or marginally better; Q4 expected to improve"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -1545,6 +2250,80 @@
     ],
     "Shriram Finance Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Assets under management",
+            "value": "₹3,29,022 Cr",
+            "change": "Q2FY27; +16.96% YoY and +4.85% QoQ",
+            "positive": 1,
+            "valueNum": 329022,
+            "yoyPct": 16.96
+          },
+          {
+            "label": "Disbursements",
+            "value": "₹54,079 Cr",
+            "change": "Q2FY27; +25.71% YoY",
+            "positive": 1,
+            "valueNum": 54079,
+            "yoyPct": 25.71
+          },
+          {
+            "label": "Net interest income",
+            "value": "₹8,661 Cr",
+            "change": "Q2FY27; +38.2% YoY",
+            "positive": 1,
+            "valueNum": 8661,
+            "yoyPct": 38.2
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹3,677 Cr",
+            "change": "Q2FY27; +59.37% YoY",
+            "positive": 1,
+            "valueNum": 3677,
+            "yoyPct": 59.37
+          }
+        ],
+        "fyPerformance": [
+          "Gross Stage 3 was 4.65% and net Stage 3 2.31%; Q2 credit cost on total assets was 2.03% versus 1.66% in Q1.",
+          "Cost of liabilities was 8.41%, down 15 bps QoQ; leverage was 2.16x and capital adequacy 33.24%.",
+          "Management described H1 growth as slower than the original 18% FY27 plan because it is moderating in drought-affected geographies."
+        ],
+        "highlights": [
+          "Net interest margin was 9.52%, compared with 9.04% in Q1 and 8.19% in Q2FY26; the temporary uplift partly reflected fresh equity capital.",
+          "Management expected the construction-equipment book to resume growth as demand and government infrastructure spending recover."
+        ],
+        "whatChanged": "FY27 AUM growth guidance was reduced from 18% to 15–17% due to monsoon-related caution in some regions; the long-term 2% credit-cost guide remains, with a temporary 30–40 bps increase possible for one or two quarters.",
+        "risks": [
+          "Stage 3 rose in the gold and MSME books; management attributed the increase to seasonal/geographic stress and customer adjustment to monthly servicing on gold loans.",
+          "Weak rainfall may pressure borrower income and repayment in drought-prone states; management said Maharashtra, Karnataka and Telangana were among the more affected regions.",
+          "Higher funding costs and a growing share of lower-yield new-vehicle loans may moderate NIM after the temporary post-capital-infusion uplift."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "15–17%"
+          },
+          {
+            "metric": "Credit cost",
+            "value": "Long-term 2%; temporarily 30–40 bps higher in affected areas for one or two quarters"
+          },
+          {
+            "metric": "Medium/long-term net interest margin",
+            "value": "Around 9% medium term and about 8.5% long term"
+          },
+          {
+            "metric": "Gold-loan share",
+            "value": "Target to double from about 2.5% to about 5% of the book over three years; unchanged"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1701,6 +2480,81 @@
     ],
     "SG Finserve Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "performanceLabel": "H1 FY27 except where stated",
+        "metrics": [
+          {
+            "label": "Loan book / AUM",
+            "value": "Approximately ₹5,700 Cr",
+            "change": "At Q2FY27 end; about +25% QoQ",
+            "positive": 1,
+            "valueNum": 5700,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹59 Cr",
+            "change": "Q2FY27; record quarterly PAT, no YoY rate stated",
+            "positive": 1,
+            "valueNum": 59,
+            "yoyPct": null
+          },
+          {
+            "label": "Profit before tax",
+            "value": "₹150 Cr",
+            "change": "H1 FY27; 2x H1 FY26",
+            "positive": 1,
+            "valueNum": 150,
+            "yoyPct": 100
+          },
+          {
+            "label": "Disbursements",
+            "value": "More than ₹16,000 Cr",
+            "change": "H1 FY27; +46% YoY",
+            "positive": 1,
+            "valueNum": 16000,
+            "yoyPct": 46
+          }
+        ],
+        "fyPerformance": [
+          "Supply-chain finance represented about 70% of AUM; the group ecosystem share had fallen to 25%.",
+          "Quarter-end net worth was about ₹1,600 Cr, net NPA remained nil as reported by management, and Q2 ROE run-rate was about 15%.",
+          "The company reported cost-to-income below 15% and ROA above 4.5%; digital lending began in Q2 but its book was only ₹121 Cr at quarter-end."
+        ],
+        "highlights": [
+          "Factoring, TReDS and supply-chain activity scaled, while 10,000 digital loans had been disbursed; management said digital lending had not yet contributed materially to book growth.",
+          "The board raised the medium-term debt/equity ceiling from 3x to 4x to support growth; management said this could take AUM toward ₹10,000–11,000 Cr over two to three years."
+        ],
+        "whatChanged": "Q2 reached the ₹5,500 Cr FY27 AUM milestone ahead of schedule and retained the FY27 PAT outlook of ₹225 Cr, with management saying it may do slightly better; leverage policy was raised to 4x debt/equity.",
+        "risks": [
+          "The higher 4x leverage ceiling accelerates capacity but increases balance-sheet gearing; equity or a further leverage-policy decision may be needed as AUM approaches ₹10,000–11,000 Cr.",
+          "Draft RBI rules on revolving credit could require documentation and reporting changes; management said its term-based facilities were aligned with the draft as written.",
+          "Factoring, digital lending and loan-against-property are newer activities; management said the digital book was still small and the Gift City operation awaited approvals."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 PAT",
+            "value": "₹225 Cr; management said it may finish slightly higher"
+          },
+          {
+            "metric": "FY27 AUM outlook",
+            "value": "Management considers approximately ₹7,000 Cr achievable by year-end after reaching ₹5,700 Cr in Q2"
+          },
+          {
+            "metric": "AUM growth",
+            "value": "30–35% over the next 12 months from the current base"
+          },
+          {
+            "metric": "Profitability growth",
+            "value": "35–40% CAGR outlook"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -1856,6 +2710,72 @@
       }
     ],
     "SBFC Finance Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Assets under management",
+            "value": "₹12,592 Cr",
+            "change": "Q2FY27; +27% YoY and +6% QoQ",
+            "positive": 1,
+            "valueNum": 12592,
+            "yoyPct": 27
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹139 Cr",
+            "change": "Q2FY27; +27% YoY and +7% QoQ",
+            "positive": 1,
+            "valueNum": 139,
+            "yoyPct": 27
+          },
+          {
+            "label": "Operating expense to average AUM",
+            "value": "4.07%",
+            "change": "Q2FY27; down 22 bps QoQ",
+            "positive": 1,
+            "valueNum": 4.07,
+            "yoyPct": null
+          },
+          {
+            "label": "Credit cost",
+            "value": "1.37%",
+            "change": "Q2FY27; down 8 bps QoQ",
+            "positive": 1,
+            "valueNum": 1.37,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "MSME AUM was ₹9,669 Cr, 77% of total AUM, up 18% YoY; gold-loan AUM was ₹2,906 Cr.",
+          "ROA was 4.58%, ROE 15.04%, and capital adequacy 31% at September-end.",
+          "The company reported a 100% secured book and liquidity of ₹1,782 Cr at quarter end."
+        ],
+        "highlights": [
+          "Yield was 18% and spread 9.63%, both above management's prior guided levels; management cautioned that 9.6% spreads should not be assumed as the new norm amid gold-loan competition.",
+          "The Q2 AUM increase followed three consecutive quarters of rising MSME disbursements; Q2 MSME disbursement was ₹855 Cr."
+        ],
+        "whatChanged": "The company retained its 5–7% quarterly growth range and 25 bps FY27 opex-reduction goal; Q2 credit cost eased, while gold-loan repayment changes and weak-monsoon exposure remain watch items.",
+        "risks": [
+          "Management said overall 0+ delinquencies had stabilized around 8–9%, above the earlier 7% range; a return below 7% was considered unlikely for this higher-yield customer segment.",
+          "The shift in gold loans from bullet repayment to monthly interest servicing has temporarily increased Stage 2 and some Stage 3 accounts.",
+          "Competitive pricing pressure in gold lending, drought/El Niño effects and possible funding-cost increases could constrain spreads or collections."
+        ],
+        "guidance": [
+          {
+            "metric": "AUM growth",
+            "value": "5–7% sequential growth per quarter"
+          },
+          {
+            "metric": "FY27 operating expense reduction",
+            "value": "25 bps for the year"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -2083,6 +3003,68 @@
     ],
     "Poonawalla Fincorp Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Assets under management",
+            "value": "₹74,008 Cr",
+            "change": "Q2FY27; +10.4% QoQ",
+            "positive": 1,
+            "valueNum": 74008,
+            "yoyPct": null
+          },
+          {
+            "label": "Net interest income, fees and other income",
+            "value": "₹1,589 Cr",
+            "change": "Q2FY27; +75.6% YoY and +12.3% QoQ",
+            "positive": 1,
+            "valueNum": 1589,
+            "yoyPct": 75.6
+          },
+          {
+            "label": "Profit after tax",
+            "value": "₹375 Cr",
+            "change": "Q2FY27; +21.8% QoQ",
+            "positive": 1,
+            "valueNum": 375,
+            "yoyPct": null
+          },
+          {
+            "label": "Gross NPA",
+            "value": "1.20%",
+            "change": "Q2FY27; down 17 bps QoQ and 39 bps YoY",
+            "positive": 1,
+            "valueNum": 1.2,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "AUM grew 10.4% sequentially in Q2; new products contributed 28% of quarterly disbursements, up from 26% in Q1.",
+          "Q2 NIM plus fees was 9.26%, up 16 bps sequentially; credit cost was 2.19% versus about 2.4% in Q1.",
+          "ROA rose to 2.18%, 20 bps above Q1; net NPA was 0.61% and debt/equity 4.3x."
+        ],
+        "highlights": [
+          "Q2 gold-loan disbursements were ₹1,066 Cr; the company added 90 branches during the quarter and expected about 200 new branches in FY27.",
+          "New products represented 28% of disbursements, while Prime Personal Loans were 42% of personal-loan disbursements."
+        ],
+        "whatChanged": "AUM grows 10.4% sequentially and ROA rises to 2.18% as credit cost declines; investment in gold branches, collections and technology lifts opex-to-AUM to 4.15%.",
+        "risks": [
+          "The 2.19% credit-cost rate was described as a structural milestone, but its path still depends on seasoning of newer cohorts and sustained collections.",
+          "The company front-loaded investments in gold branches, collections and technology; opex-to-AUM rose to 4.15% from Q1's 4.06%.",
+          "Management said a possible insurance-distribution rule change could compress fees, though it expects lending spreads and operating leverage to absorb any impact."
+        ],
+        "guidance": [
+          {
+            "metric": "Gold-loan branches: opening rollout plan",
+            "value": "About 200 additional branches in FY27, subject to rollout and investment timing"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -2211,10 +3193,89 @@
         ],
         "quote": "\"Poonawalla is outperforming the sector on AUM growth, NIM recovery, new business scale-up, digital productivity and operating leverage.\"",
         "quotePerson": "Management Commentary",
-        "asOf": "May 2026"
+        "asOf": "May 2026",
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "35–40%; management said a somewhat better outcome was possible, subject to conditions"
+          }
+        ]
       }
     ],
     "Piramal Finance Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "AUM",
+            "value": "₹1,13,112 Cr",
+            "change": "+24% YoY; Growth AUM +30% YoY",
+            "positive": 1,
+            "valueNum": 113112,
+            "yoyPct": 24
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹545 Cr",
+            "change": "+67% YoY",
+            "positive": 1,
+            "valueNum": 545,
+            "yoyPct": 67
+          },
+          {
+            "label": "Total income",
+            "value": "₹1,767 Cr",
+            "change": "+33% YoY",
+            "positive": 1,
+            "valueNum": 1767,
+            "yoyPct": 33
+          },
+          {
+            "label": "Growth business credit cost",
+            "value": "1.5%",
+            "change": "Q2; company-level credit cost was 1.1% after legacy-book write-backs",
+            "positive": 1,
+            "valueNum": 1.5,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Total AUM was ₹1,13,112 Cr, up 24% YoY; Growth AUM rose 30% while the legacy book declined 69% YoY.",
+          "Consolidated PAT was ₹545 Cr, up 67% YoY; H1 PAT exceeded ₹1,000 Cr, up 67% YoY.",
+          "Total income was ₹1,767 Cr (+33% YoY), and company NIM was 6.5%; Growth business NIM was 6.8%.",
+          "Growth-business credit cost was 1.5%, compared with company-level credit cost of 1.1%; the latter benefited from legacy-book write-backs used to build buffers elsewhere, so the two rates are not directly comparable."
+        ],
+        "whatChanged": "AUM growth eased to 24% from Q1’s 25%, while PAT growth stayed at 67%; management retained FY27 growth/profitability aspirations but identified a potential FY28 insurance-commission headwind from a draft consultation.",
+        "risks": [
+          "If the IRDAI draft commission cap takes effect as proposed from April 2027, management estimated a gross 18–24 bps FY28 RoA impact; the proposal was not final and mitigations were not yet quantified.",
+          "Gold loans appeared on more than 35% of customer files across product categories versus 20–25% two years earlier; management said this is not yet a risk indicator but warrants monitoring.",
+          "Small-ticket borrowers have higher risk in most products, while some housing/LAP vintages showed sequential 90+ movement; management explained vintage peak metrics differ from the blended portfolio."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 AUM growth",
+            "value": "25%"
+          },
+          {
+            "metric": "FY27 profit growth",
+            "value": "50% YoY"
+          },
+          {
+            "metric": "Growth-business RoAUM exit Q4FY27",
+            "value": "2.5%"
+          }
+        ],
+        "highlights": [
+          "The Q1 call set FY27 AUM, profit-growth and exit RoAUM aspirations; Q2 management said it remained confident of meeting those targets.",
+          "Retail AUM was ₹97,462 Cr (+30% YoY); mortgages were ₹64,650 Cr (+27%) and unsecured loans ₹23,764 Cr (+46%).",
+          "Incremental borrowing cost fell to 8.46% in H1 FY27; about ₹29,000 Cr of debt matures next year at a higher rate than current borrowing, supporting a funding-cost tailwind.",
+          "The capital plan combines a ₹2,100 Cr QIP with ₹1,750 Cr of promoter warrants; warrant commitments are distinct from cash already received."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -2364,5 +3425,196 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 15,
+      "overview": "Lending and profits grow across the fifteen reviewed NBFC calls, with improving collections or lower credit costs supporting many lenders. The outlook remains mixed: Bajaj raises growth expectations, while Shriram lowers its range and lenders remain cautious about funding costs, rainfall-related risk and proposed changes to fee economics. Portfolio mix, overlays and exceptional items require care when comparing earnings.",
+      "trends": [
+        {
+          "text": "Lenders diversify through secured retail, MSME, housing, gold or newer lending products.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "HDB Financial Services Ltd",
+            "L&T Finance Ltd",
+            "Mahindra & Mahindra Financial Services Ltd",
+            "MAS Financial Services Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "Poonawalla Fincorp Ltd",
+            "SBFC Finance Ltd",
+            "SG Finserve Ltd",
+            "Shriram Finance Ltd",
+            "Tata Capital Ltd"
+          ]
+        },
+        {
+          "text": "Technology, analytics and AI are being used to improve sourcing, underwriting, operations or collections.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "HDB Financial Services Ltd",
+            "L&T Finance Ltd",
+            "Mahindra & Mahindra Financial Services Ltd",
+            "MAS Financial Services Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "Poonawalla Fincorp Ltd",
+            "SBFC Finance Ltd",
+            "SG Finserve Ltd",
+            "Tata Capital Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Collection discipline, underwriting changes and portfolio mix support credit performance or the recovery in profitability.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "Five Star Business Finance Ltd",
+            "HDB Financial Services Ltd",
+            "L&T Finance Ltd",
+            "Mahindra & Mahindra Financial Services Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "Poonawalla Fincorp Ltd",
+            "SBFC Finance Ltd",
+            "Tata Capital Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "A less favorable funding environment creates repricing and margin-management challenges.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "Five Star Business Finance Ltd",
+            "HDB Financial Services Ltd",
+            "L&T Finance Ltd",
+            "Mahindra & Mahindra Financial Services Ltd",
+            "MAS Financial Services Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "SBFC Finance Ltd",
+            "Shriram Finance Ltd",
+            "Tata Capital Ltd"
+          ]
+        },
+        {
+          "text": "Uneven rainfall and rural or small-borrower risks lead to monitoring, selective lending or prudential buffers.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "Five Star Business Finance Ltd",
+            "HDB Financial Services Ltd",
+            "L&T Finance Ltd",
+            "Mahindra & Mahindra Financial Services Ltd",
+            "MAS Financial Services Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "SBFC Finance Ltd",
+            "Shriram Finance Ltd",
+            "Tata Capital Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Gold-loan expansion and cross-sell broaden customer access, but branch productivity and repayment behavior remain important.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "HDB Financial Services Ltd",
+            "L&T Finance Ltd",
+            "Poonawalla Fincorp Ltd",
+            "SBFC Finance Ltd",
+            "Shriram Finance Ltd"
+          ]
+        },
+        {
+          "text": "Retail diversification and gradual legacy-book runoff support Piramal and Tata Capital’s transition.",
+          "companies": [
+            "Piramal Finance Ltd",
+            "Tata Capital Ltd"
+          ]
+        },
+        {
+          "text": "SG Finserve expands factoring, TReDS and newer products alongside its supply-chain franchise.",
+          "companies": [
+            "SG Finserve Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Draft insurance-distribution or revolving-credit proposals could alter fee economics or product structures; outcomes remain unsettled.",
+          "companies": [
+            "Aditya Birla Capital Ltd",
+            "Bajaj Finance Ltd",
+            "L&T Finance Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "Poonawalla Fincorp Ltd",
+            "SBFC Finance Ltd",
+            "SG Finserve Ltd",
+            "Tata Capital Ltd"
+          ]
+        },
+        {
+          "text": "Tax benefits, provision overlays and legacy write-backs affect reported profit and are distinct from recurring lending growth.",
+          "companies": [
+            "Bajaj Finance Ltd",
+            "Five Star Business Finance Ltd",
+            "Mahindra & Mahindra Financial Services Ltd",
+            "MAS Financial Services Ltd",
+            "Northern Arc Capital Ltd",
+            "Piramal Finance Ltd",
+            "Tata Capital Ltd"
+          ]
+        },
+        {
+          "text": "SG Finserve raises its leverage ceiling from 3x to 4x, while capital proposals at Bajaj and Chola remain subject to approvals.",
+          "companies": [
+            "Bajaj Finance Ltd",
+            "Cholamandalam Investment and Finance Company Ltd",
+            "SG Finserve Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Bajaj lifts FY27 AUM growth to 26–27%, while Shriram lowers its range from 18% to 15–17%.",
+          "companies": [
+            "Bajaj Finance Ltd",
+            "Shriram Finance Ltd"
+          ]
+        },
+        {
+          "text": "Northern Arc widens its credit-cost range to 2.6–2.8%; L&T Finance retains its lower Q4 exit corridor.",
+          "companies": [
+            "L&T Finance Ltd",
+            "Northern Arc Capital Ltd"
+          ]
+        },
+        {
+          "text": "Five Star’s reported PAT includes a tax benefit, and Bajaj separately discloses profit before its macro overlay.",
+          "companies": [
+            "Bajaj Finance Ltd",
+            "Five Star Business Finance Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

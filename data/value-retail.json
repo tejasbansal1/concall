@@ -13,6 +13,81 @@
   "concall": {
     "Vishal Mega Mart Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹3,399 Cr",
+            "change": "+14% YoY, Q2FY27",
+            "positive": 1,
+            "valueNum": 3399,
+            "yoyPct": 14
+          },
+          {
+            "label": "Same-store sales growth",
+            "value": "5.4%",
+            "change": "Reported Q2; management-adjusted about 9%",
+            "positive": 1,
+            "valueNum": 5.4,
+            "yoyPct": null
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹262 Cr",
+            "change": "+3.7% YoY; 7.7% margin versus 8.5%, Q2FY27",
+            "positive": 1,
+            "valueNum": 262,
+            "yoyPct": 3.7
+          },
+          {
+            "label": "PAT (ESOP-adjusted)",
+            "value": "₹172 Cr",
+            "change": "+6.4% YoY; 5.1% margin, Q2FY27",
+            "positive": 1,
+            "valueNum": 172,
+            "yoyPct": 6.4
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue grew 14% to ₹3,399 Cr; reported SSSG was 5.4%, with management estimating a 3–4 percentage-point festival-shift impact and about 9% adjusted SSSG.",
+          "H1 revenue grew 16.4% to ₹7,126 Cr and SSSG was 7.7% (about 9.5% festival-adjusted).",
+          "Q2 operating EBITDA grew 3.7% to ₹262 Cr; margin was 7.7% versus 8.5%. H1 operating EBITDA grew 12.5% to ₹649 Cr; margin was 9.1% versus 9.4%.",
+          "ESOP-adjusted Q2 PAT grew 6.4% to ₹172 Cr; H1 ESOP-adjusted PAT grew 15.8% to ₹437 Cr."
+        ],
+        "performanceLabel": "Q2 and H1FY27; PAT adjusted for ESOP charges",
+        "guidance": [
+          {
+            "metric": "FY27 SSSG",
+            "value": "Double-digit growth for the full year"
+          },
+          {
+            "metric": "FY27 store openings",
+            "value": "More than 100 stores"
+          },
+          {
+            "metric": "EBITDA margin progression",
+            "value": "About 30 bps annual improvement as a general operating-leverage objective"
+          }
+        ],
+        "highlights": [
+          "Added 26 gross stores in Q2 and 53 in H1; total store count reached 844 across 582 cities.",
+          "Private brands contributed 74% of H1 revenue; quick commerce covered 781 stores across 532 cities and registered users exceeded 1.5 Cr.",
+          "Opened a pilot Belong & Co. store; management said rollout depends on learning from a few pilot locations.",
+          "Trading area was 1.41 Cr sq ft; 24 of 26 Q2 openings were in Tier 2 and Tier 3 cities.",
+          "Management expects Q3/Q4 gross margins to remain stable YoY at current inflation levels, with opening price points protected."
+        ],
+        "whatChanged": "Versus Q1FY27 revenue growth of 18.7% and SSSG of 10%, Q2 revenue growth was 14% and reported SSSG was 5.4% amid the festival shift; management maintained confidence in double-digit full-year SSSG and more than 100 FY27 openings.",
+        "risks": [
+          "Festival buying shifted into Q3, reducing Q2 fixed-cost absorption; Q2 EBITDA margin declined 80 bps YoY and H1 margin declined 30 bps.",
+          "Raw-material inflation remained elevated; management said it had already made selective price changes and was protecting opening price points and customer affordability.",
+          "Minimum-wage increases raised employee costs; management estimated 8–10% SSSG is needed to offset this pressure, alongside new-store costs and festival timing."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹3,727 Cr", "change": "+18.7% YoY", "positive": 1 },
@@ -98,6 +173,100 @@
       }
     ],
     "V2 Retail Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹905.6 Cr",
+            "change": "+28% YoY, Q2FY27 consolidated",
+            "positive": 1,
+            "valueNum": 905.6,
+            "yoyPct": 28
+          },
+          {
+            "label": "Reported SSSG",
+            "value": "-14.9%",
+            "change": "Q2; management-adjusted +0.5%",
+            "positive": -1,
+            "valueNum": -14.9,
+            "yoyPct": null
+          },
+          {
+            "label": "EBITDA (pre-Ind AS)",
+            "value": "₹53.4 Cr",
+            "change": "+20% YoY; 5.9% margin",
+            "positive": 1,
+            "valueNum": 53.4,
+            "yoyPct": 20
+          },
+          {
+            "label": "PAT",
+            "value": "₹18.2 Cr",
+            "change": "+6% YoY, Q2FY27 consolidated",
+            "positive": 1,
+            "valueNum": 18.2,
+            "yoyPct": 6
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹905.6 Cr (+28% YoY), entirely volume-led; volume grew 31% in Q2 and 43% in H1.",
+          "H1 revenue was ₹1,902.8 Cr (+42%); pre-Ind AS EBITDA was ₹132.8 Cr (+37%) and PAT was ₹60.1 Cr (+43%).",
+          "Q2 pre-Ind AS EBITDA was ₹53.4 Cr (+20%), with a 5.9% margin; reported Ind AS EBITDA was ₹120.3 Cr (+41%), with a 13.3% margin.",
+          "Q2 calendar SSSG was -14.9%; management's festival-normalized figure was +0.5%. H1 calendar SSSG was -3.7%."
+        ],
+        "performanceLabel": "Q2 and H1FY27; consolidated, pre-Ind AS and Ind AS measures distinguished",
+        "guidance": [
+          {
+            "metric": "FY27 revenue growth",
+            "value": "More than 50%"
+          },
+          {
+            "metric": "FY27 store openings",
+            "value": "170–190 stores (latest call reference)"
+          },
+          {
+            "metric": "FY27 gross margin",
+            "value": "29–30%"
+          },
+          {
+            "metric": "FY27 pre-Ind AS EBITDA margin",
+            "value": "More than 7.5%; management also described a 7–8% target band"
+          },
+          {
+            "metric": "FY27 SSSG",
+            "value": "5–7% calendar growth for FY27, versus 8–10% at Q1"
+          },
+          {
+            "metric": "FY27 working capital",
+            "value": "75–80 days by March 2027"
+          },
+          {
+            "metric": "FY28 store openings (conditional)",
+            "value": "120–150 base plan; could fall to 100 if Q3 stays weak, with revenue growth of 35–40% in that scenario"
+          },
+          {
+            "metric": "Q3 normalized SSSG",
+            "value": "5–7% festival-to-festival growth"
+          }
+        ],
+        "highlights": [
+          "H1 net store additions were 102 (106 opened, 4 closed); total stores reached 427 at September-end.",
+          "Inventory was ₹1,447.8 Cr at September-end; borrowings were ₹528 Cr, including ₹483 Cr current and ₹45.6 Cr non-current.",
+          "Management said new stores begin at 35–40% below mature-store sales per square foot and may now take 2.5–3.5 years to mature for the FY25 cohort.",
+          "Management said 91% of Q2/H1 sales were at full price, versus 92% a year earlier; cost inflation of 3–7% was being passed through with MRP increases."
+        ],
+        "whatChanged": "Management's Q1 FY27 SSSG guidance of 8–10% for the year became 5–7% on a calendar basis after H1 SSSG of -3.7%; it maintained revenue growth above 50% but said store expansion could be reduced if Q3 remains weak.",
+        "risks": [
+          "Management acknowledged demand slowdown over the preceding three months and said there was no single identified driver behind weaker SSSG.",
+          "Rapid expansion depressed company sales per square foot; new stores were said to generate 35–40% less than mature stores, and the FY25 cohort's maturation period may lengthen.",
+          "Borrowings rose to ₹528 Cr at September-end from ₹253 Cr at March-end as expansion, festive and winter inventory, and vendor prepayments used cash."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
@@ -211,6 +380,80 @@
     ],
     "V-Mart Retail Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue growth",
+            "value": "18%",
+            "change": "YoY, Q2FY27",
+            "positive": 1,
+            "valueNum": 18,
+            "yoyPct": 18
+          },
+          {
+            "label": "Same-store sales growth",
+            "value": "3%",
+            "change": "Reported Q2; management-adjusted 11%",
+            "positive": 1,
+            "valueNum": 3,
+            "yoyPct": null
+          },
+          {
+            "label": "EBITDA growth (post-Ind AS)",
+            "value": "20%",
+            "change": "YoY; 9% margin",
+            "positive": 1,
+            "valueNum": 20,
+            "yoyPct": 20
+          },
+          {
+            "label": "EBITDA growth (pre-Ind AS)",
+            "value": "32%",
+            "change": "YoY; 0.6% margin",
+            "positive": 1,
+            "valueNum": 32,
+            "yoyPct": 32
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue grew 18% YoY; reported SSG was 3%, or 11% after adjusting for the 19-day festival shift.",
+          "Post-Ind AS EBITDA grew 20% YoY with a 9.0% margin versus 8.9%; pre-Ind AS EBITDA grew 32% in the seasonally smallest quarter.",
+          "Gross margin was stable at 33.5% versus 33.6%; inventory days fell 7 days to 90.",
+          "H1 net capex was ₹85 Cr versus ₹60 Cr a year earlier; quarter-end short-term borrowings were ₹190 Cr versus ₹100 Cr at March-end, described as temporary festive working-capital use."
+        ],
+        "performanceLabel": "Q2 and H1FY27; EBITDA basis specified",
+        "guidance": [
+          {
+            "metric": "FY27 sales growth",
+            "value": "17–20% total sales growth"
+          },
+          {
+            "metric": "FY27 store openings",
+            "value": "90–100 gross stores"
+          },
+          {
+            "metric": "ASP increase",
+            "value": "Around 5–6% to pass through cost inflation"
+          }
+        ],
+        "highlights": [
+          "Opened 23 stores and closed 1 in Q2; the network reached 613 stores across 351 cities.",
+          "Unlimited Q2 EBITDA margin was 11.6% versus 10.5%; YTD sales per square foot was ₹681, up 15%.",
+          "LimeRoad revenue grew 55% while losses fell 32%; 58% of online orders were fulfilled from V-Mart stores.",
+          "Management said 70–75 locations faced nearby competitor openings, with over 150 competitor stores opened in its markets."
+        ],
+        "whatChanged": "Underlying sales growth remained positive, but reported Q2 SSG was 3% after festival timing versus Q1 SSG of 9%; management cited 11% festival-adjusted Q2 LTL growth and retained its expansion and growth outlook.",
+        "risks": [
+          "Festival timing shifted 19 days into Q3; festive trading was positive but below management's expectation at the time of the call.",
+          "Geopolitical uncertainty and raw-material inflation raised sourcing costs by 5–10% in some product categories; management said a further crude price rise could require another Q4 increase.",
+          "Value-conscious customers faced food inflation and household-budget pressure, while competitive openings were concentrated in the eastern and central-northern markets."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue Growth", "value": "23%", "change": "YoY", "positive": 1 },
@@ -319,5 +562,108 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 3,
+      "overview": "Value retail remained expansion-led, but the festival shift into Q3 slowed reported same-store growth and exposed uneven demand. Vishal remained confident, V-Mart saw festive trading below expectations, and V2 made next-year expansion conditional on a recovery.",
+      "trends": [
+        {
+          "text": "Festive buying shifted from Q2 to Q3, reducing reported same-store growth; management-adjusted growth is distinct from reported performance.",
+          "companies": [
+            "V-Mart Retail Ltd",
+            "V2 Retail Ltd",
+            "Vishal Mega Mart Ltd"
+          ]
+        },
+        {
+          "text": "Store additions continued to drive scale even as same-store demand softened.",
+          "companies": [
+            "V-Mart Retail Ltd",
+            "V2 Retail Ltd",
+            "Vishal Mega Mart Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Management expects the shifted festive season to support Q3 sales comparisons.",
+          "companies": [
+            "V-Mart Retail Ltd",
+            "V2 Retail Ltd",
+            "Vishal Mega Mart Ltd"
+          ]
+        },
+        {
+          "text": "Smaller-city expansion remains a growth opportunity, with further stores planned this year.",
+          "companies": [
+            "V-Mart Retail Ltd",
+            "V2 Retail Ltd",
+            "Vishal Mega Mart Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Input-cost inflation requires sourcing efficiencies, changes in assortment or selective price increases to preserve affordability.",
+          "companies": [
+            "V-Mart Retail Ltd",
+            "V2 Retail Ltd",
+            "Vishal Mega Mart Ltd"
+          ]
+        },
+        {
+          "text": "V-Mart and V2 reported pressure on underlying consumer demand beyond the calendar effect.",
+          "companies": [
+            "V-Mart Retail Ltd",
+            "V2 Retail Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "V-Mart sees further upside from Unlimited productivity and the integration of LimeRoad with store inventory.",
+          "companies": [
+            "V-Mart Retail Ltd"
+          ]
+        },
+        {
+          "text": "Vishal is testing Belong & Co. while expanding its South India footprint; the new format remains a pilot.",
+          "companies": [
+            "Vishal Mega Mart Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "V2’s inventory and borrowings increased with front-loaded expansion; recovery in store productivity is important before further acceleration.",
+          "companies": [
+            "V2 Retail Ltd"
+          ]
+        },
+        {
+          "text": "V-Mart faces intense competition in its eastern and central-northern markets alongside wage and sourcing-cost pressure.",
+          "companies": [
+            "V-Mart Retail Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Vishal attributed most Q2 same-store growth to market-share gains rather than existing customers buying more.",
+          "companies": [
+            "Vishal Mega Mart Ltd"
+          ]
+        },
+        {
+          "text": "V2 retained its FY27 revenue-growth ambition but reduced its full-year same-store growth expectation and may slow FY28 openings if Q3 disappoints.",
+          "companies": [
+            "V2 Retail Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

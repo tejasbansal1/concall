@@ -19,6 +19,90 @@
   "concall": {
     "APL Apollo Tubes Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Sales Volume",
+            "value": "960,000 tonnes",
+            "change": "Best-ever quarter; Q2 higher than Q1",
+            "positive": 1,
+            "valueNum": 960000,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 EBITDA per Tonne",
+            "value": "₹6,000",
+            "change": "Management says level is sustainable",
+            "positive": 1,
+            "valueNum": 6000,
+            "yoyPct": null
+          },
+          {
+            "label": "Net Cash",
+            "value": "₹1,600 Cr",
+            "change": "At September 2026",
+            "positive": 1,
+            "valueNum": 1600,
+            "yoyPct": null
+          },
+          {
+            "label": "Working-Capital Days",
+            "value": "0 days",
+            "change": "At September 2026",
+            "positive": 1,
+            "valueNum": 0,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 sales volume was 960,000 tonnes, a quarterly record, while UAE operations and export flows remained disrupted.",
+          "Q2 EBITDA per tonne was about ₹6,000; management attributed the improvement to brand and roofing mix, cost actions and operating leverage.",
+          "H1 volume growth was around 4% YoY; the company did not give a consolidated volume growth commitment while UAE and SG Premium visibility remained limited.",
+          "Net cash was about ₹1,600 Cr and working-capital days were zero at September 2026."
+        ],
+        "whatChanged": "Sales recover to 960,000 tonnes from 745,000 in Q1 but miss the specific one-million-tonne Q2 target; management raises its sustainable EBITDA-per-tonne expectation and narrows the 15% volume-growth commitment to branded and roofing products.",
+        "risks": [
+          "UAE operations were running at about 40% of the past level, with inbound and outbound trade disrupted; management could not forecast normalization.",
+          "Domestic steel shortages constrained lower-margin business and export container freight remained high; management said November supply was also weak.",
+          "Management said EBITDA per tonne could soften if SG Premium volumes rise, even as those lower-margin sales could add absolute EBITDA."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Absolute EBITDA",
+            "value": "At least ₹2,200 Cr; around 20% annual growth remains the stated objective"
+          },
+          {
+            "metric": "FY27 Volume Growth — APL Apollo brand and roofing products",
+            "value": "At least 15%; management separately described 15–20% YoY growth"
+          },
+          {
+            "metric": "Q3 EBITDA per Tonne",
+            "value": "Above ₹6,000"
+          },
+          {
+            "metric": "FY28 EBITDA per Tonne",
+            "value": "₹6,000–₹6,500, conditional on another quarter confirming sustainability"
+          }
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Q2 Sales Volume",
+            "guided": "1,000,000 tonnes",
+            "actual": "960,000 tonnes; 40,000 tonnes below the specific Q1 target. It was also above Q1's 745,000 tonnes actual.",
+            "status": "missed"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "highlights": [
+          "Management retains around 20% FY27 absolute EBITDA growth and sees roughly ₹6,000 per tonne as sustainable under the current product mix.",
+          "The capacity roadmap includes 7 million TPA plus 1 million TPA of debottlenecking over the next two years.",
+          "Power cost was around ₹6.2–6.3 per unit; management targets roughly ₹5 next year while also pursuing freight savings."
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -173,6 +257,82 @@
     ],
     "Goodluck India Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Consolidated Total Income",
+            "value": "₹1,370 Cr",
+            "change": "+38% YoY (approx.)",
+            "positive": 1,
+            "valueNum": 1370,
+            "yoyPct": 38
+          },
+          {
+            "label": "Q2 Consolidated EBITDA",
+            "value": "₹127 Cr",
+            "change": "9.3% stated current margin",
+            "positive": 1,
+            "valueNum": 127,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 consolidated PAT",
+            "value": "₹50.6 Cr",
+            "change": "+19% YoY",
+            "positive": 1,
+            "valueNum": 50.6,
+            "yoyPct": 19
+          },
+          {
+            "label": "Q2 Consolidated Sales Volume",
+            "value": "133,374 tonnes",
+            "change": "+18.1% YoY",
+            "positive": 1,
+            "valueNum": 133374,
+            "yoyPct": 18.1
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated total income was about ₹1,370 Cr, EBITDA ₹127 Cr and PAT ₹50.6 Cr.",
+          "Q2 consolidated sales volume was 133,374 tonnes, up 18.1% YoY; H1 volume was 256,093 tonnes, up 13.5%.",
+          "H1 consolidated revenue was ₹2,660 Cr, EBITDA ₹267 Cr and PAT ₹120 Cr, up 34%, 38% and 42.4% respectively.",
+          "H1 exports grew about 38% YoY and contributed around 28% of total volume."
+        ],
+        "whatChanged": "The Q1 call's FY27 defence revenue range was ₹300–350 Cr; in Q2 management remained hopeful of delivering ₹300 Cr, while clarifying that the Munitions India tender qualification had not yet become an order and that defence execution depends on approvals and inspections.",
+        "risks": [
+          "Higher international freight and gas/fuel costs reduced Q2 EBITDA margin by about 150 basis points, according to management.",
+          "Defence order execution and revenue timing depend on validations, inspections, government clearances and geopolitical conditions; the company reported no defence revenue in Q2.",
+          "Non-defence utilization was about 98–99%, making volume growth dependent on debottlenecking and small capacity additions."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Consolidated Revenue Growth",
+            "value": "15–20% YoY"
+          },
+          {
+            "metric": "FY27 Consolidated EBITDA Margin",
+            "value": "10–12%"
+          },
+          {
+            "metric": "FY27 Defence Revenue",
+            "value": "Management remains hopeful of ₹300 Cr; execution/timing subject to approvals"
+          },
+          {
+            "metric": "Defence EBITDA Margin",
+            "value": "30–35% maintained as the conservative range"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "highlights": [
+          "Goodluck Defence is the sole technically qualified bidder for the Munitions India tender; an order has not yet been awarded.",
+          "The proposed combination of Defence and Green Energy with Goodluck India remains subject to valuation and regulatory approvals.",
+          "Non-defence expansion relies on debottlenecking, with a target to move from about 500,000 to 600,000 tonnes of capacity over 12–18 months."
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -321,6 +481,79 @@
     ],
     "Hariom Pipe Industries Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Standalone Revenue",
+            "value": "₹554 Cr",
+            "change": "+65% YoY",
+            "positive": 1,
+            "valueNum": 554,
+            "yoyPct": 65
+          },
+          {
+            "label": "Q2 Standalone EBITDA",
+            "value": "₹68 Cr",
+            "change": "+58% YoY; 12.21% margin",
+            "positive": 1,
+            "valueNum": 68,
+            "yoyPct": 58
+          },
+          {
+            "label": "Q2 Sales Volume",
+            "value": "83,117 tonnes",
+            "change": "+32% QoQ",
+            "positive": 1,
+            "valueNum": 83117,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 EBITDA per Tonne",
+            "value": "₹8,140",
+            "change": "+15% YoY",
+            "positive": 1,
+            "valueNum": 8140,
+            "yoyPct": 15
+          }
+        ],
+        "performanceLabel": "Q2 standalone and H1 comparison",
+        "fyPerformance": [
+          "Standalone Q2 revenue was ₹554 Cr, EBITDA ₹68 Cr and PAT ₹29 Cr; EBITDA margin was 12.21%.",
+          "Q2 sales volume reached 83,117 tonnes, up 32% QoQ after Perundurai resumed production on July 13 following the Q1 closure.",
+          "Standalone H1 revenue was ₹983 Cr, EBITDA ₹118 Cr and PAT ₹46 Cr; consolidated H1 revenue was ₹984 Cr, EBITDA ₹118 Cr and PAT ₹42 Cr.",
+          "Solar capacity reached 15 MW AC as of the call, including 10 MW commissioned in October after quarter-end."
+        ],
+        "whatChanged": "Perundurai’s July reopening restores production after the earlier shutdown, lifting Q2 volumes and earnings; the solar rollout reaches 15 MW as of the call, with further commissioning planned by January 2027.",
+        "risks": [
+          "Perundurai's earlier 110-day shutdown disrupted Q1; stable operations, regulatory compliance and utilization remain execution priorities.",
+          "The Andhra Pradesh steel-plant MOU is non-binding, subject to diligence, approvals, land allocation and utilities, and management said development could take three to four years.",
+          "The solar subsidiary's 60 MW award may be limited to 52 MW if alternative substations are not approved for two locations; management cited funding and execution needs."
+        ],
+        "guidance": [
+          {
+            "metric": "Annual steel volume-growth ambition",
+            "value": "25–30%, conditional on demand, operating continuity and expansion; general H2 growth comments use a different, unspecified base"
+          },
+          {
+            "metric": "Steel EBITDA margin",
+            "value": "Above roughly 12%, subject to steel-market conditions"
+          },
+          {
+            "metric": "Solar commissioning",
+            "value": "52 MW AC across 11 sites targeted by January 2027; 15 MW operational as of the call"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "highlights": [
+          "Perundurai resumed production on July 13, supporting the sequential volume recovery.",
+          "The first 5 MW AC solar project was commissioned in July, followed by another 10 MW in October.",
+          "Metal Mart completed documentation and GST registration and is preparing for fuller trading and distribution operations."
+        ]
+      },
+      {
         "quarter": "Q4FY26",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -386,6 +619,82 @@
       }
     ],
     "Hi-Tech Pipes Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Revenue from Operations",
+            "value": "₹1,466 Cr",
+            "change": "Versus ₹850 Cr a year earlier",
+            "positive": 1,
+            "valueNum": 1466,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 Sales Volume",
+            "value": "165,000 tonnes",
+            "change": "+32% YoY",
+            "positive": 1,
+            "valueNum": 165000,
+            "yoyPct": 32
+          },
+          {
+            "label": "Q2 EBITDA",
+            "value": "₹56.58 Cr",
+            "change": "+27.63% YoY",
+            "positive": 1,
+            "valueNum": 56.58,
+            "yoyPct": 27.63
+          },
+          {
+            "label": "Q2 EBITDA per Tonne",
+            "value": "₹3,429",
+            "change": "₹3,540 in Q2FY26",
+            "positive": 0,
+            "valueNum": 3429,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 sales volume was 165,000 tonnes, revenue from operations ₹1,466 Cr and EBITDA ₹56.58 Cr.",
+          "H1 volume was 321,000 tonnes, up 29% YoY; H1 revenue was ₹2,879 Cr, up 74.47%, and EBITDA ₹106 Cr, up 24.12%.",
+          "H1 net working-capital days fell to 33 from 56; net debt at H1 was about ₹300 Cr.",
+          "Management said new VAP capacity should lift blended VAP mix from 40% toward 55%; the stated long-term blended EBITDA-per-tonne range at that mix was ₹4,000–₹4,500."
+        ],
+        "whatChanged": "Against the Q1 call's FY28 sales-volume guidance of 1 million tonnes, management now expects 850,000–900,000 tonnes; FY27's target is now at least 650,000 tonnes versus the prior 650,000–700,000 range, while ₹3,500 per tonne EBITDA was described as maintained for H2.",
+        "risks": [
+          "Management cited energy prices, logistics and ocean freight as H1 headwinds; H2 EBITDA-per-tonne confidence depends partly on their easing.",
+          "Debt-equity ratio increased to 0.23 from 0.18, despite improvement in working-capital days.",
+          "The 2 million TPA FY29 capacity plan requires execution of several facilities, with H2 FY27 capex of ₹150–200 Cr and further expansion spending planned."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Sales Volume",
+            "value": "At least 650,000 tonnes"
+          },
+          {
+            "metric": "FY28 Sales Volume",
+            "value": "850,000–900,000 tonnes"
+          },
+          {
+            "metric": "FY29 Sales Volume",
+            "value": "1.1–1.2 million tonnes"
+          },
+          {
+            "metric": "H2FY27 EBITDA per Tonne",
+            "value": "Maintain about ₹3,500"
+          }
+        ],
+        "asOf": "Nov 2026",
+        "highlights": [
+          "Sanand DFT, API-pipe and Hindupur coated-steel projects are scheduled for Q4 FY27 commissioning.",
+          "Capacity targets are 1.35 million TPA by FY27-end, 1.7 million in FY28 and 2 million in FY29; these differ from sales-volume targets.",
+          "Management aims to reduce working-capital days below 30 from the current 33, while H1 net debt is around ₹300 Cr."
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -538,6 +847,92 @@
       }
     ],
     "JTL Industries Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹613.8 Cr",
+            "valueNum": 613.8,
+            "change": "+43.0% YoY",
+            "yoyPct": 43.0,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹50.8 Cr",
+            "valueNum": 50.8,
+            "change": "+46.5% YoY; 8.3% margin",
+            "yoyPct": 46.5,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹29 Cr",
+            "valueNum": 29,
+            "change": "+30.7% YoY; includes ₹2.78 Cr non-cash Defence depreciation",
+            "yoyPct": 30.7,
+            "positive": 1
+          },
+          {
+            "label": "Sales Volume",
+            "value": "100,484 T",
+            "valueNum": 100484,
+            "change": "+23.2% YoY",
+            "yoyPct": 23.2,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "GP-line commercial production is delayed to the end of Q3 despite the earlier August schedule; management retains 30% FY27 volume growth, requiring stronger H2 delivery from existing plants and new capacity.",
+        "risks": [
+          "The FY27 30% volume-growth target is demanding: H1 volume was 218,997 tonnes and management's base-case H2 estimate was about 260,000 tonnes before incremental Maharashtra ramp-up.",
+          "Mangaon GP-line commissioning slipped from the Q1 August expectation; commercial production was now expected by end-Q3, with power connection and monsoon delays cited.",
+          "Working-capital days were 83 in Q2; management targets reduction to 60 days next year and 35 days by FY29, which depends on dealer mix and execution."
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 revenue was ₹613.8 Cr, EBITDA ₹50.8 Cr at 8.3% margin, PAT ₹29 Cr and sales volume 100,484 tonnes.",
+          "Q2 EBITDA per tonne improved 19% YoY to ₹5,053; value-added products contributed about 28,000 tonnes in Q2.",
+          "H1 volume reached a record 218,997 tonnes (+20.2% YoY); H1 revenue was ₹1,335.4 Cr (+37.2%), EBITDA ₹109.5 Cr (+88.7%) and PAT ₹64.3 Cr (+66.2%).",
+          "H1 operating cash flow was positive ₹50 Cr versus an ₹80.3 Cr outflow a year earlier; H1 capex was ₹76.5 Cr, including ₹67 Cr standalone, mostly at Mangaon."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Volume Growth",
+            "value": "30% retained; H1 218,997 T, H2 base case about 260,000 T, with Maharashtra GP/DFT ramp-up additional"
+          },
+          {
+            "metric": "GP-line contribution",
+            "value": "Commercial production expected by end-Q3, with about 25,000–30,000 tonnes from the new capacities in Q4"
+          },
+          {
+            "metric": "EBITDA / Tonne",
+            "value": "₹5,000–₹5,250 for next year; FY27 Q2 actual ₹5,053 includes about ₹200/T from JTL Defence"
+          },
+          {
+            "metric": "Working-Capital Cycle",
+            "value": "About 60 days next year; 35 days by FY29"
+          }
+        ],
+        "highlights": [
+          "Maharashtra pickling and GP lines had completed cold trials; the GP line was expected to begin commercial production by end-Q3 after electricity connection, with 25,000–30,000 tonnes expected from the new capacities in Q4.",
+          "H1 exports were about 12,000 tonnes; management said October exports were about 5,000 tonnes and forecast 50,000–55,000 tonnes for FY27, subject to container availability.",
+          "Value-added mix was 30–35% in H1; management expects new GP capacity to support about 50% mix next year.",
+          "Secondary coil was quoted at about ₹64,000/T and the primary-secondary price gap at ₹12–₹20/kg; management described elevated HRC prices and temporary demand latency around Diwali."
+        ],
+        "asOf": "Nov 2026",
+        "guidanceTracking": [
+          {
+            "metric": "GP-line commercial commissioning",
+            "guided": "Earlier August 2026 schedule, discussed on the Q2 call; Q1 targeted the wider expansion by H1-end",
+            "actual": "Cold trials completed; commercial production now expected by end-Q3",
+            "status": "missed"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -697,6 +1092,80 @@
     ],
     "Ratnamani Metals & Tubes Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹1,348 Cr",
+            "valueNum": 1348,
+            "change": "+13% YoY",
+            "yoyPct": 13,
+            "positive": 1
+          },
+          {
+            "label": "Consolidated EBITDA",
+            "value": "₹220 Cr",
+            "valueNum": 220,
+            "change": "16.3% margin",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "Consolidated PAT",
+            "value": "₹133 Cr",
+            "valueNum": 133,
+            "change": "Q2 FY27",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "Standalone Order Book",
+            "value": ">₹2,600 Cr",
+            "valueNum": 2600,
+            "change": "About 30% higher QoQ",
+            "yoyPct": null,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "The standalone order book rose above ₹2,600 Cr, around 30% QoQ, and FY27 revenue guidance was explicitly retained; near-term profitability remains pressured by freight, duties and geopolitical logistics costs.",
+        "risks": [
+          "Management expects freight, duty and related logistics costs to remain elevated for 6–12 months; current US DDP orders include 50% tariffs and freight costs that are not fully pass-through on orders already booked.",
+          "Water-project demand remained weak, and management said improvement timing is difficult to predict because state funding is constrained.",
+          "Working capital is structurally intensive: management described average inventory plus receivables of about five to six months, with deferred export shipments extending the current cycle."
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Consolidated Q2 revenue was ₹1,348 Cr (+13% YoY), EBITDA ₹220 Cr at 16.3% margin, PBT ₹174 Cr and PAT ₹133 Cr.",
+          "Standalone Q2 revenue was ₹1,104 Cr (+18% YoY), EBITDA ₹139 Cr at 12.6% margin, PBT ₹106 Cr and PAT ₹80 Cr.",
+          "Standalone order book exceeded ₹2,600 Cr, up around 30% QoQ, with stainless steel about ₹1,000 Cr and carbon steel about ₹1,700 Cr; export order values include tariff/freight gross-up.",
+          "RFSS reported quarterly revenue of ₹157 Cr and EBITDA of ₹86 Cr (54.7% reported margin); this reflects dispatch/material mix and is not management's long-run margin expectation."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Standalone Revenue",
+            "value": "₹4,000–₹4,200 Cr retained"
+          },
+          {
+            "metric": "FY27 Consolidated Revenue",
+            "value": "₹5,000–₹5,200 Cr retained"
+          },
+          {
+            "metric": "RFSS Revenue Potential",
+            "value": "₹1,200–₹1,500 Cr at full potential, depending on material mix; long-run EBITDA margin 25–30%"
+          }
+        ],
+        "highlights": [
+          "Spiral Mill-3 (100,000 TPA) and Odisha 3LPE coating plant (25 lakh sq m/year) were commissioned.",
+          "RFSS secured a new export order of about ₹2,700 Cr, taking its order book above ₹3,000 Cr; this is a multi-year order and is separate from Ratnamani standalone order book.",
+          "Standalone business remained debt-free; credit rating upgraded to CRISIL AA+/Stable.",
+          "Management reported a five-year aerospace supply frame agreement, but did not disclose a firm annual tonnage; bidding pipeline for carbon-steel line and in-plant piping was over ₹5,000 Cr."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q4FY26",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -762,6 +1231,92 @@
       }
     ],
     "Sambhv Steel Tubes Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹840 Cr",
+            "valueNum": 840,
+            "change": "Q2 FY27",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹105 Cr",
+            "valueNum": 105,
+            "change": "Margin above 12%",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹61 Cr",
+            "valueNum": 61,
+            "change": "Margin above 7%",
+            "yoyPct": null,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA / Tonne",
+            "value": "About ₹8,200",
+            "valueNum": 8200,
+            "change": "Down from Q1's ~₹8,800; Q1 said Q2 range ₹7,500–₹8,500",
+            "yoyPct": null,
+            "positive": 0
+          }
+        ],
+        "whatChanged": "Q2 EBITDA per tonne normalized from Q1's exceptional level but landed within the Q1 Q2-specific ₹7,500–₹8,500 guidance; management raised the lower end of its full-year EBITDA-per-tonne range to ₹8,000 while keeping the 2 million-tonne 2030 capacity ambition.",
+        "risks": [
+          "Stainless EBITDA per tonne was pressured by Chinese 200/300-series imports after QCO relaxation; management expects about ₹12,000–₹13,000/T for stainless in Q3/Q4 but policy action remains uncertain.",
+          "H1 working-capital days improved to 4–5 due to destocking, customer collections and supplier terms; management considers 20–25 days more sustainable in normal operations.",
+          "The ₹148 Cr initial seamless-pipe project is not yet operating; production is targeted from March 2028, with approvals, market development and utilization ramp required before FY30 output targets."
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Q2 revenue was ₹840 Cr, EBITDA ₹105 Cr, PAT ₹61 Cr, EBITDA margin above 12% and PAT margin above 7%; operating cash flow was ₹213 Cr.",
+          "Value-added product sales volume grew 27% YoY; blended EBITDA per tonne was about ₹8,200 versus about ₹8,800 in Q1.",
+          "Q2 steel EBITDA per tonne was affected by monsoon yield, lower stainless-steel margins amid QCO relaxation and Chinese imports, and normalization of Q1's abnormal price gains.",
+          "Management targets 410,000–425,000 tonnes of FY27 value-added product sales and raises the annual EBITDA-per-tonne range to ₹8,000–8,500."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Q2 EBITDA / Tonne",
+            "guided": "₹7,500–₹8,500",
+            "actual": "About ₹8,200 blended",
+            "status": "met"
+          }
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Value-Added Product Sales",
+            "value": "4.10–4.25 lakh tonnes"
+          },
+          {
+            "metric": "FY27 EBITDA / Tonne",
+            "value": "₹8,000–₹8,500; lower end raised from prior ₹7,500–₹8,500 range"
+          },
+          {
+            "metric": "Stainless seamless project",
+            "value": "14,400 TPA with ₹148 Cr initial investment; production targeted by March 2028"
+          },
+          {
+            "metric": "Vision 2030 Finished Capacity",
+            "value": "Over 2 million TPA; 90% of energy need targeted through captive power"
+          }
+        ],
+        "highlights": [
+          "A 14,400 TPA stainless-steel seamless pipe project, with ₹148 Cr initial investment, was announced; production is targeted by March 2028 using pierced hollows and pilgering, initially with externally sourced domestic round bars.",
+          "The 360,000 TPA Kesda stainless facility and 25 MW captive power plant were targeted for March 2027; a 150 Cr 30 MW Sarora power plant and 150,000 TPA DFT pipe addition were targeted for September 2027.",
+          "Management estimated 10,000 tonnes seamless output by FY30 and ₹400 Cr revenue at ₹400/kg realization, with ₹60–₹70 Cr EBITDA at 15–16% margin; these are project estimates, not achieved results.",
+          "In-house coil sourcing supports production economics, while the mix of MS, coated and stainless products affects blended profitability."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -977,6 +1532,88 @@
     ],
     "Venus Pipes & Tubes Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹361.1 Cr",
+            "valueNum": 361.1,
+            "change": "+23.9% YoY",
+            "yoyPct": 23.9,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹51.7 Cr",
+            "valueNum": 51.7,
+            "change": "+9.1% YoY; 14.3% margin",
+            "yoyPct": 9.1,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹26 Cr",
+            "valueNum": 26,
+            "change": "₹26.1 Cr in Q2 FY26",
+            "yoyPct": null,
+            "positive": 0
+          },
+          {
+            "label": "Exports",
+            "value": "₹147.2 Cr",
+            "valueNum": 147.2,
+            "change": "All-time high; 41% of revenue",
+            "yoyPct": null,
+            "positive": 1
+          }
+        ],
+        "whatChanged": "Record Q2 revenue and exports were offset by freight and fuel costs, leaving EBITDA margin at 14.3%; the ₹372 Cr preferential allotment is being used to repay about ₹344 Cr of debt, with interest savings expected from H2.",
+        "risks": [
+          "Freight increases on earlier-priced export orders reduced EBITDA per kg from about ₹64 to ₹62; only some orders have freight pass-through clauses, and future margin recovery depends partly on freight rates.",
+          "PAT was essentially flat YoY despite 23.9% revenue growth; the ₹344 Cr debt repayment and expected H2 interest savings are needed to improve finance costs.",
+          "The ₹156 Cr remaining data-centre LOI is not firm order book and is expected to convert in phases through Q2 FY28; completion timing depends on customer design finalization and capacity."
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 revenue was ₹361.1 Cr (+23.9% YoY), EBITDA ₹51.7 Cr (+9.1%) at 14.3% margin, and PAT ₹26 Cr versus ₹26.1 Cr a year earlier.",
+          "H1 revenue was ₹681.6 Cr (+20%) and EBITDA ₹103.2 Cr (+11.8%) at 15.1% margin.",
+          "Exports reached ₹147.2 Cr, an all-time high and 41% of revenue; seamless and welded businesses each grew about 20% YoY.",
+          "The reported order book was over ₹670 Cr, including about ₹29–₹30 Cr of firm data-centre orders and excluding the remaining approximately ₹156 Cr LOI."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Around 20% retained from Q1"
+          },
+          {
+            "metric": "FY27 pipe volume growth",
+            "value": "Around 15%; H1 pipe volume growth was about 8%"
+          },
+          {
+            "metric": "FY27 Data-Centre Spooling Revenue",
+            "value": "About ₹70 Cr in H2; >30% target EBITDA margin"
+          },
+          {
+            "metric": "H2 FY27 fittings revenue",
+            "value": "₹40–50 Cr expected; target margin around 18–20%"
+          },
+          {
+            "metric": "FY27 Capex",
+            "value": "₹130–₹140 Cr, including prior announced projects and solar"
+          }
+        ],
+        "highlights": [
+          "A ₹29 Cr data-centre spooling order converted from the previous ₹185 Cr LOI; the reported ₹670 Cr book includes the firm order and excludes the remaining approximately ₹156 Cr LOI.",
+          "The company raised ₹372 Cr through preferential allotment and planned to retire about ₹344 Cr of borrowings; management estimated ₹12–₹13 Cr H2 interest savings and ₹28–₹30 Cr annual savings.",
+          "Q2 order execution was about four to five months for the ₹670 Cr book; data-centre LOI execution is expected by Q2 FY28, with design-based orders released in phases.",
+          "Fittings contributed about ₹9 Cr in H1, with ₹40–50 Cr expected in H2; expansion of spooling into other sectors depends on approvals and customer development."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -1129,5 +1766,147 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 8,
+      "overview": "Value-added products, exports and capacity ramp-up support operating growth across the eight reviewed calls. Profitability and forecasts remain mixed: freight and energy costs, steel-price movements and commissioning delays offset some of the volume gains, while APL and Hi-Tech qualify or lower parts of their volume outlook.",
+      "trends": [
+        {
+          "text": "Companies continue to shift toward higher-value products and specialized industrial applications.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Goodluck India Ltd",
+            "Hariom Pipe Industries Ltd",
+            "Hi-Tech Pipes Ltd",
+            "JTL Industries Ltd",
+            "Ratnamani Metals & Tubes Ltd",
+            "Sambhv Steel Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        },
+        {
+          "text": "Capacity additions, debottlenecking and integration remain central to the growth plans.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Goodluck India Ltd",
+            "Hariom Pipe Industries Ltd",
+            "Hi-Tech Pipes Ltd",
+            "JTL Industries Ltd",
+            "Ratnamani Metals & Tubes Ltd",
+            "Sambhv Steel Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Export demand and wider overseas customer reach support growth or order visibility.",
+          "companies": [
+            "Goodluck India Ltd",
+            "Hi-Tech Pipes Ltd",
+            "Ratnamani Metals & Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Freight, energy and geopolitical disruption affect shipment execution or unit profitability.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Goodluck India Ltd",
+            "Hi-Tech Pipes Ltd",
+            "JTL Industries Ltd",
+            "Ratnamani Metals & Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        },
+        {
+          "text": "Steel-price and product-mix changes make revenue growth and percentage margins less comparable with physical volumes.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Hariom Pipe Industries Ltd",
+            "Hi-Tech Pipes Ltd",
+            "JTL Industries Ltd",
+            "Ratnamani Metals & Tubes Ltd",
+            "Sambhv Steel Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Defense, aerospace and specialized engineering products offer additional markets, subject to validation and approvals.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Goodluck India Ltd",
+            "JTL Industries Ltd",
+            "Ratnamani Metals & Tubes Ltd"
+          ]
+        },
+        {
+          "text": "Seamless pipes, stainless products and spooling broaden participation in higher-value applications.",
+          "companies": [
+            "Ratnamani Metals & Tubes Ltd",
+            "Sambhv Steel Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "APL narrows its volume commitment, Hi-Tech lowers its FY28 sales indication and JTL delays GP-line commercial production.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Hi-Tech Pipes Ltd",
+            "JTL Industries Ltd"
+          ]
+        },
+        {
+          "text": "Government or customer approvals determine when Goodluck defense orders, Venus LOIs and new projects become revenue.",
+          "companies": [
+            "Goodluck India Ltd",
+            "Hariom Pipe Industries Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        },
+        {
+          "text": "New capacity requires funding and successful ramp-up; strong near-term results do not establish future utilization.",
+          "companies": [
+            "Hariom Pipe Industries Ltd",
+            "Hi-Tech Pipes Ltd",
+            "JTL Industries Ltd",
+            "Sambhv Steel Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Sambhv meets its Q2 EBITDA-per-tonne band and raises the FY27 floor, while APL misses its specific Q2 volume target despite a sequential recovery.",
+          "companies": [
+            "APL Apollo Tubes Ltd",
+            "Sambhv Steel Tubes Ltd"
+          ]
+        },
+        {
+          "text": "Order books need scope discipline: Ratnamani’s subsidiary orders are separate, and Venus excludes unconverted LOIs from firm orders.",
+          "companies": [
+            "Ratnamani Metals & Tubes Ltd",
+            "Venus Pipes & Tubes Ltd"
+          ]
+        },
+        {
+          "text": "Reported and adjusted profit differ at JTL, while Hariom’s quarterly standalone figures differ from consolidated half-year results.",
+          "companies": [
+            "Hariom Pipe Industries Ltd",
+            "JTL Industries Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -20,6 +20,82 @@
   "concall": {
     "Coforge Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "$652.2 Mn",
+            "change": "+10.1% QoQ in USD; +10.9% QoQ constant currency",
+            "positive": 1,
+            "valueNum": 652.2,
+            "yoyPct": null
+          },
+          {
+            "label": "Consolidated EBIT Margin",
+            "value": "16.0%",
+            "change": "FY27 guidance raised from 15.5%",
+            "positive": 1,
+            "valueNum": 16.0,
+            "yoyPct": null
+          },
+          {
+            "label": "Order Intake",
+            "value": "$1.041 Bn",
+            "change": "More than $1 Bn; +102% YoY",
+            "positive": 1,
+            "valueNum": 1.041,
+            "yoyPct": 102
+          },
+          {
+            "label": "Next 12-Month Executable Order Book",
+            "value": "$2.4 Bn",
+            "change": "+45% YoY",
+            "positive": 1,
+            "valueNum": 2.4,
+            "yoyPct": 45
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue was $652.2 Mn (₹6,170.8 Cr), up 10.1% sequentially in USD and 10.9% in constant currency; organic CC growth was 3.8%.",
+          "Eight large deals were signed, the most in one quarter for Coforge; order intake exceeded $1 Bn and the next 12-month executable order book reached $2.4 Bn.",
+          "Consolidated EBIT margin was 16.0%; H1 EBITDA margin was 20.5%, H1 EBIT margin was 16.0%, and H1 free-cash-flow-to-PAT conversion was 92%."
+        ],
+        "highlights": [
+          "Organic constant-currency revenue grew 3.8% sequentially; acquired Encora revenue was broadly flat sequentially at about $147–148 Mn.",
+          "Two clients now exceed a $100 Mn annualized relationship run rate; top 10 and top 20 accounts grew at least 20% year over year.",
+          "AI-led engineering, data integration and cloud represented 86% of consolidated revenue; more than 520 AI engagements were active across 225+ clients.",
+          "Free cash flow was $53.8 Mn in Q2; management retained 100% FY27 FCF-to-PAT guidance."
+        ],
+        "whatChanged": "Management raised FY27 consolidated EBIT-margin guidance from 15.5% to 16%, targeted 17% EBIT margin in Q4, and said Encora should begin mirroring Coforge growth from Q3 after a flat Q2.",
+        "risks": [
+          "Organic revenue growth was 3.8% sequentially in constant currency, materially below reported growth after Encora was included; healthcare high-tech declined 6.4% sequentially.",
+          "Management said procurement-led RFP activity had slowed; the acceleration outlook depends on near-immediate deal ramps and strong conversion of the $2.4 Bn executable book.",
+          "Q2 exceptional acquisition and integration expense was $5.9 Mn; cumulative acquisition/integration costs were about $17 Mn versus the earlier $15–16 Mn estimate."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated EBIT margin",
+            "value": "16%"
+          },
+          {
+            "metric": "FY27 EBITDA margin",
+            "value": "20.5–21% retained"
+          },
+          {
+            "metric": "Q4 FY27 reported EBIT margin",
+            "value": "17%"
+          },
+          {
+            "metric": "FY27 FCF / PAT",
+            "value": "100%"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "$592.2 Mn", "change": "+49% YoY", "positive": 1 },
@@ -123,6 +199,65 @@
     ],
     "Fractal Analytics Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": false,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹957 Cr",
+            "change": "+20% YoY; +5% QoQ",
+            "positive": 1,
+            "valueNum": 957,
+            "yoyPct": 20
+          },
+          {
+            "label": "Adjusted EBITDA Margin",
+            "value": "16.2%",
+            "change": "+123 bps YoY",
+            "positive": 1,
+            "valueNum": 16.2,
+            "yoyPct": null
+          },
+          {
+            "label": "Net Income",
+            "value": "₹79 Cr",
+            "change": "+139% YoY",
+            "positive": 1,
+            "valueNum": 79,
+            "yoyPct": 139
+          },
+          {
+            "label": "Net Revenue Retention",
+            "value": "115%",
+            "change": "vs 112% a year ago",
+            "positive": 1,
+            "valueNum": 115,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue from operations was ₹957 Cr, up 20% year over year and 5% sequentially; constant-currency growth was 10% YoY and 4% QoQ.",
+          "H1 revenue was ₹1,869 Cr, up 20% year over year and 10% in constant currency; H1 adjusted EBITDA margin was 16.5%, up 155 bps.",
+          "H1 net income was ₹151 Cr, up 114% year over year; H1 operating cash flow was negative ₹24 Cr after variable compensation payments in Q1."
+        ],
+        "highlights": [
+          "TMT returned to sequential growth of 6%; healthcare and life sciences grew 79% YoY, BFSI 30%, and other industries 47%.",
+          "Products revenue was ₹38 Cr (4% of revenue); the products portfolio exceeded a ₹150 Cr annual run rate, up 39% YoY, with product RPO above ₹200 Cr.",
+          "Fractal Alpha revenue grew 40% YoY to ₹34 Cr; NRR was 115%, and 58 clients generated more than $1 Mn of annual revenue.",
+          "Management said Q3 and Q4 gross margins should recover as AI engineering hiring and June merit increases annualize and utilization of the new talent improves."
+        ],
+        "whatChanged": "The Q1 expectation of sequential TMT recovery was realized at 6% in Q2; Fractal also crossed $100 Mn of quarterly revenue, while gross margin fell 225 bps year over year due to AI engineering investment and merit increases.",
+        "risks": [
+          "Gross margin was 44%, down 225 bps year over year, reflecting AI engineering talent investment and annual merit increases; management expects recovery but did not quantify it.",
+          "CPG growth remained muted amid inflation and client consolidation; contract signing delays were described and the stronger recovery expectation extends into next fiscal year.",
+          "DSO increased five days year over year to 76 days due to collections timing, and the 31.5%-owned Qure.ai associate generated a ₹23 Cr share of loss in Q2."
+        ],
+        "outlook": "Management expects sequential CPG growth in Q3 and Q4, gross-margin recovery in the second half, continued slower G&A growth than revenue, and stronger CPG growth next fiscal year; it gave no new numeric FY27 guidance.",
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹912.5 Cr", "change": "+20% YoY", "positive": 1 },
@@ -224,6 +359,71 @@
       }
     ],
     "Happiest Minds Technologies Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹645 Cr",
+            "change": "+12.5% YoY; +2.7% QoQ",
+            "positive": 1,
+            "valueNum": 645,
+            "yoyPct": 12.5
+          },
+          {
+            "label": "Operating Profit",
+            "value": "₹119 Cr",
+            "change": "+22.4% YoY; +9.6% QoQ",
+            "positive": 1,
+            "valueNum": 119,
+            "yoyPct": 22.4
+          },
+          {
+            "label": "Operating Margin",
+            "value": "18.5%",
+            "change": "+100 bps QoQ",
+            "positive": 1,
+            "valueNum": 18.5,
+            "yoyPct": null
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹79.1 Cr",
+            "change": "Adjusted; adjusted EPS ₹5.25",
+            "positive": 1,
+            "valueNum": 79.1,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "H1 operating revenue was about ₹1,274 Cr, up 13.4% in rupees and 6.8% in constant currency.",
+          "H1 operating profit was ₹228 Cr; adjusted PAT was ₹159 Cr and adjusted EPS was about ₹10.60 per ₹2 share.",
+          "Q2 repeat business reached 95.1%; utilization was 81.8%, voluntary attrition 14.3%, and cash and cash equivalents ₹1,716 Cr."
+        ],
+        "highlights": [
+          "Q2 operating margin improved to 18.5% from 17.5% in Q1, supported by utilization, operating efficiencies and cost discipline.",
+          "IP-led revenue increased to 10.5% from 9.3% in Q1; 55% of projects were delivered with AI and 72% of developers/testers used advanced AI tools.",
+          "IMSS reported strong sequential growth, largely from new annuity deals; security contributed about 40% of IMSS revenue.",
+          "Management said the proposed ITC Infotech combination remained broadly on schedule, with completion targeted around October–November 2027 subject to approvals."
+        ],
+        "whatChanged": "Revenue growth was 12.5% YoY in Q2 and operating margin rose to 18.5%; the company also announced a proposed ITC Infotech combination after Q1, while Q2 did not restate Q1's 12.5% FY27 revenue-growth guidance.",
+        "risks": [
+          "U.S. revenue grew only 0.9% sequentially; U.S. EdTech remains challenged, with some high-tech work completed or affected by customer funding limits.",
+          "DSO increased to 101 days from 92, which management attributed largely to Aureus and PureSoftware migrations and associated integration delays.",
+          "The proposed ITC Infotech combination and its FY28 scale aspiration remain subject to regulatory, shareholder and court approvals."
+        ],
+        "outlook": "Management's Q2 focus was sustaining growth, protecting profitability and investing in capabilities; the proposed combined business aspires to $1 Bn annual revenue by FY28, subject to merger completion and approvals.",
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Proposed combined-company scale aspiration",
+            "value": "$1 Bn annual revenue by FY28, conditional on the ITC Infotech combination and approvals; not standalone organic guidance"
+          }
+        ]
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -365,6 +565,71 @@
     ],
     "Indegene Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,122.3 Cr",
+            "change": "+39.5% YoY; +5.6% QoQ in INR",
+            "positive": 1,
+            "valueNum": 1122.3,
+            "yoyPct": 39.5
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹187.3 Cr",
+            "change": "+32% YoY; 16.7% margin",
+            "positive": 1,
+            "valueNum": 187.3,
+            "yoyPct": 32
+          },
+          {
+            "label": "Profit After Tax",
+            "value": "₹112.3 Cr",
+            "change": "+10% YoY; 10% of revenue",
+            "positive": 1,
+            "valueNum": 112.3,
+            "yoyPct": 10
+          },
+          {
+            "label": "Tectonic Quarterly Run Rate",
+            "value": "$1.7 Mn",
+            "change": "Contracted forward run rate exceeds $2 Mn per quarter",
+            "positive": 1,
+            "valueNum": 1.7,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹1,122.3 Cr (US$117.5 Mn); dollar revenue grew 27.5% year over year and 4.4% sequentially.",
+          "Q2 EBITDA margin was 16.7%; the annual wage increase reduced margin by about 150 bps, largely offset by productivity and foreign exchange.",
+          "Top 20 accounts grew 6.7% sequentially in INR; nine deals had annual contract values above $1 Mn, including three large deals."
+        ],
+        "highlights": [
+          "Q2 was the fifth consecutive quarter of more than 5% sequential INR revenue growth.",
+          "A top-five customer expanded its content-platform mandate to new geographies; other wins broadened global content and AI-led commercialization work.",
+          "BioPharm generated about $1.5 Mn in annual cost savings, reinvested in growth; the company expects its 2026 revenue-growth earnout to approach the maximum.",
+          "Revenue mix was 71% Enterprise Commercial, 25% Enterprise Medical and 4% Other; North America represented 74%."
+        ],
+        "whatChanged": "The company retained its Q1 objectives of organic growth above FY26 and quarterly EBITDA margin back above 19% by Q4; Q2 revenue grew 5.6% sequentially, while the largest customer's Tectonic ramp remained gradual and the $10 Mn outcome-linked contract is now expected to peak in Q4.",
+        "risks": [
+          "Revenue from the largest customer eased as Tectonic adoption ramped gradually; management cited central-versus-local change-management friction, though contracted scope continued to expand.",
+          "Interest income fell 44% sequentially, reducing PBT by about 90 bps and PAT by about 70 bps; margin recovery depends partly on investment yields and H2 contract execution.",
+          "Q2 DSO net of unearned/unbilled revenue increased to 69 days; outcome-based billing creates timing variations, although management expected normalization in Q3–Q4."
+        ],
+        "guidance": [
+          {
+            "metric": "Quarterly EBITDA margin by Q4 FY27",
+            "value": "19%+"
+          }
+        ],
+        "outlook": "Management reiterated its goal of organic growth above FY26 and expects H2 to be stronger than H1; it expects the $10 Mn outcome-linked contract to contribute most meaningfully in Q4. The company said it does not provide formal guidance.",
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Bullish",
@@ -503,6 +768,80 @@
     ],
     "Intellect Design Arena Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total Income",
+            "value": "₹878 Cr",
+            "change": "Q2FY27",
+            "positive": 1,
+            "valueNum": 878,
+            "yoyPct": null
+          },
+          {
+            "label": "License-Linked Revenue",
+            "value": "₹457 Cr",
+            "change": "About 52% of Q2 total income",
+            "positive": 1,
+            "valueNum": 457,
+            "yoyPct": null
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹199 Cr",
+            "change": "22.7% of total income",
+            "positive": 1,
+            "valueNum": 199,
+            "yoyPct": null
+          },
+          {
+            "label": "Pipeline",
+            "value": "₹13,125 Cr",
+            "change": "+9% YoY; close to 4× trailing income",
+            "positive": 1,
+            "valueNum": 13125,
+            "yoyPct": 9
+          }
+        ],
+        "fyPerformance": [
+          "LTM total income was ₹3,388 Cr, up 17% year over year; license-linked revenue was ₹1,768 Cr, up 18%, and 52% of LTM income.",
+          "Q2 total income was ₹878 Cr; gross margin was 57.2%, EBITDA ₹199 Cr (22.7% margin), PBT ₹137 Cr and PAT ₹104 Cr.",
+          "The company recorded 21 wins, including eight destiny wins, and 25 institutions went live; both figures were up from Q1."
+        ],
+        "highlights": [
+          "Seven of 21 Q2 wins were AI-led; nine wins came from the Americas and Europe, and three major platform programs went live ahead of plan.",
+          "MSOCK was validated across 141 internal projects, with 39 patents filed; management said total cost stayed flat versus Q1 while 25 institutions went live.",
+          "The pipeline stood at ₹13,125 Cr with 103 destiny deals; eight destiny deals converted in Q2, while management said pipeline growth moderated as attention shifted to conversion.",
+          "Platform revenue was ₹133 Cr and AMC revenue ₹160 Cr; cash and cash equivalents were ₹1,216 Cr at September 30."
+        ],
+        "whatChanged": "Intellect retains its ₹4,000 Cr FY28 revenue objective and expresses confidence in crossing ₹900 Cr of quarterly revenue during H2; go-lives increase from 16 to 25 while a Central 1 customer migration reduces SaaS revenue.",
+        "risks": [
+          "One or more Central 1 credit-union customers left after contract terms expired, reducing SaaS revenue; management had expected about 80% retention in that acquired customer base.",
+          "Days sales outstanding, excluding contractually not-due amounts, was 111 days; collections and working-capital efficiency remain explicit management priorities.",
+          "Pipeline growth moderated as management shifted focus to converting 103 destiny deals; realizing operating leverage and faster growth depends on successful delivery and conversions."
+        ],
+        "guidance": [
+          {
+            "metric": "Quarterly revenue during H2 FY27",
+            "value": "Confidence in crossing ₹900 Cr over the next two quarters"
+          },
+          {
+            "metric": "Revenue by FY28",
+            "value": "₹4,000 Cr"
+          },
+          {
+            "metric": "Near-term quarterly cost base",
+            "value": "Around ₹680–700 Cr over the next few quarters as revenue scales"
+          }
+        ],
+        "outlook": "Management also described ₹5,000 Cr revenue as longer-term visibility, but did not attach a delivery date; it said quarterly cost should remain ₹680–700 Cr over the next few quarters as revenue scales.",
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 FY27 and LTM comparison"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Total Income", "value": "₹872 Cr", "change": "+19% YoY", "positive": 1 },
@@ -606,6 +945,82 @@
     ],
     "Inventurus Knowledge Solutions Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,592.5 Cr",
+            "change": "+104% YoY reported; includes 82 days of TruBridge",
+            "positive": 1,
+            "valueNum": 1592.5,
+            "yoyPct": 104
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹442 Cr",
+            "change": "27.8% margin reported",
+            "positive": 1,
+            "valueNum": 442,
+            "yoyPct": null
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹273 Cr",
+            "change": "+36% YoY; 17% of revenue",
+            "positive": 1,
+            "valueNum": 273,
+            "yoyPct": 36
+          },
+          {
+            "label": "Reported PAT",
+            "value": "₹217 Cr",
+            "change": "+20% YoY",
+            "positive": 1,
+            "valueNum": 217,
+            "yoyPct": 20
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue was $169 Mn, including $101 Mn from legacy IKS and $68 Mn from TruBridge for 82 days.",
+          "Legacy IKS revenue grew a little over 13% YoY in US-dollar terms; TruBridge is in its first quarter of consolidation.",
+          "Reported EBITDA was ₹442 Cr, including about ₹25 Cr of one-time integration expense; EBITDA excluding ESOP expense was about ₹459 Cr.",
+          "Adjusted PAT excludes ESOP expense and intangible amortisation; reported PAT was ₹217 Cr.",
+          "Net debt was ₹5,280 Cr, approximately $550 Mn, and net leverage was below 3x EBITDA."
+        ],
+        "whatChanged": "TruBridge was consolidated for 82 days, taking reported revenue sharply higher; management says stabilization, synergies and cross-selling are now the main execution priorities, with no formal FY27 growth guidance.",
+        "risks": [
+          "Management expects no significant net growth from TruBridge in FY27 while it focuses on integration and customer-base stabilization.",
+          "The combined company has ₹5,280 Cr of net debt; quarterly interest expense is expected to be about $10 Mn at current rates.",
+          "Management expects AI-system integration and three initial system-of-action features in the legacy TruBridge EHR by Q1 FY28, making delivery timing an execution risk."
+        ],
+        "outlook": "No formal growth guidance was issued. Management expects legacy IKS to continue growing faster than its stated 12% industry benchmark; TruBridge is a stabilization year in FY27, with moderate growth expected from FY28. The 10–12% system-of-action growth aspiration is for late FY28/FY29, and ₹3,000 Cr EBITDA by FY30 remains a True North objective, not a quarterly delivery target.",
+        "highlights": [
+          "Management said TruBridge customer stickiness, patient-record access and synergy potential were better than expected after more than 50 customer meetings.",
+          "Two TruBridge customers have started assessments for the full IKS system-of-action platform; denial prevention, coding and clinical productivity are the first features being integrated.",
+          "IKS reported adjusted operating cash flow of ₹393 Cr, about 90% of EBITDA; reported OCF was ₹96 Cr lower because of a non-recurring acquisition payment timing item.",
+          "Management said most acquisition synergies remain ahead, with operating-model, coding and G&A levers expected to begin from the second half of Q3.",
+          "Legacy IKS EBITDA margin remained around 34.5–35%, distinct from the acquired combined business."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "FY30 EBITDA aspiration",
+            "value": "₹3,000 Cr True North objective; not formal FY27 growth guidance"
+          },
+          {
+            "metric": "FY30 leverage aspiration",
+            "value": "Near-zero net leverage by FY30"
+          },
+          {
+            "metric": "Initial TruBridge feature rollout",
+            "value": "Three system-of-action features targeted for integration into the existing EHR by Q1 FY28"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹893 Cr", "change": "+21% YoY", "positive": 1 },
@@ -707,6 +1122,87 @@
       }
     ],
     "Mphasis Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Direct Revenue Growth",
+            "value": "+11.3% YoY CC",
+            "change": "+3.5% QoQ CC",
+            "positive": 1,
+            "valueNum": 11.3,
+            "yoyPct": 11.3
+          },
+          {
+            "label": "Net New TCV",
+            "value": "$466 Mn",
+            "change": "Sixth consecutive quarter above $400 Mn",
+            "positive": 1,
+            "valueNum": 466,
+            "yoyPct": null
+          },
+          {
+            "label": "Pipeline",
+            "value": "+23% YoY",
+            "change": "+4.4% QoQ",
+            "positive": 1,
+            "valueNum": 23,
+            "yoyPct": 23
+          },
+          {
+            "label": "EPS",
+            "value": "₹29.4",
+            "change": "+14.6% QoQ",
+            "positive": 1,
+            "valueNum": 29.4,
+            "yoyPct": null
+          }
+        ],
+        "fyPerformance": [
+          "Direct revenue grew 3.5% sequentially and 11.3% YoY in constant currency; management said the quarter delivered its strongest sequential growth in three years.",
+          "Net new TCV was $466 Mn; trailing-twelve-month TCV was $1.8 Bn, with 66% of Q2 TCV wins AI-led.",
+          "BFS Direct grew 4.5% sequentially and 15.0% YoY CC; TMT grew 10.9% sequentially and 14.5% YoY CC.",
+          "Operating cash flow was $34 Mn after normalizing $39.5 Mn of remittances initiated on September 30 and received in October; DSO was 105 days after the same normalization."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Q2 sequential constant-currency growth",
+            "guided": "Best sequential growth in three years",
+            "actual": "Direct revenue grew 3.5% sequentially; management confirmed it was the strongest sequential growth in three years",
+            "status": "met"
+          }
+        ],
+        "whatChanged": "Mphasis raised FY27 revenue-growth guidance to low double digits from Q1’s high-single-digit to low-double-digit range after broad-based Q2 growth and record pipeline visibility; the EBIT-margin band is unchanged.",
+        "risks": [
+          "EMEA Direct revenue fell 3.3% sequentially and 9.0% YoY CC; Logistics and Transportation declined 12.0% sequentially amid geopolitical uncertainty.",
+          "DSO rose to 105 days after normalizing delayed remittances, and management described the quarter’s cash-flow timing as an anomaly while targeting recovery.",
+          "Management continues to invest in Tria and onsite delivery; it said these investments weigh on margins, which remained near the lower end of the 14.75–15.75% band."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue growth",
+            "value": "Low double digits"
+          },
+          {
+            "metric": "FY27 EBIT margin",
+            "value": "14.75–15.75%"
+          },
+          {
+            "metric": "FY27 operating cash flow / net income",
+            "value": "80%"
+          }
+        ],
+        "highlights": [
+          "Total pipeline reached a record, up 23% YoY; the share of AI-led pipeline was 71%.",
+          "Five large deals closed in Q2, including a broker-dealer engagement with a recurring revenue-share model.",
+          "Applications Direct revenue grew 14.4% YoY CC and BPO grew 18.7% YoY CC.",
+          "Management said Tria-led deployments are live across multiple clients but did not disclose a revenue, pipeline or client-count metric."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
@@ -811,6 +1307,81 @@
     ],
     "Persistent Systems Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Constructive",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "$487.6 Mn",
+            "change": "+20% YoY USD; +20.8% YoY CC",
+            "positive": 1,
+            "valueNum": 487.6,
+            "yoyPct": 20
+          },
+          {
+            "label": "EBIT Margin",
+            "value": "15.0%",
+            "change": "-100 bps QoQ; -130 bps YoY",
+            "positive": -1,
+            "valueNum": 15,
+            "yoyPct": null
+          },
+          {
+            "label": "Operating PAT",
+            "value": "₹495.2 Cr",
+            "change": "+5% YoY; 10.6% margin",
+            "positive": 1,
+            "valueNum": 495.2,
+            "yoyPct": 5
+          },
+          {
+            "label": "Reported PAT",
+            "value": "₹351.5 Cr",
+            "change": "-25.4% YoY after Nagarro transaction costs",
+            "positive": -1,
+            "valueNum": 351.5,
+            "yoyPct": -25.4
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹4,663.9 Cr, up 30.3% YoY in rupees and 20.8% in constant currency; sequential growth was 7.8% in constant currency.",
+          "TCV was $633.5 Mn and ACV was $481 Mn; management said TTM TCV grew 36.3% YoY and TTM ACV grew 21.9%.",
+          "Q2 EBIT margin was 15.0%, down 100 bps sequentially: annual wage hikes had a net 140-bps impact, lower utilization 20 bps, and software-license amortization about 90 bps; lower ESOP cost and FX added 150 bps.",
+          "Reported PAT included ₹185.3 Cr of Nagarro transaction costs; the company expects another $25–30 Mn of transaction expense over coming quarters.",
+          "Billed DSO improved to 50 days from 61 in Q1; TTM operating cash flow / PAT increased to 96.6% from 76.2%."
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "Large technology deal ramp",
+            "guided": "Q2 call references the prior expectation of 75–80% or more of the deal being ramped by Q2",
+            "actual": "Management said revenue realization in Q2 reflected that expected ramp; no absolute deal revenue was disclosed",
+            "status": "met"
+          }
+        ],
+        "whatChanged": "Revenue accelerated from 4.1% QoQ CC in Q1 to 7.8% in Q2 as the large technology deal ramped, while margin fell to 15.0% and reported PAT declined because Nagarro transaction costs began to flow through.",
+        "risks": [
+          "Nagarro closing remained pending as of the call; Persistent had secured 94.04% of Nagarro share capital but was awaiting Austria and Spain clearances and RBI approval.",
+          "Management expects approximately $50 Mn of one-time Nagarro transaction expenses over three to four quarters; it said $25–30 Mn remained over coming quarters.",
+          "Annual wage increases, lower utilization and software-license amortization reduced Q2 EBIT margin; Europe revenue also declined 8.5% YoY USD due to two client-specific ramp-downs."
+        ],
+        "outlook": "Management does not give forward-looking guidance. It reiterated an aspirational 16–17% operating-margin range as optimization and revenue scale absorb current deal costs; it said the pipeline is healthy and it is relatively confident all segments will grow. The margin range is an aspiration, not a FY27 forecast.",
+        "highlights": [
+          "The company reported 26 consecutive quarters of sequential revenue growth.",
+          "The large technology deal lifted revenue, while wage revisions, software-license amortization and Nagarro transaction costs affected profitability.",
+          "Management said the 6.5-year technology deal’s $650 Mn value was at the lower end of its estimate, with potential upside; no new named large deal was disclosed in Q2.",
+          "Persistent reported 29,598 employees, with headcount up 958 sequentially to support ramp-ups; utilization was 85.8% and TTM attrition 11.9%."
+        ],
+        "asOf": "Nov 2026",
+        "guidance": [
+          {
+            "metric": "Operating-margin aspiration",
+            "value": "16–17%; management explicitly declined formal forward guidance or an annual delivery commitment"
+          }
+        ]
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": false,
         "tone": "Strongly Bullish",
@@ -858,7 +1429,8 @@
         ],
         "quote": "\"This marks our 25th sequential quarter of revenue growth.\"",
         "quotePerson": "Management Commentary",
-        "asOf": "July 2026"
+        "asOf": "July 2026",
+        "outlook": "Management does not give formal forward guidance; it aspires to a 16–17% operating-margin range and expects operating cash flow to return to around 100% of PAT during the year."
       },
       {
         "quarter": "Q4FY26",
@@ -926,6 +1498,80 @@
       }
     ],
     "Sagility Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹2,032.1 Cr",
+            "change": "+22.5% YoY INR; +12.2% CC",
+            "positive": 1,
+            "valueNum": 2032.1,
+            "yoyPct": 22.5
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹535.3 Cr",
+            "change": "+23% YoY; 26.3% margin",
+            "positive": 1,
+            "valueNum": 535.3,
+            "yoyPct": 23
+          },
+          {
+            "label": "Adjusted PAT",
+            "value": "₹325.4 Cr",
+            "change": "+8.1% YoY; 16% margin",
+            "positive": 1,
+            "valueNum": 325.4,
+            "yoyPct": 8.1
+          },
+          {
+            "label": "Deal ACV",
+            "value": "$40.2 Mn",
+            "change": "+18.2% YoY",
+            "positive": 1,
+            "valueNum": 40.2,
+            "yoyPct": 18.2
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹20,321 Mn, up 22.5% YoY in INR and 12.2% in constant currency; organic growth excluding CareSeed was 11.9% CC.",
+          "Adjusted EBITDA was ₹5,353 Mn, with a 26.3% margin, the highest in six quarters; adjusted PAT was ₹3,254 Mn.",
+          "H1 revenue was ₹39,956 Mn, up 25% in INR and 13.7% CC; H1 adjusted EBITDA margin was 25.2%.",
+          "Q2 operating cash flow was ₹3,182 Mn and free cash flow ₹2,760 Mn; H1 operating-cash-flow conversion to reported EBITDA was 64.9%.",
+          "Provider revenue was 10.1%; the Chirok acquisition closed in October, while Q2 deal ACV reached $40.2 Mn."
+        ],
+        "whatChanged": "Sagility kept its low-double-digit organic growth outlook but lowered expected AEP/open-enrollment contribution by about 100 bps versus last year; it raised FY27 adjusted EBITDA margin guidance to 25–26% from 24–25%.",
+        "risks": [
+          "Management expects open-enrollment/AEP revenue to be slightly below last year, with a roughly 100-bps lower contribution based on current visibility.",
+          "Provider business remains about 10% of revenue and organic growth has been tempered by tapering of discrete client projects; Chirok cross-sell is a new execution opportunity.",
+          "AI-led productivity is expected to be shared substantially with clients, and management says price and cost pressure remains present."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 organic revenue growth",
+            "value": "Low double digits in constant currency; CareSeed and Chirok are incremental"
+          },
+          {
+            "metric": "FY27 adjusted EBITDA margin",
+            "value": "25–26%, raised from 24–25%"
+          },
+          {
+            "metric": "Debt repayment",
+            "value": "Repay outstanding debt fully during FY27"
+          }
+        ],
+        "highlights": [
+          "The Board approved an interim dividend of ₹0.15 per share.",
+          "Chirok had $13 Mn trailing-12-month revenue to September 2026, 35.8% adjusted EBITDA margin and more than 115% net revenue retention; consideration was $20 Mn upfront plus up to $12.35 Mn contingent.",
+          "The top 10 client groups each exceeded $20 Mn in trailing-12-month revenue for the first time.",
+          "Quarterly voluntary attrition improved to 25.7% from 28.6% in Q1."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
@@ -1029,6 +1675,73 @@
     ],
     "Tata Technologies Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "$178 Mn",
+            "change": "+22.2% YoY CC; ₹1,699 Cr reported",
+            "positive": 1,
+            "valueNum": 178,
+            "yoyPct": 22.2
+          },
+          {
+            "label": "Services Revenue",
+            "value": "$142 Mn",
+            "change": "+26.2% YoY CC; +4.3% QoQ CC",
+            "positive": 1,
+            "valueNum": 142,
+            "yoyPct": 26.2
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹273 Cr",
+            "change": "16.1% margin; +31.5% YoY",
+            "positive": 1,
+            "valueNum": 273,
+            "yoyPct": 31.5
+          },
+          {
+            "label": "Net Income",
+            "value": "₹171 Cr",
+            "change": "+3% YoY reported; +13% excluding non-cash FX items",
+            "positive": 1,
+            "valueNum": 171,
+            "yoyPct": 3
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue from operations grew 22.2% YoY in constant currency to $178 Mn; services revenue was $142 Mn, about 80% of total revenue.",
+          "Services grew 4.3% sequentially CC and 26.2% YoY CC; growth was broad-based across automotive and non-automotive services.",
+          "Operating EBITDA margin held at 16.1% despite an estimated 100-bps annual salary-increment headwind; EBITDA was ₹273 Cr.",
+          "Technology Solutions revenue declined 6.6% sequentially to ₹343 Cr; a change to SaaS license revenue recognition reduced Q2 revenue by ₹12.6 Cr.",
+          "Net cash was about ₹330 Cr after a ₹475 Cr dividend payout; DSO was 102 days versus 97 in Q1."
+        ],
+        "whatChanged": "Management reiterated strong double-digit FY27 consolidated revenue growth and said large programs should contribute more in H2; it also flagged softer Germany/ES-Tec demand, a weaker education segment and ₹12.6 Cr of product revenue deferred under the new recognition policy.",
+        "risks": [
+          "ES-Tec demand remained subdued, especially from its largest German customer, and management expects additional softness in Q3 before conditions stabilize in 2027.",
+          "Education project execution is under near-term pressure from slower customer-site infrastructure readiness.",
+          "Q2 unbilled DSO increased to 39 days from 32 in Q1, while net cash declined to ₹330 Cr after the dividend payout."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 consolidated revenue growth",
+            "value": "Strong double-digit growth"
+          }
+        ],
+        "highlights": [
+          "Five large deals were secured in Q2, including a $138 Mn full-vehicle engineering program spanning two vehicles for a European luxury automotive OEM.",
+          "A North American commercial-vehicle manufacturer selected Tata Technologies for end-to-end development of a vehicle platform and associated SDV infrastructure.",
+          "Management said aerospace demand remains strong and is an emerging second growth engine; AI agents are being developed by nearly 1,000 associates.",
+          "The Q2 revenue-recognition change for certain OEM-hosted SaaS licenses moves recognition over the license term from upfront recognition, effective July 1, 2026.",
+          "Management expects sequential margin improvement; 18% and 20% remain longer-term aspirations without a committed delivery date."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "$175.4 Mn", "change": "+25.2% YoY CC", "positive": 1 },
@@ -1129,5 +1842,178 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 10,
+      "overview": "Growth improves across the reviewed IT and technology calls, supported by AI-led work, larger engagements and deeper customer relationships. Coforge, Mphasis and Sagility upgrade parts of their outlook, while acquisition effects, investment costs and uneven demand leave profitability and cash conversion mixed.",
+      "trends": [
+        {
+          "text": "AI is moving into client workflows, platforms and delivery processes, with companies seeking measurable business outcomes.",
+          "companies": [
+            "Coforge Ltd",
+            "Fractal Analytics Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Intellect Design Arena Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Mphasis Ltd",
+            "Persistent Systems Ltd",
+            "Sagility Ltd",
+            "Tata Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Existing customer expansion and larger or more strategic engagements support the growth pipeline.",
+          "companies": [
+            "Coforge Ltd",
+            "Fractal Analytics Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Intellect Design Arena Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Mphasis Ltd",
+            "Persistent Systems Ltd",
+            "Sagility Ltd",
+            "Tata Technologies Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Reusable AI capabilities and productivity improvements support delivery efficiency and operating leverage.",
+          "companies": [
+            "Coforge Ltd",
+            "Fractal Analytics Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Intellect Design Arena Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Mphasis Ltd",
+            "Sagility Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Selective client spending, slower decisions or weak pockets of demand limit the breadth of growth.",
+          "companies": [
+            "Coforge Ltd",
+            "Fractal Analytics Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Mphasis Ltd",
+            "Persistent Systems Ltd",
+            "Sagility Ltd",
+            "Tata Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Hiring, wage revisions, integration or platform investment create near-term profitability pressure.",
+          "companies": [
+            "Coforge Ltd",
+            "Fractal Analytics Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Mphasis Ltd",
+            "Persistent Systems Ltd",
+            "Tata Technologies Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Acquisitions and the proposed ITC Infotech combination expand capabilities and customer access, subject to integration or approvals.",
+          "companies": [
+            "Coforge Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Persistent Systems Ltd",
+            "Sagility Ltd"
+          ]
+        },
+        {
+          "text": "Healthcare workflow automation and provider services offer additional areas for growth.",
+          "companies": [
+            "Fractal Analytics Ltd",
+            "Indegene Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Sagility Ltd"
+          ]
+        },
+        {
+          "text": "Tata Technologies is winning full-vehicle programs while developing aerospace as another growth engine.",
+          "companies": [
+            "Tata Technologies Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "DSO, delayed collections and transaction-related cash payments need monitoring alongside reported growth.",
+          "companies": [
+            "Fractal Analytics Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Intellect Design Arena Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Mphasis Ltd",
+            "Tata Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Acquired revenue, adjusted profit and reported profit use different bases; headline growth does not establish organic growth or cash generation.",
+          "companies": [
+            "Coforge Ltd",
+            "Happiest Minds Technologies Ltd",
+            "Indegene Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Persistent Systems Ltd",
+            "Sagility Ltd",
+            "Tata Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Large-deal conversion and customer adoption determine how quickly the pipeline becomes revenue.",
+          "companies": [
+            "Coforge Ltd",
+            "Indegene Ltd",
+            "Intellect Design Arena Ltd",
+            "Inventurus Knowledge Solutions Ltd",
+            "Mphasis Ltd",
+            "Persistent Systems Ltd",
+            "Sagility Ltd",
+            "Tata Technologies Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Coforge raises its FY27 EBIT-margin target to 16%, Mphasis lifts its growth outlook to low double digits, and Sagility raises its adjusted EBITDA-margin band to 25–26%.",
+          "companies": [
+            "Coforge Ltd",
+            "Mphasis Ltd",
+            "Sagility Ltd"
+          ]
+        },
+        {
+          "text": "Persistent’s operating PAT grows while reported PAT declines after Nagarro transaction costs; Nagarro had not closed at the call.",
+          "companies": [
+            "Persistent Systems Ltd"
+          ]
+        },
+        {
+          "text": "Intellect’s SaaS customer migration and Tata Technologies’ license-recognition change affect revenue comparability.",
+          "companies": [
+            "Intellect Design Arena Ltd",
+            "Tata Technologies Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

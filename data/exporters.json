@@ -119,6 +119,84 @@
     ],
     "Garware Hi Tech Films Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹696 Cr",
+            "change": "Q2; +22% YoY, record",
+            "positive": 1,
+            "valueNum": 696,
+            "yoyPct": 22
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹189 Cr",
+            "change": "Q2; +42% YoY; 27.2% margin",
+            "positive": 1,
+            "valueNum": 189,
+            "yoyPct": 42
+          },
+          {
+            "label": "PAT",
+            "value": "₹129 Cr",
+            "change": "Q2; +42% YoY",
+            "positive": 1,
+            "valueNum": 129,
+            "yoyPct": 42
+          },
+          {
+            "label": "H1 revenue",
+            "value": "₹1,329 Cr",
+            "change": "H1; +25% YoY",
+            "positive": 1,
+            "valueNum": 1329,
+            "yoyPct": 25
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 revenue was a record ₹696 Cr; EBITDA was ₹189 Cr (27.2% margin) and PAT ₹129 Cr.",
+          "H1 revenue grew 25% to ₹1,329 Cr; EBITDA rose 49% to ₹381 Cr and PAT 50% to ₹262 Cr.",
+          "H1 mix was 73% consumer products and 27% industrial products; value-added products were 86% of revenue.",
+          "Cash was ₹933 Cr at September 30, 2026; working capital was 29 days versus 28 days in FY26."
+        ],
+        "highlights": [
+          "FY27 revenue target above ₹2,500 Cr was reaffirmed; EBITDA-margin guidance rose by 200 bps to 27% ±2%.",
+          "Q2 utilization was 75% for sun-control film and 73% for paint-protection film; management expects further utilization improvement as capacity ramps up.",
+          "₹191 Cr sun-control-film expansion is expected to start commercial production in H1 FY28, adding about 1,200 lakh sq ft capacity.",
+          "TPU line commissioning remained on track for Q3 FY27; external TPU sales estimated at ₹75–100 Cr in FY28, with 75% output intended for captive use."
+        ],
+        "whatChanged": "Versus Q1's FY27 revenue above ₹2,500 Cr and 25% ±2% EBITDA-margin guidance, management retained the revenue target and raised margin guidance to 27% ±2%; Q1's seasonal margin near 30% was not presented as a full-year run rate.",
+        "risks": [
+          "Raw-material costs rose about 4% and logistics cost by ₹9 Cr; management estimated a combined ₹37 Cr Q2 cost headwind.",
+          "Management acknowledged customer concentration and reported 58–60 inventory days, intentionally raised for supply continuity.",
+          "Q3 is seasonally softer for sun-control films; the new line is not expected to contribute commercially until H1 FY28."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue",
+            "value": "Above ₹2,500 Cr; reaffirmed"
+          },
+          {
+            "metric": "FY27 EBITDA margin",
+            "value": "27% ±2%; raised 200 bps from Q1"
+          },
+          {
+            "metric": "FY28 external TPU sales",
+            "value": "₹75–100 Cr; initial estimate"
+          },
+          {
+            "metric": "TPU line",
+            "value": "Commissioning on track for Q3 FY27"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹633 Cr", "change": "+28% YoY", "positive": 1 },
@@ -223,6 +301,88 @@
     ],
     "Gokaldas Exports Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated income growth",
+            "value": "+13% YoY",
+            "change": "Q2",
+            "positive": 1,
+            "valueNum": 13,
+            "yoyPct": 13
+          },
+          {
+            "label": "EBITDA growth",
+            "value": "+48% YoY",
+            "change": "Q2; mix/productivity gains and low tariff-affected base",
+            "positive": 1,
+            "valueNum": 48,
+            "yoyPct": 48
+          },
+          {
+            "label": "India business growth",
+            "value": "+10% YoY",
+            "change": "Q2; seasonally weak quarter",
+            "positive": 1,
+            "valueNum": 10,
+            "yoyPct": 10
+          },
+          {
+            "label": "Net debt",
+            "value": "₹429 Cr",
+            "change": "September 2026; down from ₹553 Cr at March 2026",
+            "positive": 1,
+            "valueNum": 429,
+            "yoyPct": null
+          }
+        ],
+        "performanceLabel": "Q2 FY27",
+        "fyPerformance": [
+          "Consolidated income rose 13% YoY and EBITDA 48% YoY, supported by product mix and productivity; the comparison also benefited from a tariff-affected prior-year base.",
+          "India grew 10% YoY and Africa 32% YoY; management described Q2 as seasonally weak for Africa.",
+          "Net debt declined to ₹429 Cr at September 2026 from ₹553 Cr at March 2026."
+        ],
+        "highlights": [
+          "Management expected strong Q3 revenue and double-digit India volume growth from FY28; it described Q2 as an American-business trough before robust Q3 growth.",
+          "Africa H2 revenue outlook was about US$50–55m if management reduced exposure to a customer representing 20–25% of Africa revenue; US$60m remained possible otherwise.",
+          "Atraco EBITDA margin was expected to reach 10% in about six months; BTPL Q2 revenue was about ₹170 Cr and slightly EBITDA-negative, with Q3 breakeven and Q4 PBT breakeven aims.",
+          "Two new African customers are expected to start from FY28; management also sees opportunities to grow European customer business.",
+          "Net debt was expected to end FY27 around ₹650–700 Cr, including BTPL working capital/debt and ₹80–100 Cr cash settlement to BTPL shareholders."
+        ],
+        "whatChanged": "Q1 indicated about US$110–120m FY27 Africa revenue potential and expected Atraco margin improvement; Q2 retained that Africa level only absent customer de-risking, tempering H2 to US$50–55m if it reduces exposure and targeting 10% Atraco margin in six months.",
+        "risks": [
+          "Management may reduce volume with a customer representing 20–25% of Africa revenue because of financial-strength concerns; it anticipated no credit loss at call time.",
+          "Wage increases and oil-linked factor costs constrained Q2 gains; the transcript attributes part of the quarter’s margin constraints to these cost pressures.",
+          "The BTPL merger remains subject to completion; its debt, shareholder settlement and integration could raise group net debt to ₹650–700 Cr by FY27-end."
+        ],
+        "guidance": [
+          {
+            "metric": "Africa H2 FY27 revenue",
+            "value": "About US$50–55m if de-risking one customer; US$60m possible otherwise"
+          },
+          {
+            "metric": "Atraco EBITDA margin",
+            "value": "10% expected in about six months"
+          },
+          {
+            "metric": "India volume growth",
+            "value": "Double-digit expected from FY28"
+          },
+          {
+            "metric": "FY28 EBITDA margin at optimal utilization",
+            "value": "India 13%; Africa 10%; BTPL 10% for its first year"
+          },
+          {
+            "metric": "FY27 net debt including BTPL",
+            "value": "About ₹650–700 Cr at year end, per CFO estimate"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue Growth", "value": "21%", "change": "Consolidated YoY", "positive": 1 },
@@ -325,6 +485,72 @@
     ],
     "Goldiam International Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹291.66 Cr",
+            "change": "Q2; +44% YoY",
+            "positive": 1,
+            "valueNum": 291.66,
+            "yoyPct": 44
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹73.6 Cr",
+            "change": "Q2; +55.3% YoY; margin +176 bps",
+            "positive": 1,
+            "valueNum": 73.6,
+            "yoyPct": 55.3
+          },
+          {
+            "label": "PAT",
+            "value": "₹49.4 Cr",
+            "change": "Q2; +58% YoY",
+            "positive": 1,
+            "valueNum": 49.4,
+            "yoyPct": 58
+          },
+          {
+            "label": "H1 revenue",
+            "value": "₹655.32 Cr",
+            "change": "H1; +50% YoY",
+            "positive": 1,
+            "valueNum": 655.32,
+            "yoyPct": 50
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 revenue was ₹291.66 Cr (+44% YoY), EBITDA ₹73.6 Cr (+55.3%) and PAT ₹49.4 Cr (+58%).",
+          "H1 revenue was ₹655.32 Cr (+50%), EBITDA ₹177.53 Cr (+87.8%) and PAT ₹123.37 Cr (+90%).",
+          "LGD jewelry was 91.2% of Q2 exports; online revenue was 19.4% of total revenue.",
+          "ORIGEM had 29 stores as of the call and Q2 revenue of ₹11.3 Cr; cash and investments were ₹457.83 Cr at September 30."
+        ],
+        "highlights": [
+          "B2B growth reflected larger wallet share with existing retailers and new wholesale/international customers; non-U.S. additions generated over US$10–12m H1 sales.",
+          "Management said the hybrid casting model supported margin expansion, which it expected to sustain.",
+          "ORIGEM same-store growth was near double digits in most months from May to November; store-level monthly revenue breakeven was ₹18–19 lakh.",
+          "ORIGEM quarterly PAT-level loss was about ₹3–3.5 Cr; management expected faster H2 store additions but gave no count target."
+        ],
+        "whatChanged": "Q2 reported continued B2B growth and sustained margins from hybrid casting after Q1; ORIGEM advanced from 26 stores in Q1 to 29, and management leaned toward faster H2 rollout as store sales improved.",
+        "risks": [
+          "ORIGEM remained loss-making at roughly ₹3–3.5 Cr quarterly PAT level; store profitability depends on monthly sales around ₹18–19 lakh per store.",
+          "Growth depends on retailer vendor consolidation, design performance and onboarding; major new U.S. accounts may take 18–24 months to scale.",
+          "The hybrid casting arrangement depends on process compliance and U.S. customs treatment; management cited a CBP ruling in its name and expressed confidence."
+        ],
+        "guidance": [
+          {
+            "metric": "Annual revenue per mature ORIGEM store",
+            "value": "Internal target of ₹4–5 Cr in about three years for stores currently at ₹2–2.5 Cr; longer-term aspiration to exceed this"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹363.7 Cr", "change": "Q1FY27", "positive": 1 },
@@ -426,6 +652,83 @@
       }
     ],
     "Indo Count Industries Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Total income",
+            "value": "₹1,699 Cr",
+            "change": "Q2 consolidated; +57% YoY",
+            "positive": 1,
+            "valueNum": 1699,
+            "yoyPct": 57
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹259 Cr",
+            "change": "More than doubled YoY; 15.3% margin",
+            "positive": 1,
+            "valueNum": 259,
+            "yoyPct": 110.6
+          },
+          {
+            "label": "PAT",
+            "value": "₹132 Cr",
+            "change": "Versus ₹39 Cr a year earlier",
+            "positive": 1,
+            "valueNum": 132,
+            "yoyPct": null
+          },
+          {
+            "label": "H1 total income",
+            "value": "₹2,923 Cr",
+            "change": "H1 consolidated; +42% YoY",
+            "positive": 1,
+            "valueNum": 2923,
+            "yoyPct": 42
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 consolidated total income was ₹1,699 Cr (+57% YoY); EBITDA was ₹259 Cr at a 15.3% margin.",
+          "H1 total income was ₹2,923 Cr (+42%); EBITDA ₹420 Cr (+73%) at a 14.4% margin and PAT ₹195 Cr (+150%).",
+          "New businesses generated about ₹502 Cr in Q2, about 30% of total income; H1 new-business revenue was ₹890 Cr.",
+          "Net debt was ₹518 Cr at September 2026, described as its lowest level; H1 annualized ROCE was 21.4%."
+        ],
+        "highlights": [
+          "Management expected FY27 top line and EBITDA to exceed original guidance after achieving about 53% of ₹5,500 Cr total-income guidance in H1.",
+          "H1 volume was 51m metres, about 49% of FY27 105–110m guidance; core revenue was ₹2,033 Cr, about half of its ₹4,000 Cr target.",
+          "Bhilad flood inventory loss of ₹45.02 Cr net of salvage was paired with an equal exceptional insurance claim; ₹14.99 Cr interim payment was approved after quarter-end pending final settlement.",
+          "All three U.S. utility-bedding facilities operated above 65% utilization; management expected full utilization by CY28."
+        ],
+        "whatChanged": "Against Q1's ₹5,500 Cr FY27 total-income and 13% EBITDA-margin guidance and expectation to meet targets, Q2 said H1 positioned the company to exceed both; management did not formally revise those targets.",
+        "risks": [
+          "Cotton-related input costs rose; four-to-five months of inventory cushions the business, but significant cost increases may require customer price adjustments with a one-to-two-quarter lag.",
+          "Bhilad flooding caused inventory loss recognized with an equal insurance claim; the interim payment was approved after quarter-end and final settlement remained pending."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 total income",
+            "value": "₹5,500 Cr; management expects to exceed, no revised amount"
+          },
+          {
+            "metric": "FY27 EBITDA margin",
+            "value": "13% original guidance; management expects to exceed, no revised figure"
+          },
+          {
+            "metric": "FY27 volume",
+            "value": "105–110 million metres"
+          },
+          {
+            "metric": "CY28 total income",
+            "value": "₹8,000 Cr ambition reaffirmed; no growth capex required to reach it, per management"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [
@@ -531,6 +834,80 @@
     ],
     "L T Foods Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹3,253 Cr",
+            "change": "Q2 consolidated; +17% YoY",
+            "positive": 1,
+            "valueNum": 3253,
+            "yoyPct": 17
+          },
+          {
+            "label": "EBITDA",
+            "value": "₹358 Cr",
+            "change": "Q2; +13% YoY; 11.0% margin vs 11.4%",
+            "positive": 1,
+            "valueNum": 358,
+            "yoyPct": 13
+          },
+          {
+            "label": "PAT",
+            "value": "₹180 Cr",
+            "change": "Q2; +10% YoY",
+            "positive": 1,
+            "valueNum": 180,
+            "yoyPct": 10
+          },
+          {
+            "label": "H1 revenue",
+            "value": "₹6,414 Cr",
+            "change": "H1; +22% YoY; normalized +18%",
+            "positive": 1,
+            "valueNum": 6414,
+            "yoyPct": 22
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "Q2 consolidated revenue was ₹3,253 Cr (+17% YoY), EBITDA ₹358 Cr (+13%) at 11.0% margin and PAT ₹180 Cr (+10%).",
+          "H1 consolidated revenue was ₹6,414 Cr (+22%; normalized +18%), EBITDA ₹721 Cr (+17%) at 11.2% margin and PAT ₹364 Cr (+9%).",
+          "H1 basmati/specialty rice revenue was ₹5,764 Cr (+27%) with 11% volume growth and 90% of consolidated revenue.",
+          "Working-capital days improved to 143 from 174 in the prior year; net cash of ₹247 Cr at half-year end reflected seasonal working-capital release ahead of procurement."
+        ],
+        "highlights": [
+          "Management remained confident consolidated EBITDA margin can reach roughly 13–13.5% to 14%; it gave no timeline for reaching this level. H1 margin was 11.2%.",
+          "Q2 gross margin was 32.5% vs 34.2%, partly due to CIF-to-FOB freight classification and higher shipping; ad and launch investment also affected EBITDA.",
+          "Middle East volume growth was strong, but supply disruptions and freight weighed on profitability; mitigation and pricing were expected to flow through later quarters.",
+          "Organic segment H1 revenue was ₹520 Cr vs ₹583 Cr; management said remodeling and targeted 10–11% EBITDA margin over the next two years."
+        ],
+        "whatChanged": "Q2 EBITDA margin moderated to 11% from 11.5% in Q1 as freight and brand investment increased; management retains a 13–14% consolidated margin ambition without a deadline and targets organic-business margins of 10–11% over two years.",
+        "risks": [
+          "Shipping cost as a share of revenue rose about 40 bps and brand investment rose about 70 bps sequentially; freight recovery is uneven across markets.",
+          "Europe and U.K. remain in investment/scale-building mode; organic foods revenue declined YoY during remodeling.",
+          "Crop 2026 paddy prices were estimated 22–25% higher than prior crop; pass-through timing depends on inventory sales and customer acceptance."
+        ],
+        "guidance": [
+          {
+            "metric": "Consolidated EBITDA margin ambition",
+            "value": "About 13–13.5% to 14%; no timeline given and not a dated FY27 target"
+          },
+          {
+            "metric": "FY27 advertising spend",
+            "value": "About 2.3% of revenue"
+          },
+          {
+            "metric": "Organic business EBITDA margin",
+            "value": "10–11% over the coming two years"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹3,161 Cr", "change": "+26% YoY", "positive": 1 },
@@ -632,6 +1009,81 @@
       }
     ],
     "Pearl Global Industries Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Revenue",
+            "value": "₹1,802 Cr",
+            "change": "Q2 consolidated; +37.2% YoY, record",
+            "positive": 1,
+            "valueNum": 1802,
+            "yoyPct": 37.2
+          },
+          {
+            "label": "Adjusted EBITDA",
+            "value": "₹184 Cr",
+            "change": "+51.1% YoY; excludes ESOP; 10.2% margin",
+            "positive": 1,
+            "valueNum": 184,
+            "yoyPct": 51.1
+          },
+          {
+            "label": "PAT",
+            "value": "₹126 Cr",
+            "change": "Q2; +74.7% YoY",
+            "positive": 1,
+            "valueNum": 126,
+            "yoyPct": 74.7
+          },
+          {
+            "label": "H1 revenue",
+            "value": "₹3,330 Cr",
+            "change": "H1; +31.1% YoY",
+            "positive": 1,
+            "valueNum": 3330,
+            "yoyPct": 31.1
+          }
+        ],
+        "performanceLabel": "Q2 and H1 FY27",
+        "fyPerformance": [
+          "H1 revenue was ₹3,330 Cr (+31.1%), adjusted EBITDA ex-ESOP ₹348 Cr (+47.7%) at 10.5% margin, PAT ₹225 Cr (+63.6%).",
+          "Q2 revenue was ₹1,802 Cr (+37.2%), adjusted EBITDA ₹184 Cr (+51.1%) at 10.2% margin and PAT ₹126 Cr (+74.7%).",
+          "H1 shipments were 43.6m pieces vs 37.1m in H1 FY26.",
+          "India utilization was 68–69% in H1; new Bangladesh unit adding 7m pieces annual capacity was about 20% operational.",
+          "H1 adjusted EBITDA includes ₹11.5 Cr of net tariff and value-added-service benefits; it is not a normalized recurring profit measure."
+        ],
+        "highlights": [
+          "Management moved the ₹6,000 Cr-plus revenue milestone from FY28 to FY27, citing healthy Q3 order book; piece volume depends on woven/knit mix.",
+          "Long-term adjusted EBITDA-margin path remained 12–14% over four years.",
+          "Bangladesh knitting/processing project was budgeted at ₹350–375 Cr; processing expected operational by early 2028.",
+          "Management sees opportunities from additional U.K. and European customer programs, with benefits dependent on order-cycle timing."
+        ],
+        "whatChanged": "Management advanced the ₹6,000 Cr-plus revenue milestone from FY28 to FY27 while leaving its four-year 12–14% EBITDA-margin path unchanged; Q2 cited H1 execution and order visibility.",
+        "risks": [
+          "Bangladesh wage revision was pending; management estimated roughly 15% or somewhat higher and said wage/currency/productivity outcomes could change cost pressure.",
+          "Receivable days rose from 30 to 50 and working capital to 56 days due to late-quarter shipments and deferred factoring; normalization was expected in H2.",
+          "U.S. retailers remained inventory-cautious; compressed holiday selling period and spot container rates up to US$12,500 created logistics uncertainty."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 revenue",
+            "value": "Above ₹6,000 Cr, including value-added services; milestone advanced from FY28"
+          },
+          {
+            "metric": "Long-term EBITDA margin",
+            "value": "12–14% over next four years"
+          },
+          {
+            "metric": "Bangladesh processing",
+            "value": "Expected operational by early 2028"
+          }
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
@@ -836,5 +1288,133 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 6,
+      "overview": "Customer gains, product mix and wider market reach support growth across the six reviewed calls. Garware raised its margin outlook and Pearl accelerated a revenue milestone, while Gokaldas’s customer de-risking, Indo Count’s flood claim and uneven working capital qualify the outlook.",
+      "trends": [
+        {
+          "text": "Companies described continuing demand or revenue growth through wallet-share gains, market-share gains, branded growth or higher-value product mix.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Gokaldas Exports Ltd",
+            "Goldiam International Ltd",
+            "Indo Count Industries Ltd",
+            "L T Foods Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        },
+        {
+          "text": "International customer and market diversification remained a growth lever.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Gokaldas Exports Ltd",
+            "Goldiam International Ltd",
+            "Indo Count Industries Ltd",
+            "L T Foods Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Capacity additions and higher utilization were expected to support growth.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Gokaldas Exports Ltd",
+            "Indo Count Industries Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        },
+        {
+          "text": "Customer diversification, deeper retail relationships and demand across additional markets were cited as potential growth supports.",
+          "companies": [
+            "Gokaldas Exports Ltd",
+            "Goldiam International Ltd",
+            "Indo Count Industries Ltd",
+            "L T Foods Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Input costs, wages and logistics remained concerns, requiring pricing, productivity or other mitigation measures.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Gokaldas Exports Ltd",
+            "Indo Count Industries Ltd",
+            "L T Foods Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        },
+        {
+          "text": "Seasonal utilization and ramp-up timing affected near-term growth or profitability.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Gokaldas Exports Ltd",
+            "Indo Count Industries Ltd",
+            "Goldiam International Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Newer channels and businesses offer growth potential in TPU/architectural films, direct jewelry retail, and food categories.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Goldiam International Ltd",
+            "L T Foods Ltd"
+          ]
+        },
+        {
+          "text": "Trade agreements and multi-country sourcing may redirect apparel and home-textile programs toward India and nearby production bases, with an order-cycle lag.",
+          "companies": [
+            "Gokaldas Exports Ltd",
+            "Indo Count Industries Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Customer exposure, operating cost inflation and price-recovery timing require company-specific monitoring.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Gokaldas Exports Ltd",
+            "L T Foods Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        },
+        {
+          "text": "Working capital and capacity ramp-up could delay cash generation and returns.",
+          "companies": [
+            "Goldiam International Ltd",
+            "Indo Count Industries Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        },
+        {
+          "text": "Gokaldas may reduce Africa customer exposure, Indo Count’s flood-insurance settlement is pending, and Pearl’s receivables increased sharply.",
+          "companies": [
+            "Gokaldas Exports Ltd",
+            "Indo Count Industries Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "Garware raised FY27 margin guidance, while Pearl advanced its ₹6,000 Cr-plus revenue milestone from FY28 into FY27.",
+          "companies": [
+            "Garware Hi Tech Films Ltd",
+            "Pearl Global Industries Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

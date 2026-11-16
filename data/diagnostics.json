@@ -17,6 +17,82 @@
   "concall": {
     "Dr Lal Pathlabs Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q2 Revenue",
+            "value": "₹874 Cr",
+            "change": "+19.6% YoY",
+            "positive": 1,
+            "valueNum": 874,
+            "yoyPct": 19.6
+          },
+          {
+            "label": "Q2 EBITDA",
+            "value": "₹280 Cr",
+            "change": "+25.1% YoY; 32.1% margin",
+            "positive": 1,
+            "valueNum": 280,
+            "yoyPct": 25.1
+          },
+          {
+            "label": "Q2 PAT",
+            "value": "₹194 Cr",
+            "change": "+27.5% YoY; 22.2% margin",
+            "positive": 1,
+            "valueNum": 194,
+            "yoyPct": 27.5
+          },
+          {
+            "label": "H1 Revenue",
+            "value": "₹1,672 Cr",
+            "change": "+19.4% YoY",
+            "positive": 1,
+            "valueNum": 1672,
+            "yoyPct": 19.4
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹874 Cr (+19.6% YoY), the highest quarterly growth in five years; H1 revenue was ₹1,672 Cr (+19.4%).",
+          "Q2 sample volume grew 13.6% to 28.8 million and patient volume grew 9% to 9 million; revenue per patient rose 9.7% to ₹976.",
+          "Q2 EBITDA was ₹280 Cr (+25.1%) at 32.1% margin; H1 EBITDA was ₹528 Cr (+26.7%) at 31.6% margin.",
+          "Q2 PAT was ₹194 Cr (+27.5%) at 22.2% margin; H1 PAT was ₹364 Cr (+27.3%) at 21.8% margin.",
+          "Net cash was ₹1,746 Cr at September 30, 2026; net working capital was negative 16 days."
+        ],
+        "performanceLabel": "Q2 and H1 FY27; company-reported consolidated operating performance",
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Currently expected to be in the high teens; H1 is slightly ahead of plan."
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "Similar to prior guidance; full-year margin expected to be slightly above FY26's 27.2%."
+          },
+          {
+            "metric": "Long-Term Organic Revenue Growth",
+            "value": "Mid-teens sustainable growth, with long-term patient-volume growth of 6–7% and realization growth of 6–7%."
+          }
+        ],
+        "outlook": "",
+        "highlights": [
+          "The 19.6% Q2 revenue growth included a temporary 2–3% CGHS price-revision benefit, expected to persist for about one more quarter.",
+          "About 140 tests were launched in H1 and two first-in-India assays in Q2; SN GeneLab was acquired in August, adding genomics capabilities.",
+          "Management said growth was broad-based across regions; Suburban returned to double-digit growth.",
+          "SN GeneLab is a strategic acquisition; the remaining 30% is subject to a put-and-call arrangement with terms not disclosed."
+        ],
+        "whatChanged": "Q1 management described FY27 growth as mid-teens and deferred a full-year margin reset until after Q2; after H1 revenue grew 19.4%, Q2 management now sees FY27 revenue growth in the high teens and full-year EBITDA margin slightly above FY26's 27.2%, while retaining the medium-term mid-teens organic-growth view.",
+        "risks": [
+          "The CGHS price benefit adds 2–3% to revenue growth temporarily and fades after roughly one more quarter; underlying longer-term expectation is mid-teens organic growth.",
+          "Input-cost inflation, dollar movement, logistics, minimum-wage and PF changes may pressure gross margins and operating expenses.",
+          "South India remains in organic build/search mode; international ventures and radiology/Sovaaka are described as longer-term opportunities rather than near-term growth drivers."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -170,6 +246,86 @@
       }
     ],
     "Metropolis Healthcare Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Strongly Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Q2 Revenue",
+            "value": "₹497 Cr",
+            "change": "+16% YoY",
+            "positive": 1,
+            "valueNum": 497,
+            "yoyPct": 16
+          },
+          {
+            "label": "Q2 EBITDA",
+            "value": "₹135 Cr",
+            "change": "+24% YoY; 27.2% margin",
+            "positive": 1,
+            "valueNum": 135,
+            "yoyPct": 24
+          },
+          {
+            "label": "Q2 PAT",
+            "value": "₹75 Cr",
+            "change": "+43% YoY; 15.2% margin",
+            "positive": 1,
+            "valueNum": 75,
+            "yoyPct": 43
+          },
+          {
+            "label": "H1 Revenue Growth",
+            "value": "+16.2% YoY",
+            "change": "H1 FY27; 190 bps EBITDA margin expansion to 26.2%",
+            "positive": 1,
+            "valueNum": 16.2,
+            "yoyPct": 16.2
+          }
+        ],
+        "fyPerformance": [
+          "Q2 revenue was ₹497 Cr (+16% YoY), supported by patient volume growth of 10%, test volume growth of 11%, and better mix/realization; H1 revenue grew 16.2%.",
+          "Q2 EBITDA was ₹135 Cr (+24%) at 27.2% margin, up 180 bps; H1 EBITDA margin expanded 190 bps to 26.2%.",
+          "Q2 PAT was ₹75 Cr (+43%) at 15.2% margin, up 290 bps; net working capital was 13 days and cash/liquid investments ₹348 Cr at September 30.",
+          "B2C/B2B revenue grew 17%/15%; Specialty contributed 40% of revenue and grew 20%, while TruHealth contributed 17% and grew 20%.",
+          "Tier 3/rural revenue grew about 20% and made up 26% of domestic revenue; 116 collection centers were added in Q2, taking 24-month net additions to about 700."
+        ],
+        "performanceLabel": "Q2 and H1 FY27; company-reported consolidated/group performance",
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "About 16%; management expects the H1 trend to continue through H2."
+          },
+          {
+            "metric": "FY27 EBITDA Margin Expansion",
+            "value": "About 180–200 bps YoY; H1 expansion was 190 bps."
+          },
+          {
+            "metric": "Calibrated Price Revision",
+            "value": "Under evaluation for Q4/early next year, currently focused on B2C and differentiated by micro-market; not yet implemented."
+          },
+          {
+            "metric": "Medium-Term EBITDA Margin",
+            "value": "125–150 bps annual expansion opportunity over coming years, subject to continuing investment and execution."
+          }
+        ],
+        "outlook": "",
+        "highlights": [
+          "Q2 growth was achieved without price increases and in a weak, uneven monsoon; management cited volume, richer mix and productivity.",
+          "Core Diagnostics had reached a double-digit margin in the latest quarter; Specialty growth and genomics cross-selling remained around 20%.",
+          "The company added 116 centers in Q2; center-to-lab density target is about 30:1 by year-end and 30:1–35:1 by the end of next year.",
+          "Management expects a new CRM, dynamic pricing engine, sales app and broader lab-platform transition to support productivity; platform standardization is expected to complete in Q3."
+        ],
+        "whatChanged": "Compared with Q1's 14–15% organic growth guide, H1 revenue growth accelerated to 16.2%; management now expects about 16% FY27 growth and continued 180–200 bps EBITDA-margin expansion, while considering a Q4/early-next-year B2C price revision.",
+        "risks": [
+          "Price increases remain under evaluation and are not yet implemented; Q4/early-next-year timing and micro-market quantum are still being worked through.",
+          "Margin gains rely on center productivity, platform standardization and operating leverage; the company is simultaneously investing in mini hubs, technology and allied preventive-care pilots.",
+          "Management rejected high-priced M&A where expected returns were below 10%; North India and acquisition-led expansion depend on disciplined deal selection and integration."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -335,6 +491,86 @@
     ],
     "Thyrocare Technologies Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Consolidated Revenue",
+            "value": "₹271 Cr",
+            "change": "+25% YoY",
+            "positive": 1,
+            "valueNum": 271,
+            "yoyPct": 25
+          },
+          {
+            "label": "Q2 Standalone Revenue",
+            "value": "₹256 Cr",
+            "change": "+26.7% YoY",
+            "positive": 1,
+            "valueNum": 256,
+            "yoyPct": 26.7
+          },
+          {
+            "label": "Q2 Consolidated EBITDA Margin",
+            "value": "33%",
+            "change": "Consolidated margin; absolute EBITDA grew 25% YoY",
+            "positive": 0,
+            "valueNum": 33,
+            "yoyPct": null
+          },
+          {
+            "label": "Q2 PAT before Exceptional Item",
+            "value": "₹60 Cr",
+            "change": "+26% YoY; 22% margin",
+            "positive": 1,
+            "valueNum": 60,
+            "yoyPct": 26
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue was ₹271 Cr (+25% YoY) and standalone revenue was ₹256 Cr (+26.7%); pathology grew 27%, test volume 27%, and patient volume 13%.",
+          "Q2 consolidated gross margin was 74.2%, up more than 190 bps; EBITDA margin was 33% and EBITDA grew 25% YoY.",
+          "Q2 PAT before exceptional items was ₹60 Cr (+26%) at 22% margin; H1 consolidated revenue grew 25%, EBITDA 29% and PAT 30% YoY.",
+          "The company reported net cash/equivalents above ₹211 Cr, zero debt and H1 operating cash flow of ₹133 Cr; H1 capex was ₹30 Cr, with similar capex expected in H2.",
+          "Proposed NHL sale consideration is about ₹141 Cr (₹81.9 Cr cash and ₹59.5 Cr equity); NHL remained consolidated pending shareholder approval and SPA execution."
+        ],
+        "performanceLabel": "Q2/H1 FY27; consolidated unless stated; PAT shown before the Q2 exceptional impairment",
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "Early 20s, raised from Q1's mid-to-high teens view."
+          },
+          {
+            "metric": "Long-Term EBITDA Margin",
+            "value": "About 31–31.5% while funding growth investments; Q2 margin was 33%."
+          },
+          {
+            "metric": "Annual Franchise Additions",
+            "value": "1,500–2,000 annually; management said Q2's record additions may not be a normalized quarterly pace."
+          },
+          {
+            "metric": "Specialty Revenue Mix",
+            "value": "10–15% over a 3–5-year horizon; currently about 4% of pathology revenue."
+          }
+        ],
+        "outlook": "",
+        "highlights": [
+          "Pathology revenue growth was 27%; the active franchisee base reached 12,911 after a record 1,180 Q2 additions, but management cautioned Q3 is seasonally difficult for additions.",
+          "Five labs were added in Q2 (four regional processing labs and one hybrid partnership); the network had 49 labs, including one in Tanzania.",
+          "Specialty allergy and genomics testing is live but still small; the pregnancy-kit launch adds commercial investment and a new pharmacy distribution channel.",
+          "The proposed NHL divestment is pending shareholder approval and transaction execution; NHL operations remain in consolidated results."
+        ],
+        "whatChanged": "Management raises its FY27 revenue growth view from mid-to-high teens to the early 20s, while anchoring long-term EBITDA margin at 31–31.5% to fund investment; NHL remains consolidated pending sale and carries a ₹45 Cr consolidated impairment.",
+        "risks": [
+          "The proposed NHL disposal is not complete: shareholder approval and SPA execution remain pending, and NHL remains consolidated; the company recorded a non-cash impairment of ₹9 Cr standalone and about ₹45 Cr consolidated.",
+          "Pregnancy-kit marketing, specialty and lab expansion costs are being funded from operating leverage; management said the kit would not be EPS-accretive for at least the next three quarters and expects further launch spend.",
+          "Q2 franchise additions were unusually high and Q3 has historically been difficult; management did not treat Q2's additions as a normalized run rate."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Strongly Bullish",
@@ -488,6 +724,86 @@
       }
     ],
     "Vijaya Diagnostic Centre Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Consolidated Revenue",
+            "value": "₹255 Cr",
+            "change": "+26.7% YoY",
+            "positive": 1,
+            "valueNum": 255,
+            "yoyPct": 26.7
+          },
+          {
+            "label": "Q2 Consolidated EBITDA",
+            "value": "₹113 Cr",
+            "change": "+37.8% YoY; 44.1% margin",
+            "positive": 1,
+            "valueNum": 113,
+            "yoyPct": 37.8
+          },
+          {
+            "label": "Q2 Consolidated PAT",
+            "value": "₹59 Cr",
+            "change": "+37.4% YoY; 23.3% margin",
+            "positive": 1,
+            "valueNum": 59,
+            "yoyPct": 37.4
+          },
+          {
+            "label": "H1 Consolidated Revenue",
+            "value": "₹486 Cr",
+            "change": "+24.8% YoY",
+            "positive": 1,
+            "valueNum": 486,
+            "yoyPct": 24.8
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue was about ₹255 Cr (+26.7% YoY), with test-volume growth of 16.5%; favorable test mix and CGHS tariff revisions contributed to the balance.",
+          "Q2 EBITDA was about ₹113 Cr (+37.8%) at 44.1% margin, up 350 bps; PAT was ₹59 Cr (+37.4%) at 23.3% margin.",
+          "H1 revenue was ₹486 Cr (+24.8%), EBITDA ₹211 Cr (+36%) at 43.4% margin, and PAT ₹113 Cr at 23.1% margin.",
+          "Hyderabad grew over 20% and remained 67% of revenue; Pune grew about 15.5%. B2C was 92% of revenue and radiology about 37%.",
+          "The company had 168 centers (51 hubs, 117 spokes), surplus cash of about ₹355 Cr, and planned expansion capex of about ₹155–160 Cr for eight hubs and 14 spokes through Q1 FY28."
+        ],
+        "performanceLabel": "Q2 and H1 FY27; consolidated",
+        "guidance": [
+          {
+            "metric": "FY27 Revenue Growth",
+            "value": "At least 20%; three-to-five-year sustainable revenue growth above 15%."
+          },
+          {
+            "metric": "FY27 EBITDA Margin",
+            "value": "42% or higher for FY27; H1 margin was 43.4%."
+          },
+          {
+            "metric": "Network expansion through Q1 FY28",
+            "value": "Eight hubs and 14 spokes by Q1 FY28; three more hubs expected by March 2027 and three in Q1 FY28."
+          },
+          {
+            "metric": "Eight-hub/14-spoke program capex",
+            "value": "About ₹155–160 Cr, plus separately cited central lab and Pune/property investments"
+          }
+        ],
+        "outlook": "",
+        "highlights": [
+          "Management attributed approximately 16.5% of Q2 revenue growth to volume, 4–5% to mix and about 3% to the CGHS tariff revision; it described the 20% FY27 floor as achievable.",
+          "Existing centers grew 20%; Bengaluru, Pune and West Bengal are being densified, while Hyderabad's share declined to 67% as new geographies grew.",
+          "The Arya Wellness Centre acquisition in Guwahati was signed on a business-transfer/slump-sale basis; closing remained subject to conditions, expected within about two months.",
+          "Management expects new hubs to break even within its planned timelines and sees no material margin drag so far; capex includes new Panjagutta lab, Pune hub relocations and selective property purchases."
+        ],
+        "whatChanged": "Management now expects at least 20% FY27 revenue growth and 42% or higher EBITDA margin, while the expansion plan changes from Q1’s nine hubs to eight hubs and 14 spokes phased through Q1 FY28, including three hubs after FY27-end.",
+        "risks": [
+          "Q2 growth included about 3% from the prior CGHS tariff revision and 4–5% from mix; management said long-run growth is primarily volume-led and has not committed to another price hike.",
+          "The eight-hub/14-spoke plan requires ₹155–160 Cr, alongside additional lab/Pune capital projects; execution and utilization in newer markets will determine returns.",
+          "Arya Wellness Centre's acquisition was not yet complete; closing and plans to build a Northeast platform remain subject to completing transaction conditions."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
@@ -797,6 +1113,86 @@
     ],
     "Krsnaa Diagnostics Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Q2 Consolidated Revenue",
+            "value": "₹271 Cr",
+            "change": "+32% YoY",
+            "positive": 1,
+            "valueNum": 271,
+            "yoyPct": 32
+          },
+          {
+            "label": "Q2 EBITDA before CSR/ESOP",
+            "value": "₹72 Cr",
+            "change": "+20% YoY; 27% margin",
+            "positive": 1,
+            "valueNum": 72,
+            "yoyPct": 20
+          },
+          {
+            "label": "Q2 Consolidated PAT",
+            "value": "₹25 Cr",
+            "change": "+3% YoY; 9% margin",
+            "positive": 1,
+            "valueNum": 25,
+            "yoyPct": 3
+          },
+          {
+            "label": "H1 Consolidated Revenue",
+            "value": "₹507 Cr",
+            "change": "+27% YoY",
+            "positive": 1,
+            "valueNum": 507,
+            "yoyPct": 27
+          }
+        ],
+        "fyPerformance": [
+          "Q2 consolidated revenue was ₹271 Cr (+32% YoY); H1 was ₹507 Cr (+27%), or about 37% H1 growth if completed contracts had continued, per management.",
+          "Q2 EBITDA before CSR and ESOP was ₹72 Cr (+20%) at 27% margin; after CSR/ESOP, EBITDA was ₹71 Cr at about 26% margin. H1 pre-CSR/ESOP EBITDA was ₹131 Cr (+16%) at 26% margin.",
+          "Q2 consolidated PAT was ₹25 Cr (+3%); H1 PAT was ₹41 Cr versus ₹45 Cr a year earlier, reflecting upfront costs, higher depreciation and finance costs.",
+          "Retail Q2 revenue was about ₹23.5 Cr (+35% YoY), around 9% of group revenue; retail patient volume rose 45% and tests 48%.",
+          "Receivables were about ₹470 Cr as of September 30; management had visibility on approximately ₹200 Cr of potential Q3 collections."
+        ],
+        "performanceLabel": "Q2 and H1 FY27; consolidated unless specified; EBITDA before CSR/ESOP distinguished from after-expense EBITDA",
+        "guidance": [
+          {
+            "metric": "FY27 Cash-Based Revenue Mix",
+            "value": "40–45% of overall revenue by year-end; management also described approximately ₹400 Cr for the year."
+          },
+          {
+            "metric": "FY27 Retail Mix",
+            "value": "Double-digit contribution to revenue by year-end; management expects retail to exit FY27 with positive EBITDA, after absolute break-even around Q3/early Q4."
+          },
+          {
+            "metric": "Working Capital",
+            "value": "Target to return toward historical 90–100 days as collections improve and cash-based PPP mix rises."
+          },
+          {
+            "metric": "Rajasthan",
+            "value": "₹250 Cr annualized revenue potential; most of that level expected in the next full financial year, with management aiming to achieve as much as possible in FY27."
+          }
+        ],
+        "outlook": "",
+        "highlights": [
+          "The network included 259 pathology labs, 196 CT/MRI centers and 8,400+ touchpoints across 19 states and union territories; around 75% of centers serve rural areas.",
+          "Rajasthan project implementation was 75–80% complete; management said most setup costs and depreciation had already entered the P&L, with remaining additions tied to sites still being completed.",
+          "Cash share was currently around 35–38%; cash-based projects are expected to reduce working-capital needs, though project-level margins are similar.",
+          "New cash PPP awards include 34 CT machines in Himachal Pradesh and a PET-CT project in Punjab; Apulki's hospital platform has about 2,000 beds across projects, but Krsnaa's core focus remains diagnostics."
+        ],
+        "whatChanged": "Q1 targeted retail EBITDA profitability in Q2; the current call moves absolute break-even to Q3 or early Q4 and positive EBITDA to FY27 exit, while receivables rise to about ₹470 Cr and Rajasthan continues ramping.",
+        "risks": [
+          "Receivables rose to about ₹470 Cr amid delayed government disbursements; the ₹200 Cr Q3 collection figure is visibility/expectation, not cash already collected.",
+          "Q2 EBITDA margin fell to 27% from 29% YoY and H1 PAT fell to ₹41 Cr from ₹45 Cr as new project costs, depreciation and finance costs precede utilization; Rajasthan revenue per test is also dilutive to the blended mix.",
+          "Rajasthan annualized ₹250 Cr potential is largely associated with the next full financial year; current-year ramp timing and government collections remain uncertain."
+        ],
+        "asOf": "Nov 2026"
+      },
+      {
         "quarter": "Q1FY27",
         "hasNumericGuidance": true,
         "tone": "Cautiously Optimistic",
@@ -1019,5 +1415,100 @@
         "asOf": "May 2026"
       }
     ]
-  }
+  },
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 5,
+      "overview": "Revenue grows across the five available calls, supported by patient volumes, wider networks and richer testing mix. Profit conversion is strongest at the established retail networks, while Krsnaa faces government receivables and project ramp-up costs. Higher growth outlooks coexist with investment needs, Thyrocare’s NHL impairment and revised expansion phasing at Vijaya.",
+      "trends": [
+        {
+          "text": "Network density, partner reach and new centers support access and volume growth.",
+          "companies": [
+            "Dr Lal Pathlabs Ltd",
+            "Krsnaa Diagnostics Ltd",
+            "Metropolis Healthcare Ltd",
+            "Thyrocare Technologies Ltd",
+            "Vijaya Diagnostic Centre Ltd"
+          ]
+        },
+        {
+          "text": "Specialty, preventive care or higher-value testing broadens the revenue opportunity.",
+          "companies": [
+            "Dr Lal Pathlabs Ltd",
+            "Krsnaa Diagnostics Ltd",
+            "Metropolis Healthcare Ltd",
+            "Thyrocare Technologies Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Higher patient or test volumes contribute to growth across the covered businesses.",
+          "companies": [
+            "Dr Lal Pathlabs Ltd",
+            "Krsnaa Diagnostics Ltd",
+            "Metropolis Healthcare Ltd",
+            "Thyrocare Technologies Ltd",
+            "Vijaya Diagnostic Centre Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "Metropolis and Thyrocare are expanding specialty testing and using their existing networks to distribute a broader menu.",
+          "companies": [
+            "Metropolis Healthcare Ltd",
+            "Thyrocare Technologies Ltd"
+          ]
+        },
+        {
+          "text": "New geographies and deeper local networks offer growth beyond existing core markets.",
+          "companies": [
+            "Dr Lal Pathlabs Ltd",
+            "Vijaya Diagnostic Centre Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "Government collections and front-loaded project costs constrain Krsnaa’s cash conversion and profitability.",
+          "companies": [
+            "Krsnaa Diagnostics Ltd"
+          ]
+        },
+        {
+          "text": "Thyrocare’s NHL sale remains incomplete; its consolidated impairment and new-growth spending complicate headline earnings.",
+          "companies": [
+            "Thyrocare Technologies Ltd"
+          ]
+        },
+        {
+          "text": "Vijaya phases three hubs into Q1 FY28, and acquisition closing and new-market utilization remain execution requirements.",
+          "companies": [
+            "Vijaya Diagnostic Centre Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "CGHS tariff revisions contribute temporarily to growth at Dr Lal and Vijaya; Metropolis reports minimal CGHS exposure.",
+          "companies": [
+            "Dr Lal Pathlabs Ltd",
+            "Metropolis Healthcare Ltd",
+            "Vijaya Diagnostic Centre Ltd"
+          ]
+        },
+        {
+          "text": "Metric definitions differ: Krsnaa separates EBITDA before CSR/ESOP, Thyrocare reports profit before exceptional items, and Metropolis counts a wellness package as one test.",
+          "companies": [
+            "Krsnaa Diagnostics Ltd",
+            "Metropolis Healthcare Ltd",
+            "Thyrocare Technologies Ltd"
+          ]
+        }
+      ]
+    }
+  ]
 }

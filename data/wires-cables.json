@@ -12,8 +12,207 @@
     "Polycab India Ltd",
     "R R Kabel Ltd"
   ],
+  "sectorSummary": [
+    {
+      "quarter": "Q2FY27",
+      "asOf": "Nov 2026",
+      "callsCovered": 5,
+      "overview": "Demand remains supportive, but strong reported growth masks more modest physical volume growth and uneven execution. Polycab and KEI retained their outlooks, APAR and Dynamic face export or commissioning uncertainty, and RR Kabel lowered its FY27 volume target.",
+      "trends": [
+        {
+          "text": "Metal-linked realizations lifted reported growth faster than physical volumes: APAR conductor volumes fell, Dynamic grew Q2 volumes about 6%, and Polycab and RR Kabel reported single-digit W&C volume growth.",
+          "companies": [
+            "Apar Industries Ltd",
+            "Dynamic Cables Ltd",
+            "Polycab India Ltd",
+            "R R Kabel Ltd"
+          ]
+        },
+        {
+          "text": "Managements continue to see demand from power infrastructure, renewables, housing and industrial investment, supporting their growth plans.",
+          "companies": [
+            "Apar Industries Ltd",
+            "Dynamic Cables Ltd",
+            "KEI Industries Ltd",
+            "Polycab India Ltd",
+            "R R Kabel Ltd"
+          ]
+        }
+      ],
+      "tailwinds": [
+        {
+          "text": "Transmission, distribution and renewable-energy investment remain important sources of cable and conductor demand.",
+          "companies": [
+            "Apar Industries Ltd",
+            "Dynamic Cables Ltd",
+            "KEI Industries Ltd",
+            "Polycab India Ltd",
+            "R R Kabel Ltd"
+          ]
+        },
+        {
+          "text": "Distribution reach and stronger customer access support growth: KEI reported a 59% distribution sales mix, Polycab saw channels outgrow institutions, and RR Kabel is deepening market penetration.",
+          "companies": [
+            "KEI Industries Ltd",
+            "Polycab India Ltd",
+            "R R Kabel Ltd"
+          ]
+        }
+      ],
+      "headwinds": [
+        {
+          "text": "Geopolitics and shipping disruption constrain export execution: APAR has DDP goods in transit, Dynamic cites freight and insurance costs, KEI has slightly lower H1 exports, and Polycab reports booking and shipping delays.",
+          "companies": [
+            "Apar Industries Ltd",
+            "Dynamic Cables Ltd",
+            "KEI Industries Ltd",
+            "Polycab India Ltd"
+          ]
+        },
+        {
+          "text": "Higher raw-material values increase working-capital demands or change ordering behaviour, making cash discipline important alongside revenue growth.",
+          "companies": [
+            "Apar Industries Ltd",
+            "Dynamic Cables Ltd",
+            "KEI Industries Ltd",
+            "R R Kabel Ltd"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "text": "APAR has about ₹1,000 Cr of cable orders linked to Google and Amazon data centres; Dynamic is still developing its offering, with customer testing to follow product readiness.",
+          "companies": [
+            "Apar Industries Ltd",
+            "Dynamic Cables Ltd"
+          ]
+        },
+        {
+          "text": "KEI targets Sanand Phase 2 commercial production by March 2027, while Polycab expects its EHV plant to commission in FY28, expanding higher-voltage capability on different timelines.",
+          "companies": [
+            "KEI Industries Ltd",
+            "Polycab India Ltd"
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "text": "RR Kabel lowered FY27 W&C volume guidance to 14-15% from 16-18%; its FMEG business returned to a Q2 loss while retaining the full-year breakeven goal.",
+          "companies": [
+            "R R Kabel Ltd"
+          ]
+        },
+        {
+          "text": "APAR warned that elevated oil margins include gains and are not normal margins, limiting how far current group profitability can be extrapolated.",
+          "companies": [
+            "Apar Industries Ltd"
+          ]
+        },
+        {
+          "text": "Polycab awaits the NCLAT order in the stayed Asier Metals matter; its assessment of no material impact remained management’s view as of the call.",
+          "companies": [
+            "Polycab India Ltd"
+          ]
+        }
+      ],
+      "insights": [
+        {
+          "text": "FMEG outcomes diverged: Polycab grew 124% with a 10.1% EBIT margin, while RR Kabel grew 42% but reported a roughly ₹12 Cr segment loss.",
+          "companies": [
+            "Polycab India Ltd",
+            "R R Kabel Ltd"
+          ]
+        },
+        {
+          "text": "Margin targets remain period- and basis-specific: KEI expects roughly 11% FY27 EBITDA margin, Polycab retains an 11-13% medium-term W&C EBITDA range, and RR Kabel targets 9.5% W&C EBIT in FY27.",
+          "companies": [
+            "KEI Industries Ltd",
+            "Polycab India Ltd",
+            "R R Kabel Ltd"
+          ]
+        }
+      ]
+    }
+  ],
   "concall": {
     "Polycab India Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue Growth",
+            "value": "53%",
+            "valueNum": 53,
+            "change": "YoY",
+            "yoyPct": 53,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA Growth",
+            "value": "39%",
+            "valueNum": 39,
+            "change": "YoY",
+            "yoyPct": 39,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹990 Cr",
+            "valueNum": 990,
+            "change": "+43% YoY; quarterly record",
+            "yoyPct": 43,
+            "positive": 1
+          },
+          {
+            "label": "Wires & Cables Revenue Growth",
+            "value": "47%",
+            "valueNum": 47,
+            "change": "YoY",
+            "yoyPct": 47,
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "Consolidated Q2 EBITDA margin was 14.4%; H1 revenue grew 46% to more than ₹18,000 Cr, with EBITDA growth of 36% and PAT growth of 38%.",
+          "H1 consolidated EBITDA margin was 14.1%; Q2 W&C segment EBIT margin was 14.2%, supported by mix and operating leverage.",
+          "H1 capex was ₹610 Cr; net cash stood at ₹4,520 Cr at September 30."
+        ],
+        "guidance": [
+          {
+            "metric": "Wires & Cables medium-/long-term EBITDA margin",
+            "value": "11%-13%"
+          },
+          {
+            "metric": "FMEG growth ambition",
+            "value": "1.5x-2x industry growth"
+          },
+          {
+            "metric": "FMEG FY30 EBITDA margin",
+            "value": "8%-10%"
+          },
+          {
+            "metric": "Normalised working-capital cycle",
+            "value": "45-50 days"
+          }
+        ],
+        "whatChanged": "W&C revenue growth accelerated to 47%, with domestic W&C up 50%; exports rebounded 85% sequentially, while management left its Project Spring outlook unchanged.",
+        "risks": [
+          "The Asier Metals CIRP admission was stayed, with the NCLAT order still awaited as of the call; management expected no material business or financial impact.",
+          "International shipping delays and geopolitical uncertainty continued to affect export bookings, despite Q2 export growth of 17% YoY and 85% QoQ.",
+          "Favourable product/channel mix and operating leverage supported quarterly margins; management warned that mix and seasonality can cause margins to normalize."
+        ],
+        "highlights": [
+          "W&C Q2 volume growth was mid-to-high single digit on a strong prior-year base; wires grew in early double digits and cables in mid-single digits.",
+          "FMEG grew 124% YoY, recorded 10.1% EBIT margin and delivered its seventh consecutive profitable quarter.",
+          "Average working-capital cycle was about 11 days in Q2 due partly to higher payable days from raw-material letters of credit; management expects normalization toward 45-50 days.",
+          "The EHV plant is expected to commission in FY28; management cited possible April or May commissioning."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
@@ -122,6 +321,90 @@
     ],
     "KEI Industries Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Bullish",
+        "toneColor": "#059669",
+        "metrics": [
+          {
+            "label": "Net Sales",
+            "value": "₹3,776 Cr",
+            "valueNum": 3776,
+            "change": "+38.52% YoY",
+            "yoyPct": 38.52,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA incl. Other Income",
+            "value": "₹401 Cr",
+            "valueNum": 401,
+            "change": "+28.69% YoY; 10.62% margin",
+            "yoyPct": 28.69,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹262.45 Cr",
+            "valueNum": 262.45,
+            "change": "+28.96% YoY",
+            "yoyPct": 28.96,
+            "positive": 1
+          },
+          {
+            "label": "Wire & Cable Sales Growth",
+            "value": "39.5%",
+            "valueNum": 39.5,
+            "change": "YoY",
+            "yoyPct": 39.5,
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "H1 net sales were ₹6,961 Cr (+31% YoY); EBITDA grew 34% at an 11.73% margin, and PAT reached ₹536.59 Cr (+34.4%).",
+          "H1 export sales were ₹834 Cr versus ₹846 Cr a year earlier; EHV sales were ₹403 Cr versus ₹298 Cr.",
+          "September 30 order book was ₹4,927 Cr in W&C and ₹258 Cr in EPC; cash and bank balances were ₹698 Cr, including ₹169 Cr of QIP funds."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 value growth",
+            "value": "More than 25%"
+          },
+          {
+            "metric": "Medium-term revenue growth",
+            "value": "20% CAGR over the next 3-4 years"
+          },
+          {
+            "metric": "FY27 EBITDA margin",
+            "value": "Around 11%"
+          },
+          {
+            "metric": "EBITDA margin progression",
+            "value": "11%-12% over FY27-FY28; management described a step-up from 11% to 11.5%, then 11.5%-12% as Sanand ramps"
+          },
+          {
+            "metric": "Sanand Phase 2 commercial production",
+            "value": "By end-March 2027"
+          },
+          {
+            "metric": "Annual capex",
+            "value": "Approximately ₹600 Cr for the next 3-4 years"
+          }
+        ],
+        "whatChanged": "Q2 sales growth accelerated to 38.52% while management reiterated FY27 value growth above 25% and clarified that 11%-12% EBITDA-margin guidance spans FY27-FY28, not a quarterly target.",
+        "risks": [
+          "H1 exports were slightly below the prior-year period and the company cited geopolitical risk, even as its export order book was ₹991 Cr.",
+          "Sanand inventory loading increased working-capital needs; management expected inventory levels to normalize by March 2027.",
+          "EPC is being wound down and management expected residual EBIT losses of ₹5-7 Cr in each of the next 1-2 quarters."
+        ],
+        "highlights": [
+          "Domestic W&C sales grew 46% in Q2 and 38% in H1; total Q2 W&C sales growth was 39.5%.",
+          "Sanand Phase 2 EHV/HT commercial production is planned by end-March 2027; management expects peak Sanand revenue in FY28-FY29.",
+          "The company reported 2,146 active dealers and 59% of sales through B2C distribution in Q2."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Net Sales", "value": "₹3,185 Cr", "change": "+23% YoY", "positive": 1 },
@@ -229,6 +512,82 @@
       }
     ],
     "R R Kabel Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautious",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹3,284 Cr",
+            "valueNum": 3284,
+            "change": "+52% YoY",
+            "yoyPct": 52,
+            "positive": 1
+          },
+          {
+            "label": "Operating EBITDA",
+            "value": "₹286 Cr",
+            "valueNum": 286,
+            "change": "+63% YoY; 8.7% margin",
+            "yoyPct": 63,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹181 Cr",
+            "valueNum": 181,
+            "change": "+55% YoY",
+            "yoyPct": 55,
+            "positive": 1
+          },
+          {
+            "label": "Wires & Cables Revenue",
+            "value": "₹3,010 Cr",
+            "valueNum": 3010,
+            "change": "+53% YoY",
+            "yoyPct": 53,
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "H1 consolidated revenue grew 53% to ₹6,452 Cr; operating EBITDA grew 79% to ₹571 Cr at an 8.9% margin, and PAT rose 87% to ₹386 Cr.",
+          "H1 W&C revenue increased 55% to ₹5,890 Cr; segment profit grew 78% to ₹568 Cr and margin improved to 9.6% from 8.4%.",
+          "Net working-capital cycle improved to 46 days at September 2026 from 50 days in June."
+        ],
+        "guidance": [
+          {
+            "metric": "FY27 W&C volume growth",
+            "value": "Around 14%-15%; fine-tuned from the earlier 16%-18% volume outlook"
+          },
+          {
+            "metric": "W&C EBIT margin",
+            "value": "9.5% in FY27 and approximately 10.5% in FY28"
+          },
+          {
+            "metric": "FY27 FMEG segment EBIT",
+            "value": "Breakeven for the full year"
+          },
+          {
+            "metric": "FY27 capex",
+            "value": "₹550-600 Cr, excluding ₹200 Cr Rajasthan land acquisition and the separate UM Cables consideration"
+          }
+        ],
+        "whatChanged": "Management lowered FY27 W&C volume guidance to 14-15% from the earlier 16-18% range despite strong revenue growth; FMEG reported a Q2 loss after Q1 breakeven while retaining its full-year breakeven goal.",
+        "risks": [
+          "FY27 W&C volume guidance was lowered to 14-15% from 16-18% amid near-term volatility; management did not offer a focused FY28 volume forecast.",
+          "FMEG posted an approximately ₹12 Cr Q2 segment loss; the full-year breakeven goal depends on the stronger H2 season.",
+          "Higher raw-material prices are increasing finance/working-capital needs, and debt may rise; the ₹200 Cr Rajasthan land acquisition is additional to FY27 capex."
+        ],
+        "highlights": [
+          "Q2 W&C volume growth was high single digit, with wires growing in double digits and cables in single digits; exports grew faster than domestic.",
+          "Management said exports were about 32% of Q2 sales and expected a 30%-35% share in H2; exact export revenue was not disclosed.",
+          "The proposed UM Cables transaction is for approximately ₹77 Cr, subject to closing conditions; management said not to assume a material FY27 revenue contribution before gaining control."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1 FY27 Performance"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
@@ -342,6 +701,70 @@
     ],
     "Apar Industries Ltd": [
       {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "metrics": [
+          {
+            "label": "Consolidated Revenue",
+            "value": "₹6,931 Cr",
+            "valueNum": 6931,
+            "change": "+21.3% YoY",
+            "yoyPct": 21.3,
+            "positive": 1
+          },
+          {
+            "label": "EBITDA post open-period forex",
+            "value": "₹787 Cr",
+            "valueNum": 787,
+            "change": "+57.8% YoY; 11.4% margin",
+            "yoyPct": 57.8,
+            "positive": 1
+          },
+          {
+            "label": "PAT",
+            "value": "₹447 Cr",
+            "valueNum": 447,
+            "change": "+77.8% YoY",
+            "yoyPct": 77.8,
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "H1 consolidated revenue grew 25% to ₹13,522 Cr; EBITDA post open-period forex rose 60.2% to ₹1,602 Cr and PAT grew 77.7% to ₹915 Cr.",
+          "Conductors division Q2 revenue rose 21.1% to ₹3,753 Cr, while volume fell 9.2%; order book was ₹12,025 Cr at September 30.",
+          "Cable division Q2 revenue rose 22.1% to ₹1,875 Cr; ₹440 Cr+ of U.S.-bound DDP shipments remained in transit and were not recognized in Q2."
+        ],
+        "guidance": [
+          {
+            "metric": "Cable revenue growth",
+            "value": "25% YoY with stable metal prices"
+          },
+          {
+            "metric": "Cable EBITDA margin",
+            "value": "10-12% target; management also expressed an 11-12% aspiration"
+          },
+          {
+            "metric": "Domestic expansion capex",
+            "value": "₹1,500 Cr over 12-15 months from the start of FY27; excludes overseas expansion"
+          }
+        ],
+        "whatChanged": "Revenue growth moderated from 29.1% in Q1 to 21.3% in Q2 as export revenue recognition was delayed, while management expects a Q3 transit catch-up and stronger H2 conductor volumes.",
+        "risks": [
+          "Conductor volume declined 9.2% in Q2 as customer manufacturing clearances and new awards were delayed; management expects H2 to be stronger.",
+          "More than ₹440 Cr of U.S.-bound cable shipments remained in transit on DDP terms at quarter end, delaying revenue recognition to Q3.",
+          "Freight and metal-price volatility constrain execution and customer credit capacity; management said elevated oil margins include gains and are not normal margins."
+        ],
+        "highlights": [
+          "H1 revenue and profit were the company's highest half-yearly levels; Q2 consolidated PAT margin was 6.5%.",
+          "Conductor Q2 volume fell 9.2% despite a record ₹12,025 Cr conductor order book; management expects execution to strengthen in H2.",
+          "Cable order book reached ₹3,000 Cr, including about ₹1,000 Cr of Google and Amazon data-center orders."
+        ],
+        "asOf": "Nov 2026",
+        "performanceLabel": "Q2 and H1 FY27 Performance"
+      },
+      {
         "quarter": "Q1FY27", "hasNumericGuidance": false, "tone": "Strongly Bullish", "toneColor": "#059669",
         "metrics": [
           { "label": "Revenue", "value": "₹6,591 Cr", "change": "+29.1% YoY", "positive": 1 },
@@ -356,6 +779,7 @@
           "Conductors, oil and cables revenue grew 19.9%, 34.7% and 29.5%, respectively",
           "Cable EBITDA rose 36.7% to ₹194 Cr with margin at 10.6%"
         ],
+        "outlook": "APAR is pursuing US data-centre cable orders and premium domestic applications; management restricted fresh projections during the securities-issuance process.",
         "guidanceTracking": [],
         "guidance": [
           { "metric": "Formal Guidance", "value": "Not discussed during the call" },
@@ -444,6 +868,86 @@
       }
     ],
     "Dynamic Cables Ltd": [
+      {
+        "quarter": "Q2FY27",
+        "hasNumericGuidance": true,
+        "tone": "Cautiously Optimistic",
+        "toneColor": "#D97706",
+        "performanceLabel": "H1 FY27 Financials and Q2 Operating Update",
+        "metrics": [
+          {
+            "label": "H1 Revenue",
+            "value": "₹712 Cr",
+            "valueNum": 712,
+            "change": "+31% YoY",
+            "yoyPct": 31,
+            "positive": 1
+          },
+          {
+            "label": "H1 Operating Profit",
+            "value": "₹74.3 Cr",
+            "valueNum": 74.3,
+            "change": "+29% YoY; 10.44% margin",
+            "yoyPct": 29,
+            "positive": 1
+          },
+          {
+            "label": "H1 PAT",
+            "value": "₹47.1 Cr",
+            "valueNum": 47.1,
+            "change": "+24% YoY",
+            "yoyPct": 24,
+            "positive": 1
+          },
+          {
+            "label": "Q2 Volume Growth",
+            "value": "~6%",
+            "valueNum": 6,
+            "change": "YoY",
+            "yoyPct": 6,
+            "positive": 1
+          }
+        ],
+        "fyPerformance": [
+          "H1 revenue grew 31% to ₹712 Cr; operating profit increased 29% to ₹74.3 Cr at a 10.44% margin, and PAT rose 24% to ₹47.1 Cr.",
+          "Order book was approximately ₹829 Cr as of September 30; H1 revenue mix was 23% government, 69% private and 8% export.",
+          "Q2 product mix was 65% high-tension cable, 28% low-tension cable and 7% conductors/other products."
+        ],
+        "guidance": [
+          {
+            "metric": "Long-term revenue growth",
+            "value": "Around 20%"
+          },
+          {
+            "metric": "Operating EBITDA margin",
+            "value": "10%-11%"
+          },
+          {
+            "metric": "New plant initial revenue potential",
+            "value": "₹240-250 Cr initially; ramp-up described as 3-5 quarters"
+          }
+        ],
+        "guidanceTracking": [
+          {
+            "metric": "New plant commissioning start",
+            "guided": "Commissioning to commence from September 2026",
+            "actual": "Plant and machinery installation was completed; management expected the facility to start contributing in H2 FY27, without confirming commissioning by September",
+            "status": "partial"
+          }
+        ],
+        "whatChanged": "H1 revenue grew 31% and management retained its long-term growth and margin ranges; the new facility was installed but contribution was still expected from H2, after Q1's September commissioning-start schedule.",
+        "risks": [
+          "Management described export conditions as difficult because of sea freight, insurance and geopolitical/tariff uncertainty; exports were 8% of H1 revenue.",
+          "Lower-margin order execution pressured Q2 margins; 80-90% of contracts have price-variation clauses, while fixed-price contracts retain some commodity exposure.",
+          "Data-centre cable development is incomplete; customer engagement and testing follow product readiness, with no launch date given."
+        ],
+        "highlights": [
+          "Q2 volume grew about 6%; management emphasized value growth rather than quarterly volume or price splits.",
+          "Receivable days were below 60 on sales including GST at September 30.",
+          "New facility investment was ₹40-45 Cr; management estimated initial revenue potential at ₹240-250 Cr using 6-7x asset turns."
+        ],
+        "asOf": "Nov 2026"
+      },
       {
         "quarter": "Q1FY27", "hasNumericGuidance": true, "tone": "Bullish", "toneColor": "#059669",
         "metrics": [

@@ -39,3 +39,31 @@ serve.py
 .DS_Store
 __pycache__/
 .claude/
+
+# Q2FY27 research working files (intermediate scratch, not part of the site)
+tmp/
+research/q2fy27/downloads/
+research/q2fy27/handoffs/
+research/q2fy27/tasks/
+research/q2fy27/*-batch-*.json
+research/q2fy27/*-batch-*-notes.md
+research/q2fy27/*-review.json
+research/q2fy27/*-sector-review.json
+research/q2fy27/*-source-audit.json
+research/q2fy27/*-nse-audit.json
+research/q2fy27/*-draft.json
+research/q2fy27/*-notes.md
+research/q2fy27/*-old-*repairs.json
+research/q2fy27/*-old-fixes-*.json
+research/q2fy27/*-reviewed-*.json
+research/q2fy27/proposed-old-fixes.json
+research/q2fy27/*-guidance-review.md
+research/q2fy27/hotels-lemon.json
+research/q2fy27/capital-markets-edelweiss.json
+
+# Markdown notes/plans are local only (keep the README)
+*.md
+!README.md
+research/q2fy27/registers/
+scripts/
+research/
